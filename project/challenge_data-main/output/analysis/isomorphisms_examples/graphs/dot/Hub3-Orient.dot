@@ -1,0 +1,18 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Hub3_instance_4
+    label=Hub3
+  ];
+  1 [
+    instance=Orient
+    label=Orient
+  ];
+
+  0 -> 1 [
+    label=ANY
+  ];
+  1 -> 0 [
+    label=ANY
+  ];
+}

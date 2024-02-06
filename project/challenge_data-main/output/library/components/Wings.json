@@ -1,0 +1,252 @@
+{
+    "Wing_horiz_hole": {
+        "id": "Wing_horiz_hole",
+        "type": "Wing",
+        "parameters": [
+            {
+                "name": "SERVO_THICKNESS",
+                "min": "0.1",
+                "max": "0.1",
+                "default": "0.1",
+                "learned": "0.1"
+            },
+            {
+                "name": "SERVO_WIDTH",
+                "min": "0.1",
+                "max": "0.1",
+                "default": "0.1",
+                "learned": "0.1"
+            },
+            {
+                "name": "AILERON_BIAS",
+                "min": "-1.0",
+                "max": "-1.0",
+                "default": "0.5",
+                "learned": "0.5"
+            },
+            {
+                "name": "SPAN",
+                "min": "1.0",
+                "max": "1.0",
+                "default": "1000.0",
+                "learned": "1000.0"
+            },
+            {
+                "name": "SERVO_LENGTH",
+                "min": "0.1",
+                "max": "0.1",
+                "default": "0.1",
+                "learned": "0.1"
+            },
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "None",
+                "max": "None",
+                "default": "-1.0",
+                "learned": "-1.0"
+            },
+            {
+                "name": "TUBE_DIAMETER",
+                "min": "1.0",
+                "max": "1.0",
+                "default": "1000.0",
+                "learned": "1000.0"
+            },
+            {
+                "name": "TAPER_OFFSET",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "CHORD_1",
+                "min": "1.0",
+                "max": "1.0",
+                "default": "100.0",
+                "learned": "100.0"
+            },
+            {
+                "name": "TUBE_ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "LOAD",
+                "min": "1.0",
+                "max": "1.0",
+                "default": "15.0",
+                "learned": "15.0"
+            },
+            {
+                "name": "TUBE_OFFSET",
+                "min": "1.0",
+                "max": "1.0",
+                "default": "1000.0",
+                "learned": "1000.0"
+            },
+            {
+                "name": "CHORD_2",
+                "min": "1.0",
+                "max": "1.0",
+                "default": "100.0",
+                "learned": "100.0"
+            },
+            {
+                "name": "NACA_Profile",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "12.0",
+                "learned": "12.0"
+            },
+            {
+                "name": "FLAP_BIAS",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.5",
+                "learned": "0.5"
+            },
+            {
+                "name": "THICKNESS",
+                "min": "6.0",
+                "max": "6.0",
+                "default": "12.0",
+                "learned": "12.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "Wing_Tube_Connector",
+            "Wing_Servo_Connector"
+        ]
+    },
+    "Wing_vert_hole": {
+        "id": "Wing_vert_hole",
+        "type": "Wing",
+        "parameters": [
+            {
+                "name": "SERVO_THICKNESS",
+                "min": "0.1",
+                "max": "0.1",
+                "default": "0.1",
+                "learned": "0.1"
+            },
+            {
+                "name": "SERVO_WIDTH",
+                "min": "0.1",
+                "max": "0.1",
+                "default": "0.1",
+                "learned": "0.1"
+            },
+            {
+                "name": "AILERON_BIAS",
+                "min": "-1.0",
+                "max": "-1.0",
+                "default": "0.5",
+                "learned": "0.5"
+            },
+            {
+                "name": "SPAN",
+                "min": "1.0",
+                "max": "1.0",
+                "default": "1000.0",
+                "learned": "1000.0"
+            },
+            {
+                "name": "SERVO_LENGTH",
+                "min": "0.1",
+                "max": "0.1",
+                "default": "0.1",
+                "learned": "0.1"
+            },
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "None",
+                "max": "None",
+                "default": "-1.0",
+                "learned": "-1.0"
+            },
+            {
+                "name": "TUBE_DIAMETER",
+                "min": "1.0",
+                "max": "1.0",
+                "default": "1000.0",
+                "learned": "1000.0"
+            },
+            {
+                "name": "TAPER_OFFSET",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "CHORD_1",
+                "min": "1.0",
+                "max": "1.0",
+                "default": "100.0",
+                "learned": "100.0"
+            },
+            {
+                "name": "TUBE_ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "LOAD",
+                "min": "1.0",
+                "max": "1.0",
+                "default": "15.0",
+                "learned": "15.0"
+            },
+            {
+                "name": "TUBE_OFFSET",
+                "min": "1.0",
+                "max": "1.0",
+                "default": "1000.0",
+                "learned": "1000.0"
+            },
+            {
+                "name": "CHORD_2",
+                "min": "1.0",
+                "max": "1.0",
+                "default": "100.0",
+                "learned": "100.0"
+            },
+            {
+                "name": "NACA_Profile",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "12.0",
+                "learned": "12.0"
+            },
+            {
+                "name": "FLAP_BIAS",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.5",
+                "learned": "0.5"
+            },
+            {
+                "name": "THICKNESS",
+                "min": "6.0",
+                "max": "6.0",
+                "default": "12.0",
+                "learned": "12.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "Wing_Tube_Connector",
+            "Wing_Servo_Connector"
+        ]
+    }
+}

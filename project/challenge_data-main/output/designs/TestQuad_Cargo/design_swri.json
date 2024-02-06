@@ -1,0 +1,1625 @@
+{
+    "components": [
+        {
+            "component_choice": "TurnigyGraphene6000mAh6S75C",
+            "component_instance": "Battery_instance_1",
+            "component_type": "Battery"
+        },
+        {
+            "component_choice": "0394_para_flange",
+            "component_instance": "Flange_instance_4",
+            "component_type": "Flange"
+        },
+        {
+            "component_choice": "capsule_fuselage",
+            "component_instance": "Fuselage_instance_1",
+            "component_type": "Fuselage"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_3",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "0394_para_flange",
+            "component_instance": "Flange_instance_2",
+            "component_type": "Flange"
+        },
+        {
+            "component_choice": "GPS",
+            "component_instance": "SensorGPS_instance_1",
+            "component_type": "SensorGPS"
+        },
+        {
+            "component_choice": "apc_propellers_17x6",
+            "component_instance": "Propeller_instance_2",
+            "component_type": "Propeller"
+        },
+        {
+            "component_choice": "t_motor_AT4130KV300",
+            "component_instance": "Motor_instance_3",
+            "component_type": "Motor"
+        },
+        {
+            "component_choice": "Orient",
+            "component_instance": "Orient",
+            "component_type": "Orient"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_8",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "Cargo",
+            "component_instance": "Cargo_instance_1",
+            "component_type": "Cargo"
+        },
+        {
+            "component_choice": "apc_propellers_17x6",
+            "component_instance": "Propeller_instance_3",
+            "component_type": "Propeller"
+        },
+        {
+            "component_choice": "TurnigyGraphene6000mAh6S75C",
+            "component_instance": "Battery_instance_2",
+            "component_type": "Battery"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_7",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "Variometer",
+            "component_instance": "SensorVariometer_instance_1",
+            "component_type": "SensorVariometer"
+        },
+        {
+            "component_choice": "t_motor_AT4130KV300",
+            "component_instance": "Motor_instance_1",
+            "component_type": "Motor"
+        },
+        {
+            "component_choice": "Voltage",
+            "component_instance": "SensorVoltage_instance_1",
+            "component_type": "SensorVoltage"
+        },
+        {
+            "component_choice": "0394od_para_hub_4",
+            "component_instance": "Hub4_instance_1",
+            "component_type": "Hub4"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_6",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_4",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "t_motor_AT4130KV300",
+            "component_instance": "Motor_instance_4",
+            "component_type": "Motor"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_1",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "CargoCase",
+            "component_instance": "CargoCase_instance_1",
+            "component_type": "CargoCase"
+        },
+        {
+            "component_choice": "t_motor_AT4130KV300",
+            "component_instance": "Motor_instance_2",
+            "component_type": "Motor"
+        },
+        {
+            "component_choice": "apc_propellers_17x6",
+            "component_instance": "Propeller_instance_1",
+            "component_type": "Propeller"
+        },
+        {
+            "component_choice": "RpmTemp",
+            "component_instance": "SensorRpmTemp_instance_1",
+            "component_type": "SensorRpmTemp"
+        },
+        {
+            "component_choice": "BatteryController",
+            "component_instance": "BatteryController_instance_1",
+            "component_type": "BatteryController"
+        },
+        {
+            "component_choice": "Current",
+            "component_instance": "SensorCurrent_instance_1",
+            "component_type": "SensorCurrent"
+        },
+        {
+            "component_choice": "Autopilot",
+            "component_instance": "SensorAutopilot_instance_1",
+            "component_type": "SensorAutopilot"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_5",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_2",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "apc_propellers_17x6",
+            "component_instance": "Propeller_instance_4",
+            "component_type": "Propeller"
+        },
+        {
+            "component_choice": "0394_para_flange",
+            "component_instance": "Flange_instance_3",
+            "component_type": "Flange"
+        },
+        {
+            "component_choice": "0394_para_flange",
+            "component_instance": "Flange_instance_1",
+            "component_type": "Flange"
+        }
+    ],
+    "connections": [
+        {
+            "from_ci": "Battery_instance_1",
+            "from_conn": "PowerBus",
+            "to_ci": "BatteryController_instance_1",
+            "to_conn": "BatteryPower"
+        },
+        {
+            "from_ci": "BatteryController_instance_1",
+            "from_conn": "BatteryPower",
+            "to_ci": "Battery_instance_1",
+            "to_conn": "PowerBus"
+        },
+        {
+            "from_ci": "CargoCase_instance_1",
+            "from_conn": "Case2HubConnector",
+            "to_ci": "Hub4_instance_1",
+            "to_conn": "Bottom_Connector"
+        },
+        {
+            "from_ci": "Hub4_instance_1",
+            "from_conn": "Bottom_Connector",
+            "to_ci": "CargoCase_instance_1",
+            "to_conn": "Case2HubConnector"
+        },
+        {
+            "from_ci": "Motor_instance_2",
+            "from_conn": "Prop_Connector",
+            "to_ci": "Propeller_instance_2",
+            "to_conn": "MOTOR_CONNECTOR_CS_IN"
+        },
+        {
+            "from_ci": "Propeller_instance_2",
+            "from_conn": "MOTOR_CONNECTOR_CS_IN",
+            "to_ci": "Motor_instance_2",
+            "to_conn": "Prop_Connector"
+        },
+        {
+            "from_ci": "Motor_instance_3",
+            "from_conn": "Prop_Connector",
+            "to_ci": "Propeller_instance_4",
+            "to_conn": "MOTOR_CONNECTOR_CS_IN"
+        },
+        {
+            "from_ci": "Propeller_instance_4",
+            "from_conn": "MOTOR_CONNECTOR_CS_IN",
+            "to_ci": "Motor_instance_3",
+            "to_conn": "Prop_Connector"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector7",
+            "to_ci": "SensorGPS_instance_1",
+            "to_conn": "SensorConnector"
+        },
+        {
+            "from_ci": "SensorGPS_instance_1",
+            "from_conn": "SensorConnector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector7"
+        },
+        {
+            "from_ci": "Propeller_instance_3",
+            "from_conn": "MOTOR_CONNECTOR_CS_IN",
+            "to_ci": "Motor_instance_4",
+            "to_conn": "Prop_Connector"
+        },
+        {
+            "from_ci": "Motor_instance_4",
+            "from_conn": "Prop_Connector",
+            "to_ci": "Propeller_instance_3",
+            "to_conn": "MOTOR_CONNECTOR_CS_IN"
+        },
+        {
+            "from_ci": "Flange_instance_3",
+            "from_conn": "TopConnector",
+            "to_ci": "Motor_instance_4",
+            "to_conn": "Base_Connector"
+        },
+        {
+            "from_ci": "Motor_instance_4",
+            "from_conn": "Base_Connector",
+            "to_ci": "Flange_instance_3",
+            "to_conn": "TopConnector"
+        },
+        {
+            "from_ci": "Flange_instance_3",
+            "from_conn": "BottomConnector",
+            "to_ci": "Tube_instance_4",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_4",
+            "from_conn": "BaseConnection",
+            "to_ci": "Flange_instance_3",
+            "to_conn": "BottomConnector"
+        },
+        {
+            "from_ci": "Flange_instance_1",
+            "from_conn": "SideConnector",
+            "to_ci": "Tube_instance_8",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_8",
+            "from_conn": "EndConnection",
+            "to_ci": "Flange_instance_1",
+            "to_conn": "SideConnector"
+        },
+        {
+            "from_ci": "BatteryController_instance_1",
+            "from_conn": "MotorPower",
+            "to_ci": "Motor_instance_3",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "Motor_instance_3",
+            "from_conn": "MotorPower",
+            "to_ci": "BatteryController_instance_1",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "Flange_instance_2",
+            "from_conn": "SideConnector",
+            "to_ci": "Tube_instance_6",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_6",
+            "from_conn": "EndConnection",
+            "to_ci": "Flange_instance_2",
+            "to_conn": "SideConnector"
+        },
+        {
+            "from_ci": "Tube_instance_3",
+            "from_conn": "BaseConnection",
+            "to_ci": "Flange_instance_4",
+            "to_conn": "BottomConnector"
+        },
+        {
+            "from_ci": "Flange_instance_4",
+            "from_conn": "BottomConnector",
+            "to_ci": "Tube_instance_3",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Hub4_instance_1",
+            "from_conn": "Side_Connector_3",
+            "to_ci": "Tube_instance_6",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_6",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub4_instance_1",
+            "to_conn": "Side_Connector_3"
+        },
+        {
+            "from_ci": "BatteryController_instance_1",
+            "from_conn": "MotorPower",
+            "to_ci": "Motor_instance_4",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "Motor_instance_4",
+            "from_conn": "MotorPower",
+            "to_ci": "BatteryController_instance_1",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "BatteryController_instance_1",
+            "from_conn": "MotorPower",
+            "to_ci": "Motor_instance_2",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "Motor_instance_2",
+            "from_conn": "MotorPower",
+            "to_ci": "BatteryController_instance_1",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector3",
+            "to_ci": "SensorRpmTemp_instance_1",
+            "to_conn": "SensorConnector"
+        },
+        {
+            "from_ci": "SensorRpmTemp_instance_1",
+            "from_conn": "SensorConnector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector3"
+        },
+        {
+            "from_ci": "Motor_instance_2",
+            "from_conn": "Base_Connector",
+            "to_ci": "Flange_instance_4",
+            "to_conn": "TopConnector"
+        },
+        {
+            "from_ci": "Flange_instance_4",
+            "from_conn": "TopConnector",
+            "to_ci": "Motor_instance_2",
+            "to_conn": "Base_Connector"
+        },
+        {
+            "from_ci": "Battery_instance_1",
+            "from_conn": "Bottom_Connector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector2"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector2",
+            "to_ci": "Battery_instance_1",
+            "to_conn": "Bottom_Connector"
+        },
+        {
+            "from_ci": "Tube_instance_2",
+            "from_conn": "EndConnection",
+            "to_ci": "Flange_instance_3",
+            "to_conn": "SideConnector"
+        },
+        {
+            "from_ci": "Flange_instance_3",
+            "from_conn": "SideConnector",
+            "to_ci": "Tube_instance_2",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_1",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub4_instance_1",
+            "to_conn": "Side_Connector_4"
+        },
+        {
+            "from_ci": "Hub4_instance_1",
+            "from_conn": "Side_Connector_4",
+            "to_ci": "Tube_instance_1",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector1",
+            "to_ci": "Battery_instance_2",
+            "to_conn": "Bottom_Connector"
+        },
+        {
+            "from_ci": "Battery_instance_2",
+            "from_conn": "Bottom_Connector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector1"
+        },
+        {
+            "from_ci": "Flange_instance_2",
+            "from_conn": "BottomConnector",
+            "to_ci": "Tube_instance_7",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_7",
+            "from_conn": "BaseConnection",
+            "to_ci": "Flange_instance_2",
+            "to_conn": "BottomConnector"
+        },
+        {
+            "from_ci": "BatteryController_instance_1",
+            "from_conn": "BatteryPower",
+            "to_ci": "Battery_instance_2",
+            "to_conn": "PowerBus"
+        },
+        {
+            "from_ci": "Battery_instance_2",
+            "from_conn": "PowerBus",
+            "to_ci": "BatteryController_instance_1",
+            "to_conn": "BatteryPower"
+        },
+        {
+            "from_ci": "Flange_instance_1",
+            "from_conn": "BottomConnector",
+            "to_ci": "Tube_instance_5",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_5",
+            "from_conn": "BaseConnection",
+            "to_ci": "Flange_instance_1",
+            "to_conn": "BottomConnector"
+        },
+        {
+            "from_ci": "Cargo_instance_1",
+            "from_conn": "CargoConnector",
+            "to_ci": "CargoCase_instance_1",
+            "to_conn": "CargoConnector"
+        },
+        {
+            "from_ci": "CargoCase_instance_1",
+            "from_conn": "CargoConnector",
+            "to_ci": "Cargo_instance_1",
+            "to_conn": "CargoConnector"
+        },
+        {
+            "from_ci": "Flange_instance_1",
+            "from_conn": "TopConnector",
+            "to_ci": "Motor_instance_3",
+            "to_conn": "Base_Connector"
+        },
+        {
+            "from_ci": "Motor_instance_3",
+            "from_conn": "Base_Connector",
+            "to_ci": "Flange_instance_1",
+            "to_conn": "TopConnector"
+        },
+        {
+            "from_ci": "Hub4_instance_1",
+            "from_conn": "Side_Connector_2",
+            "to_ci": "Tube_instance_8",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_8",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub4_instance_1",
+            "to_conn": "Side_Connector_2"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector6",
+            "to_ci": "SensorVoltage_instance_1",
+            "to_conn": "SensorConnector"
+        },
+        {
+            "from_ci": "SensorVoltage_instance_1",
+            "from_conn": "SensorConnector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector6"
+        },
+        {
+            "from_ci": "Motor_instance_1",
+            "from_conn": "Prop_Connector",
+            "to_ci": "Propeller_instance_1",
+            "to_conn": "MOTOR_CONNECTOR_CS_IN"
+        },
+        {
+            "from_ci": "Propeller_instance_1",
+            "from_conn": "MOTOR_CONNECTOR_CS_IN",
+            "to_ci": "Motor_instance_1",
+            "to_conn": "Prop_Connector"
+        },
+        {
+            "from_ci": "Tube_instance_1",
+            "from_conn": "EndConnection",
+            "to_ci": "Flange_instance_4",
+            "to_conn": "SideConnector"
+        },
+        {
+            "from_ci": "Flange_instance_4",
+            "from_conn": "SideConnector",
+            "to_ci": "Tube_instance_1",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "SensorCurrent_instance_1",
+            "from_conn": "SensorConnector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector4"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector4",
+            "to_ci": "SensorCurrent_instance_1",
+            "to_conn": "SensorConnector"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "BottomConnector",
+            "to_ci": "Hub4_instance_1",
+            "to_conn": "Top_Connector"
+        },
+        {
+            "from_ci": "Hub4_instance_1",
+            "from_conn": "Top_Connector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "BottomConnector"
+        },
+        {
+            "from_ci": "Hub4_instance_1",
+            "from_conn": "Orient_Connector",
+            "to_ci": "Orient",
+            "to_conn": "ORIENTCONN"
+        },
+        {
+            "from_ci": "Orient",
+            "from_conn": "ORIENTCONN",
+            "to_ci": "Hub4_instance_1",
+            "to_conn": "Orient_Connector"
+        },
+        {
+            "from_ci": "Hub4_instance_1",
+            "from_conn": "Side_Connector_1",
+            "to_ci": "Tube_instance_2",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_2",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub4_instance_1",
+            "to_conn": "Side_Connector_1"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector5",
+            "to_ci": "SensorAutopilot_instance_1",
+            "to_conn": "SensorConnector"
+        },
+        {
+            "from_ci": "SensorAutopilot_instance_1",
+            "from_conn": "SensorConnector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector5"
+        },
+        {
+            "from_ci": "Motor_instance_1",
+            "from_conn": "Base_Connector",
+            "to_ci": "Flange_instance_2",
+            "to_conn": "TopConnector"
+        },
+        {
+            "from_ci": "Flange_instance_2",
+            "from_conn": "TopConnector",
+            "to_ci": "Motor_instance_1",
+            "to_conn": "Base_Connector"
+        },
+        {
+            "from_ci": "Motor_instance_1",
+            "from_conn": "MotorPower",
+            "to_ci": "BatteryController_instance_1",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "BatteryController_instance_1",
+            "from_conn": "MotorPower",
+            "to_ci": "Motor_instance_1",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector8",
+            "to_ci": "SensorVariometer_instance_1",
+            "to_conn": "SensorConnector"
+        },
+        {
+            "from_ci": "SensorVariometer_instance_1",
+            "from_conn": "SensorConnector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector8"
+        }
+    ],
+    "name": "TestQuad_Cargo",
+    "parameters": [
+        {
+            "component_properties": [
+                {
+                    "component_name": "Battery_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "Battery_instance_1_ROTATION",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_4",
+                    "component_property": "SIDE_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_4_SIDE_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_4",
+                    "component_property": "BOTTOM_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_4_BOTTOM_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_7_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_7_DISP_WIDTH",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_6_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_6_DISP_LENGTH",
+            "value": "155"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "BOTTOM_CONNECTOR_OFFSET_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_BOTTOM_CONNECTOR_OFFSET_WIDTH",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FUSE_CYL_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FUSE_CYL_LENGTH",
+            "value": "270"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "HORZ_DIAMETER"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_HORZ_DIAMETER",
+            "value": "190"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_7_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_7_DISP_LENGTH",
+            "value": "-120"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_8_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_8_DISP_LENGTH",
+            "value": "155"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "BOTTOM_CONNECTOR_ROTATION"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_BOTTOM_CONNECTOR_ROTATION",
+            "value": "45"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_2_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_2_DISP_LENGTH",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_HEIGHT"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_HEIGHT",
+            "value": "20"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_8_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_8_DISP_WIDTH",
+            "value": "-18"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_2_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_2_DISP_WIDTH",
+            "value": "-30"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_3_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_3_DISP_LENGTH",
+            "value": "-160"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_3_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_3_DISP_WIDTH",
+            "value": "13"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_5_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_5_DISP_WIDTH",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_6_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_6_DISP_WIDTH",
+            "value": "18"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_4_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_4_DISP_LENGTH",
+            "value": "-160"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_5_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_5_DISP_LENGTH",
+            "value": "115"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "VERT_DIAMETER"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_VERT_DIAMETER",
+            "value": "125"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "BOTTOM_CONNECTOR_OFFSET_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_BOTTOM_CONNECTOR_OFFSET_LENGTH",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_1_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_1_DISP_LENGTH",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_1_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_1_DISP_WIDTH",
+            "value": "30"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_4_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_4_DISP_WIDTH",
+            "value": "-18"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_3",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_3_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_3",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_3_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_3",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_3_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_3",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_3_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_3",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_3_Length",
+            "value": "170"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_2",
+                    "component_property": "SIDE_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_2_SIDE_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_2",
+                    "component_property": "BOTTOM_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_2_BOTTOM_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "SensorGPS_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "SensorGPS_instance_1_ROTATION",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_2",
+                    "component_property": "Prop_type"
+                }
+            ],
+            "parameter_name": "Propeller_instance_2_Prop_type",
+            "value": "-1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_2",
+                    "component_property": "Direction"
+                }
+            ],
+            "parameter_name": "Propeller_instance_2_Direction",
+            "value": "-1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Motor_instance_3",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Motor_instance_3_CONTROL_CHANNEL",
+            "value": "2"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Orient",
+                    "component_property": "Z_ANGLE"
+                }
+            ],
+            "parameter_name": "Orient_Z_ANGLE",
+            "value": "45"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_8",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_8_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_8",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_8_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_8",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_8_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_8",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_8_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_8",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_8_Length",
+            "value": "400"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Cargo_instance_1",
+                    "component_property": "WEIGHT"
+                }
+            ],
+            "parameter_name": "Cargo_instance_1_WEIGHT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_3",
+                    "component_property": "Prop_type"
+                }
+            ],
+            "parameter_name": "Propeller_instance_3_Prop_type",
+            "value": "-1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_3",
+                    "component_property": "Direction"
+                }
+            ],
+            "parameter_name": "Propeller_instance_3_Direction",
+            "value": "-1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Battery_instance_2",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "Battery_instance_2_ROTATION",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_7",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_7_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_7",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_7_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_7",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_7_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_7",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_7_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_7",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_7_Length",
+            "value": "170"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "SensorVariometer_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "SensorVariometer_instance_1_ROTATION",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Motor_instance_1",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Motor_instance_1_CONTROL_CHANNEL",
+            "value": "4"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "SensorVoltage_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "SensorVoltage_instance_1_ROTATION",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub4_instance_1",
+                    "component_property": "ANGHORZCONN"
+                }
+            ],
+            "parameter_name": "Hub4_instance_1_ANGHORZCONN",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub4_instance_1",
+                    "component_property": "DIAMETER"
+                }
+            ],
+            "parameter_name": "Hub4_instance_1_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub4_instance_1",
+                    "component_property": "ANGVERTCONN"
+                }
+            ],
+            "parameter_name": "Hub4_instance_1_ANGVERTCONN",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_6",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_6_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_6",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_6_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_6",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_6_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_6",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_6_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_6",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_6_Length",
+            "value": "400"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_4",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_4_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_4",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_4_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_4",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_4_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_4",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_4_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_4",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_4_Length",
+            "value": "170"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Motor_instance_4",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Motor_instance_4_CONTROL_CHANNEL",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_1",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_1_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_1",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_1_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_1",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_1_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_1",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_1_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_1",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_1_Length",
+            "value": "400"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "CargoCase_instance_1",
+                    "component_property": "Rotation"
+                }
+            ],
+            "parameter_name": "CargoCase_instance_1_Rotation",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Motor_instance_2",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Motor_instance_2_CONTROL_CHANNEL",
+            "value": "3"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_1",
+                    "component_property": "Prop_type"
+                }
+            ],
+            "parameter_name": "Propeller_instance_1_Prop_type",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_1",
+                    "component_property": "Direction"
+                }
+            ],
+            "parameter_name": "Propeller_instance_1_Direction",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "SensorRpmTemp_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "SensorRpmTemp_instance_1_ROTATION",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "BatteryController_instance_1",
+                    "component_property": "Input_Voltage"
+                }
+            ],
+            "parameter_name": "BatteryController_instance_1_Input_Voltage",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "BatteryController_instance_1",
+                    "component_property": "Output_Voltage"
+                }
+            ],
+            "parameter_name": "BatteryController_instance_1_Output_Voltage",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "SensorCurrent_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "SensorCurrent_instance_1_ROTATION",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "SensorAutopilot_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "SensorAutopilot_instance_1_ROTATION",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_5",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_5_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_5",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_5_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_5",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_5_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_5",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_5_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_5",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_5_Length",
+            "value": "170"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_2",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_2_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_2",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_2_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_2",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_2_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_2",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_2_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_2",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_2_Length",
+            "value": "400"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_4",
+                    "component_property": "Prop_type"
+                }
+            ],
+            "parameter_name": "Propeller_instance_4_Prop_type",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_4",
+                    "component_property": "Direction"
+                }
+            ],
+            "parameter_name": "Propeller_instance_4_Direction",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_3",
+                    "component_property": "SIDE_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_3_SIDE_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_3",
+                    "component_property": "BOTTOM_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_3_BOTTOM_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_1",
+                    "component_property": "SIDE_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_1_SIDE_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_1",
+                    "component_property": "BOTTOM_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_1_BOTTOM_ANGLE",
+            "value": "0"
+        }
+    ]
+}

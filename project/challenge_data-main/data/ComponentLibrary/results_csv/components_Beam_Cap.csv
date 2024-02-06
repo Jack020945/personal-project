@@ -1,0 +1,2 @@
+name,class,connector,CHORD,CORPUS,THICKNESS
+Beam_Cap,Beam_Cap,['Connector_In'],"('500', '1', None, '1000')",UAM,"('40', '6', None, '40')"

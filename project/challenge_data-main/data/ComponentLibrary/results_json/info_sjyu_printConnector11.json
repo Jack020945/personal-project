@@ -1,0 +1,4266 @@
+[
+  {
+    "comp": "apc_propellers_22x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5x5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_5x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5_25x6_25E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5_5x2_5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5x7_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6_5x5_0",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6x6E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6_3x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x4_1SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x7E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7_8x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x6E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x7",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x5_0",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x4_7SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x9_0W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x6_5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_8x8_5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_8x9_75",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x3_7SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_8x9_25",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x6SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9_5x7_5N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9_5x7N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Autopilot",
+    "conn": "SensorConnector"
+  },
+  {
+    "comp": "capsule_fuselage",
+    "conn": "FloorConnector4"
+  },
+  {
+    "comp": "capsule_fuselage",
+    "conn": "FloorConnector3"
+  },
+  {
+    "comp": "capsule_fuselage",
+    "conn": "FloorConnector6"
+  },
+  {
+    "comp": "capsule_fuselage",
+    "conn": "FloorConnector7"
+  },
+  {
+    "comp": "capsule_fuselage",
+    "conn": "FloorConnector1"
+  },
+  {
+    "comp": "capsule_fuselage",
+    "conn": "FloorConnector5"
+  },
+  {
+    "comp": "capsule_fuselage",
+    "conn": "FloorConnector8"
+  },
+  {
+    "comp": "capsule_fuselage",
+    "conn": "FloorConnector2"
+  },
+  {
+    "comp": "capsule_fuselage",
+    "conn": "BottomConnector"
+  },
+  {
+    "comp": "BatteryController",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "BatteryController",
+    "conn": "BatteryPower"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "conn": "Orient_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "conn": "Side_Connector_6"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "conn": "Side_Connector_4"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "conn": "Side_Connector_3"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "conn": "Side_Connector_2"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "conn": "Side_Connector_5"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "conn": "Side_Connector_1"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "conn": "Center_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Hitec_HS_5087MH",
+    "conn": "Connector"
+  },
+  {
+    "comp": "Hitec_HS_53",
+    "conn": "Connector"
+  },
+  {
+    "comp": "Hitec_HS_85BB",
+    "conn": "Connector"
+  },
+  {
+    "comp": "Hitec_HS_5070MH",
+    "conn": "Connector"
+  },
+  {
+    "comp": "kde_direct_KDE2814XF_515",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE2814XF_515",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE2814XF_515",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "Hitec_HS_85MG",
+    "conn": "Connector"
+  },
+  {
+    "comp": "kde_direct_KDE2315XF_885",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE2315XF_885",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE2315XF_885",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE6815XF_205",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE6815XF_205",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE6815XF_205",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE5215XF_330",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE5215XF_330",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE5215XF_330",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE5215XF_220",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE5215XF_220",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE5215XF_220",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "0394_para_flange",
+    "conn": "TopConnector"
+  },
+  {
+    "comp": "0394_para_flange",
+    "conn": "BottomConnector"
+  },
+  {
+    "comp": "0394_para_flange",
+    "conn": "SideConnector"
+  },
+  {
+    "comp": "apc_propellers_10x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10x3_8SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Tattu25C8000mAh6S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu25C8000mAh6S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu25C8000mAh6S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu25C10000mAh4S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu25C10000mAh4S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu25C10000mAh4S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu30C10000mAh6S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu30C10000mAh6S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu30C10000mAh6S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TattuPlus25C22000mAh12S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TattuPlus25C22000mAh12S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TattuPlus25C22000mAh12S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene1500mAh3S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene1500mAh3S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1500mAh3S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu5C20000mAh6S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu5C20000mAh6S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu5C20000mAh6S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu25C22000mAh14S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu25C22000mAh14S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu25C22000mAh14S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu25C25000mAh14S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu25C25000mAh14S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu25C25000mAh14S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "t_motor_AntigravityMN6007KV320",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN6007KV320",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN6007KV320",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene2200mAh4S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene2200mAh4S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene2200mAh4S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1300mAh4S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene1300mAh4S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1300mAh4S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN4004KV300",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN4004KV300",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN4004KV300",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2814KV2000",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AS2814KV2000",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2814KV2000",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene6000mAh3S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene6000mAh3S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene6000mAh3S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene4000mAh6S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene4000mAh6S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene4000mAh6S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene1400mAh4S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1400mAh4S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1400mAh4S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5006KV450",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5006KV450",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5006KV450",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2310KV2200",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2310KV2200",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2310KV2200",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT2820KV880",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT2820KV880",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2820KV880",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2308KV2600",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT2308KV2600",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2308KV2600",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AS2312KV1150",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AS2312KV1150",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AS2312KV1150",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT4130KV450",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT4130KV450",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT4130KV450",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2814KV1200",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2814KV1200",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2814KV1200",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN3508KV700",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN3508KV700",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN3508KV700",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2814KV1050",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2814KV1050",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2814KV1050",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT4130KV230",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT4130KV230",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT4130KV230",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN4012KV480",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN4012KV480",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN4012KV480",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN3515KV400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN3515KV400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN3515KV400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN5208KV340",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN5208KV340",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN5208KV340",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN4012KV340",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN4012KV340",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN4012KV340",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN3510KV700",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN3510KV700",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN3510KV700",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_P80IIIKV120",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_P80IIIKV120",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_P80IIIKV120",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U8LiteKV150",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U8LiteKV150",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U8LiteKV150",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN4014KV400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN4014KV400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN4014KV400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U15IIKV100",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U15IIKV100",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U15IIKV100",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U13IIKV65",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U13IIKV65",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U13IIKV65",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MT22081100KV",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MT22081100KV",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MT22081100KV",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "apc_propellers_10x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x12N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10x3",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x5_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x3",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "0394od_para_hub_4",
+    "conn": "Center_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_4",
+    "conn": "Side_Connector_4"
+  },
+  {
+    "comp": "0394od_para_hub_4",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_4",
+    "conn": "Side_Connector_1"
+  },
+  {
+    "comp": "0394od_para_hub_4",
+    "conn": "Side_Connector_3"
+  },
+  {
+    "comp": "0394od_para_hub_4",
+    "conn": "Orient_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_4",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_4",
+    "conn": "Side_Connector_2"
+  },
+  {
+    "comp": "apc_propellers_10x10E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10x5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10x7E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x5_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x12",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x12",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13_5x13_5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x3",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18_1x12",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_22x10E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x8E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7_8x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_75x4_75E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x8E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6x5_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x15E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x8N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x10W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x12E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x6E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x10WE",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5_5x2",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6x4E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_5N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_1x4_1E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5x4R_RH",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Hitec_D954SW",
+    "conn": "Connector"
+  },
+  {
+    "comp": "Hitec_HS_5055MG",
+    "conn": "Connector"
+  },
+  {
+    "comp": "kde_direct_KDE2306XF_2550",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE2306XF_2550",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE2306XF_2550",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE3520XF_400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE3520XF_400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE3520XF_400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "apc_propellers_9x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "CargoCase",
+    "conn": "CargoConnector"
+  },
+  {
+    "comp": "CargoCase",
+    "conn": "Case2HubConnector"
+  },
+  {
+    "comp": "Hitec_D485HW",
+    "conn": "Connector"
+  },
+  {
+    "comp": "kde_direct_KDE700XF_535_G3",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE700XF_535_G3",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE700XF_535_G3",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "apc_propellers_10x4_7SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10x5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Tattu35C6000mAh6S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu35C6000mAh6S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu35C6000mAh6S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TattuPro25C22000mAh12S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TattuPro25C22000mAh12S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TattuPro25C22000mAh12S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5008KV170",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5008KV170",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5008KV170",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "Tattu10C40000mAh6S1PHV",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu10C40000mAh6S1PHV",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu10C40000mAh6S1PHV",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "t_motor_AS2312KV1400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AS2312KV1400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2312KV1400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "Tattu25C30000mAh6S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu25C30000mAh6S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu25C30000mAh6S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene3000mAh4S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene3000mAh4S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene3000mAh4S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN2806KV401",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN2806KV401",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN2806KV401",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AS2814KV1200",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2814KV1200",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AS2814KV1200",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AS2820KV1050",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2820KV1050",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AS2820KV1050",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene5000mAh3S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene5000mAh3S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene5000mAh3S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "t_motor_U5KV400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U5KV400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U5KV400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT3520KV550",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT3520KV550",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT3520KV550",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U7_V2.0KV280",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U7_V2.0KV280",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U7_V2.0KV280",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2820KV1250",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2820KV1250",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2820KV1250",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2308KV1450",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2308KV1450",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AS2308KV1450",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "Tattu5C28000mAh6S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu5C28000mAh6S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu5C28000mAh6S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "t_motor_MN3508KV580",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN3508KV580",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN3508KV580",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "TattuPlus15C16000mAh12S1Pcompact",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TattuPlus15C16000mAh12S1Pcompact",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TattuPlus15C16000mAh12S1Pcompact",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "t_motor_MN4010KV370",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN4010KV370",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN4010KV370",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2317KV880",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2317KV880",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2317KV880",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MT13063100KV",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MT13063100KV",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MT13063100KV",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U12IIKV60",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U12IIKV60",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U12IIKV60",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN5212KV420",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN5212KV420",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN5212KV420",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT4120KV560",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT4120KV560",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT4120KV560",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN3510KV630",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN3510KV630",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN3510KV630",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2820KV880",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AS2820KV880",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2820KV880",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "Wing_horiz_hole",
+    "conn": "Wing_Tube_Connector"
+  },
+  {
+    "comp": "Wing_horiz_hole",
+    "conn": "Wing_Servo_Connector"
+  },
+  {
+    "comp": "apc_propellers_12x7",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "0394od_para_hub_5",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_5",
+    "conn": "Orient_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_5",
+    "conn": "Side_Connector_3"
+  },
+  {
+    "comp": "0394od_para_hub_5",
+    "conn": "Center_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_5",
+    "conn": "Side_Connector_4"
+  },
+  {
+    "comp": "0394od_para_hub_5",
+    "conn": "Side_Connector_2"
+  },
+  {
+    "comp": "0394od_para_hub_5",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_5",
+    "conn": "Side_Connector_1"
+  },
+  {
+    "comp": "0394od_para_hub_5",
+    "conn": "Side_Connector_5"
+  },
+  {
+    "comp": "apc_propellers_19x11",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x9",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15x4W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x4_7SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x13N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15x11",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x10E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x7",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x6E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x7",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x4W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5x3",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x4_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6x3",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9_25x6_0",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x8_75NN",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x4_1SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "kde_direct_KDE10218XF_105",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE10218XF_105",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE10218XF_105",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE5215XF_435",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE5215XF_435",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE5215XF_435",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "apc_propellers_9x9",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "kde_direct_KDE7215XF_135",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE7215XF_135",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE7215XF_135",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "Hitec_HS_225BB",
+    "conn": "Connector"
+  },
+  {
+    "comp": "apc_propellers_5_7x3",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_8x8_75",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Hitec_HS_70MG",
+    "conn": "Connector"
+  },
+  {
+    "comp": "apc_propellers_11x11",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Hitec_HS_7245MH",
+    "conn": "Connector"
+  },
+  {
+    "comp": "apc_propellers_10x8E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "TattuPro25C22000mAh14S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TattuPro25C22000mAh14S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TattuPro25C22000mAh14S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu25C28000mAh6S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu25C28000mAh6S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu25C28000mAh6S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu25C22000mAh4S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu25C22000mAh4S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu25C22000mAh4S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene6000mAh6S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene6000mAh6S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene6000mAh6S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "t_motor_U8IIKV150",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U8IIKV150",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U8IIKV150",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2317KV1250",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2317KV1250",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT2317KV1250",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN3110KV700",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN3110KV700",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN3110KV700",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2814KV900",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AS2814KV900",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2814KV900",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN7005KV115",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN7005KV115",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN7005KV115",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT3520KV850",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT3520KV850",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT3520KV850",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2317KV1400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2317KV1400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2317KV1400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U15IIKV80",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U15IIKV80",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U15IIKV80",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1500mAh4S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1500mAh4S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1500mAh4S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "t_motor_P60KV340",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_P60KV340",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_P60KV340",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "apc_propellers_10x5_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "t_motor_AT2826KV1100",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT2826KV1100",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2826KV1100",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "05OD_para_tube",
+    "conn": "OffsetConnection1"
+  },
+  {
+    "comp": "05OD_para_tube",
+    "conn": "OffsetConnection2"
+  },
+  {
+    "comp": "05OD_para_tube",
+    "conn": "BaseConnection"
+  },
+  {
+    "comp": "05OD_para_tube",
+    "conn": "EndConnection"
+  },
+  {
+    "comp": "apc_propellers_13x13_5N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10x7SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x8_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12_5x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11_5x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10_5x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_75x4_5EC",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6_5x3_7",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12_25x3_75",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x10E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x4W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x3_75",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x13",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x7E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x9_25W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x5_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9_5x4_5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x9",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x11E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_2x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6_5x6_5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "0394od_para_hub_3",
+    "conn": "Side_Connector_1"
+  },
+  {
+    "comp": "0394od_para_hub_3",
+    "conn": "Orient_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_3",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_3",
+    "conn": "Side_Connector_2"
+  },
+  {
+    "comp": "0394od_para_hub_3",
+    "conn": "Side_Connector_3"
+  },
+  {
+    "comp": "0394od_para_hub_3",
+    "conn": "Center_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_3",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "apc_propellers_9x8_5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Hitec_D89MW",
+    "conn": "Connector"
+  },
+  {
+    "comp": "apc_propellers_14x13N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Hitec_HS_55",
+    "conn": "Connector"
+  },
+  {
+    "comp": "apc_propellers_15x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x3_8SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x13",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "kde_direct_KDE7208XF_135",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE7208XF_135",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE7208XF_135",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "apc_propellers_19x12E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x6W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Hitec_HS_65MG",
+    "conn": "Connector"
+  },
+  {
+    "comp": "Hitec_HS_65HB",
+    "conn": "Connector"
+  },
+  {
+    "comp": "kde_direct_KDE700XF_295_G3",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE700XF_295_G3",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE700XF_295_G3",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE600XF_530_G3",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE600XF_530_G3",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE600XF_530_G3",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "apc_propellers_9_3x3",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "kde_direct_KDE600XF_1100_G3",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE600XF_1100_G3",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE600XF_1100_G3",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2312KV1400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2312KV1400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2312KV1400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "TattuPlus25C22000mAh12S1PAGRI",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TattuPlus25C22000mAh12S1PAGRI",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TattuPlus25C22000mAh12S1PAGRI",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "t_motor_MN3110KV470",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN3110KV470",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN3110KV470",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN6007IIKV160",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN6007IIKV160",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN6007IIKV160",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "Tattu10C32000mAh6S1PHV",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu10C32000mAh6S1PHV",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu10C32000mAh6S1PHV",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1200mAh6S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1200mAh6S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1200mAh6S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene3000mAh6S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene3000mAh6S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene3000mAh6S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "t_motor_AT3520KV720",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT3520KV720",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT3520KV720",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene5000mAh6S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene5000mAh6S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene5000mAh6S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "t_motor_AntigravityMN8017KV120",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN8017KV120",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN8017KV120",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5008KV340",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5008KV340",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5008KV340",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5006KV300",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5006KV300",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5006KV300",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AS2317KV1250",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2317KV1250",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AS2317KV1250",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2312KV1150",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT2312KV1150",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2312KV1150",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2826KV900",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2826KV900",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT2826KV900",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN4010KV475",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN4010KV475",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN4010KV475",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN22041400KV",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN22041400KV",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN22041400KV",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "apc_propellers_11x4_7SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "t_motor_P80IIIKV100",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_P80IIIKV100",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_P80IIIKV100",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U8LiteLKV110",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U8LiteLKV110",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U8LiteLKV110",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "apc_propellers_16x14",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12_5x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x4_6SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x12",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x12E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x10E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "05OD_para_flange",
+    "conn": "TopConnector"
+  },
+  {
+    "comp": "05OD_para_flange",
+    "conn": "BottomConnector"
+  },
+  {
+    "comp": "05OD_para_flange",
+    "conn": "SideConnector"
+  },
+  {
+    "comp": "apc_propellers_12x11",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10x4_6SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6x3R_RH",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x13",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x5_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_7x4_2E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x9W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x5_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x9",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x9",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15x4E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x6_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x4_1SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x14",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x9_25NN",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18x5_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18x12",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x6N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_19x12WE",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_19x8E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x13E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_5x3_5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_24x12E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "0281OD_para_tube",
+    "conn": "End Connection 2"
+  },
+  {
+    "comp": "0281OD_para_tube",
+    "conn": "End Connection 1"
+  },
+  {
+    "comp": "apc_propellers_6x5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_5x4_1E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x7",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x6E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7_4x7_5C",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7_8x7",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x8_75W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x7_5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Hitec_HS_625MG",
+    "conn": "Connector"
+  },
+  {
+    "comp": "Hitec_HS_5496MH",
+    "conn": "Connector"
+  },
+  {
+    "comp": "apc_propellers_11x7E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x3_8SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh2S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh2S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh2S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TattuPlus15C16000mAh12S1PAGRI",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TattuPlus15C16000mAh12S1PAGRI",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TattuPlus15C16000mAh12S1PAGRI",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu10C25000mAh6S1PHV",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu10C25000mAh6S1PHV",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu10C25000mAh6S1PHV",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene6000mAh4S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene6000mAh4S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene6000mAh4S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu15C16000mAh4S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu15C16000mAh4S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu15C16000mAh4S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu15C17000mAh6S1PHV",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu15C17000mAh6S1PHV",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu15C17000mAh6S1PHV",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN6007IIKV320",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN6007IIKV320",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN6007IIKV320",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AS2814KV1050",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AS2814KV1050",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2814KV1050",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U3KV700",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U3KV700",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U3KV700",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene5000mAh4S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene5000mAh4S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene5000mAh4S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "t_motor_AT2820KV1050",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2820KV1050",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT2820KV1050",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2321KV950",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT2321KV950",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2321KV950",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT4130KV300",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT4130KV300",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT4130KV300",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U7_V2.0KV420",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U7_V2.0KV420",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U7_V2.0KV420",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT4125KV540",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT4125KV540",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT4125KV540",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN2212KV780",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN2212KV780",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN2212KV780",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_P60KV170",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_P60KV170",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_P60KV170",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U8LiteKV85",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U8LiteKV85",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U8LiteKV85",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U13IIKV130",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U13IIKV130",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U13IIKV130",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN4012KV400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN4012KV400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN4012KV400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "apc_propellers_11x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x11",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x7",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_25x12_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x13",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x14",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "0394OD_para_tube",
+    "conn": "OffsetConnection2"
+  },
+  {
+    "comp": "0394OD_para_tube",
+    "conn": "OffsetConnection1"
+  },
+  {
+    "comp": "0394OD_para_tube",
+    "conn": "BaseConnection"
+  },
+  {
+    "comp": "0394OD_para_tube",
+    "conn": "EndConnection"
+  },
+  {
+    "comp": "apc_propellers_6_5x2_9",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x12",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x8E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x6E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x14E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5x3E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18x12E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15_5x12W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15x5_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Cargo",
+    "conn": "CargoConnector"
+  },
+  {
+    "comp": "apc_propellers_22x12WE",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5_5x6_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x10E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x10N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x12W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_75x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6_5x6_0",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5_5x4_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x14N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x7_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x7_5SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x4W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_5NN",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x6SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "kde_direct_KDE4215XF_465",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE4215XF_465",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE4215XF_465",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "apc_propellers_9x4_4SFR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Hitec_HS_225MG",
+    "conn": "Connector"
+  },
+  {
+    "comp": "kde_direct_KDE2315XF_965",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE2315XF_965",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE2315XF_965",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE4014XF_380",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE4014XF_380",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE4014XF_380",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "apc_propellers_8_75x9_0NN",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x4_6SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "kde_direct_KDE4213XF_360",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE4213XF_360",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE4213XF_360",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE3510XF_475",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE3510XF_475",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE3510XF_475",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE3510XF_715",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE3510XF_715",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE3510XF_715",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "apc_propellers_11x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "TurnigyGraphene3000mAh3S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene3000mAh3S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene3000mAh3S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "t_motor_AT2814KV900",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2814KV900",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2814KV900",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1300mAh3S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1300mAh3S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene1300mAh3S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "t_motor_MN5212KV340",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN5212KV340",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN5212KV340",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U8IIKV100",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U8IIKV100",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U8IIKV100",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "Voltage",
+    "conn": "SensorConnector"
+  },
+  {
+    "comp": "Tattu25C7000mAh6S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu25C7000mAh6S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu25C7000mAh6S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1600mAh4S75CSquare",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1600mAh4S75CSquare",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene1600mAh4S75CSquare",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "t_motor_AS2317KV1400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AS2317KV1400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AS2317KV1400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2317KV880",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2317KV880",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AS2317KV880",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "Wing_vert_hole",
+    "conn": "Wing_Tube_Connector"
+  },
+  {
+    "comp": "Wing_vert_hole",
+    "conn": "Wing_Servo_Connector"
+  },
+  {
+    "comp": "t_motor_U12IIKV120",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U12IIKV120",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U12IIKV120",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT4120KV500",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT4120KV500",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT4120KV500",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene2200mAh3S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene2200mAh3S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene2200mAh3S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "t_motor_MN4010KV580",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN4010KV580",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN4010KV580",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN7005KV230",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN7005KV230",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN7005KV230",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U10IIKV100",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U10IIKV100",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U10IIKV100",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "apc_propellers_11x8E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "t_motor_U8LiteKV190",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U8LiteKV190",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U8LiteKV190",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN3110KV780",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN3110KV780",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN3110KV780",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "apc_propellers_10x6E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13_5x9",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x4_7SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x5_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x6SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_21x13E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_21x13WE",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x4E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x10E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x4E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x12E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x12E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10x7",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x13",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_5W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x8_5N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_75x4_75EC",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x4_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15x12",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5_1x4_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x10W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6_5x5_5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7_4x7_6C",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9_5x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_6x2",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x12N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_27x13E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_8x9_0",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5_5x4_7E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x7_5C",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x45R_RH",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x3N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x3",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_75x4_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Current",
+    "conn": "SensorConnector"
+  },
+  {
+    "comp": "Hitec_HS_81",
+    "conn": "Connector"
+  },
+  {
+    "comp": "apc_propellers_8x4_2SFR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "kde_direct_KDE8218XF_120",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE8218XF_120",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE8218XF_120",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "GPS",
+    "conn": "SensorConnector"
+  },
+  {
+    "comp": "Hitec_HS_45HB",
+    "conn": "Connector"
+  },
+  {
+    "comp": "Hitec_HS_5245MG",
+    "conn": "Connector"
+  },
+  {
+    "comp": "TattuPlus15C16000mAh12S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TattuPlus15C16000mAh12S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TattuPlus15C16000mAh12S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN8014KV100",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN8014KV100",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN8014KV100",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2308KV2600",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AS2308KV2600",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AS2308KV2600",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AS2820KV1250",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AS2820KV1250",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AS2820KV1250",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN2212KV920",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN2212KV920",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN2212KV920",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN3508KV380",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN3508KV380",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN3508KV380",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN4014KV330",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN4014KV330",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN4014KV330",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MT2216V2800KV",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MT2216V2800KV",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MT2216V2800KV",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "Tattu30C12000mAh6S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu30C12000mAh6S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu30C12000mAh6S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu30C16000mAh6S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu30C16000mAh6S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu30C16000mAh6S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "t_motor_U11IIKV120",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U11IIKV120",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U11IIKV120",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U8IIKV190",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U8IIKV190",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U8IIKV190",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN6007KV160",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN6007KV160",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN6007KV160",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2321KV1250",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT2321KV1250",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2321KV1250",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "apc_propellers_11x12W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x6E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x6SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x13N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x10E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_0N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18_1x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x5N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10x9",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18x10E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_10x4_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x8_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "0281_para_flange",
+    "conn": "TopConnector"
+  },
+  {
+    "comp": "0281_para_flange",
+    "conn": "SideConnector"
+  },
+  {
+    "comp": "0281_para_flange",
+    "conn": "BottomConnector"
+  },
+  {
+    "comp": "apc_propellers_11_5x4",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_75x5_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15x7",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x9",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x4E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x6",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_75NN",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15x7E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15x8",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "0394od_para_hub_2",
+    "conn": "Side_Connector_1"
+  },
+  {
+    "comp": "0394od_para_hub_2",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_2",
+    "conn": "Center_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_2",
+    "conn": "Side_Connector_2"
+  },
+  {
+    "comp": "0394od_para_hub_2",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "0394od_para_hub_2",
+    "conn": "Orient_Connector"
+  },
+  {
+    "comp": "apc_propellers_8x3_8SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_4_2x2",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x4_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x5SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x14",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20_5x14E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_75x8_0NN",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x4SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_5_25x5_5E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Hitec_HS_5065MG",
+    "conn": "Connector"
+  },
+  {
+    "comp": "Orient",
+    "conn": "ORIENTCONN"
+  },
+  {
+    "comp": "Orient",
+    "conn": "Mount"
+  },
+  {
+    "comp": "kde_direct_KDE700XF_455_G3",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE700XF_455_G3",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE700XF_455_G3",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE2814XF_775",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE2814XF_775",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE2814XF_775",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "RpmTemp",
+    "conn": "SensorConnector"
+  },
+  {
+    "comp": "apc_propellers_12x3_8SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "kde_direct_KDE6213XF_185",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE6213XF_185",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE6213XF_185",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh4S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh4S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh4S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "t_motor_AT4125KV250",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT4125KV250",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT4125KV250",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "Tattu25C19000mAh14S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu25C19000mAh14S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu25C19000mAh14S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu30C22000mAh6S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu30C22000mAh6S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu30C22000mAh6S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene4000mAh4S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene4000mAh4S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene4000mAh4S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu25C23000mAh6S1PHV",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu25C23000mAh6S1PHV",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu25C23000mAh6S1PHV",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "t_motor_AT3530KV580",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT3530KV580",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT3530KV580",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN4004KV400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN4004KV400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN4004KV400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh6S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh6S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh6S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene4000mAh3S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene4000mAh3S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene4000mAh3S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "t_motor_MN3510KV360",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_MN3510KV360",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN3510KV360",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN1005V2KV90",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN1005V2KV90",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN1005V2KV90",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh3S75C",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh3S75C",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh3S75C",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN2806KV650",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN2806KV650",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN2806KV650",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5008KV400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5008KV400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN5008KV400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U7_V2.0KV490",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U7_V2.0KV490",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U7_V2.0KV490",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "apc_propellers_17x7E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20_5x12WE",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8x4_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15x6E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x7",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18x6W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_11x14",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x12E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x11",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_19x10E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x13_5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x4W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x8E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x8E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_22x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7_4x7_7C",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x4_7SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_8x8_9",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9x4_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_8_8x9_5",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_7x4E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_9_625x3_75N",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_26x15E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_26x13E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Hitec_HS_40",
+    "conn": "Connector"
+  },
+  {
+    "comp": "Hitec_HS_645MG",
+    "conn": "Connector"
+  },
+  {
+    "comp": "Hitec_HS_7235MH",
+    "conn": "Connector"
+  },
+  {
+    "comp": "apc_propellers_9x9E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_12x8SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "Hitec_HS_82MG",
+    "conn": "Connector"
+  },
+  {
+    "comp": "Hitec_HS_5565MH",
+    "conn": "Connector"
+  },
+  {
+    "comp": "kde_direct_KDE4012XF_400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "kde_direct_KDE4012XF_400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE4012XF_400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE13218XF_105",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE13218XF_105",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "kde_direct_KDE13218XF_105",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN4006KV380",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AntigravityMN4006KV380",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN4006KV380",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN3520KV400",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_MN3520KV400",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_MN3520KV400",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "Tattu25C9000mAh6S1P",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "Tattu25C9000mAh6S1P",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu25C9000mAh6S1P",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "t_motor_AT2308KV1450",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AT2308KV1450",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT2308KV1450",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "Tattu25C11000mAh6S1PHV",
+    "conn": "PowerBus"
+  },
+  {
+    "comp": "Tattu25C11000mAh6S1PHV",
+    "conn": "Top_Connector"
+  },
+  {
+    "comp": "Tattu25C11000mAh6S1PHV",
+    "conn": "Bottom_Connector"
+  },
+  {
+    "comp": "t_motor_AT4120KV250",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AT4120KV250",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_AT4120KV250",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U8IIKV85",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U8IIKV85",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U8IIKV85",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U8LiteKV100",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U8LiteKV100",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_U8LiteKV100",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U8LiteLKV95",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_U8LiteLKV95",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "t_motor_U8LiteLKV95",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN8012KV100",
+    "conn": "Prop_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN8012KV100",
+    "conn": "Base_Connector"
+  },
+  {
+    "comp": "t_motor_AntigravityMN8012KV100",
+    "conn": "MotorPower"
+  },
+  {
+    "comp": "Variometer",
+    "conn": "SensorConnector"
+  },
+  {
+    "comp": "apc_propellers_13x4_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x7",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13_5x14",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x4_7SF",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13x8E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_13_5x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_14x5_5MR",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x16",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15x8E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_15x10E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_16x10E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x10",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x12",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_17x6E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18x12WE",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x12",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18x8E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18x14",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_18x8W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_19x8W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x8W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x12WE",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_21x12WE",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_20x15C",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_22x12E",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  },
+  {
+    "comp": "apc_propellers_21x10W",
+    "conn": "MOTOR_CONNECTOR_CS_IN"
+  }
+]

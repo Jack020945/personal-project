@@ -1,0 +1,323 @@
+{
+    "ABSTRACTION_LEVEL": 2,
+    "DESCRIPTION": "",
+    "NAME": "TestHEX",
+    "TOPOLOGY": {
+        "BatteryController_instance_1": {
+            "CONNECTIONS": {
+                "Battery_UAV_instance_1": "ANY",
+                "Battery_UAV_instance_2": "ANY",
+                "Motor_instance_1": "ANY",
+                "Motor_instance_2": "ANY",
+                "Motor_instance_3": "ANY",
+                "Motor_instance_4": "ANY",
+                "Motor_instance_5": "ANY",
+                "Motor_instance_6": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Battery_UAV_instance_1": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "capsule_fuselage_instance_1": "BOTTOM-1"
+            },
+            "PARAMETERS": {}
+        },
+        "Battery_UAV_instance_2": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "capsule_fuselage_instance_1": "BOTTOM-2"
+            },
+            "PARAMETERS": {}
+        },
+        "ControlBox_instance_1": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "Flange_instance_1": {
+            "CONNECTIONS": {
+                "Motor_instance_1": "ANY",
+                "Tube_instance_1": "BOTTOM-BOTTOM",
+                "Tube_instance_2": "SIDE-TOP"
+            },
+            "PARAMETERS": {}
+        },
+        "Flange_instance_2": {
+            "CONNECTIONS": {
+                "Motor_instance_2": "ANY",
+                "Tube_instance_3": "BOTTOM-BOTTOM",
+                "Tube_instance_4": "SIDE-TOP"
+            },
+            "PARAMETERS": {}
+        },
+        "Flange_instance_3": {
+            "CONNECTIONS": {
+                "Motor_instance_3": "ANY",
+                "Tube_instance_5": "BOTTOM-BOTTOM",
+                "Tube_instance_6": "SIDE-TOP"
+            },
+            "PARAMETERS": {}
+        },
+        "Flange_instance_4": {
+            "CONNECTIONS": {
+                "Motor_instance_4": "ANY",
+                "Tube_instance_7": "BOTTOM-BOTTOM",
+                "Tube_instance_8": "SIDE-TOP"
+            },
+            "PARAMETERS": {}
+        },
+        "Flange_instance_5": {
+            "CONNECTIONS": {
+                "Motor_instance_5": "ANY",
+                "Tube_instance_9": "BOTTOM-BOTTOM",
+                "Tube_instance_10": "SIDE-TOP"
+            },
+            "PARAMETERS": {}
+        },
+        "Flange_instance_6": {
+            "CONNECTIONS": {
+                "Motor_instance_6": "ANY",
+                "Tube_instance_11": "BOTTOM-BOTTOM",
+                "Tube_instance_12": "SIDE-TOP"
+            },
+            "PARAMETERS": {}
+        },
+        "Hub6_instance_1": {
+            "CONNECTIONS": {
+                "Orient": "ANY",
+                "Tube_instance_2": "SIDE1-BOTTOM",
+                "Tube_instance_4": "SIDE2-BOTTOM",
+                "Tube_instance_6": "SIDE3-BOTTOM",
+                "Tube_instance_8": "SIDE4-BOTTOM",
+                "Tube_instance_10": "SIDE5-BOTTOM",
+                "Tube_instance_12": "SIDE6-BOTTOM",
+                "capsule_fuselage_instance_1": "TOP"
+            },
+            "PARAMETERS": {}
+        },
+        "Motor_instance_1": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_1": "ANY",
+                "Propeller_instance_1": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Motor_instance_2": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_2": "ANY",
+                "Propeller_instance_2": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Motor_instance_3": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_3": "ANY",
+                "Propeller_instance_3": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Motor_instance_4": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_4": "ANY",
+                "Propeller_instance_4": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Motor_instance_5": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_5": "ANY",
+                "Propeller_instance_5": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Motor_instance_6": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_6": "ANY",
+                "Propeller_instance_6": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+
+        "Orient": {
+            "CONNECTIONS": {
+                "Hub6_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "Orient__Z_ANGLE": 45.0
+            }
+        },
+
+        "Propeller_instance_1": {
+            "CONNECTIONS": {
+                "Motor_instance_1": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Propeller_instance_2": {
+            "CONNECTIONS": {
+                "Motor_instance_2": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Propeller_instance_3": {
+            "CONNECTIONS": {
+                "Motor_instance_3": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Propeller_instance_4": {
+            "CONNECTIONS": {
+                "Motor_instance_4": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Propeller_instance_5": {
+            "CONNECTIONS": {
+                "Motor_instance_5": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Propeller_instance_6": {
+            "CONNECTIONS": {
+                "Motor_instance_6": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+
+        "Tube_instance_1": {
+            "CONNECTIONS": {
+                "Flange_instance_1": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 95.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_2": {
+            "CONNECTIONS": {
+                "Flange_instance_1": "TOP-SIDE",
+                "Hub6_instance_1": "BOTTOM-SIDE1"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_3": {
+            "CONNECTIONS": {
+                "Flange_instance_2": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 95.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_4": {
+            "CONNECTIONS": {
+                "Flange_instance_2": "TOP-SIDE",
+                "Hub6_instance_1": "BOTTOM-SIDE2"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_5": {
+            "CONNECTIONS": {
+                "Flange_instance_3": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 95.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_6": {
+            "CONNECTIONS": {
+                "Flange_instance_3": "TOP-SIDE",
+                "Hub6_instance_1": "BOTTOM-SIDE3"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_7": {
+            "CONNECTIONS": {
+                "Flange_instance_4": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 95.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_8": {
+            "CONNECTIONS": {
+                "Flange_instance_4": "TOP-SIDE",
+                "Hub6_instance_1": "BOTTOM-SIDE4"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_9": {
+            "CONNECTIONS": {
+                "Flange_instance_5": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 95.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_10": {
+            "CONNECTIONS": {
+                "Flange_instance_5": "TOP-SIDE",
+                "Hub6_instance_1": "BOTTOM-SIDE5"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_11": {
+            "CONNECTIONS": {
+                "Flange_instance_6": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 95.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_12": {
+            "CONNECTIONS": {
+                "Flange_instance_6": "TOP-SIDE",
+                "Hub6_instance_1": "BOTTOM-SIDE6"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        
+        "capsule_fuselage_instance_1": {
+            "CONNECTIONS": {
+                "Battery_UAV_instance_1": "INSIDE-1",
+                "Battery_UAV_instance_2": "INSIDE-2",
+                "Hub6_instance_1": "BOTTOM"
+            },
+            "PARAMETERS": {
+                "capsule_fuselage__BOTTOM_CONNECTOR_ROTATION": 45.0,
+                "capsule_fuselage__FLOOR_HEIGHT": 20.0,
+                "capsule_fuselage__HORZ_DIAMETER": 145.0,
+                "capsule_fuselage__TUBE_LENGTH": 100.0,
+                "capsule_fuselage__VERT_DIAMETER": 90.0
+            }
+        }
+    }
+}

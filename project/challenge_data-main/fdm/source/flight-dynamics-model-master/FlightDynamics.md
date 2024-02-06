@@ -1,0 +1,99 @@
+# Flight dynamics expected input
+This is the information that is expected and necessary for the flight dynamics calculations:
+1.  Aircraft
+    -  Name of Aircraft
+    -  Type of Aircraft
+    -  Total Mass (in kg)
+    -  Gravitational Acceleration (in m/s^2)
+    -  Air density
+    -  X, Y and Z centers of mass
+    -  Moment of Inertia Tensor, I
+    - Number of wing elements (wings, tails, etc.)
+    - Number of propellers
+    - Number of batteries
+    - X, Y and Z force coefficients of the fuselage (presented area)
+    - Analysis type (1= Fly from initial condition, 2= Trim to U=x(1))
+    - Initial x
+    - Initial xd
+    - Initial uc
+    - Initial time
+    - Fixed time step
+    - Time between output lines
+    - End time
+    - North wind speed in world frame
+    - East wind speed in world frame
+    - Down wind speed in world frame
+1.  Wing
+    - Name (or description) of wing, typically half of main wing, horizontal tail, vertical tail, etc.
+    - Airfoil section name
+    - Area of the wing segment (half of the complete wing)
+    - Y normal
+    - Z normal
+    - Slope of the lift curve, a
+    - Zero angle of attack lift coefficient
+    - Maximum lift coefficient
+    - Minimum lift coefficient
+    - Zero lift drag coefficient
+    - Induced drag coefficient
+    - Drag coefficient at alpha = 90 degrees
+    - Maximum aileron deflection
+    - Minimum aileron deflection
+    - Maximum flap deflection
+    - Minimum flap deflection
+    - Control channel for aileron
+    - Control channel for flap
+    - Bias for aileron control
+    - Bias for flap control
+    - Flap effectiveness of ailerons
+    - Effect of propeller wash on wing
+    - Effect of wing downwash on tail
+    - Effective centers in x, y, and z
+1.  Propeller (with motor)
+    - Name of propeller
+    - Type of propeller
+    - Performance file for propeller
+    - Center of propeller in x, y and z
+    - Normal vector of propeller in x, y, and z , pointing in the direction of thrust
+    - Direction of spin, +1 for counterclockwise from above -1 for clockwise from above
+    - Radius of propeller
+    - Radial moment of inertia
+    - J
+    - Thrust coefficient
+    - Power coefficient
+    - Control channel for the motor
+    - Type of motor
+    - Motor data file name
+    - Motor velocity constant, KV
+    - Motor torque constant, KT
+    - Maximum current
+    - Idle current
+    - Maximum power
+    - Winding resistiance, Rw
+    - Maximum torque
+    - ESC lag time
+    - Actual spinning rate (rad/s)
+    - Battery number associated with this motor/prop combo.
+1.  Battery
+    - Name of battery
+    - Type of battery
+    - Battery datafile name
+    - Number of cells
+    - Voltage
+    - Capacity
+    - Peak discharge rate
+    - Continuous discharge rate
+    - Internal battery resistance
+    - Seconds exceeding peak discharge
+    - Seconds exceeding continuous discharge
+    - Remaining charge
+1.  Controls
+    - Control channel for forward thrust on right
+    - Control channel for forward thrust on left
+    - Control channel for ailerons
+    - Control channel for flaps 
+    - Control channel for horizontal elevator
+    - Control channel for vertical rudder 
+    - Control channel for vertical forward right thrust
+    - Control channel for vertical back right thrust
+    - Control channel for vertical forward left thrust
+    - Control channel for vertical back left thrust

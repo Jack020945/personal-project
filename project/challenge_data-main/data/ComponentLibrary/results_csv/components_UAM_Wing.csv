@@ -1,0 +1,2 @@
+name,class,connector,SPAN,CORPUS,TAPER_OFFSET,FLAP_BIAS,LOAD,CHORD_1,NACA_Profile,CHORD_2,AILERON_BIAS,THICKNESS
+naca_wing,UAM_Wing,"['Battery_Connector_1', 'Battery_Connector_2', 'Connector_1', 'Connector_2']","('10000', '1', None, '1000')",UAM,"('0', '0', '1', '0')","('0.5', '0', '1', '0.5')","('1.28106e+011', '1', None, '1000')","('1000', '1', None, '100')","('0012', None, None, None)","('1000', '1', None, '100')","('0.5', '-1', '1', '0.5')","('12', '6', '25', '12')"

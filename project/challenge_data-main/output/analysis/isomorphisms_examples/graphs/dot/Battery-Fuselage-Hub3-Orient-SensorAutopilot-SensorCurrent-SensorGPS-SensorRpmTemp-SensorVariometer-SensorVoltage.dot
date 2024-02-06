@@ -1,0 +1,108 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Fuselage_instance_1
+    label=Fuselage
+  ];
+  1 [
+    instance=SensorAutopilot_instance_1
+    label=SensorAutopilot
+  ];
+  2 [
+    instance=Hub3_instance_4
+    label=Hub3
+  ];
+  3 [
+    instance=SensorVoltage_instance_1
+    label=SensorVoltage
+  ];
+  4 [
+    instance=SensorGPS_instance_1
+    label=SensorGPS
+  ];
+  5 [
+    instance=Battery_instance_1
+    label=Battery
+  ];
+  6 [
+    instance=SensorVariometer_instance_1
+    label=SensorVariometer
+  ];
+  7 [
+    instance=Battery_instance_2
+    label=Battery
+  ];
+  8 [
+    instance=Orient
+    label=Orient
+  ];
+  9 [
+    instance=SensorCurrent_instance_1
+    label=SensorCurrent
+  ];
+  10 [
+    instance=SensorRpmTemp_instance_1
+    label=SensorRpmTemp
+  ];
+
+  0 -> 1 [
+    label=ANY
+  ];
+  0 -> 2 [
+    label=BOTTOM
+  ];
+  0 -> 3 [
+    label=ANY
+  ];
+  0 -> 4 [
+    label=ANY
+  ];
+  0 -> 5 [
+    label="INSIDE-1"
+  ];
+  0 -> 6 [
+    label=ANY
+  ];
+  0 -> 7 [
+    label="INSIDE-2"
+  ];
+  0 -> 9 [
+    label=ANY
+  ];
+  0 -> 10 [
+    label=ANY
+  ];
+  1 -> 0 [
+    label=ANY
+  ];
+  2 -> 0 [
+    label=TOP
+  ];
+  2 -> 8 [
+    label=ANY
+  ];
+  3 -> 0 [
+    label=ANY
+  ];
+  4 -> 0 [
+    label=ANY
+  ];
+  5 -> 0 [
+    label="BOTTOM-1"
+  ];
+  6 -> 0 [
+    label=ANY
+  ];
+  7 -> 0 [
+    label="BOTTOM-2"
+  ];
+  8 -> 2 [
+    label=ANY
+  ];
+  9 -> 0 [
+    label=ANY
+  ];
+  10 -> 0 [
+    label=ANY
+  ];
+}

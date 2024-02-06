@@ -1,0 +1,7 @@
+name,class,connector,HEIGHT,CORPUS,Manufacturer,WEIGHT,WIDTH,ROTATION,Model,LENGTH
+Autopilot,Sensor,['SensorConnector'],12.0,UAV,Pixhawk,0.049,44.0,"('0', '0', '360', '0')",Pixhawk_4,84.0
+Voltage,Sensor,['SensorConnector'],6.0,UAV,FrSKY,0.006,23.0,"('0', '0', '360', '0')",FLVSS,35.0
+Current,Sensor,['SensorConnector'],6.0,UAV,FrSKY,0.0201,18.3,"('0', '0', '360', '0')",FCS_150A,31.1
+GPS,Sensor,['SensorConnector'],15.8,UAV,CUAV,0.033,60.0,"('0', '0', '360', '0')",CUAV_NEO_3,60.0
+RpmTemp,Sensor,['SensorConnector'],2.0,UAV,FrSKY,0.0067,20.0,"('0', '0', '360', '0')",SP_RPM,29.0
+Variometer,Sensor,['SensorConnector'],6.0,UAV,FrSKY,0.0031,18.3,"('0', '0', '360', '0')",Vari_H,31.1

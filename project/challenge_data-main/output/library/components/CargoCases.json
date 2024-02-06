@@ -1,0 +1,27 @@
+{
+    "CargoCase": {
+        "id": "CargoCase",
+        "type": "CargoCase",
+        "parameters": [
+            {
+                "name": "Rotation",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "UAV",
+            "WEIGHT": 0.1,
+            "OD": 10.0,
+            "LENGTH": 250.0,
+            "HEIGHT": 125.0,
+            "WIDTH": 250.0
+        },
+        "connectors": [
+            "CargoConnector",
+            "Case2HubConnector"
+        ]
+    }
+}

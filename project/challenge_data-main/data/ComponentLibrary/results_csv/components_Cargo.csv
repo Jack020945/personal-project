@@ -1,0 +1,2 @@
+name,class,connector,HEIGHT,CORPUS,WEIGHT,WIDTH,LENGTH
+Cargo,Cargo,['CargoConnector'],125,UAV,"('0.5', '0', '0.5', '0.5')",250,250

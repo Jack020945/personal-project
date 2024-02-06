@@ -1,0 +1,38 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=CargoCase_instance_1
+    label=CargoCase
+  ];
+  1 [
+    instance=Fuselage_instance_1
+    label=Fuselage
+  ];
+  2 [
+    instance=Hub3_instance_4
+    label=Hub3
+  ];
+  3 [
+    instance=Cargo_instance_1
+    label=Cargo
+  ];
+
+  0 -> 2 [
+    label=ANY
+  ];
+  0 -> 3 [
+    label=ANY
+  ];
+  1 -> 2 [
+    label=BOTTOM
+  ];
+  2 -> 0 [
+    label=ANY
+  ];
+  2 -> 1 [
+    label=TOP
+  ];
+  3 -> 0 [
+    label=ANY
+  ];
+}

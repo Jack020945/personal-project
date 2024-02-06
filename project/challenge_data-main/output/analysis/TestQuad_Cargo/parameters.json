@@ -1,0 +1,529 @@
+{
+    "DESIGN_PARAMETERS": {
+        "Arm_Length": {
+            "PARAMETERS": {
+                "Tube__Length": [
+                    "Tube_instance_1_Tube__Length",
+                    "Tube_instance_6_Tube__Length",
+                    "Tube_instance_2_Tube__Length",
+                    "Tube_instance_8_Tube__Length"
+                ]
+            },
+            "VALUE": 400.0
+        },
+        "CargoMass": {
+            "PARAMETERS": {
+                "Cargo__WEIGHT": [
+                    "Cargo_instance_1_Cargo__WEIGHT"
+                ]
+            },
+            "VALUE": 0.5
+        },
+        "Channel_1": {
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": [
+                    "Motor_instance_4_Motor__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 1.0
+        },
+        "Channel_2": {
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": [
+                    "Motor_instance_3_Motor__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 2.0
+        },
+        "Channel_3": {
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": [
+                    "Motor_instance_2_Motor__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 3.0
+        },
+        "Channel_4": {
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": [
+                    "Motor_instance_1_Motor__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 4.0
+        },
+        "Leg_Length": {
+            "PARAMETERS": {
+                "Tube__Length": [
+                    "Tube_instance_4_Tube__Length",
+                    "Tube_instance_5_Tube__Length",
+                    "Tube_instance_7_Tube__Length",
+                    "Tube_instance_3_Tube__Length"
+                ]
+            },
+            "VALUE": 170.0
+        },
+        "Offset_1": {
+            "PARAMETERS": {
+                "Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH"
+                ]
+            },
+            "VALUE": 30.0
+        },
+        "Offset_2": {
+            "PARAMETERS": {
+                "Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH"
+                ]
+            },
+            "VALUE": -30.0
+        },
+        "Offset_3": {
+            "PARAMETERS": {
+                "Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH"
+                ],
+                "Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH"
+                ]
+            },
+            "VALUE": -160.0
+        },
+        "Offset_4": {
+            "PARAMETERS": {
+                "Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH"
+                ]
+            },
+            "VALUE": 13.0
+        },
+        "Offset_5": {
+            "PARAMETERS": {
+                "Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH"
+                ],
+                "Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH"
+                ]
+            },
+            "VALUE": -18.0
+        },
+        "Offset_6": {
+            "PARAMETERS": {
+                "Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH"
+                ]
+            },
+            "VALUE": 115.0
+        },
+        "Offset_7": {
+            "PARAMETERS": {
+                "Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH"
+                ],
+                "Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH"
+                ]
+            },
+            "VALUE": 155.0
+        },
+        "Offset_8": {
+            "PARAMETERS": {
+                "Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH"
+                ]
+            },
+            "VALUE": 18.0
+        },
+        "Offset_9": {
+            "PARAMETERS": {
+                "Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH"
+                ]
+            },
+            "VALUE": -120.0
+        },
+        "UpFacingCCW_PropType": {
+            "PARAMETERS": {
+                "Propeller__Prop_type": [
+                    "Propeller_instance_2_Propeller__Prop_type",
+                    "Propeller_instance_3_Propeller__Prop_type"
+                ]
+            },
+            "VALUE": -1.0
+        },
+        "UpFacingCCW_Spin": {
+            "PARAMETERS": {
+                "Propeller__Direction": [
+                    "Propeller_instance_2_Propeller__Direction",
+                    "Propeller_instance_3_Propeller__Direction"
+                ]
+            },
+            "VALUE": -1.0
+        },
+        "UpFacingCW_PropType": {
+            "PARAMETERS": {
+                "Propeller__Prop_type": [
+                    "Propeller_instance_4_Propeller__Prop_type",
+                    "Propeller_instance_1_Propeller__Prop_type"
+                ]
+            },
+            "VALUE": 1.0
+        },
+        "UpFacingCW_Spin": {
+            "PARAMETERS": {
+                "Propeller__Direction": [
+                    "Propeller_instance_1_Propeller__Direction",
+                    "Propeller_instance_4_Propeller__Direction"
+                ]
+            },
+            "VALUE": 1.0
+        },
+        "angle_1": {
+            "PARAMETERS": {
+                "Fuselage__BOTTOM_CONNECTOR_ROTATION": [
+                    "Fuselage_instance_1_Fuselage__BOTTOM_CONNECTOR_ROTATION"
+                ],
+                "Orient__Z_ANGLE": [
+                    "Orient_Orient__Z_ANGLE"
+                ]
+            },
+            "VALUE": 45.0
+        },
+        "angle_2": {
+            "PARAMETERS": {
+                "SensorAutopilot__ROTATION": [
+                    "SensorAutopilot_instance_1_SensorAutopilot__ROTATION"
+                ],
+                "SensorCurrent__ROTATION": [
+                    "SensorCurrent_instance_1_SensorCurrent__ROTATION"
+                ],
+                "SensorRpmTemp__ROTATION": [
+                    "SensorRpmTemp_instance_1_SensorRpmTemp__ROTATION"
+                ],
+                "SensorVariometer__ROTATION": [
+                    "SensorVariometer_instance_1_SensorVariometer__ROTATION"
+                ],
+                "SensorVoltage__ROTATION": [
+                    "SensorVoltage_instance_1_SensorVoltage__ROTATION"
+                ]
+            },
+            "VALUE": 90.0
+        },
+        "fuse_floor": {
+            "PARAMETERS": {
+                "Fuselage__FLOOR_HEIGHT": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_HEIGHT"
+                ]
+            },
+            "VALUE": 20.0
+        },
+        "fuse_height": {
+            "PARAMETERS": {
+                "Fuselage__VERT_DIAMETER": [
+                    "Fuselage_instance_1_Fuselage__VERT_DIAMETER"
+                ]
+            },
+            "VALUE": 125.0
+        },
+        "fuse_length": {
+            "PARAMETERS": {
+                "Fuselage__FUSE_CYL_LENGTH": [
+                    "Fuselage_instance_1_Fuselage__FUSE_CYL_LENGTH"
+                ]
+            },
+            "VALUE": 270.0
+        },
+        "fuse_width": {
+            "PARAMETERS": {
+                "Fuselage__HORZ_DIAMETER": [
+                    "Fuselage_instance_1_Fuselage__HORZ_DIAMETER"
+                ]
+            },
+            "VALUE": 190.0
+        }
+    },
+    "PARAMETERS": {
+        "COMPONENT": {
+            "BatteryController__Input_Voltage": 1.0,
+            "BatteryController__Output_Voltage": 1.0,
+            "Battery__ROTATION": 0.0,
+            "CargoCase__Rotation": 0.0,
+            "Cargo__WEIGHT": 0.5,
+            "Flange__BOTTOM_ANGLE": 0.0,
+            "Flange__SIDE_ANGLE": 0.0,
+            "Fuselage__BOTTOM_CONNECTOR_OFFSET_LENGTH": 0.0,
+            "Fuselage__BOTTOM_CONNECTOR_OFFSET_WIDTH": 0.0,
+            "Fuselage__BOTTOM_CONNECTOR_ROTATION": 45.0,
+            "Fuselage__FLOOR_CONNECTOR_1_DISP_LENGTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH": 30.0,
+            "Fuselage__FLOOR_CONNECTOR_2_DISP_LENGTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH": -30.0,
+            "Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH": -160.0,
+            "Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH": 13.0,
+            "Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH": -160.0,
+            "Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH": -18.0,
+            "Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH": 115.0,
+            "Fuselage__FLOOR_CONNECTOR_5_DISP_WIDTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH": 155.0,
+            "Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH": 18.0,
+            "Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH": -120.0,
+            "Fuselage__FLOOR_CONNECTOR_7_DISP_WIDTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH": 155.0,
+            "Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH": -18.0,
+            "Fuselage__FLOOR_HEIGHT": 20.0,
+            "Fuselage__FUSE_CYL_LENGTH": 270.0,
+            "Fuselage__HORZ_DIAMETER": 190.0,
+            "Fuselage__VERT_DIAMETER": 125.0,
+            "Hub4__ANGHORZCONN": 90.0,
+            "Hub4__ANGVERTCONN": 0.0,
+            "Hub4__DIAMETER": 10.0076,
+            "Orient__Z_ANGLE": 45.0,
+            "Propeller__Direction": -1.0,
+            "Propeller__Prop_type": -1.0,
+            "SensorAutopilot__ROTATION": 90.0,
+            "SensorCurrent__ROTATION": 90.0,
+            "SensorGPS__ROTATION": 0.0,
+            "SensorRpmTemp__ROTATION": 90.0,
+            "SensorVariometer__ROTATION": 90.0,
+            "SensorVoltage__ROTATION": 90.0,
+            "Tube__BASE_ROT": 0.0,
+            "Tube__END_ROT": 0.0,
+            "Tube__Offset1": 0.0,
+            "Tube__Offset2": 0.0
+        },
+        "DEFAULT": {
+            "Fuselage__BOTTOM_CONNECTOR_ROTATION": {
+                "Fuselage_instance_1_Fuselage__BOTTOM_CONNECTOR_ROTATION": 45.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH": 30.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH": -30.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH": -160.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH": 13.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH": -160.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH": -18.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH": 115.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH": 155.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH": 18.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH": -120.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH": 155.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH": -18.0
+            },
+            "Fuselage__FLOOR_HEIGHT": {
+                "Fuselage_instance_1_Fuselage__FLOOR_HEIGHT": 20.0
+            },
+            "Fuselage__FUSE_CYL_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FUSE_CYL_LENGTH": 270.0
+            },
+            "Fuselage__HORZ_DIAMETER": {
+                "Fuselage_instance_1_Fuselage__HORZ_DIAMETER": 190.0
+            },
+            "Fuselage__VERT_DIAMETER": {
+                "Fuselage_instance_1_Fuselage__VERT_DIAMETER": 125.0
+            },
+            "Motor__CONTROL_CHANNEL": {
+                "Motor_instance_1_Motor__CONTROL_CHANNEL": 4.0,
+                "Motor_instance_2_Motor__CONTROL_CHANNEL": 3.0,
+                "Motor_instance_3_Motor__CONTROL_CHANNEL": 2.0,
+                "Motor_instance_4_Motor__CONTROL_CHANNEL": 1.0
+            },
+            "Orient__Z_ANGLE": {
+                "Orient_Orient__Z_ANGLE": 45.0
+            },
+            "Propeller__Direction": {
+                "Propeller_instance_2_Propeller__Direction": -1.0,
+                "Propeller_instance_3_Propeller__Direction": -1.0
+            },
+            "Propeller__Prop_type": {
+                "Propeller_instance_2_Propeller__Prop_type": -1.0,
+                "Propeller_instance_3_Propeller__Prop_type": -1.0
+            },
+            "SensorAutopilot__ROTATION": {
+                "SensorAutopilot_instance_1_SensorAutopilot__ROTATION": 90.0
+            },
+            "SensorCurrent__ROTATION": {
+                "SensorCurrent_instance_1_SensorCurrent__ROTATION": 90.0
+            },
+            "SensorRpmTemp__ROTATION": {
+                "SensorRpmTemp_instance_1_SensorRpmTemp__ROTATION": 90.0
+            },
+            "SensorVariometer__ROTATION": {
+                "SensorVariometer_instance_1_SensorVariometer__ROTATION": 90.0
+            },
+            "SensorVoltage__ROTATION": {
+                "SensorVoltage_instance_1_SensorVoltage__ROTATION": 90.0
+            },
+            "Tube__Length": {
+                "Tube_instance_1_Tube__Length": 400.0,
+                "Tube_instance_2_Tube__Length": 400.0,
+                "Tube_instance_3_Tube__Length": 170.0,
+                "Tube_instance_4_Tube__Length": 170.0,
+                "Tube_instance_5_Tube__Length": 170.0,
+                "Tube_instance_6_Tube__Length": 400.0,
+                "Tube_instance_7_Tube__Length": 170.0,
+                "Tube_instance_8_Tube__Length": 400.0
+            },
+            "Tube__Offset1": {
+                "Tube_instance_1_Tube__Offset1": 0.0,
+                "Tube_instance_2_Tube__Offset1": 0.0,
+                "Tube_instance_3_Tube__Offset1": 0.0,
+                "Tube_instance_4_Tube__Offset1": 0.0,
+                "Tube_instance_5_Tube__Offset1": 0.0,
+                "Tube_instance_6_Tube__Offset1": 0.0,
+                "Tube_instance_7_Tube__Offset1": 0.0,
+                "Tube_instance_8_Tube__Offset1": 0.0
+            },
+            "Tube__Offset2": {
+                "Tube_instance_1_Tube__Offset2": 0.0,
+                "Tube_instance_2_Tube__Offset2": 0.0,
+                "Tube_instance_3_Tube__Offset2": 0.0,
+                "Tube_instance_4_Tube__Offset2": 0.0,
+                "Tube_instance_5_Tube__Offset2": 0.0,
+                "Tube_instance_6_Tube__Offset2": 0.0,
+                "Tube_instance_7_Tube__Offset2": 0.0,
+                "Tube_instance_8_Tube__Offset2": 0.0
+            }
+        },
+        "MODIFIED": {
+            "BatteryController__Input_Voltage": {
+                "BatteryController_instance_1_BatteryController__Input_Voltage": 1.0
+            },
+            "BatteryController__Output_Voltage": {
+                "BatteryController_instance_1_BatteryController__Output_Voltage": 1.0
+            },
+            "Battery__ROTATION": {
+                "Battery_instance_1_Battery__ROTATION": 0.0,
+                "Battery_instance_2_Battery__ROTATION": 0.0
+            },
+            "CargoCase__Rotation": {
+                "CargoCase_instance_1_CargoCase__Rotation": 0.0
+            },
+            "Cargo__WEIGHT": {
+                "Cargo_instance_1_Cargo__WEIGHT": 0.5
+            },
+            "Flange__BOTTOM_ANGLE": {
+                "Flange_instance_1_Flange__BOTTOM_ANGLE": 0.0,
+                "Flange_instance_2_Flange__BOTTOM_ANGLE": 0.0,
+                "Flange_instance_3_Flange__BOTTOM_ANGLE": 0.0,
+                "Flange_instance_4_Flange__BOTTOM_ANGLE": 0.0
+            },
+            "Flange__SIDE_ANGLE": {
+                "Flange_instance_1_Flange__SIDE_ANGLE": 0.0,
+                "Flange_instance_2_Flange__SIDE_ANGLE": 0.0,
+                "Flange_instance_3_Flange__SIDE_ANGLE": 0.0,
+                "Flange_instance_4_Flange__SIDE_ANGLE": 0.0
+            },
+            "Fuselage__BOTTOM_CONNECTOR_OFFSET_LENGTH": {
+                "Fuselage_instance_1_Fuselage__BOTTOM_CONNECTOR_OFFSET_LENGTH": 0.0
+            },
+            "Fuselage__BOTTOM_CONNECTOR_OFFSET_WIDTH": {
+                "Fuselage_instance_1_Fuselage__BOTTOM_CONNECTOR_OFFSET_WIDTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_1_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_1_DISP_LENGTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_2_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_2_DISP_LENGTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_5_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_5_DISP_WIDTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_7_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_7_DISP_WIDTH": 0.0
+            },
+            "Hub4__ANGHORZCONN": {
+                "Hub4_instance_1_Hub4__ANGHORZCONN": 90.0
+            },
+            "Hub4__ANGVERTCONN": {
+                "Hub4_instance_1_Hub4__ANGVERTCONN": 0.0
+            },
+            "Hub4__DIAMETER": {
+                "Hub4_instance_1_Hub4__DIAMETER": 10.0076
+            },
+            "Propeller__Direction": {
+                "Propeller_instance_1_Propeller__Direction": 1.0,
+                "Propeller_instance_4_Propeller__Direction": 1.0
+            },
+            "Propeller__Prop_type": {
+                "Propeller_instance_1_Propeller__Prop_type": 1.0,
+                "Propeller_instance_4_Propeller__Prop_type": 1.0
+            },
+            "SensorGPS__ROTATION": {
+                "SensorGPS_instance_1_SensorGPS__ROTATION": 0.0
+            },
+            "Tube__BASE_ROT": {
+                "Tube_instance_1_Tube__BASE_ROT": 0.0,
+                "Tube_instance_2_Tube__BASE_ROT": 0.0,
+                "Tube_instance_3_Tube__BASE_ROT": 0.0,
+                "Tube_instance_4_Tube__BASE_ROT": 0.0,
+                "Tube_instance_5_Tube__BASE_ROT": 0.0,
+                "Tube_instance_6_Tube__BASE_ROT": 0.0,
+                "Tube_instance_7_Tube__BASE_ROT": 0.0,
+                "Tube_instance_8_Tube__BASE_ROT": 0.0
+            },
+            "Tube__END_ROT": {
+                "Tube_instance_1_Tube__END_ROT": 0.0,
+                "Tube_instance_2_Tube__END_ROT": 0.0,
+                "Tube_instance_3_Tube__END_ROT": 0.0,
+                "Tube_instance_4_Tube__END_ROT": 0.0,
+                "Tube_instance_5_Tube__END_ROT": 0.0,
+                "Tube_instance_6_Tube__END_ROT": 0.0,
+                "Tube_instance_7_Tube__END_ROT": 0.0,
+                "Tube_instance_8_Tube__END_ROT": 0.0
+            }
+        }
+    },
+    "PARAMETERS_ASSIGNED": [
+        "Cargo__WEIGHT",
+        "SensorVoltage__ROTATION",
+        "SensorVariometer__ROTATION",
+        "SensorAutopilot__ROTATION",
+        "SensorCurrent__ROTATION",
+        "SensorRpmTemp__ROTATION",
+        "Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH",
+        "Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH",
+        "Fuselage__HORZ_DIAMETER",
+        "Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH",
+        "Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH",
+        "Orient__Z_ANGLE",
+        "Fuselage__BOTTOM_CONNECTOR_ROTATION",
+        "Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH",
+        "Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH",
+        "Fuselage__FLOOR_HEIGHT",
+        "Fuselage__FUSE_CYL_LENGTH",
+        "Fuselage__VERT_DIAMETER",
+        "Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH",
+        "Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH",
+        "Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH",
+        "Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH",
+        "Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH",
+        "Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH",
+        "Motor__CONTROL_CHANNEL",
+        "Tube__Length",
+        "Propeller__Prop_type",
+        "Propeller__Direction"
+    ]
+}

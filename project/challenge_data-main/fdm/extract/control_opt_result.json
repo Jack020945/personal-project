@@ -1,0 +1,1 @@
+{"result": [{"Path": 9, "best_score": 100, "best_args": {"i_flight_path": 9, "requested_lateral_speed": 5, "requested_vertical_speed": 0, "Q_position": 0.00011437481734488664, "Q_velocity": 0.30233257263183977, "Q_angular_velocity": 0.7203244934421581, "Q_angles": 0.417022004702574, "R": 0.14760913492629593}, "raw_score": 100.0}], "total_score": 100}

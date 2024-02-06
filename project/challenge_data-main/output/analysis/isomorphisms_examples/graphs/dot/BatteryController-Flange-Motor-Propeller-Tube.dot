@@ -1,0 +1,208 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Tube_instance_1
+    label=Tube
+  ];
+  1 [
+    instance=Motor_instance_1
+    label=Motor
+  ];
+  2 [
+    instance=Tube_instance_2
+    label=Tube
+  ];
+  3 [
+    instance=Tube_instance_3
+    label=Tube
+  ];
+  4 [
+    instance=Propeller_instance_1
+    label=Propeller
+  ];
+  5 [
+    instance=Tube_instance_4
+    label=Tube
+  ];
+  6 [
+    instance=Motor_instance_2
+    label=Motor
+  ];
+  7 [
+    instance=Flange_instance_1
+    label=Flange
+  ];
+  8 [
+    instance=Tube_instance_5
+    label=Tube
+  ];
+  9 [
+    instance=Tube_instance_6
+    label=Tube
+  ];
+  10 [
+    instance=BatteryController_instance_1
+    label=BatteryController
+  ];
+  11 [
+    instance=Motor_instance_3
+    label=Motor
+  ];
+  12 [
+    instance=Flange_instance_2
+    label=Flange
+  ];
+  13 [
+    instance=Propeller_instance_2
+    label=Propeller
+  ];
+  14 [
+    instance=Flange_instance_3
+    label=Flange
+  ];
+  15 [
+    instance=Propeller_instance_3
+    label=Propeller
+  ];
+  16 [
+    instance=Propeller_instance_4
+    label=Propeller
+  ];
+  17 [
+    instance=Motor_instance_4
+    label=Motor
+  ];
+  18 [
+    instance=Flange_instance_4
+    label=Flange
+  ];
+  19 [
+    instance=Tube_instance_7
+    label=Tube
+  ];
+  20 [
+    instance=Tube_instance_8
+    label=Tube
+  ];
+
+  0 -> 12 [
+    label="BOTTOM-BOTTOM"
+  ];
+  1 -> 10 [
+    label=ANY
+  ];
+  1 -> 13 [
+    label=ANY
+  ];
+  1 -> 18 [
+    label=ANY
+  ];
+  2 -> 18 [
+    label="TOP-SIDE"
+  ];
+  3 -> 14 [
+    label="BOTTOM-BOTTOM"
+  ];
+  4 -> 6 [
+    label=ANY
+  ];
+  5 -> 18 [
+    label="BOTTOM-BOTTOM"
+  ];
+  6 -> 10 [
+    label=ANY
+  ];
+  6 -> 12 [
+    label=ANY
+  ];
+  6 -> 4 [
+    label=ANY
+  ];
+  7 -> 8 [
+    label="BOTTOM-BOTTOM"
+  ];
+  7 -> 9 [
+    label="SIDE-TOP"
+  ];
+  7 -> 11 [
+    label=ANY
+  ];
+  8 -> 7 [
+    label="BOTTOM-BOTTOM"
+  ];
+  9 -> 7 [
+    label="TOP-SIDE"
+  ];
+  10 -> 1 [
+    label=ANY
+  ];
+  10 -> 17 [
+    label=ANY
+  ];
+  10 -> 11 [
+    label=ANY
+  ];
+  10 -> 6 [
+    label=ANY
+  ];
+  11 -> 7 [
+    label=ANY
+  ];
+  11 -> 16 [
+    label=ANY
+  ];
+  11 -> 10 [
+    label=ANY
+  ];
+  12 -> 19 [
+    label="SIDE-TOP"
+  ];
+  12 -> 0 [
+    label="BOTTOM-BOTTOM"
+  ];
+  12 -> 6 [
+    label=ANY
+  ];
+  13 -> 1 [
+    label=ANY
+  ];
+  14 -> 3 [
+    label="BOTTOM-BOTTOM"
+  ];
+  14 -> 20 [
+    label="SIDE-TOP"
+  ];
+  14 -> 17 [
+    label=ANY
+  ];
+  15 -> 17 [
+    label=ANY
+  ];
+  16 -> 11 [
+    label=ANY
+  ];
+  17 -> 15 [
+    label=ANY
+  ];
+  17 -> 14 [
+    label=ANY
+  ];
+  17 -> 10 [
+    label=ANY
+  ];
+  18 -> 1 [
+    label=ANY
+  ];
+  18 -> 2 [
+    label="SIDE-TOP"
+  ];
+  18 -> 5 [
+    label="BOTTOM-BOTTOM"
+  ];
+  19 -> 12 [
+    label="TOP-SIDE"
+  ];
+  20 -> 14 [
+    label="TOP-SIDE"
+  ];
+}

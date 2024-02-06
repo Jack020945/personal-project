@@ -1,0 +1,4 @@
+name,class,connector,ID,CORPUS,BASE_ROT,Offset1,END_ROT,Length,Offset2,OD
+05OD_para_tube,Tube,"['BaseConnection', 'EndConnection', 'OffsetConnection1', 'OffsetConnection2']",10.16,UAV,"('0', None, None, '0')","('0', '0', None, '25')","('0', None, None, '0')","('100', '0', None, '100')","('0', '0', None, '50')",12.7
+0281OD_para_tube,Tube,"['End Connection 1', 'End Connection 2']",4.699,UAV,None,None,None,"(None, '12.7', '1219.2', None)",None,7.1374
+0394OD_para_tube,Tube,"['BaseConnection', 'EndConnection', 'OffsetConnection1', 'OffsetConnection2']",7.3152,UAV,"('0', None, None, '0')","('0', '0', None, '25')","('0', None, None, '0')","('100', '0', None, '100')","('0', '0', None, '50')",10.0076

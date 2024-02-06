@@ -1,0 +1,154 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Fuselage_instance_1
+    label=Fuselage
+  ];
+  1 [
+    instance=Motor_instance_1
+    label=Motor
+  ];
+  2 [
+    instance=SensorAutopilot_instance_1
+    label=SensorAutopilot
+  ];
+  3 [
+    instance=Hub3_instance_4
+    label=Hub3
+  ];
+  4 [
+    instance=SensorVoltage_instance_1
+    label=SensorVoltage
+  ];
+  5 [
+    instance=Motor_instance_2
+    label=Motor
+  ];
+  6 [
+    instance=Motor_instance_3
+    label=Motor
+  ];
+  7 [
+    instance=SensorGPS_instance_1
+    label=SensorGPS
+  ];
+  8 [
+    instance=Battery_instance_1
+    label=Battery
+  ];
+  9 [
+    instance=SensorVariometer_instance_1
+    label=SensorVariometer
+  ];
+  10 [
+    instance=Battery_instance_2
+    label=Battery
+  ];
+  11 [
+    instance=SensorCurrent_instance_1
+    label=SensorCurrent
+  ];
+  12 [
+    instance=Motor_instance_4
+    label=Motor
+  ];
+  13 [
+    instance=BatteryController_instance_1
+    label=BatteryController
+  ];
+  14 [
+    instance=SensorRpmTemp_instance_1
+    label=SensorRpmTemp
+  ];
+
+  0 -> 2 [
+    label=ANY
+  ];
+  0 -> 3 [
+    label=BOTTOM
+  ];
+  0 -> 4 [
+    label=ANY
+  ];
+  0 -> 7 [
+    label=ANY
+  ];
+  0 -> 8 [
+    label="INSIDE-1"
+  ];
+  0 -> 9 [
+    label=ANY
+  ];
+  0 -> 10 [
+    label="INSIDE-2"
+  ];
+  0 -> 11 [
+    label=ANY
+  ];
+  0 -> 14 [
+    label=ANY
+  ];
+  1 -> 13 [
+    label=ANY
+  ];
+  2 -> 0 [
+    label=ANY
+  ];
+  3 -> 0 [
+    label=TOP
+  ];
+  4 -> 0 [
+    label=ANY
+  ];
+  5 -> 13 [
+    label=ANY
+  ];
+  6 -> 13 [
+    label=ANY
+  ];
+  7 -> 0 [
+    label=ANY
+  ];
+  8 -> 0 [
+    label="BOTTOM-1"
+  ];
+  8 -> 13 [
+    label=ANY
+  ];
+  9 -> 0 [
+    label=ANY
+  ];
+  10 -> 0 [
+    label="BOTTOM-2"
+  ];
+  10 -> 13 [
+    label=ANY
+  ];
+  11 -> 0 [
+    label=ANY
+  ];
+  12 -> 13 [
+    label=ANY
+  ];
+  13 -> 1 [
+    label=ANY
+  ];
+  13 -> 5 [
+    label=ANY
+  ];
+  13 -> 6 [
+    label=ANY
+  ];
+  13 -> 8 [
+    label=ANY
+  ];
+  13 -> 10 [
+    label=ANY
+  ];
+  13 -> 12 [
+    label=ANY
+  ];
+  14 -> 0 [
+    label=ANY
+  ];
+}

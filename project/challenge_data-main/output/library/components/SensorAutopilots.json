@@ -1,0 +1,27 @@
+{
+    "Autopilot": {
+        "id": "Autopilot",
+        "type": "SensorAutopilot",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "LENGTH": 84.0,
+            "HEIGHT": 12.0,
+            "Manufacturer": "Pixhawk",
+            "CORPUS": "UAV",
+            "WIDTH": 44.0,
+            "Model": "Pixhawk_4",
+            "WEIGHT": 0.049
+        },
+        "connectors": [
+            "SensorConnector"
+        ]
+    }
+}

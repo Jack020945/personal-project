@@ -1,0 +1,22 @@
+{
+    "Orient": {
+        "id": "Orient",
+        "type": "Orient",
+        "parameters": [
+            {
+                "name": "Z_ANGLE",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "Both"
+        },
+        "connectors": [
+            "ORIENTCONN",
+            "Mount"
+        ]
+    }
+}

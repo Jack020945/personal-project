@@ -1,0 +1,27 @@
+{
+    "GPS": {
+        "id": "GPS",
+        "type": "SensorGPS",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "WIDTH": 60.0,
+            "Manufacturer": "CUAV",
+            "LENGTH": 60.0,
+            "HEIGHT": 15.8,
+            "WEIGHT": 0.033,
+            "Model": "CUAV_NEO_3",
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "SensorConnector"
+        ]
+    }
+}

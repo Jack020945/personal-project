@@ -1,0 +1,41 @@
+{
+    "0394od_para_hub_2": {
+        "id": "0394od_para_hub_2",
+        "type": "Hub2",
+        "parameters": [
+            {
+                "name": "ANGVERTCONN",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "DIAMETER",
+                "min": "7.1374",
+                "max": "7.1374",
+                "default": "10.0076",
+                "learned": "10.0076"
+            },
+            {
+                "name": "ANGHORZCONN",
+                "min": "55.0",
+                "max": "55.0",
+                "default": "180.0",
+                "learned": "180.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "UAV",
+            "NUMHORZCONN": 2.0
+        },
+        "connectors": [
+            "Side_Connector_1",
+            "Top_Connector",
+            "Center_Connector",
+            "Side_Connector_2",
+            "Bottom_Connector",
+            "Orient_Connector"
+        ]
+    }
+}

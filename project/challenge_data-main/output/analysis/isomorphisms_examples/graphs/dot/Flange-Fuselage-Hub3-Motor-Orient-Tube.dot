@@ -1,0 +1,308 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Tube_instance_1
+    label=Tube
+  ];
+  1 [
+    instance=Orient
+    label=Orient
+  ];
+  2 [
+    instance=Tube_instance_2
+    label=Tube
+  ];
+  3 [
+    instance=Tube_instance_3
+    label=Tube
+  ];
+  4 [
+    instance=Tube_instance_4
+    label=Tube
+  ];
+  5 [
+    instance=Flange_instance_1
+    label=Flange
+  ];
+  6 [
+    instance=Flange_instance_2
+    label=Flange
+  ];
+  7 [
+    instance=Tube_instance_5
+    label=Tube
+  ];
+  8 [
+    instance=Tube_instance_6
+    label=Tube
+  ];
+  9 [
+    instance=Hub3_instance_1
+    label=Hub3
+  ];
+  10 [
+    instance=Hub3_instance_2
+    label=Hub3
+  ];
+  11 [
+    instance=Flange_instance_3
+    label=Flange
+  ];
+  12 [
+    instance=Tube_instance_7
+    label=Tube
+  ];
+  13 [
+    instance=Motor_instance_1
+    label=Motor
+  ];
+  14 [
+    instance=Tube_instance_8
+    label=Tube
+  ];
+  15 [
+    instance=Tube_instance_9
+    label=Tube
+  ];
+  16 [
+    instance=Tube_instance_10
+    label=Tube
+  ];
+  17 [
+    instance=Fuselage_instance_1
+    label=Fuselage
+  ];
+  18 [
+    instance=Hub3_instance_3
+    label=Hub3
+  ];
+  19 [
+    instance=Tube_instance_11
+    label=Tube
+  ];
+  20 [
+    instance=Tube_instance_12
+    label=Tube
+  ];
+  21 [
+    instance=Tube_instance_13
+    label=Tube
+  ];
+  22 [
+    instance=Motor_instance_2
+    label=Motor
+  ];
+  23 [
+    instance=Motor_instance_3
+    label=Motor
+  ];
+  24 [
+    instance=Tube_instance_14
+    label=Tube
+  ];
+  25 [
+    instance=Hub3_instance_4
+    label=Hub3
+  ];
+  26 [
+    instance=Hub3_instance_5
+    label=Hub3
+  ];
+  27 [
+    instance=Flange_instance_4
+    label=Flange
+  ];
+  28 [
+    instance=Tube_instance_15
+    label=Tube
+  ];
+  29 [
+    instance=Tube_instance_16
+    label=Tube
+  ];
+  30 [
+    instance=Motor_instance_4
+    label=Motor
+  ];
+
+  0 -> 10 [
+    label="SIDE3-BOTTOM"
+  ];
+  0 -> 5 [
+    label="TOP-BOTTOM"
+  ];
+  1 -> 18 [
+    label=ANY
+  ];
+  2 -> 6 [
+    label="BOTTOM-SIDE"
+  ];
+  3 -> 9 [
+    label="SIDE3-TOP"
+  ];
+  3 -> 25 [
+    label="SIDE1-BOTTOM"
+  ];
+  4 -> 10 [
+    label="SIDE1-BOTTOM"
+  ];
+  4 -> 26 [
+    label="SIDE1-TOP"
+  ];
+  5 -> 16 [
+    label="SIDE-BOTTOM"
+  ];
+  5 -> 0 [
+    label="BOTTOM-TOP"
+  ];
+  5 -> 13 [
+    label=ANY
+  ];
+  6 -> 2 [
+    label="SIDE-BOTTOM"
+  ];
+  6 -> 22 [
+    label=ANY
+  ];
+  6 -> 28 [
+    label="BOTTOM-TOP"
+  ];
+  7 -> 26 [
+    label="SIDE2-BOTTOM"
+  ];
+  7 -> 11 [
+    label="TOP-SIDE"
+  ];
+  8 -> 27 [
+    label="BOTTOM-BOTTOM"
+  ];
+  9 -> 15 [
+    label="TOP-CENTER"
+  ];
+  9 -> 24 [
+    label="BOTTOM-SIDE1"
+  ];
+  9 -> 3 [
+    label="TOP-SIDE3"
+  ];
+  9 -> 14 [
+    label="BOTTOM-SIDE2"
+  ];
+  10 -> 4 [
+    label="BOTTOM-SIDE1"
+  ];
+  10 -> 19 [
+    label="TOP-SIDE2"
+  ];
+  10 -> 0 [
+    label="BOTTOM-SIDE3"
+  ];
+  11 -> 7 [
+    label="SIDE-TOP"
+  ];
+  11 -> 21 [
+    label="BOTTOM-BOTTOM"
+  ];
+  11 -> 30 [
+    label=ANY
+  ];
+  12 -> 18 [
+    label="SIDE1-BOTTOM"
+  ];
+  12 -> 25 [
+    label="SIDE2-TOP"
+  ];
+  13 -> 5 [
+    label=ANY
+  ];
+  14 -> 9 [
+    label="SIDE2-BOTTOM"
+  ];
+  14 -> 27 [
+    label="TOP-SIDE"
+  ];
+  15 -> 9 [
+    label="CENTER-TOP"
+  ];
+  16 -> 5 [
+    label="BOTTOM-SIDE"
+  ];
+  17 -> 18 [
+    label=BOTTOM
+  ];
+  18 -> 1 [
+    label=ANY
+  ];
+  18 -> 12 [
+    label="BOTTOM-SIDE1"
+  ];
+  18 -> 19 [
+    label="BOTTOM-SIDE3"
+  ];
+  18 -> 17 [
+    label=TOP
+  ];
+  19 -> 10 [
+    label="SIDE2-TOP"
+  ];
+  19 -> 18 [
+    label="SIDE3-BOTTOM"
+  ];
+  20 -> 26 [
+    label="SIDE3-BOTTOM"
+  ];
+  21 -> 11 [
+    label="BOTTOM-BOTTOM"
+  ];
+  22 -> 6 [
+    label=ANY
+  ];
+  23 -> 27 [
+    label=ANY
+  ];
+  24 -> 9 [
+    label="SIDE1-BOTTOM"
+  ];
+  25 -> 28 [
+    label="BOTTOM-SIDE3"
+  ];
+  25 -> 12 [
+    label="TOP-SIDE2"
+  ];
+  25 -> 3 [
+    label="BOTTOM-SIDE1"
+  ];
+  26 -> 4 [
+    label="TOP-SIDE1"
+  ];
+  26 -> 29 [
+    label="TOP-CENTER"
+  ];
+  26 -> 20 [
+    label="BOTTOM-SIDE3"
+  ];
+  26 -> 7 [
+    label="BOTTOM-SIDE2"
+  ];
+  27 -> 23 [
+    label=ANY
+  ];
+  27 -> 14 [
+    label="SIDE-TOP"
+  ];
+  27 -> 8 [
+    label="BOTTOM-BOTTOM"
+  ];
+  28 -> 6 [
+    label="TOP-BOTTOM"
+  ];
+  28 -> 25 [
+    label="SIDE3-BOTTOM"
+  ];
+  29 -> 26 [
+    label="CENTER-TOP"
+  ];
+  30 -> 11 [
+    label=ANY
+  ];
+}

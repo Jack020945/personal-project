@@ -1,0 +1,27 @@
+{
+    "Variometer": {
+        "id": "Variometer",
+        "type": "SensorVariometer",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "UAV",
+            "WEIGHT": 0.0031,
+            "Model": "Vari_H",
+            "LENGTH": 31.1,
+            "Manufacturer": "FrSKY",
+            "WIDTH": 18.3,
+            "HEIGHT": 6.0
+        },
+        "connectors": [
+            "SensorConnector"
+        ]
+    }
+}

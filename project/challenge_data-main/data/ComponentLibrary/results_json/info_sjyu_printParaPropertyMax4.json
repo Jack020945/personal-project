@@ -1,0 +1,4796 @@
+[
+  {
+    "comp": "apc_propellers_22x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_22x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5x5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5x5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_5x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_5x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_25x6_25E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_25x6_25E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_5x2_5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_5x2_5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5x7_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5x7_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_5x5_0",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_5x5_0",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x6E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x6E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_3x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_3x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x4_1SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x4_1SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x7E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x7E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7_8x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7_8x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x6E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x6E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x7",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x7",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x5_0",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x5_0",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x4_7SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x4_7SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x9_0W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x9_0W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x6_5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x6_5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x8_5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x8_5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x9_75",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x9_75",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x3_7SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x3_7SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x9_25",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x9_25",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x6SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x6SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_5x7_5N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_5x7_5N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_5x7N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_5x7N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "Autopilot",
+    "class": "SensorAutopilot",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "capsule_fuselage",
+    "class": "Fuselage",
+    "prop": "BOTTOM_CONNECTOR_ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "class": "Hub6",
+    "prop": "ANGVERTCONN",
+    "max_val": "45"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "class": "Hub6",
+    "prop": "ANGHORZCONN",
+    "max_val": "60"
+  },
+  {
+    "comp": "0394od_para_hub_6",
+    "class": "Hub6",
+    "prop": "DIAMETER",
+    "max_val": "12.7"
+  },
+  {
+    "comp": "0394_para_flange",
+    "class": "Flange",
+    "prop": "BOTTOM_ANGLE",
+    "max_val": "360"
+  },
+  {
+    "comp": "0394_para_flange",
+    "class": "Flange",
+    "prop": "SIDE_ANGLE",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_10x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x3_8SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x3_8SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "Tattu25C8000mAh6S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu25C10000mAh4S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu30C10000mAh6S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TattuPlus25C22000mAh12S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene1500mAh3S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu5C20000mAh6S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu25C22000mAh14S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu25C25000mAh14S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene2200mAh4S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene1300mAh4S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene6000mAh3S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene4000mAh6S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene1400mAh4S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_10x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x12N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x12N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x3",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x3",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x5_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x5_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x3",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x3",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "0394od_para_hub_4",
+    "class": "Hub4",
+    "prop": "DIAMETER",
+    "max_val": "12.7"
+  },
+  {
+    "comp": "0394od_para_hub_4",
+    "class": "Hub4",
+    "prop": "ANGHORZCONN",
+    "max_val": "90"
+  },
+  {
+    "comp": "0394od_para_hub_4",
+    "class": "Hub4",
+    "prop": "ANGVERTCONN",
+    "max_val": "45"
+  },
+  {
+    "comp": "apc_propellers_10x10E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x10E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x7E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x7E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x5_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x5_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x12",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x12",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x12",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x12",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13_5x13_5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13_5x13_5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x3",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x3",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18_1x12",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18_1x12",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_22x10E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_22x10E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x8E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x8E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7_8x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7_8x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_75x4_75E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_75x4_75E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x8E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x8E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x5_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x5_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x15E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x15E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x8N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x8N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x10W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x10W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x12E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x12E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x6E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x6E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x10WE",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x10WE",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_5x2",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_5x2",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x4E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x4E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_5N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_5N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_1x4_1E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_1x4_1E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5x4R_RH",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5x4R_RH",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "CargoCase",
+    "class": "CargoCase",
+    "prop": "Rotation",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_10x4_7SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x4_7SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "Tattu35C6000mAh6S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TattuPro25C22000mAh12S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu10C40000mAh6S1PHV",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu25C30000mAh6S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene3000mAh4S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene5000mAh3S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu5C28000mAh6S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TattuPlus15C16000mAh12S1Pcompact",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Wing_horiz_hole",
+    "class": "Wing",
+    "prop": "SERVO_THICKNESS",
+    "max_val": "0.1"
+  },
+  {
+    "comp": "Wing_horiz_hole",
+    "class": "Wing",
+    "prop": "SERVO_WIDTH",
+    "max_val": "0.1"
+  },
+  {
+    "comp": "Wing_horiz_hole",
+    "class": "Wing",
+    "prop": "AILERON_BIAS",
+    "max_val": "1"
+  },
+  {
+    "comp": "Wing_horiz_hole",
+    "class": "Wing",
+    "prop": "SERVO_LENGTH",
+    "max_val": "0.1"
+  },
+  {
+    "comp": "Wing_horiz_hole",
+    "class": "Wing",
+    "prop": "TAPER_OFFSET",
+    "max_val": "1"
+  },
+  {
+    "comp": "Wing_horiz_hole",
+    "class": "Wing",
+    "prop": "TUBE_ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Wing_horiz_hole",
+    "class": "Wing",
+    "prop": "FLAP_BIAS",
+    "max_val": "1"
+  },
+  {
+    "comp": "Wing_horiz_hole",
+    "class": "Wing",
+    "prop": "THICKNESS",
+    "max_val": "25"
+  },
+  {
+    "comp": "apc_propellers_12x7",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x7",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "0394od_para_hub_5",
+    "class": "Hub5",
+    "prop": "DIAMETER",
+    "max_val": "12.7"
+  },
+  {
+    "comp": "0394od_para_hub_5",
+    "class": "Hub5",
+    "prop": "ANGVERTCONN",
+    "max_val": "45"
+  },
+  {
+    "comp": "0394od_para_hub_5",
+    "class": "Hub5",
+    "prop": "ANGHORZCONN",
+    "max_val": "72"
+  },
+  {
+    "comp": "apc_propellers_19x11",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_19x11",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x9",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x9",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x4W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x4W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x4_7SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x4_7SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x13N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x13N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x11",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x11",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x10E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x10E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x7",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x7",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x6E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x6E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x7",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x7",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x4W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x4W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5x3",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5x3",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x4_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x4_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x3",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x3",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_25x6_0",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_25x6_0",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x8_75NN",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x8_75NN",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4_1SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4_1SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x9",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x9",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_7x3",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_7x3",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x8_75",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x8_75",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x11",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x11",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x8E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x8E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "TattuPro25C22000mAh14S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu25C28000mAh6S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu25C22000mAh4S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene6000mAh6S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene1500mAh4S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_10x5_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x5_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x13_5N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x13_5N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x7SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x7SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x8_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x8_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12_5x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12_5x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11_5x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11_5x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10_5x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10_5x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_75x4_5EC",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_75x4_5EC",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_5x3_7",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_5x3_7",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12_25x3_75",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12_25x3_75",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x10E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x10E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x4W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x4W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x3_75",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x3_75",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x13",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x13",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x7E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x7E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x9_25W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x9_25W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x5_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x5_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_5x4_5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_5x4_5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x9",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x9",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x11E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x11E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_2x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_2x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_5x6_5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_5x6_5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "0394od_para_hub_3",
+    "class": "Hub3",
+    "prop": "ANGVERTCONN",
+    "max_val": "45"
+  },
+  {
+    "comp": "0394od_para_hub_3",
+    "class": "Hub3",
+    "prop": "ANGHORZCONN",
+    "max_val": "120"
+  },
+  {
+    "comp": "0394od_para_hub_3",
+    "class": "Hub3",
+    "prop": "DIAMETER",
+    "max_val": "12.7"
+  },
+  {
+    "comp": "apc_propellers_9x8_5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x8_5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x13N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x13N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x3_8SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x3_8SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x13",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x13",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_19x12E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_19x12E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x6W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x6W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_3x3",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_3x3",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "TattuPlus25C22000mAh12S1PAGRI",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu10C32000mAh6S1PHV",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene1200mAh6S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene3000mAh6S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene5000mAh6S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_11x4_7SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x4_7SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x14",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x14",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12_5x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12_5x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x4_6SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x4_6SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x12",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x12",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x12E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x12E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x10E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x10E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "05OD_para_flange",
+    "class": "Flange",
+    "prop": "SIDE_ANGLE",
+    "max_val": "360"
+  },
+  {
+    "comp": "05OD_para_flange",
+    "class": "Flange",
+    "prop": "BOTTOM_ANGLE",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_12x11",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x11",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x4_6SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x4_6SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x3R_RH",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x3R_RH",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x13",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x13",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x5_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x5_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_7x4_2E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_7x4_2E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x9W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x9W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x5_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x5_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x9",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x9",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x9",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x9",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x4E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x4E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x6_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x6_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x4_1SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x4_1SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x14",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x14",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x9_25NN",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x9_25NN",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x5_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x5_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x12",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x12",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x6N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x6N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_19x12WE",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_19x12WE",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_19x8E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_19x8E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x13E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x13E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_5x3_5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_5x3_5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_24x12E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_24x12E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "0281OD_para_tube",
+    "class": "Tube",
+    "prop": "Length",
+    "max_val": "1219.2"
+  },
+  {
+    "comp": "apc_propellers_6x5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_5x4_1E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_5x4_1E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x7",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x7",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x6E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x6E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7_4x7_5C",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7_4x7_5C",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7_8x7",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7_8x7",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x8_75W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x8_75W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x7_5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x7_5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x7E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x7E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x3_8SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x3_8SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh2S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TattuPlus15C16000mAh12S1PAGRI",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu10C25000mAh6S1PHV",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene6000mAh4S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu15C16000mAh4S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu15C17000mAh6S1PHV",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene5000mAh4S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_11x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x11",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x11",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x7",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x7",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_25x12_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_25x12_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x13",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x13",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x14",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x14",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_5x2_9",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_5x2_9",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x12",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x12",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x8E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x8E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x6E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x6E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x14E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x14E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5x3E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5x3E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x12E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x12E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15_5x12W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15_5x12W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x5_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x5_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "Cargo",
+    "class": "Cargo",
+    "prop": "WEIGHT",
+    "max_val": "0.5"
+  },
+  {
+    "comp": "apc_propellers_22x12WE",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_22x12WE",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_5x6_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_5x6_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x10E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x10E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x10N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x10N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x12W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x12W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_75x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_75x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_5x6_0",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_5x6_0",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_5x4_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_5x4_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x14N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x14N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x7_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x7_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x7_5SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x7_5SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x4W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x4W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_5NN",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_5NN",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x6SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x6SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4_4SFR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4_4SFR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x9_0NN",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x9_0NN",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4_6SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4_6SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "TurnigyGraphene3000mAh3S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene1300mAh3S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Voltage",
+    "class": "SensorVoltage",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu25C7000mAh6S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene1600mAh4S75CSquare",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Wing_vert_hole",
+    "class": "Wing",
+    "prop": "TUBE_ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Wing_vert_hole",
+    "class": "Wing",
+    "prop": "SERVO_THICKNESS",
+    "max_val": "0.1"
+  },
+  {
+    "comp": "Wing_vert_hole",
+    "class": "Wing",
+    "prop": "SERVO_LENGTH",
+    "max_val": "0.1"
+  },
+  {
+    "comp": "Wing_vert_hole",
+    "class": "Wing",
+    "prop": "AILERON_BIAS",
+    "max_val": "1"
+  },
+  {
+    "comp": "Wing_vert_hole",
+    "class": "Wing",
+    "prop": "FLAP_BIAS",
+    "max_val": "1"
+  },
+  {
+    "comp": "Wing_vert_hole",
+    "class": "Wing",
+    "prop": "TAPER_OFFSET",
+    "max_val": "1"
+  },
+  {
+    "comp": "Wing_vert_hole",
+    "class": "Wing",
+    "prop": "SERVO_WIDTH",
+    "max_val": "0.1"
+  },
+  {
+    "comp": "Wing_vert_hole",
+    "class": "Wing",
+    "prop": "THICKNESS",
+    "max_val": "25"
+  },
+  {
+    "comp": "TurnigyGraphene2200mAh3S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_11x8E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x8E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x6E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x6E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13_5x9",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13_5x9",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x4_7SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x4_7SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x5_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x5_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x6SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x6SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_21x13E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_21x13E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_21x13WE",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_21x13WE",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x4E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x4E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x10E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x10E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x4E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x4E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x12E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x12E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x12E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x12E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x7",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x7",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x13",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x13",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_5W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_5W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x8_5N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x8_5N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_75x4_75EC",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_75x4_75EC",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x12",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x12",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_1x4_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_1x4_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x10W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x10W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_5x5_5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6_5x5_5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7_4x7_6C",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7_4x7_6C",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_5x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_5x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x2",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_6x2",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x12N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x12N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_27x13E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_27x13E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x9_0",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x9_0",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_5x4_7E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_5x4_7E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x7_5C",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x7_5C",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x45R_RH",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x45R_RH",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x3N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x3N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x3",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x3",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_75x4_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_75x4_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "Current",
+    "class": "SensorCurrent",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_8x4_2SFR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x4_2SFR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "GPS",
+    "class": "SensorGPS",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TattuPlus15C16000mAh12S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu30C12000mAh6S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu30C16000mAh6S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_11x12W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x12W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x6E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x6E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x6SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x6SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x13N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x13N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x10E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x10E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_0N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_0N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18_1x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18_1x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x5N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x5N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x9",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x9",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x10E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x10E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x4_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_10x4_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x8_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x8_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "0281_para_flange",
+    "class": "Flange",
+    "prop": "SIDE_ANGLE",
+    "max_val": "360"
+  },
+  {
+    "comp": "0281_para_flange",
+    "class": "Flange",
+    "prop": "BOTTOM_ANGLE",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_11_5x4",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11_5x4",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_75x5_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_75x5_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x7",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x7",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x9",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x9",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x4E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x4E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x6",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x6",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_75NN",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x7_75NN",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x7E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x7E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x8",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x8",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "0394od_para_hub_2",
+    "class": "Hub2",
+    "prop": "ANGVERTCONN",
+    "max_val": "45"
+  },
+  {
+    "comp": "0394od_para_hub_2",
+    "class": "Hub2",
+    "prop": "DIAMETER",
+    "max_val": "12.7"
+  },
+  {
+    "comp": "0394od_para_hub_2",
+    "class": "Hub2",
+    "prop": "ANGHORZCONN",
+    "max_val": "300"
+  },
+  {
+    "comp": "apc_propellers_8x3_8SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x3_8SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_2x2",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_4_2x2",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x4_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x4_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x5SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x5SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x14",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x14",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20_5x14E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20_5x14E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x8_0NN",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_75x8_0NN",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x4SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x4SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_25x5_5E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_5_25x5_5E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "RpmTemp",
+    "class": "SensorRpmTemp",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_12x3_8SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x3_8SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh4S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu25C19000mAh14S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu30C22000mAh6S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene4000mAh4S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu25C23000mAh6S1PHV",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh6S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene4000mAh3S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "TurnigyGraphene1000mAh3S75C",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_17x7E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x7E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20_5x12WE",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20_5x12WE",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x4_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8x4_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x6E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x6E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x7",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x7",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x6W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x6W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x14",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_11x14",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x12E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x12E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x11",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x11",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_19x10E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_19x10E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x13_5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x13_5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x4W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x4W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x8E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x8E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x8E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x8E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_22x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_22x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7_4x7_7C",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7_4x7_7C",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4_7SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4_7SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x8_9",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x8_9",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x4_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x9_5",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_8_8x9_5",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x4E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_7x4E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_625x3_75N",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9_625x3_75N",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_26x15E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_26x15E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_26x13E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_26x13E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x9E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_9x9E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x8SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_12x8SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "Tattu25C9000mAh6S1P",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Tattu25C11000mAh6S1PHV",
+    "class": "Battery",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "Variometer",
+    "class": "SensorVariometer",
+    "prop": "ROTATION",
+    "max_val": "360"
+  },
+  {
+    "comp": "apc_propellers_13x4_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x4_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x7",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x7",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13_5x14",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13_5x14",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x4_7SF",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x4_7SF",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x8E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13x8E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13_5x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_13_5x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x5_5MR",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_14x5_5MR",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x16",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x16",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x8E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x8E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x10E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_15x10E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x10E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_16x10E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x10",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x10",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x12",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x12",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x6E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_17x6E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x12WE",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x12WE",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x12",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x12",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x8E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x8E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x14",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x14",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x8W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_18x8W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_19x8W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_19x8W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x8W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x8W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x12WE",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x12WE",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_21x12WE",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_21x12WE",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x15C",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_20x15C",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_22x12E",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_22x12E",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_21x10W",
+    "class": "Propeller",
+    "prop": "Direction",
+    "max_val": "1"
+  },
+  {
+    "comp": "apc_propellers_21x10W",
+    "class": "Propeller",
+    "prop": "Prop_type",
+    "max_val": "1"
+  }
+]

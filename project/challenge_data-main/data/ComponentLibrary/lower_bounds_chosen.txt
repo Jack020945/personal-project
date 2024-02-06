@@ -1,0 +1,12 @@
+Para__ROT2: 0
+None__Output_Voltage: 110
+None__Input_Voltage: 110
+Motor__CONTROL_CHANNEL: 0
+Beam__TOP_CONN_DISP: -2250
+Beam__BOTTOM_CONN_DISP: -2250
+Wing__NACA_Profile: 0
+Orient__Z_ANGLE: 0
+Cylinder__LENGTH: 500
+NACA_Port_Connector__BOTTOM_CONNECTION_DISP: -2250
+BatteryController__Output_Voltage: 110
+BatteryController__Input_Voltage: 110

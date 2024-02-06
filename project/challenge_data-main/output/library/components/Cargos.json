@@ -1,0 +1,24 @@
+{
+    "Cargo": {
+        "id": "Cargo",
+        "type": "Cargo",
+        "parameters": [
+            {
+                "name": "WEIGHT",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.5",
+                "learned": "0.5"
+            }
+        ],
+        "properties": {
+            "CORPUS": "UAV",
+            "HEIGHT": 125.0,
+            "WIDTH": 250.0,
+            "LENGTH": 250.0
+        },
+        "connectors": [
+            "CargoConnector"
+        ]
+    }
+}

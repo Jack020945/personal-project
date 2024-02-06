@@ -1,0 +1,264 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=CargoCase_instance_1
+    label=CargoCase
+  ];
+  1 [
+    instance=Fuselage_instance_1
+    label=Fuselage
+  ];
+  2 [
+    instance=Flange_instance_1
+    label=Flange
+  ];
+  3 [
+    instance=Motor_instance_1
+    label=Motor
+  ];
+  4 [
+    instance=SensorAutopilot_instance_1
+    label=SensorAutopilot
+  ];
+  5 [
+    instance=Hub3_instance_4
+    label=Hub3
+  ];
+  6 [
+    instance=Propeller_instance_1
+    label=Propeller
+  ];
+  7 [
+    instance=Flange_instance_2
+    label=Flange
+  ];
+  8 [
+    instance=SensorVoltage_instance_1
+    label=SensorVoltage
+  ];
+  9 [
+    instance=Cargo_instance_1
+    label=Cargo
+  ];
+  10 [
+    instance=Propeller_instance_2
+    label=Propeller
+  ];
+  11 [
+    instance=Motor_instance_2
+    label=Motor
+  ];
+  12 [
+    instance=Motor_instance_3
+    label=Motor
+  ];
+  13 [
+    instance=Flange_instance_3
+    label=Flange
+  ];
+  14 [
+    instance=Propeller_instance_3
+    label=Propeller
+  ];
+  15 [
+    instance=Flange_instance_4
+    label=Flange
+  ];
+  16 [
+    instance=SensorGPS_instance_1
+    label=SensorGPS
+  ];
+  17 [
+    instance=Battery_instance_1
+    label=Battery
+  ];
+  18 [
+    instance=SensorVariometer_instance_1
+    label=SensorVariometer
+  ];
+  19 [
+    instance=Battery_instance_2
+    label=Battery
+  ];
+  20 [
+    instance=Orient
+    label=Orient
+  ];
+  21 [
+    instance=SensorCurrent_instance_1
+    label=SensorCurrent
+  ];
+  22 [
+    instance=Motor_instance_4
+    label=Motor
+  ];
+  23 [
+    instance=Propeller_instance_4
+    label=Propeller
+  ];
+  24 [
+    instance=BatteryController_instance_1
+    label=BatteryController
+  ];
+  25 [
+    instance=SensorRpmTemp_instance_1
+    label=SensorRpmTemp
+  ];
+
+  0 -> 5 [
+    label=ANY
+  ];
+  0 -> 9 [
+    label=ANY
+  ];
+  1 -> 4 [
+    label=ANY
+  ];
+  1 -> 5 [
+    label=BOTTOM
+  ];
+  1 -> 8 [
+    label=ANY
+  ];
+  1 -> 16 [
+    label=ANY
+  ];
+  1 -> 17 [
+    label="INSIDE-1"
+  ];
+  1 -> 18 [
+    label=ANY
+  ];
+  1 -> 19 [
+    label="INSIDE-2"
+  ];
+  1 -> 21 [
+    label=ANY
+  ];
+  1 -> 25 [
+    label=ANY
+  ];
+  2 -> 3 [
+    label=ANY
+  ];
+  3 -> 2 [
+    label=ANY
+  ];
+  3 -> 6 [
+    label=ANY
+  ];
+  3 -> 24 [
+    label=ANY
+  ];
+  4 -> 1 [
+    label=ANY
+  ];
+  5 -> 0 [
+    label=ANY
+  ];
+  5 -> 1 [
+    label=TOP
+  ];
+  5 -> 20 [
+    label=ANY
+  ];
+  6 -> 3 [
+    label=ANY
+  ];
+  7 -> 22 [
+    label=ANY
+  ];
+  8 -> 1 [
+    label=ANY
+  ];
+  9 -> 0 [
+    label=ANY
+  ];
+  10 -> 11 [
+    label=ANY
+  ];
+  11 -> 10 [
+    label=ANY
+  ];
+  11 -> 13 [
+    label=ANY
+  ];
+  11 -> 24 [
+    label=ANY
+  ];
+  12 -> 14 [
+    label=ANY
+  ];
+  12 -> 15 [
+    label=ANY
+  ];
+  12 -> 24 [
+    label=ANY
+  ];
+  13 -> 11 [
+    label=ANY
+  ];
+  14 -> 12 [
+    label=ANY
+  ];
+  15 -> 12 [
+    label=ANY
+  ];
+  16 -> 1 [
+    label=ANY
+  ];
+  17 -> 1 [
+    label="BOTTOM-1"
+  ];
+  17 -> 24 [
+    label=ANY
+  ];
+  18 -> 1 [
+    label=ANY
+  ];
+  19 -> 1 [
+    label="BOTTOM-2"
+  ];
+  19 -> 24 [
+    label=ANY
+  ];
+  20 -> 5 [
+    label=ANY
+  ];
+  21 -> 1 [
+    label=ANY
+  ];
+  22 -> 7 [
+    label=ANY
+  ];
+  22 -> 23 [
+    label=ANY
+  ];
+  22 -> 24 [
+    label=ANY
+  ];
+  23 -> 22 [
+    label=ANY
+  ];
+  24 -> 3 [
+    label=ANY
+  ];
+  24 -> 11 [
+    label=ANY
+  ];
+  24 -> 12 [
+    label=ANY
+  ];
+  24 -> 17 [
+    label=ANY
+  ];
+  24 -> 19 [
+    label=ANY
+  ];
+  24 -> 22 [
+    label=ANY
+  ];
+  25 -> 1 [
+    label=ANY
+  ];
+}

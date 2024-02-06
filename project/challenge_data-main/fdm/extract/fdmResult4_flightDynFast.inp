@@ -1,0 +1,136 @@
+&aircraft_data
+   aircraft%cname='UAV'
+   aircraft%ctype='SymCPSDesign'
+   aircraft%i_analysis_type =3
+   aircraft%num_wings		= 0
+   aircraft%num_propellers      = 4
+   aircraft%mass          = 1.974677527995923
+   aircraft%x_cm          =  -0.007358531676474548
+   aircraft%y_cm          =  0.0
+   aircraft%z_cm          =  -25.781077090642487
+   aircraft%x_fuse        =  5.526935204404858
+   aircraft%y_fuse        =  -2.5398303635477495
+   aircraft%z_fuse        =  4.369428989665722
+   aircraft%X_fuseuu      =  20113.077032268953
+   aircraft%Y_fusevv      =  14336.965053275366
+   aircraft%Z_fuseww      =  16423.114396984205
+   aircraft%Ixx           =  13025.336805560486
+   aircraft%Ixy           =  0.0
+   aircraft%Ixz           =  0.0
+   aircraft%Iyy           =  14508.728240844901
+   aircraft%Iyz           =  0.0
+   aircraft%Izz           =  25927.769163979607
+   aircraft%time           = 0.d0        ! initial time (default = 0.)
+   aircraft%dt             = 1.d-03      ! s  fixed time step
+   aircraft%dt_output      = 1.0d0       ! s  time between output lines
+   aircraft%time_end       = 1000.d0        ! s  end time 
+   aircraft%Unwind         = 0.d0        ! North wind speed in world frame
+   aircraft%Vewind         = 0.d0        ! East wind speed in  world frame
+   aircraft%Wdwind         = 0.d0        ! Down wind speed in world frame
+   aircraft%debug          = 0           ! verbose printouts from fderiv
+   aircraft%num_batteries      = 1
+
+! Propeller Propeller_instance_4  Motor:Motor_instance_1 comps: {'ESC': 'BatteryController_instance_1', 'PROP': 'Propeller_instance_4', 'BATT': ['Battery_UAV_instance_2', 'Battery_UAV_instance_2', 'Battery_UAV_instance_1', 'Battery_UAV_instance_1']}
+   propeller(1)%cname        = 'Propeller_instance_4'
+   propeller(1)%prop_fname   = '..//..//..//Tables/PropData/PER3_7x5E.dat'
+   propeller(1)%x = 155.5635
+   propeller(1)%y = -155.5635
+   propeller(1)%z = -35.0617
+   propeller(1)%nx = -0.0000
+   propeller(1)%ny = -0.0000
+   propeller(1)%nz = -1.0000
+   propeller(1)%radius =   88.9000
+   propeller(1)%spin =   1
+   propeller(1)%Ir =   21.022538600000004
+   propeller(1)%motor_fname  =   '../../Motors/KDE2315XF885'
+   propeller(1)%Rw  =   0.127
+   propeller(1)%KV  =   885.0
+   propeller(1)%KT  =   0.0108
+   propeller(1)%I_max  =   24.0
+   propeller(1)%I_idle  =   0.5
+   propeller(1)%maxpower  =   532.0
+   propeller(1)%icontrol  =   1
+   propeller(1)%ibattery  =   1
+
+! Propeller Propeller_instance_3  Motor:Motor_instance_2 comps: {'ESC': 'BatteryController_instance_1', 'PROP': 'Propeller_instance_3', 'BATT': ['Battery_UAV_instance_2', 'Battery_UAV_instance_2', 'Battery_UAV_instance_1', 'Battery_UAV_instance_1']}
+   propeller(2)%cname        = 'Propeller_instance_3'
+   propeller(2)%prop_fname   = '..//..//..//Tables/PropData/PER3_7x5E.dat'
+   propeller(2)%x = -155.5635
+   propeller(2)%y = 155.5635
+   propeller(2)%z = -35.0617
+   propeller(2)%nx = -0.0000
+   propeller(2)%ny = -0.0000
+   propeller(2)%nz = -1.0000
+   propeller(2)%radius =   88.9000
+   propeller(2)%spin =   1
+   propeller(2)%Ir =   21.022538600000004
+   propeller(2)%motor_fname  =   '../../Motors/KDE2315XF885'
+   propeller(2)%Rw  =   0.127
+   propeller(2)%KV  =   885.0
+   propeller(2)%KT  =   0.0108
+   propeller(2)%I_max  =   24.0
+   propeller(2)%I_idle  =   0.5
+   propeller(2)%maxpower  =   532.0
+   propeller(2)%icontrol  =   2
+   propeller(2)%ibattery  =   1
+
+! Propeller Propeller_instance_2  Motor:Motor_instance_3 comps: {'ESC': 'BatteryController_instance_1', 'PROP': 'Propeller_instance_2', 'BATT': ['Battery_UAV_instance_2', 'Battery_UAV_instance_2', 'Battery_UAV_instance_1', 'Battery_UAV_instance_1']}
+   propeller(3)%cname        = 'Propeller_instance_2'
+   propeller(3)%prop_fname   = '..//..//..//Tables/PropData/PER3_7x5E.dat'
+   propeller(3)%x = 155.5635
+   propeller(3)%y = 155.5635
+   propeller(3)%z = -35.0617
+   propeller(3)%nx = -0.0000
+   propeller(3)%ny = -0.0000
+   propeller(3)%nz = -1.0000
+   propeller(3)%radius =   88.9000
+   propeller(3)%spin =   1
+   propeller(3)%Ir =   21.022538600000004
+   propeller(3)%motor_fname  =   '../../Motors/KDE2315XF885'
+   propeller(3)%Rw  =   0.127
+   propeller(3)%KV  =   885.0
+   propeller(3)%KT  =   0.0108
+   propeller(3)%I_max  =   24.0
+   propeller(3)%I_idle  =   0.5
+   propeller(3)%maxpower  =   532.0
+   propeller(3)%icontrol  =   3
+   propeller(3)%ibattery  =   1
+
+! Propeller Propeller_instance_1  Motor:Motor_instance_4 comps: {'ESC': 'BatteryController_instance_1', 'PROP': 'Propeller_instance_1', 'BATT': ['Battery_UAV_instance_2', 'Battery_UAV_instance_2', 'Battery_UAV_instance_1', 'Battery_UAV_instance_1']}
+   propeller(4)%cname        = 'Propeller_instance_1'
+   propeller(4)%prop_fname   = '..//..//..//Tables/PropData/PER3_7x5E.dat'
+   propeller(4)%x = -155.5635
+   propeller(4)%y = -155.5635
+   propeller(4)%z = -35.0617
+   propeller(4)%nx = -0.0000
+   propeller(4)%ny = -0.0000
+   propeller(4)%nz = -1.0000
+   propeller(4)%radius =   88.9000
+   propeller(4)%spin =   1
+   propeller(4)%Ir =   21.022538600000004
+   propeller(4)%motor_fname  =   '../../Motors/KDE2315XF885'
+   propeller(4)%Rw  =   0.127
+   propeller(4)%KV  =   885.0
+   propeller(4)%KT  =   0.0108
+   propeller(4)%I_max  =   24.0
+   propeller(4)%I_idle  =   0.5
+   propeller(4)%maxpower  =   532.0
+   propeller(4)%icontrol  =   4
+   propeller(4)%ibattery  =   1
+!   Batteries: {'BatteryController_instance_1': ['Battery_UAV_instance_2', 'Battery_UAV_instance_1']}
+
+!   Battery(1) is an aggregate of the above 
+   battery(1)%voltage   = 22.2 
+   battery(1)%capacity   = 6000.0 
+   battery(1)%C_Continuous   = 75.0 
+   battery(1)%C_Peak         = 150.0 
+!   Controls
+    control%i_flight_path = 4
+    control%requested_lateral_speed = 15.0
+    control%requested_vertical_speed = 1.0
+    control%Q_position = 1.0
+    control%Q_velocity =  1.0
+    control%Q_angular_velocity =  1.0
+    control%Q_angles =  1
+    control%R=  0.7
+/ 

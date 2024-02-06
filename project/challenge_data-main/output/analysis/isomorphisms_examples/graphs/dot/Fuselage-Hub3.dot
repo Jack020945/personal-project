@@ -1,0 +1,18 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Fuselage_instance_1
+    label=Fuselage
+  ];
+  1 [
+    instance=Hub3_instance_3
+    label=Hub3
+  ];
+
+  0 -> 1 [
+    label=BOTTOM
+  ];
+  1 -> 0 [
+    label=TOP
+  ];
+}

@@ -1,0 +1,164 @@
+{
+    "NAME": "TestQuad",
+    "DESCRIPTION": "",
+    "ABSTRACTION_LEVEL": 4,
+    "TOPOLOGY": {
+        "Tube_instance_1": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_1": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Offset1": 0.0,
+                "Tube__Length": 95.0,
+                "Tube__END_ROT": 0.0
+            }
+        },
+        "Tube_instance_2": {
+            "CONNECTIONS": {
+                "Hub4_instance_1": "SIDE1-BOTTOM",
+                "Propeller_str_top_instance_2": "TOP-SIDE"
+            },
+            "PARAMETERS": {
+                "Tube__Offset1": 0.0,
+                "Tube__Length": 220.0,
+                "Tube__END_ROT": 0.0
+            }
+        },
+        "Hub4_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "TOP",
+                "Tube_instance_7": "BOTTOM-SIDE4",
+                "Orient": "ANY",
+                "Tube_instance_6": "BOTTOM-SIDE2",
+                "Tube_instance_8": "BOTTOM-SIDE3"
+            },
+            "PARAMETERS": {}
+        },
+        "Tube_instance_3": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_3": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Offset1": 0.0,
+                "Tube__Length": 95.0,
+                "Tube__END_ROT": 0.0
+            }
+        },
+        "Tube_instance_4": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_2": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Offset1": 0.0,
+                "Tube__Length": 95.0,
+                "Tube__END_ROT": 0.0
+            }
+        },
+        "Battery_instance_1": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Fuselage_instance_1": "BOTTOM-1"
+            },
+            "PARAMETERS": {}
+        },
+        "BatteryController_instance_1": {
+            "CONNECTIONS": {
+                "Battery_instance_2": "ANY",
+                "Propeller_str_top_instance_1": "ANY",
+                "Propeller_str_top_instance_2": "ANY",
+                "Propeller_str_top_instance_3": "ANY",
+                "Propeller_str_top_instance_4": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Fuselage_instance_1": {
+            "CONNECTIONS": {
+                "Battery_instance_2": "INSIDE-2"
+            },
+            "PARAMETERS": {
+                "Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH": 0.0,
+                "Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH": -20.0,
+                "Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH": 0.0,
+                "Fuselage__VERT_DIAMETER": 68.0,
+                "Fuselage__FUSE_CYL_LENGTH": 80.0,
+                "Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH": 0.0,
+                "Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH": 20.0,
+                "Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH": 0.0,
+                "Fuselage__HORZ_DIAMETER": 80.0,
+                "Fuselage__BOTTOM_CONNECTOR_ROTATION": 45.0,
+                "Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH": 0.0,
+                "Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH": 0.0,
+                "Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH": 0.0,
+                "Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH": 0.0,
+                "Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH": 0.0,
+                "Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH": 0.0
+            }
+        },
+        "Tube_instance_7": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_1": "TOP-SIDE"
+            },
+            "PARAMETERS": {
+                "Tube__Offset1": 0.0,
+                "Tube__Length": 220.0,
+                "Tube__END_ROT": 0.0
+            }
+        },
+        "Orient": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {
+                "Orient__Z_ANGLE": 45.0
+            }
+        },
+        "Tube_instance_6": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_4": "TOP-SIDE"
+            },
+            "PARAMETERS": {
+                "Tube__Offset1": 0.0,
+                "Tube__Length": 220.0,
+                "Tube__END_ROT": 0.0
+            }
+        },
+        "Tube_instance_8": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_3": "TOP-SIDE"
+            },
+            "PARAMETERS": {
+                "Tube__Offset1": 0.0,
+                "Tube__Length": 220.0,
+                "Tube__END_ROT": 0.0
+            }
+        },
+        "Battery_instance_2": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "Tube_instance_5": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_4": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Offset1": 0.0,
+                "Tube__Length": 95.0,
+                "Tube__END_ROT": 0.0
+            }
+        },
+        "Propeller_str_top_instance_1": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "Propeller_str_top_instance_2": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "Propeller_str_top_instance_3": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "Propeller_str_top_instance_4": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Current": {
+        "id": "Current",
+        "type": "SensorCurrent",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "Model": "FCS_150A",
+            "WIDTH": 18.3,
+            "CORPUS": "UAV",
+            "WEIGHT": 0.0201,
+            "Manufacturer": "FrSKY",
+            "HEIGHT": 6.0,
+            "LENGTH": 31.1
+        },
+        "connectors": [
+            "SensorConnector"
+        ]
+    }
+}

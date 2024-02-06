@@ -1,0 +1,18 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Cargo_instance_1
+    label=Cargo
+  ];
+  1 [
+    instance=CargoCase_instance_1
+    label=CargoCase
+  ];
+
+  0 -> 1 [
+    label=ANY
+  ];
+  1 -> 0 [
+    label=ANY
+  ];
+}

@@ -1,0 +1,118 @@
+{
+  "FUSELAGE": {
+    "production": {
+      "S": ["FUSELAGE"]
+    },
+    "conditions": {
+      "S": "UNOCCUPIED",
+      "F": ["UNOCCUPIED"],
+      "B": ["UNOCCUPIED"],
+      "LHS": ["UNOCCUPIED"],
+      "RHS": ["UNOCCUPIED"],
+      "T": ["UNOCCUPIED"],
+      "R": ["UNOCCUPIED"]
+    }
+  },
+  "WING-RIGHT": {
+    "conditions": {
+      "S": ["UNOCCUPIED"],
+      "F": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR"],
+      "B": ["EMPTY", "UNOCCUPIED", "CONNECTOR"],
+      "LHS": ["FUSELAGE", "CONNECTOR", "ROTOR", "WING"],
+      "RHS": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR"],
+      "T": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "WING"],
+      "R": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"]
+    },
+    "production": [
+      {
+        "S": ["WING"],
+        "EDGES": [["LHS", "S"]]
+      }
+    ]
+  },
+  "WING-TOP": {
+    "conditions": {
+      "S": ["UNOCCUPIED"],
+      "F": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR"],
+      "B": ["CONNECTOR"],
+      "LHS": ["EMPTY", "UNOCCUPIED", "FUSELAGE", "CONNECTOR", "ROTOR"],
+      "RHS": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR"],
+      "T": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "WING"],
+      "R": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"]
+    },
+    "production": [
+      {
+        "S": ["WING"],
+        "EDGES": [["B", "S"]]
+      }
+    ]
+  },
+  "WING-BOTTOM": {
+    "conditions": {
+      "S": ["UNOCCUPIED"],
+      "F": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR"],
+      "T": ["CONNECTOR"],
+      "LHS": ["EMPTY", "UNOCCUPIED", "FUSELAGE", "CONNECTOR", "ROTOR"],
+      "RHS": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR"],
+      "B": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "WING"],
+      "R": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"]
+    },
+    "production": [
+      {
+        "S": ["WING"],
+        "EDGES": [["T", "S"]]
+      }
+    ]
+  },
+  "ROTOR-RIGHT": {
+    "conditions": {
+      "S": ["UNOCCUPIED"],
+      "F": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"],
+      "B": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR"],
+      "LHS": ["FUSELAGE", "CONNECTOR", "ROTOR", "WING"],
+      "RHS": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"],
+      "T": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR"],
+      "R": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"]
+    },
+    "production": [
+      {
+        "S": ["ROTOR"],
+        "EDGES": [["LHS", "S"]]
+      }
+    ]
+  },
+  "ROTOR-LEFT": {
+    "conditions": {
+      "S": ["UNOCCUPIED"],
+      "F": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"],
+      "B": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR"],
+      "RHS": ["FUSELAGE", "CONNECTOR", "ROTOR", "WING"],
+      "LHS": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"],
+      "T": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR"],
+      "R": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"]
+    },
+    "production": [
+      {
+        "S": ["ROTOR"],
+        "EDGES": [["LHS", "S"]]
+      }
+    ]
+  },
+  "ROTOR-TOP": {
+    "conditions": {
+      "S": ["UNOCCUPIED"],
+      "F": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"],
+      "B": ["CONNECTOR"],
+      "RHS": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"],
+      "LHS": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"],
+      "T": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR"],
+      "R": ["EMPTY", "UNOCCUPIED", "CONNECTOR", "ROTOR", "WING"]
+    },
+    "production": [
+      {
+        "S": ["ROTOR"],
+        "EDGES": [["B", "S"]]
+      }
+    ]
+  }
+}

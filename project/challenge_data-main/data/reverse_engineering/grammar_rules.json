@@ -1,0 +1,81 @@
+{
+  "NT.BODY": {
+    "conditions": {
+      "F": [],
+      "B": [],
+      "LHS": [],
+      "RRS": [],
+      "T": [],
+      "R": ""
+    },
+    "production": [
+      {
+        "S": "NT.FUSELAGE",
+        "F": [],
+        "B": [],
+        "LHS": [],
+        "RRS": [],
+        "T": [],
+        "R": ""
+      }
+    ]
+  },
+  "NT.FUSELAGE": {
+    "production": [
+      {
+        "conditions": ["LHS": ["NT.UNOCCUPIED"]],
+        "rules": ["LHS": ["NT.WING", "T.WING"]]}
+    ],
+    "conditions": {
+      "S": "NT.FUSELAGE",
+      "F": [],
+      "B": [],
+      "LHS": [],
+      "RRS": [],
+      "T": [],
+      "R": ""
+    },
+    "production": [
+      {
+        "S": [],
+        "F": [],
+        "B": [],
+        "LHS": ["NT.WING", "T.WING"],
+        "RHS": [],
+        "T": [],
+        "R": ""
+      },
+      {
+        "S": [],
+        "F": [],
+        "B": [],
+        "LHS": [],
+        "RHS": ["NT.WING", "T.WING"],
+        "T": [],
+        "R": ""
+      }
+    ]
+  },
+  "NT.WING": {
+    "conditions": {
+      "S": "NT.WING",
+      "F": [],
+      "B": [],
+      "LHS": ["NT.FUSELAGE"],
+      "RRS": [],
+      "T": [],
+      "R": ""
+    },
+    "production": [
+      {
+        "S": [],
+        "F": [],
+        "B": [],
+        "LHS": ["NT.WING", "T.WING"],
+        "RHS": ["NT.WING", "T.WING"],
+        "T": [],
+        "R": ""
+      }
+    ]
+  }
+}

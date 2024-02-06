@@ -1,0 +1,2 @@
+name,class,connector,PORT_THICKNESS,CORPUS,CHORD,THICKNESS,BOTTOM_CONNECTION_DISP
+naca_connector,NACA_Port_Connector,"['Bottom_Connector', 'End_Connector_1', 'End_Connector_2']","('100', '1', None, '100')",UAM,"('4000', '1', None, '500')","('12', '6', '25', '12')","('0', None, None, '0')"

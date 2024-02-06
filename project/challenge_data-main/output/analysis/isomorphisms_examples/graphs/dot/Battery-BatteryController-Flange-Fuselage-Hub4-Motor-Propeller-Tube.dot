@@ -1,0 +1,278 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Tube_instance_1
+    label=Tube
+  ];
+  1 [
+    instance=Motor_instance_1
+    label=Motor
+  ];
+  2 [
+    instance=Tube_instance_2
+    label=Tube
+  ];
+  3 [
+    instance=Tube_instance_3
+    label=Tube
+  ];
+  4 [
+    instance=Propeller_instance_1
+    label=Propeller
+  ];
+  5 [
+    instance=Tube_instance_4
+    label=Tube
+  ];
+  6 [
+    instance=Battery_instance_1
+    label=Battery
+  ];
+  7 [
+    instance=Motor_instance_2
+    label=Motor
+  ];
+  8 [
+    instance=Flange_instance_1
+    label=Flange
+  ];
+  9 [
+    instance=Hub4_instance_1
+    label=Hub4
+  ];
+  10 [
+    instance=Fuselage_instance_1
+    label=Fuselage
+  ];
+  11 [
+    instance=Tube_instance_5
+    label=Tube
+  ];
+  12 [
+    instance=Tube_instance_6
+    label=Tube
+  ];
+  13 [
+    instance=BatteryController_instance_1
+    label=BatteryController
+  ];
+  14 [
+    instance=Motor_instance_3
+    label=Motor
+  ];
+  15 [
+    instance=Flange_instance_2
+    label=Flange
+  ];
+  16 [
+    instance=Propeller_instance_2
+    label=Propeller
+  ];
+  17 [
+    instance=Flange_instance_3
+    label=Flange
+  ];
+  18 [
+    instance=Propeller_instance_3
+    label=Propeller
+  ];
+  19 [
+    instance=Battery_instance_2
+    label=Battery
+  ];
+  20 [
+    instance=Propeller_instance_4
+    label=Propeller
+  ];
+  21 [
+    instance=Motor_instance_4
+    label=Motor
+  ];
+  22 [
+    instance=Flange_instance_4
+    label=Flange
+  ];
+  23 [
+    instance=Tube_instance_7
+    label=Tube
+  ];
+  24 [
+    instance=Tube_instance_8
+    label=Tube
+  ];
+
+  0 -> 15 [
+    label="BOTTOM-BOTTOM"
+  ];
+  1 -> 13 [
+    label=ANY
+  ];
+  1 -> 16 [
+    label=ANY
+  ];
+  1 -> 22 [
+    label=ANY
+  ];
+  2 -> 9 [
+    label="SIDE1-BOTTOM"
+  ];
+  2 -> 22 [
+    label="TOP-SIDE"
+  ];
+  3 -> 17 [
+    label="BOTTOM-BOTTOM"
+  ];
+  4 -> 7 [
+    label=ANY
+  ];
+  5 -> 22 [
+    label="BOTTOM-BOTTOM"
+  ];
+  6 -> 10 [
+    label="BOTTOM-1"
+  ];
+  6 -> 13 [
+    label=ANY
+  ];
+  7 -> 13 [
+    label=ANY
+  ];
+  7 -> 15 [
+    label=ANY
+  ];
+  7 -> 4 [
+    label=ANY
+  ];
+  8 -> 11 [
+    label="BOTTOM-BOTTOM"
+  ];
+  8 -> 12 [
+    label="SIDE-TOP"
+  ];
+  8 -> 14 [
+    label=ANY
+  ];
+  9 -> 12 [
+    label="BOTTOM-SIDE2"
+  ];
+  9 -> 10 [
+    label=TOP
+  ];
+  9 -> 2 [
+    label="BOTTOM-SIDE1"
+  ];
+  9 -> 23 [
+    label="BOTTOM-SIDE4"
+  ];
+  9 -> 24 [
+    label="BOTTOM-SIDE3"
+  ];
+  10 -> 19 [
+    label="INSIDE-2"
+  ];
+  10 -> 6 [
+    label="INSIDE-1"
+  ];
+  10 -> 9 [
+    label=BOTTOM
+  ];
+  11 -> 8 [
+    label="BOTTOM-BOTTOM"
+  ];
+  12 -> 9 [
+    label="SIDE2-BOTTOM"
+  ];
+  12 -> 8 [
+    label="TOP-SIDE"
+  ];
+  13 -> 1 [
+    label=ANY
+  ];
+  13 -> 19 [
+    label=ANY
+  ];
+  13 -> 21 [
+    label=ANY
+  ];
+  13 -> 6 [
+    label=ANY
+  ];
+  13 -> 14 [
+    label=ANY
+  ];
+  13 -> 7 [
+    label=ANY
+  ];
+  14 -> 8 [
+    label=ANY
+  ];
+  14 -> 20 [
+    label=ANY
+  ];
+  14 -> 13 [
+    label=ANY
+  ];
+  15 -> 23 [
+    label="SIDE-TOP"
+  ];
+  15 -> 0 [
+    label="BOTTOM-BOTTOM"
+  ];
+  15 -> 7 [
+    label=ANY
+  ];
+  16 -> 1 [
+    label=ANY
+  ];
+  17 -> 3 [
+    label="BOTTOM-BOTTOM"
+  ];
+  17 -> 24 [
+    label="SIDE-TOP"
+  ];
+  17 -> 21 [
+    label=ANY
+  ];
+  18 -> 21 [
+    label=ANY
+  ];
+  19 -> 10 [
+    label="BOTTOM-2"
+  ];
+  19 -> 13 [
+    label=ANY
+  ];
+  20 -> 14 [
+    label=ANY
+  ];
+  21 -> 18 [
+    label=ANY
+  ];
+  21 -> 17 [
+    label=ANY
+  ];
+  21 -> 13 [
+    label=ANY
+  ];
+  22 -> 1 [
+    label=ANY
+  ];
+  22 -> 2 [
+    label="SIDE-TOP"
+  ];
+  22 -> 5 [
+    label="BOTTOM-BOTTOM"
+  ];
+  23 -> 9 [
+    label="SIDE4-BOTTOM"
+  ];
+  23 -> 15 [
+    label="TOP-SIDE"
+  ];
+  24 -> 17 [
+    label="TOP-SIDE"
+  ];
+  24 -> 9 [
+    label="SIDE3-BOTTOM"
+  ];
+}

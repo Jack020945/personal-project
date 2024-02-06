@@ -1,0 +1,696 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    label=CargoCase
+  ];
+  1 [
+    label=Hub3
+  ];
+  2 [
+    label=Fuselage
+  ];
+  3 [
+    label=Tube
+  ];
+  4 [
+    label=Tube
+  ];
+  5 [
+    label=Tube
+  ];
+  6 [
+    label=Flange
+  ];
+  7 [
+    label=Tube
+  ];
+  8 [
+    label=Tube
+  ];
+  9 [
+    label=Hub3
+  ];
+  10 [
+    label=Wing
+  ];
+  11 [
+    label=Tube
+  ];
+  12 [
+    label=Motor
+  ];
+  13 [
+    label=Hub3
+  ];
+  14 [
+    label=SensorAutopilot
+  ];
+  15 [
+    label=Tube
+  ];
+  16 [
+    label=Hub3
+  ];
+  17 [
+    label=Tube
+  ];
+  18 [
+    label=Hub4
+  ];
+  19 [
+    label=Propeller
+  ];
+  20 [
+    label=Flange
+  ];
+  21 [
+    label=Tube
+  ];
+  22 [
+    label=SensorVoltage
+  ];
+  23 [
+    label=Cargo
+  ];
+  24 [
+    label=Wing
+  ];
+  25 [
+    label=Propeller
+  ];
+  26 [
+    label=Hub2
+  ];
+  27 [
+    label=Motor
+  ];
+  28 [
+    label=Hub4
+  ];
+  29 [
+    label=Wing
+  ];
+  30 [
+    label=Tube
+  ];
+  31 [
+    label=Wing
+  ];
+  32 [
+    label=Tube
+  ];
+  33 [
+    label=Tube
+  ];
+  34 [
+    label=Motor
+  ];
+  35 [
+    label=Flange
+  ];
+  36 [
+    label=Propeller
+  ];
+  37 [
+    label=Flange
+  ];
+  38 [
+    label=SensorGPS
+  ];
+  39 [
+    label=Tube
+  ];
+  40 [
+    label=Battery
+  ];
+  41 [
+    label=SensorVariometer
+  ];
+  42 [
+    label=Battery
+  ];
+  43 [
+    label=Tube
+  ];
+  44 [
+    label=Wing
+  ];
+  45 [
+    label=Hub3
+  ];
+  46 [
+    label=Tube
+  ];
+  47 [
+    label=Orient
+  ];
+  48 [
+    label=Tube
+  ];
+  49 [
+    label=Tube
+  ];
+  50 [
+    label=Tube
+  ];
+  51 [
+    label=Hub2
+  ];
+  52 [
+    label=SensorCurrent
+  ];
+  53 [
+    label=Tube
+  ];
+  54 [
+    label=Motor
+  ];
+  55 [
+    label=Propeller
+  ];
+  56 [
+    label=BatteryController
+  ];
+  57 [
+    label=Wing
+  ];
+  58 [
+    label=Tube
+  ];
+  59 [
+    label=SensorRpmTemp
+  ];
+
+  0 -> 16 [
+    connection="Hub3_instance_4-Hub3__Bottom_Connector-CargoCase_instance_1-CargoCase__Case2HubConnector"
+    label=ANY
+  ];
+  0 -> 23 [
+    connection="Cargo_instance_1-Cargo__CargoConnector-CargoCase_instance_1-CargoCase__CargoConnector"
+    label=ANY
+  ];
+  1 -> 33 [
+    connection="Tube_instance_12-Tube__EndConnection-Hub3_instance_1-Hub3__Side_Connector_2"
+    label="TOP-SIDE2"
+  ];
+  1 -> 32 [
+    connection="Tube_instance_11-Tube__BaseConnection-Hub3_instance_1-Hub3__Side_Connector_1"
+    label="BOTTOM-SIDE1"
+  ];
+  1 -> 43 [
+    connection="Tube_instance_14-Tube__BaseConnection-Hub3_instance_1-Hub3__Side_Connector_3"
+    label="BOTTOM-SIDE3"
+  ];
+  2 -> 16 [
+    connection="Hub3_instance_4-Hub3__Top_Connector-Fuselage_instance_1-Fuselage__BottomConnector"
+    label=BOTTOM
+  ];
+  2 -> 41 [
+    connection="SensorVariometer_instance_1-SensorVariometer__SensorConnector-Fuselage_instance_1-Fuselage__FloorConnector8"
+    label=ANY
+  ];
+  2 -> 38 [
+    connection="SensorGPS_instance_1-SensorGPS__SensorConnector-Fuselage_instance_1-Fuselage__FloorConnector7"
+    label=ANY
+  ];
+  2 -> 40 [
+    connection="Fuselage_instance_1-Fuselage__FloorConnector1-Battery_instance_1-Battery__Bottom_Connector"
+    label="INSIDE-1"
+  ];
+  2 -> 42 [
+    connection="Fuselage_instance_1-Fuselage__FloorConnector2-Battery_instance_2-Battery__Bottom_Connector"
+    label="INSIDE-2"
+  ];
+  2 -> 14 [
+    connection="SensorAutopilot_instance_1-SensorAutopilot__SensorConnector-Fuselage_instance_1-Fuselage__FloorConnector5"
+    label=ANY
+  ];
+  2 -> 22 [
+    connection="SensorVoltage_instance_1-SensorVoltage__SensorConnector-Fuselage_instance_1-Fuselage__FloorConnector6"
+    label=ANY
+  ];
+  2 -> 59 [
+    connection="SensorRpmTemp_instance_1-SensorRpmTemp__SensorConnector-Fuselage_instance_1-Fuselage__FloorConnector3"
+    label=ANY
+  ];
+  2 -> 52 [
+    connection="SensorCurrent_instance_1-SensorCurrent__SensorConnector-Fuselage_instance_1-Fuselage__FloorConnector4"
+    label=ANY
+  ];
+  3 -> 10 [
+    connection="Wing_instance_1-Wing__Wing_Tube_Connector-Tube_instance_1-Tube__EndConnection"
+    label=BOTTOM
+  ];
+  3 -> 37 [
+    connection="Tube_instance_1-Tube__BaseConnection-Flange_instance_4-Flange__SideConnector"
+    label="BOTTOM-SIDE"
+  ];
+  4 -> 35 [
+    connection="Tube_instance_2-Tube__BaseConnection-Flange_instance_3-Flange__BottomConnector"
+    label="BOTTOM-BOTTOM"
+  ];
+  5 -> 28 [
+    connection="Tube_instance_3-Tube__BaseConnection-Hub4_instance_2-Hub4__Side_Connector_2"
+    label="SIDE2-BOTTOM"
+  ];
+  5 -> 26 [
+    connection="Tube_instance_3-Tube__EndConnection-Hub2_instance_1-Hub2__Side_Connector_1"
+    label="SIDE1-TOP"
+  ];
+  6 -> 48 [
+    connection="Tube_instance_16-Tube__BaseConnection-Flange_instance_1-Flange__BottomConnector"
+    label="BOTTOM-BOTTOM"
+  ];
+  6 -> 7 [
+    connection="Tube_instance_4-Tube__EndConnection-Flange_instance_1-Flange__SideConnector"
+    label="SIDE-TOP"
+  ];
+  6 -> 12 [
+    connection="Motor_instance_1-Motor__Base_Connector-Flange_instance_1-Flange__TopConnector"
+    label=ANY
+  ];
+  7 -> 6 [
+    connection="Tube_instance_4-Tube__EndConnection-Flange_instance_1-Flange__SideConnector"
+    label="TOP-SIDE"
+  ];
+  7 -> 45 [
+    connection="Tube_instance_4-Tube__BaseConnection-Hub3_instance_5-Hub3__Side_Connector_2"
+    label="SIDE2-BOTTOM"
+  ];
+  7 -> 29 [
+    connection="Wing_instance_3-Wing__Wing_Tube_Connector-Tube_instance_4-Tube__OffsetConnection1"
+    label="MID-TOP"
+  ];
+  8 -> 35 [
+    connection="Tube_instance_5-Tube__EndConnection-Flange_instance_3-Flange__SideConnector"
+    label="TOP-SIDE"
+  ];
+  8 -> 31 [
+    connection="Wing_instance_4-Wing__Wing_Tube_Connector-Tube_instance_5-Tube__OffsetConnection1"
+    label="MID-TOP"
+  ];
+  8 -> 9 [
+    connection="Tube_instance_5-Tube__BaseConnection-Hub3_instance_2-Hub3__Side_Connector_2"
+    label="SIDE2-BOTTOM"
+  ];
+  9 -> 58 [
+    connection="Tube_instance_20-Tube__BaseConnection-Hub3_instance_2-Hub3__Center_Connector"
+    label="TOP-CENTER"
+  ];
+  9 -> 8 [
+    connection="Tube_instance_5-Tube__BaseConnection-Hub3_instance_2-Hub3__Side_Connector_2"
+    label="BOTTOM-SIDE2"
+  ];
+  9 -> 32 [
+    connection="Tube_instance_11-Tube__EndConnection-Hub3_instance_2-Hub3__Side_Connector_3"
+    label="TOP-SIDE3"
+  ];
+  9 -> 49 [
+    connection="Tube_instance_17-Tube__BaseConnection-Hub3_instance_2-Hub3__Side_Connector_1"
+    label="BOTTOM-SIDE1"
+  ];
+  10 -> 3 [
+    connection="Wing_instance_1-Wing__Wing_Tube_Connector-Tube_instance_1-Tube__EndConnection"
+    label=TOP
+  ];
+  11 -> 45 [
+    connection="Tube_instance_6-Tube__EndConnection-Hub3_instance_5-Hub3__Side_Connector_1"
+    label="SIDE1-TOP"
+  ];
+  11 -> 13 [
+    connection="Tube_instance_6-Tube__BaseConnection-Hub3_instance_3-Hub3__Side_Connector_1"
+    label="SIDE1-BOTTOM"
+  ];
+  12 -> 56 [
+    connection="Motor_instance_1-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  12 -> 19 [
+    connection="Propeller_instance_1-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_1-Motor__Prop_Connector"
+    label=ANY
+  ];
+  12 -> 6 [
+    connection="Motor_instance_1-Motor__Base_Connector-Flange_instance_1-Flange__TopConnector"
+    label=ANY
+  ];
+  13 -> 30 [
+    connection="Tube_instance_10-Tube__EndConnection-Hub3_instance_3-Hub3__Side_Connector_2"
+    label="TOP-SIDE2"
+  ];
+  13 -> 11 [
+    connection="Tube_instance_6-Tube__BaseConnection-Hub3_instance_3-Hub3__Side_Connector_1"
+    label="BOTTOM-SIDE1"
+  ];
+  13 -> 17 [
+    connection="Tube_instance_8-Tube__BaseConnection-Hub3_instance_3-Hub3__Side_Connector_3"
+    label="BOTTOM-SIDE3"
+  ];
+  14 -> 2 [
+    connection="SensorAutopilot_instance_1-SensorAutopilot__SensorConnector-Fuselage_instance_1-Fuselage__FloorConnector5"
+    label=ANY
+  ];
+  15 -> 45 [
+    connection="Tube_instance_7-Tube__BaseConnection-Hub3_instance_5-Hub3__Side_Connector_3"
+    label="SIDE3-BOTTOM"
+  ];
+  16 -> 2 [
+    connection="Hub3_instance_4-Hub3__Top_Connector-Fuselage_instance_1-Fuselage__BottomConnector"
+    label=TOP
+  ];
+  16 -> 47 [
+    connection="Orient-Orient__ORIENTCONN-Hub3_instance_4-Hub3__Orient_Connector"
+    label=ANY
+  ];
+  16 -> 0 [
+    connection="Hub3_instance_4-Hub3__Bottom_Connector-CargoCase_instance_1-CargoCase__Case2HubConnector"
+    label=ANY
+  ];
+  16 -> 30 [
+    connection="Tube_instance_10-Tube__BaseConnection-Hub3_instance_4-Hub3__Side_Connector_3"
+    label="BOTTOM-SIDE3"
+  ];
+  16 -> 33 [
+    connection="Tube_instance_12-Tube__BaseConnection-Hub3_instance_4-Hub3__Side_Connector_1"
+    label="BOTTOM-SIDE1"
+  ];
+  17 -> 13 [
+    connection="Tube_instance_8-Tube__BaseConnection-Hub3_instance_3-Hub3__Side_Connector_3"
+    label="SIDE3-BOTTOM"
+  ];
+  17 -> 18 [
+    connection="Tube_instance_8-Tube__EndConnection-Hub4_instance_1-Hub4__Side_Connector_1"
+    label="SIDE1-TOP"
+  ];
+  18 -> 39 [
+    connection="Tube_instance_13-Tube__BaseConnection-Hub4_instance_1-Hub4__Side_Connector_2"
+    label="BOTTOM-SIDE2"
+  ];
+  18 -> 17 [
+    connection="Tube_instance_8-Tube__EndConnection-Hub4_instance_1-Hub4__Side_Connector_1"
+    label="TOP-SIDE1"
+  ];
+  19 -> 12 [
+    connection="Propeller_instance_1-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_1-Motor__Prop_Connector"
+    label=ANY
+  ];
+  20 -> 54 [
+    connection="Motor_instance_4-Motor__Base_Connector-Flange_instance_2-Flange__TopConnector"
+    label=ANY
+  ];
+  20 -> 46 [
+    connection="Tube_instance_15-Tube__EndConnection-Flange_instance_2-Flange__BottomConnector"
+    label="BOTTOM-TOP"
+  ];
+  20 -> 50 [
+    connection="Tube_instance_18-Tube__BaseConnection-Flange_instance_2-Flange__SideConnector"
+    label="SIDE-BOTTOM"
+  ];
+  21 -> 45 [
+    connection="Tube_instance_9-Tube__BaseConnection-Hub3_instance_5-Hub3__Center_Connector"
+    label="CENTER-TOP"
+  ];
+  21 -> 44 [
+    connection="Wing_instance_5-Wing__Wing_Tube_Connector-Tube_instance_9-Tube__EndConnection"
+    label=BOTTOM
+  ];
+  22 -> 2 [
+    connection="SensorVoltage_instance_1-SensorVoltage__SensorConnector-Fuselage_instance_1-Fuselage__FloorConnector6"
+    label=ANY
+  ];
+  23 -> 0 [
+    connection="Cargo_instance_1-Cargo__CargoConnector-CargoCase_instance_1-CargoCase__CargoConnector"
+    label=ANY
+  ];
+  24 -> 58 [
+    connection="Wing_instance_2-Wing__Wing_Tube_Connector-Tube_instance_20-Tube__EndConnection"
+    label=TOP
+  ];
+  25 -> 27 [
+    connection="Propeller_instance_2-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_2-Motor__Prop_Connector"
+    label=ANY
+  ];
+  26 -> 46 [
+    connection="Tube_instance_15-Tube__BaseConnection-Hub2_instance_1-Hub2__Side_Connector_2"
+    label="BOTTOM-SIDE2"
+  ];
+  26 -> 5 [
+    connection="Tube_instance_3-Tube__EndConnection-Hub2_instance_1-Hub2__Side_Connector_1"
+    label="TOP-SIDE1"
+  ];
+  27 -> 56 [
+    connection="Motor_instance_2-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  27 -> 25 [
+    connection="Propeller_instance_2-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_2-Motor__Prop_Connector"
+    label=ANY
+  ];
+  27 -> 35 [
+    connection="Motor_instance_2-Motor__Base_Connector-Flange_instance_3-Flange__TopConnector"
+    label=ANY
+  ];
+  28 -> 43 [
+    connection="Tube_instance_14-Tube__EndConnection-Hub4_instance_2-Hub4__Side_Connector_1"
+    label="TOP-SIDE1"
+  ];
+  28 -> 5 [
+    connection="Tube_instance_3-Tube__BaseConnection-Hub4_instance_2-Hub4__Side_Connector_2"
+    label="BOTTOM-SIDE2"
+  ];
+  29 -> 7 [
+    connection="Wing_instance_3-Wing__Wing_Tube_Connector-Tube_instance_4-Tube__OffsetConnection1"
+    label="MID-BOTTOM"
+  ];
+  30 -> 13 [
+    connection="Tube_instance_10-Tube__EndConnection-Hub3_instance_3-Hub3__Side_Connector_2"
+    label="SIDE2-TOP"
+  ];
+  30 -> 16 [
+    connection="Tube_instance_10-Tube__BaseConnection-Hub3_instance_4-Hub3__Side_Connector_3"
+    label="SIDE3-BOTTOM"
+  ];
+  31 -> 8 [
+    connection="Wing_instance_4-Wing__Wing_Tube_Connector-Tube_instance_5-Tube__OffsetConnection1"
+    label="MID-BOTTOM"
+  ];
+  32 -> 1 [
+    connection="Tube_instance_11-Tube__BaseConnection-Hub3_instance_1-Hub3__Side_Connector_1"
+    label="SIDE1-BOTTOM"
+  ];
+  32 -> 9 [
+    connection="Tube_instance_11-Tube__EndConnection-Hub3_instance_2-Hub3__Side_Connector_3"
+    label="SIDE3-TOP"
+  ];
+  33 -> 1 [
+    connection="Tube_instance_12-Tube__EndConnection-Hub3_instance_1-Hub3__Side_Connector_2"
+    label="SIDE2-TOP"
+  ];
+  33 -> 16 [
+    connection="Tube_instance_12-Tube__BaseConnection-Hub3_instance_4-Hub3__Side_Connector_1"
+    label="SIDE1-BOTTOM"
+  ];
+  34 -> 56 [
+    connection="Motor_instance_3-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  34 -> 37 [
+    connection="Motor_instance_3-Motor__Base_Connector-Flange_instance_4-Flange__TopConnector"
+    label=ANY
+  ];
+  34 -> 36 [
+    connection="Propeller_instance_3-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_3-Motor__Prop_Connector"
+    label=ANY
+  ];
+  35 -> 27 [
+    connection="Motor_instance_2-Motor__Base_Connector-Flange_instance_3-Flange__TopConnector"
+    label=ANY
+  ];
+  35 -> 8 [
+    connection="Tube_instance_5-Tube__EndConnection-Flange_instance_3-Flange__SideConnector"
+    label="SIDE-TOP"
+  ];
+  35 -> 4 [
+    connection="Tube_instance_2-Tube__BaseConnection-Flange_instance_3-Flange__BottomConnector"
+    label="BOTTOM-BOTTOM"
+  ];
+  36 -> 34 [
+    connection="Propeller_instance_3-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_3-Motor__Prop_Connector"
+    label=ANY
+  ];
+  37 -> 53 [
+    connection="Tube_instance_19-Tube__EndConnection-Flange_instance_4-Flange__BottomConnector"
+    label="BOTTOM-TOP"
+  ];
+  37 -> 3 [
+    connection="Tube_instance_1-Tube__BaseConnection-Flange_instance_4-Flange__SideConnector"
+    label="SIDE-BOTTOM"
+  ];
+  37 -> 34 [
+    connection="Motor_instance_3-Motor__Base_Connector-Flange_instance_4-Flange__TopConnector"
+    label=ANY
+  ];
+  38 -> 2 [
+    connection="SensorGPS_instance_1-SensorGPS__SensorConnector-Fuselage_instance_1-Fuselage__FloorConnector7"
+    label=ANY
+  ];
+  39 -> 18 [
+    connection="Tube_instance_13-Tube__BaseConnection-Hub4_instance_1-Hub4__Side_Connector_2"
+    label="SIDE2-BOTTOM"
+  ];
+  39 -> 51 [
+    connection="Tube_instance_13-Tube__EndConnection-Hub2_instance_2-Hub2__Side_Connector_1"
+    label="SIDE1-TOP"
+  ];
+  40 -> 2 [
+    connection="Fuselage_instance_1-Fuselage__FloorConnector1-Battery_instance_1-Battery__Bottom_Connector"
+    label="BOTTOM-1"
+  ];
+  40 -> 56 [
+    connection="Battery_instance_1-Battery__PowerBus-BatteryController_instance_1-BatteryController__BatteryPower"
+    label=ANY
+  ];
+  41 -> 2 [
+    connection="SensorVariometer_instance_1-SensorVariometer__SensorConnector-Fuselage_instance_1-Fuselage__FloorConnector8"
+    label=ANY
+  ];
+  42 -> 2 [
+    connection="Fuselage_instance_1-Fuselage__FloorConnector2-Battery_instance_2-Battery__Bottom_Connector"
+    label="BOTTOM-2"
+  ];
+  42 -> 56 [
+    connection="Battery_instance_2-Battery__PowerBus-BatteryController_instance_1-BatteryController__BatteryPower"
+    label=ANY
+  ];
+  43 -> 28 [
+    connection="Tube_instance_14-Tube__EndConnection-Hub4_instance_2-Hub4__Side_Connector_1"
+    label="SIDE1-TOP"
+  ];
+  43 -> 1 [
+    connection="Tube_instance_14-Tube__BaseConnection-Hub3_instance_1-Hub3__Side_Connector_3"
+    label="SIDE3-BOTTOM"
+  ];
+  44 -> 21 [
+    connection="Wing_instance_5-Wing__Wing_Tube_Connector-Tube_instance_9-Tube__EndConnection"
+    label=TOP
+  ];
+  45 -> 15 [
+    connection="Tube_instance_7-Tube__BaseConnection-Hub3_instance_5-Hub3__Side_Connector_3"
+    label="BOTTOM-SIDE3"
+  ];
+  45 -> 21 [
+    connection="Tube_instance_9-Tube__BaseConnection-Hub3_instance_5-Hub3__Center_Connector"
+    label="TOP-CENTER"
+  ];
+  45 -> 7 [
+    connection="Tube_instance_4-Tube__BaseConnection-Hub3_instance_5-Hub3__Side_Connector_2"
+    label="BOTTOM-SIDE2"
+  ];
+  45 -> 11 [
+    connection="Tube_instance_6-Tube__EndConnection-Hub3_instance_5-Hub3__Side_Connector_1"
+    label="TOP-SIDE1"
+  ];
+  46 -> 20 [
+    connection="Tube_instance_15-Tube__EndConnection-Flange_instance_2-Flange__BottomConnector"
+    label="TOP-BOTTOM"
+  ];
+  46 -> 26 [
+    connection="Tube_instance_15-Tube__BaseConnection-Hub2_instance_1-Hub2__Side_Connector_2"
+    label="SIDE2-BOTTOM"
+  ];
+  47 -> 16 [
+    connection="Orient-Orient__ORIENTCONN-Hub3_instance_4-Hub3__Orient_Connector"
+    label=ANY
+  ];
+  48 -> 6 [
+    connection="Tube_instance_16-Tube__BaseConnection-Flange_instance_1-Flange__BottomConnector"
+    label="BOTTOM-BOTTOM"
+  ];
+  49 -> 9 [
+    connection="Tube_instance_17-Tube__BaseConnection-Hub3_instance_2-Hub3__Side_Connector_1"
+    label="SIDE1-BOTTOM"
+  ];
+  50 -> 20 [
+    connection="Tube_instance_18-Tube__BaseConnection-Flange_instance_2-Flange__SideConnector"
+    label="BOTTOM-SIDE"
+  ];
+  50 -> 57 [
+    connection="Wing_instance_6-Wing__Wing_Tube_Connector-Tube_instance_18-Tube__EndConnection"
+    label=BOTTOM
+  ];
+  51 -> 53 [
+    connection="Tube_instance_19-Tube__BaseConnection-Hub2_instance_2-Hub2__Side_Connector_2"
+    label="BOTTOM-SIDE2"
+  ];
+  51 -> 39 [
+    connection="Tube_instance_13-Tube__EndConnection-Hub2_instance_2-Hub2__Side_Connector_1"
+    label="TOP-SIDE1"
+  ];
+  52 -> 2 [
+    connection="SensorCurrent_instance_1-SensorCurrent__SensorConnector-Fuselage_instance_1-Fuselage__FloorConnector4"
+    label=ANY
+  ];
+  53 -> 37 [
+    connection="Tube_instance_19-Tube__EndConnection-Flange_instance_4-Flange__BottomConnector"
+    label="TOP-BOTTOM"
+  ];
+  53 -> 51 [
+    connection="Tube_instance_19-Tube__BaseConnection-Hub2_instance_2-Hub2__Side_Connector_2"
+    label="SIDE2-BOTTOM"
+  ];
+  54 -> 55 [
+    connection="Propeller_instance_4-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_4-Motor__Prop_Connector"
+    label=ANY
+  ];
+  54 -> 56 [
+    connection="Motor_instance_4-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  54 -> 20 [
+    connection="Motor_instance_4-Motor__Base_Connector-Flange_instance_2-Flange__TopConnector"
+    label=ANY
+  ];
+  55 -> 54 [
+    connection="Propeller_instance_4-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_4-Motor__Prop_Connector"
+    label=ANY
+  ];
+  56 -> 34 [
+    connection="Motor_instance_3-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  56 -> 40 [
+    connection="Battery_instance_1-Battery__PowerBus-BatteryController_instance_1-BatteryController__BatteryPower"
+    label=ANY
+  ];
+  56 -> 54 [
+    connection="Motor_instance_4-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  56 -> 27 [
+    connection="Motor_instance_2-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  56 -> 12 [
+    connection="Motor_instance_1-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  56 -> 42 [
+    connection="Battery_instance_2-Battery__PowerBus-BatteryController_instance_1-BatteryController__BatteryPower"
+    label=ANY
+  ];
+  57 -> 50 [
+    connection="Wing_instance_6-Wing__Wing_Tube_Connector-Tube_instance_18-Tube__EndConnection"
+    label=TOP
+  ];
+  58 -> 9 [
+    connection="Tube_instance_20-Tube__BaseConnection-Hub3_instance_2-Hub3__Center_Connector"
+    label="CENTER-TOP"
+  ];
+  58 -> 24 [
+    connection="Wing_instance_2-Wing__Wing_Tube_Connector-Tube_instance_20-Tube__EndConnection"
+    label=BOTTOM
+  ];
+  59 -> 2 [
+    connection="SensorRpmTemp_instance_1-SensorRpmTemp__SensorConnector-Fuselage_instance_1-Fuselage__FloorConnector3"
+    label=ANY
+  ];
+}

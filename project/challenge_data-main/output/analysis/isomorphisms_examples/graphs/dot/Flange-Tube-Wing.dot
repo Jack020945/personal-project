@@ -1,0 +1,38 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Tube_instance_6
+    label=Tube
+  ];
+  1 [
+    instance=Tube_instance_8
+    label=Tube
+  ];
+  2 [
+    instance=Wing_instance_5
+    label=Wing
+  ];
+  3 [
+    instance=Flange_instance_4
+    label=Flange
+  ];
+
+  0 -> 3 [
+    label="BOTTOM-BOTTOM"
+  ];
+  1 -> 2 [
+    label="MID-TOP"
+  ];
+  1 -> 3 [
+    label="TOP-SIDE"
+  ];
+  2 -> 1 [
+    label="MID-BOTTOM"
+  ];
+  3 -> 0 [
+    label="BOTTOM-BOTTOM"
+  ];
+  3 -> 1 [
+    label="SIDE-TOP"
+  ];
+}

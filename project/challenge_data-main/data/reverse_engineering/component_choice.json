@@ -1,0 +1,253 @@
+{
+    "ALL_COMPONENTS": {
+        "Battery": [
+            "TurnigyGraphene6000mAh6S75C",
+            "TurnigyGraphene1000mAh2S75C"
+        ],
+        "BatteryController": [
+            "BatteryController"
+        ],
+        "Cargo": [
+            "Cargo"
+        ],
+        "CargoCase": [
+            "CargoCase"
+        ],
+        "Flange": [
+            "0394_para_flange"
+        ],
+        "Fuselage": [
+            "capsule_fuselage"
+        ],
+        "Hub2": [
+            "0394od_para_hub_2"
+        ],
+        "Hub3": [
+            "0394od_para_hub_3"
+        ],
+        "Hub4": [
+            "0394od_para_hub_4"
+        ],
+        "Motor": [
+            "kde_direct_KDE2315XF_885",
+            "t_motor_AntigravityMN4006KV380",
+            "t_motor_AT2312KV1400",
+            "t_motor_AT4130KV300"
+        ],
+        "Orient": [
+            "Orient"
+        ],
+        "Propeller": [
+            "apc_propellers_7x5E",
+            "apc_propellers_12x3_8SF",
+            "apc_propellers_6x4E",
+            "apc_propellers_17x6"
+        ],
+        "SensorAutopilot": [
+            "Autopilot"
+        ],
+        "SensorCurrent": [
+            "Current"
+        ],
+        "SensorGPS": [
+            "GPS"
+        ],
+        "SensorRpmTemp": [
+            "RpmTemp"
+        ],
+        "SensorVariometer": [
+            "Variometer"
+        ],
+        "SensorVoltage": [
+            "Voltage"
+        ],
+        "Tube": [
+            "0394OD_para_tube"
+        ],
+        "Wing": [
+            "Wing_vert_hole"
+        ]
+    },
+    "SEED_DESIGNS": {
+        "NewAxe": {
+            "COMPONENTS": {
+                "Battery": "TurnigyGraphene6000mAh6S75C",
+                "BatteryController": "BatteryController",
+                "Flange": "0394_para_flange",
+                "Fuselage": "capsule_fuselage",
+                "Hub3": "0394od_para_hub_3",
+                "Motor": "kde_direct_KDE2315XF_885",
+                "Orient": "Orient",
+                "Propeller": "apc_propellers_7x5E",
+                "Tube": "0394OD_para_tube",
+                "Wing": "Wing_vert_hole"
+            }
+        },
+        "NewAxe_Cargo": {
+            "COMPONENTS": {
+                "Battery": "TurnigyGraphene6000mAh6S75C",
+                "BatteryController": "BatteryController",
+                "Cargo": "Cargo",
+                "CargoCase": "CargoCase",
+                "Flange": "0394_para_flange",
+                "Fuselage": "capsule_fuselage",
+                "Hub3": "0394od_para_hub_3",
+                "Motor": "kde_direct_KDE2315XF_885",
+                "Orient": "Orient",
+                "Propeller": "apc_propellers_7x5E",
+                "SensorAutopilot": "Autopilot",
+                "SensorCurrent": "Current",
+                "SensorGPS": "GPS",
+                "SensorRpmTemp": "RpmTemp",
+                "SensorVariometer": "Variometer",
+                "SensorVoltage": "Voltage",
+                "Tube": "0394OD_para_tube",
+                "Wing": "Wing_vert_hole"
+            }
+        },
+        "PickAxe": {
+            "COMPONENTS": {
+                "Battery": "TurnigyGraphene6000mAh6S75C",
+                "BatteryController": "BatteryController",
+                "Cargo": "Cargo",
+                "CargoCase": "CargoCase",
+                "Flange": "0394_para_flange",
+                "Fuselage": "capsule_fuselage",
+                "Hub2": "0394od_para_hub_2",
+                "Hub3": "0394od_para_hub_3",
+                "Hub4": "0394od_para_hub_4",
+                "Motor": "t_motor_AntigravityMN4006KV380",
+                "Orient": "Orient",
+                "Propeller": "apc_propellers_12x3_8SF",
+                "SensorAutopilot": "Autopilot",
+                "SensorCurrent": "Current",
+                "SensorGPS": "GPS",
+                "SensorRpmTemp": "RpmTemp",
+                "SensorVariometer": "Variometer",
+                "SensorVoltage": "Voltage",
+                "Tube": "0394OD_para_tube",
+                "Wing": "Wing_vert_hole"
+            }
+        },
+        "TestQuad": {
+            "COMPONENTS": {
+                "Battery": "TurnigyGraphene1000mAh2S75C",
+                "BatteryController": "BatteryController",
+                "Flange": "0394_para_flange",
+                "Fuselage": "capsule_fuselage",
+                "Hub4": "0394od_para_hub_4",
+                "Motor": "t_motor_AT2312KV1400",
+                "Orient": "Orient",
+                "Propeller": "apc_propellers_6x4E",
+                "Tube": "0394OD_para_tube"
+            }
+        },
+        "TestQuad_Cargo": {
+            "COMPONENTS": {
+                "Battery": "TurnigyGraphene6000mAh6S75C",
+                "BatteryController": "BatteryController",
+                "Cargo": "Cargo",
+                "CargoCase": "CargoCase",
+                "Flange": "0394_para_flange",
+                "Fuselage": "capsule_fuselage",
+                "Hub4": "0394od_para_hub_4",
+                "Motor": "t_motor_AT4130KV300",
+                "Orient": "Orient",
+                "Propeller": "apc_propellers_17x6",
+                "SensorAutopilot": "Autopilot",
+                "SensorCurrent": "Current",
+                "SensorGPS": "GPS",
+                "SensorRpmTemp": "RpmTemp",
+                "SensorVariometer": "Variometer",
+                "SensorVoltage": "Voltage",
+                "Tube": "0394OD_para_tube"
+            }
+        }
+    },
+    "TYPES IN SEED_DESIGN": {
+        "NewAxe": [
+            "Tube",
+            "Orient",
+            "Hub3",
+            "Flange",
+            "Motor",
+            "Fuselage",
+            "Battery",
+            "BatteryController",
+            "Propeller",
+            "Wing"
+        ],
+        "NewAxe_Cargo": [
+            "Tube",
+            "SensorVariometer",
+            "Cargo",
+            "Orient",
+            "Hub3",
+            "SensorAutopilot",
+            "SensorRpmTemp",
+            "Flange",
+            "Motor",
+            "Fuselage",
+            "SensorVoltage",
+            "Battery",
+            "SensorCurrent",
+            "BatteryController",
+            "CargoCase",
+            "SensorGPS",
+            "Propeller",
+            "Wing"
+        ],
+        "PickAxe": [
+            "SensorAutopilot",
+            "Motor",
+            "Cargo",
+            "Flange",
+            "SensorCurrent",
+            "SensorGPS",
+            "Fuselage",
+            "Propeller",
+            "Wing",
+            "Tube",
+            "SensorVariometer",
+            "Orient",
+            "Hub3",
+            "SensorRpmTemp",
+            "Hub2",
+            "SensorVoltage",
+            "Battery",
+            "BatteryController",
+            "CargoCase",
+            "Hub4"
+        ],
+        "TestQuad": [
+            "Tube",
+            "Orient",
+            "Flange",
+            "Motor",
+            "Battery",
+            "BatteryController",
+            "Propeller",
+            "Hub4",
+            "Fuselage"
+        ],
+        "TestQuad_Cargo": [
+            "Tube",
+            "SensorVariometer",
+            "Cargo",
+            "Orient",
+            "SensorAutopilot",
+            "SensorRpmTemp",
+            "Flange",
+            "Motor",
+            "SensorVoltage",
+            "Battery",
+            "SensorCurrent",
+            "BatteryController",
+            "CargoCase",
+            "SensorGPS",
+            "Propeller",
+            "Hub4",
+            "Fuselage"
+        ]
+    }
+}

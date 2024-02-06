@@ -1,0 +1,1005 @@
+TOPOLOGY SUMMARY
+
+<VERTEX_ID> - <COMPONENT_INSTANCE>::<LIBRARY_COMPONENT>::<COMPONENT_TYPE>
+
+0 - Hub3_instance_1::Hub3::Hub3 (5 items):
+	TOP -- 9 - Fuselage_instance_1::Fuselage::Fuselage
+		Hub3_instance_1:Hub3__Top_Connector -> Fuselage_instance_1:Fuselage__BottomConnector
+	ANY -- 15 - Orient::Orient::Orient
+		Hub3_instance_1:Hub3__Orient_Connector -> Orient:Orient__ORIENTCONN
+	ANY -- 46 - CargoCase_instance_1::CargoCase::CargoCase
+		Hub3_instance_1:Hub3__Bottom_Connector -> CargoCase_instance_1:CargoCase__Case2HubConnector
+	BOTTOM-SIDE3 -- 41 - Tube_instance_16::Tube::Tube
+		Hub3_instance_1:Hub3__Side_Connector_3 -> Tube_instance_16:Tube__BaseConnection
+	BOTTOM-SIDE1 -- 3 - Tube_instance_1::Tube::Tube
+		Hub3_instance_1:Hub3__Side_Connector_1 -> Tube_instance_1:Tube__BaseConnection
+1 - Cargo_instance_1::Cargo::Cargo (1 items):
+	ANY -- 46 - CargoCase_instance_1::CargoCase::CargoCase
+		Cargo_instance_1:Cargo__CargoConnector -> CargoCase_instance_1:CargoCase__CargoConnector
+2 - Hub3_instance_2::Hub3::Hub3 (4 items):
+	TOP-CENTER -- 21 - Tube_instance_8::Tube::Tube
+		Hub3_instance_2:Hub3__Center_Connector -> Tube_instance_8:Tube__BaseConnection
+	BOTTOM-SIDE1 -- 36 - Tube_instance_13::Tube::Tube
+		Hub3_instance_2:Hub3__Side_Connector_1 -> Tube_instance_13:Tube__BaseConnection
+	BOTTOM-SIDE2 -- 17 - Tube_instance_6::Tube::Tube
+		Hub3_instance_2:Hub3__Side_Connector_2 -> Tube_instance_6:Tube__BaseConnection
+	TOP-SIDE3 -- 12 - Tube_instance_3::Tube::Tube
+		Hub3_instance_2:Hub3__Side_Connector_3 -> Tube_instance_3:Tube__EndConnection
+3 - Tube_instance_1::Tube::Tube (2 items):
+	SIDE2-TOP -- 7 - Hub3_instance_3::Hub3::Hub3
+		Tube_instance_1:Tube__EndConnection -> Hub3_instance_3:Hub3__Side_Connector_2
+	SIDE1-BOTTOM -- 0 - Hub3_instance_1::Hub3::Hub3
+		Tube_instance_1:Tube__BaseConnection -> Hub3_instance_1:Hub3__Side_Connector_1
+4 - Wing_instance_1::Wing::Wing (1 items):
+	TOP -- 21 - Tube_instance_8::Tube::Tube
+		Wing_instance_1:Wing__Wing_Tube_Connector -> Tube_instance_8:Tube__EndConnection
+5 - Tube_instance_2::Tube::Tube (1 items):
+	BOTTOM-BOTTOM -- 22 - Flange_instance_3::Flange::Flange
+		Tube_instance_2:Tube__BaseConnection -> Flange_instance_3:Flange__BottomConnector
+6 - Battery_instance_1::Battery::Battery (2 items):
+	BOTTOM-2 -- 9 - Fuselage_instance_1::Fuselage::Fuselage
+		Battery_instance_1:Battery__Bottom_Connector -> Fuselage_instance_1:Fuselage__FloorConnector2
+	ANY -- 34 - BatteryController_instance_1::BatteryController::BatteryController
+		Battery_instance_1:Battery__PowerBus -> BatteryController_instance_1:BatteryController__BatteryPower
+7 - Hub3_instance_3::Hub3::Hub3 (3 items):
+	TOP-SIDE2 -- 3 - Tube_instance_1::Tube::Tube
+		Hub3_instance_3:Hub3__Side_Connector_2 -> Tube_instance_1:Tube__EndConnection
+	BOTTOM-SIDE1 -- 12 - Tube_instance_3::Tube::Tube
+		Hub3_instance_3:Hub3__Side_Connector_1 -> Tube_instance_3:Tube__BaseConnection
+	BOTTOM-SIDE3 -- 38 - Tube_instance_14::Tube::Tube
+		Hub3_instance_3:Hub3__Side_Connector_3 -> Tube_instance_14:Tube__BaseConnection
+8 - Hub3_instance_4::Hub3::Hub3 (3 items):
+	TOP-SIDE2 -- 41 - Tube_instance_16::Tube::Tube
+		Hub3_instance_4:Hub3__Side_Connector_2 -> Tube_instance_16:Tube__EndConnection
+	BOTTOM-SIDE1 -- 24 - Tube_instance_9::Tube::Tube
+		Hub3_instance_4:Hub3__Side_Connector_1 -> Tube_instance_9:Tube__BaseConnection
+	BOTTOM-SIDE3 -- 13 - Tube_instance_4::Tube::Tube
+		Hub3_instance_4:Hub3__Side_Connector_3 -> Tube_instance_4:Tube__BaseConnection
+9 - Fuselage_instance_1::Fuselage::Fuselage (9 items):
+	BOTTOM -- 0 - Hub3_instance_1::Hub3::Hub3
+		Fuselage_instance_1:Fuselage__BottomConnector -> Hub3_instance_1:Hub3__Top_Connector
+	ANY -- 28 - SensorVariometer_instance_1::SensorVariometer::SensorVariometer
+		Fuselage_instance_1:Fuselage__FloorConnector8 -> SensorVariometer_instance_1:SensorVariometer__SensorConnector
+	ANY -- 25 - SensorGPS_instance_1::SensorGPS::SensorGPS
+		Fuselage_instance_1:Fuselage__FloorConnector7 -> SensorGPS_instance_1:SensorGPS__SensorConnector
+	INSIDE-1 -- 51 - Battery_instance_2::Battery::Battery
+		Fuselage_instance_1:Fuselage__FloorConnector1 -> Battery_instance_2:Battery__Bottom_Connector
+	INSIDE-2 -- 6 - Battery_instance_1::Battery::Battery
+		Fuselage_instance_1:Fuselage__FloorConnector2 -> Battery_instance_1:Battery__Bottom_Connector
+	ANY -- 29 - SensorAutopilot_instance_1::SensorAutopilot::SensorAutopilot
+		Fuselage_instance_1:Fuselage__FloorConnector5 -> SensorAutopilot_instance_1:SensorAutopilot__SensorConnector
+	ANY -- 18 - SensorVoltage_instance_1::SensorVoltage::SensorVoltage
+		Fuselage_instance_1:Fuselage__FloorConnector6 -> SensorVoltage_instance_1:SensorVoltage__SensorConnector
+	ANY -- 31 - SensorRpmTemp_instance_1::SensorRpmTemp::SensorRpmTemp
+		Fuselage_instance_1:Fuselage__FloorConnector3 -> SensorRpmTemp_instance_1:SensorRpmTemp__SensorConnector
+	ANY -- 47 - SensorCurrent_instance_1::SensorCurrent::SensorCurrent
+		Fuselage_instance_1:Fuselage__FloorConnector4 -> SensorCurrent_instance_1:SensorCurrent__SensorConnector
+10 - Propeller_instance_1::Propeller::Propeller (1 items):
+	ANY -- 48 - Motor_instance_3::Motor::Motor
+		Propeller_instance_1:Propeller__MOTOR_CONNECTOR_CS_IN -> Motor_instance_3:Motor__Prop_Connector
+11 - Motor_instance_1::Motor::Motor (3 items):
+	ANY -- 37 - Propeller_instance_3::Propeller::Propeller
+		Motor_instance_1:Motor__Prop_Connector -> Propeller_instance_3:Propeller__MOTOR_CONNECTOR_CS_IN
+	ANY -- 22 - Flange_instance_3::Flange::Flange
+		Motor_instance_1:Motor__Base_Connector -> Flange_instance_3:Flange__TopConnector
+	ANY -- 34 - BatteryController_instance_1::BatteryController::BatteryController
+		Motor_instance_1:Motor__MotorPower -> BatteryController_instance_1:BatteryController__MotorPower
+12 - Tube_instance_3::Tube::Tube (2 items):
+	SIDE1-BOTTOM -- 7 - Hub3_instance_3::Hub3::Hub3
+		Tube_instance_3:Tube__BaseConnection -> Hub3_instance_3:Hub3__Side_Connector_1
+	SIDE3-TOP -- 2 - Hub3_instance_2::Hub3::Hub3
+		Tube_instance_3:Tube__EndConnection -> Hub3_instance_2:Hub3__Side_Connector_3
+13 - Tube_instance_4::Tube::Tube (2 items):
+	SIDE3-BOTTOM -- 8 - Hub3_instance_4::Hub3::Hub3
+		Tube_instance_4:Tube__BaseConnection -> Hub3_instance_4:Hub3__Side_Connector_3
+	TOP-BOTTOM -- 14 - Flange_instance_1::Flange::Flange
+		Tube_instance_4:Tube__EndConnection -> Flange_instance_1:Flange__BottomConnector
+14 - Flange_instance_1::Flange::Flange (3 items):
+	BOTTOM-TOP -- 13 - Tube_instance_4::Tube::Tube
+		Flange_instance_1:Flange__BottomConnector -> Tube_instance_4:Tube__EndConnection
+	SIDE-BOTTOM -- 16 - Tube_instance_5::Tube::Tube
+		Flange_instance_1:Flange__SideConnector -> Tube_instance_5:Tube__BaseConnection
+	ANY -- 48 - Motor_instance_3::Motor::Motor
+		Flange_instance_1:Flange__TopConnector -> Motor_instance_3:Motor__Base_Connector
+15 - Orient::Orient::Orient (1 items):
+	ANY -- 0 - Hub3_instance_1::Hub3::Hub3
+		Orient:Orient__ORIENTCONN -> Hub3_instance_1:Hub3__Orient_Connector
+16 - Tube_instance_5::Tube::Tube (2 items):
+	BOTTOM -- 23 - Wing_instance_2::Wing::Wing
+		Tube_instance_5:Tube__EndConnection -> Wing_instance_2:Wing__Wing_Tube_Connector
+	BOTTOM-SIDE -- 14 - Flange_instance_1::Flange::Flange
+		Tube_instance_5:Tube__BaseConnection -> Flange_instance_1:Flange__SideConnector
+17 - Tube_instance_6::Tube::Tube (3 items):
+	MID-TOP -- 49 - Wing_instance_6::Wing::Wing
+		Tube_instance_6:Tube__OffsetConnection1 -> Wing_instance_6:Wing__Wing_Tube_Connector
+	TOP-SIDE -- 22 - Flange_instance_3::Flange::Flange
+		Tube_instance_6:Tube__EndConnection -> Flange_instance_3:Flange__SideConnector
+	SIDE2-BOTTOM -- 2 - Hub3_instance_2::Hub3::Hub3
+		Tube_instance_6:Tube__BaseConnection -> Hub3_instance_2:Hub3__Side_Connector_2
+18 - SensorVoltage_instance_1::SensorVoltage::SensorVoltage (1 items):
+	ANY -- 9 - Fuselage_instance_1::Fuselage::Fuselage
+		SensorVoltage_instance_1:SensorVoltage__SensorConnector -> Fuselage_instance_1:Fuselage__FloorConnector6
+19 - Tube_instance_7::Tube::Tube (3 items):
+	TOP-SIDE -- 20 - Flange_instance_2::Flange::Flange
+		Tube_instance_7:Tube__EndConnection -> Flange_instance_2:Flange__SideConnector
+	SIDE2-BOTTOM -- 45 - Hub3_instance_5::Hub3::Hub3
+		Tube_instance_7:Tube__BaseConnection -> Hub3_instance_5:Hub3__Side_Connector_2
+	MID-TOP -- 26 - Wing_instance_3::Wing::Wing
+		Tube_instance_7:Tube__OffsetConnection1 -> Wing_instance_3:Wing__Wing_Tube_Connector
+20 - Flange_instance_2::Flange::Flange (3 items):
+	BOTTOM-BOTTOM -- 27 - Tube_instance_10::Tube::Tube
+		Flange_instance_2:Flange__BottomConnector -> Tube_instance_10:Tube__BaseConnection
+	SIDE-TOP -- 19 - Tube_instance_7::Tube::Tube
+		Flange_instance_2:Flange__SideConnector -> Tube_instance_7:Tube__EndConnection
+	ANY -- 50 - Motor_instance_4::Motor::Motor
+		Flange_instance_2:Flange__TopConnector -> Motor_instance_4:Motor__Base_Connector
+21 - Tube_instance_8::Tube::Tube (2 items):
+	CENTER-TOP -- 2 - Hub3_instance_2::Hub3::Hub3
+		Tube_instance_8:Tube__BaseConnection -> Hub3_instance_2:Hub3__Center_Connector
+	BOTTOM -- 4 - Wing_instance_1::Wing::Wing
+		Tube_instance_8:Tube__EndConnection -> Wing_instance_1:Wing__Wing_Tube_Connector
+22 - Flange_instance_3::Flange::Flange (3 items):
+	SIDE-TOP -- 17 - Tube_instance_6::Tube::Tube
+		Flange_instance_3:Flange__SideConnector -> Tube_instance_6:Tube__EndConnection
+	ANY -- 11 - Motor_instance_1::Motor::Motor
+		Flange_instance_3:Flange__TopConnector -> Motor_instance_1:Motor__Base_Connector
+	BOTTOM-BOTTOM -- 5 - Tube_instance_2::Tube::Tube
+		Flange_instance_3:Flange__BottomConnector -> Tube_instance_2:Tube__BaseConnection
+23 - Wing_instance_2::Wing::Wing (1 items):
+	TOP -- 16 - Tube_instance_5::Tube::Tube
+		Wing_instance_2:Wing__Wing_Tube_Connector -> Tube_instance_5:Tube__EndConnection
+24 - Tube_instance_9::Tube::Tube (2 items):
+	SIDE1-TOP -- 45 - Hub3_instance_5::Hub3::Hub3
+		Tube_instance_9:Tube__EndConnection -> Hub3_instance_5:Hub3__Side_Connector_1
+	SIDE1-BOTTOM -- 8 - Hub3_instance_4::Hub3::Hub3
+		Tube_instance_9:Tube__BaseConnection -> Hub3_instance_4:Hub3__Side_Connector_1
+25 - SensorGPS_instance_1::SensorGPS::SensorGPS (1 items):
+	ANY -- 9 - Fuselage_instance_1::Fuselage::Fuselage
+		SensorGPS_instance_1:SensorGPS__SensorConnector -> Fuselage_instance_1:Fuselage__FloorConnector7
+26 - Wing_instance_3::Wing::Wing (1 items):
+	MID-BOTTOM -- 19 - Tube_instance_7::Tube::Tube
+		Wing_instance_3:Wing__Wing_Tube_Connector -> Tube_instance_7:Tube__OffsetConnection1
+27 - Tube_instance_10::Tube::Tube (1 items):
+	BOTTOM-BOTTOM -- 20 - Flange_instance_2::Flange::Flange
+		Tube_instance_10:Tube__BaseConnection -> Flange_instance_2:Flange__BottomConnector
+28 - SensorVariometer_instance_1::SensorVariometer::SensorVariometer (1 items):
+	ANY -- 9 - Fuselage_instance_1::Fuselage::Fuselage
+		SensorVariometer_instance_1:SensorVariometer__SensorConnector -> Fuselage_instance_1:Fuselage__FloorConnector8
+29 - SensorAutopilot_instance_1::SensorAutopilot::SensorAutopilot (1 items):
+	ANY -- 9 - Fuselage_instance_1::Fuselage::Fuselage
+		SensorAutopilot_instance_1:SensorAutopilot__SensorConnector -> Fuselage_instance_1:Fuselage__FloorConnector5
+30 - Motor_instance_2::Motor::Motor (3 items):
+	ANY -- 40 - Propeller_instance_4::Propeller::Propeller
+		Motor_instance_2:Motor__Prop_Connector -> Propeller_instance_4:Propeller__MOTOR_CONNECTOR_CS_IN
+	ANY -- 34 - BatteryController_instance_1::BatteryController::BatteryController
+		Motor_instance_2:Motor__MotorPower -> BatteryController_instance_1:BatteryController__MotorPower
+	ANY -- 44 - Flange_instance_4::Flange::Flange
+		Motor_instance_2:Motor__Base_Connector -> Flange_instance_4:Flange__TopConnector
+31 - SensorRpmTemp_instance_1::SensorRpmTemp::SensorRpmTemp (1 items):
+	ANY -- 9 - Fuselage_instance_1::Fuselage::Fuselage
+		SensorRpmTemp_instance_1:SensorRpmTemp__SensorConnector -> Fuselage_instance_1:Fuselage__FloorConnector3
+32 - Tube_instance_11::Tube::Tube (1 items):
+	SIDE3-BOTTOM -- 45 - Hub3_instance_5::Hub3::Hub3
+		Tube_instance_11:Tube__BaseConnection -> Hub3_instance_5:Hub3__Side_Connector_3
+33 - Propeller_instance_2::Propeller::Propeller (1 items):
+	ANY -- 50 - Motor_instance_4::Motor::Motor
+		Propeller_instance_2:Propeller__MOTOR_CONNECTOR_CS_IN -> Motor_instance_4:Motor__Prop_Connector
+34 - BatteryController_instance_1::BatteryController::BatteryController (6 items):
+	ANY -- 48 - Motor_instance_3::Motor::Motor
+		BatteryController_instance_1:BatteryController__MotorPower -> Motor_instance_3:Motor__MotorPower
+	ANY -- 51 - Battery_instance_2::Battery::Battery
+		BatteryController_instance_1:BatteryController__BatteryPower -> Battery_instance_2:Battery__PowerBus
+	ANY -- 30 - Motor_instance_2::Motor::Motor
+		BatteryController_instance_1:BatteryController__MotorPower -> Motor_instance_2:Motor__MotorPower
+	ANY -- 11 - Motor_instance_1::Motor::Motor
+		BatteryController_instance_1:BatteryController__MotorPower -> Motor_instance_1:Motor__MotorPower
+	ANY -- 50 - Motor_instance_4::Motor::Motor
+		BatteryController_instance_1:BatteryController__MotorPower -> Motor_instance_4:Motor__MotorPower
+	ANY -- 6 - Battery_instance_1::Battery::Battery
+		BatteryController_instance_1:BatteryController__BatteryPower -> Battery_instance_1:Battery__PowerBus
+35 - Tube_instance_12::Tube::Tube (2 items):
+	BOTTOM-SIDE -- 44 - Flange_instance_4::Flange::Flange
+		Tube_instance_12:Tube__BaseConnection -> Flange_instance_4:Flange__SideConnector
+	BOTTOM -- 43 - Wing_instance_5::Wing::Wing
+		Tube_instance_12:Tube__EndConnection -> Wing_instance_5:Wing__Wing_Tube_Connector
+36 - Tube_instance_13::Tube::Tube (1 items):
+	SIDE1-BOTTOM -- 2 - Hub3_instance_2::Hub3::Hub3
+		Tube_instance_13:Tube__BaseConnection -> Hub3_instance_2:Hub3__Side_Connector_1
+37 - Propeller_instance_3::Propeller::Propeller (1 items):
+	ANY -- 11 - Motor_instance_1::Motor::Motor
+		Propeller_instance_3:Propeller__MOTOR_CONNECTOR_CS_IN -> Motor_instance_1:Motor__Prop_Connector
+38 - Tube_instance_14::Tube::Tube (2 items):
+	TOP-BOTTOM -- 44 - Flange_instance_4::Flange::Flange
+		Tube_instance_14:Tube__EndConnection -> Flange_instance_4:Flange__BottomConnector
+	SIDE3-BOTTOM -- 7 - Hub3_instance_3::Hub3::Hub3
+		Tube_instance_14:Tube__BaseConnection -> Hub3_instance_3:Hub3__Side_Connector_3
+39 - Tube_instance_15::Tube::Tube (2 items):
+	CENTER-TOP -- 45 - Hub3_instance_5::Hub3::Hub3
+		Tube_instance_15:Tube__BaseConnection -> Hub3_instance_5:Hub3__Center_Connector
+	BOTTOM -- 42 - Wing_instance_4::Wing::Wing
+		Tube_instance_15:Tube__EndConnection -> Wing_instance_4:Wing__Wing_Tube_Connector
+40 - Propeller_instance_4::Propeller::Propeller (1 items):
+	ANY -- 30 - Motor_instance_2::Motor::Motor
+		Propeller_instance_4:Propeller__MOTOR_CONNECTOR_CS_IN -> Motor_instance_2:Motor__Prop_Connector
+41 - Tube_instance_16::Tube::Tube (2 items):
+	SIDE2-TOP -- 8 - Hub3_instance_4::Hub3::Hub3
+		Tube_instance_16:Tube__EndConnection -> Hub3_instance_4:Hub3__Side_Connector_2
+	SIDE3-BOTTOM -- 0 - Hub3_instance_1::Hub3::Hub3
+		Tube_instance_16:Tube__BaseConnection -> Hub3_instance_1:Hub3__Side_Connector_3
+42 - Wing_instance_4::Wing::Wing (1 items):
+	TOP -- 39 - Tube_instance_15::Tube::Tube
+		Wing_instance_4:Wing__Wing_Tube_Connector -> Tube_instance_15:Tube__EndConnection
+43 - Wing_instance_5::Wing::Wing (1 items):
+	TOP -- 35 - Tube_instance_12::Tube::Tube
+		Wing_instance_5:Wing__Wing_Tube_Connector -> Tube_instance_12:Tube__EndConnection
+44 - Flange_instance_4::Flange::Flange (3 items):
+	ANY -- 30 - Motor_instance_2::Motor::Motor
+		Flange_instance_4:Flange__TopConnector -> Motor_instance_2:Motor__Base_Connector
+	SIDE-BOTTOM -- 35 - Tube_instance_12::Tube::Tube
+		Flange_instance_4:Flange__SideConnector -> Tube_instance_12:Tube__BaseConnection
+	BOTTOM-TOP -- 38 - Tube_instance_14::Tube::Tube
+		Flange_instance_4:Flange__BottomConnector -> Tube_instance_14:Tube__EndConnection
+45 - Hub3_instance_5::Hub3::Hub3 (4 items):
+	TOP-SIDE1 -- 24 - Tube_instance_9::Tube::Tube
+		Hub3_instance_5:Hub3__Side_Connector_1 -> Tube_instance_9:Tube__EndConnection
+	TOP-CENTER -- 39 - Tube_instance_15::Tube::Tube
+		Hub3_instance_5:Hub3__Center_Connector -> Tube_instance_15:Tube__BaseConnection
+	BOTTOM-SIDE2 -- 19 - Tube_instance_7::Tube::Tube
+		Hub3_instance_5:Hub3__Side_Connector_2 -> Tube_instance_7:Tube__BaseConnection
+	BOTTOM-SIDE3 -- 32 - Tube_instance_11::Tube::Tube
+		Hub3_instance_5:Hub3__Side_Connector_3 -> Tube_instance_11:Tube__BaseConnection
+46 - CargoCase_instance_1::CargoCase::CargoCase (2 items):
+	ANY -- 0 - Hub3_instance_1::Hub3::Hub3
+		CargoCase_instance_1:CargoCase__Case2HubConnector -> Hub3_instance_1:Hub3__Bottom_Connector
+	ANY -- 1 - Cargo_instance_1::Cargo::Cargo
+		CargoCase_instance_1:CargoCase__CargoConnector -> Cargo_instance_1:Cargo__CargoConnector
+47 - SensorCurrent_instance_1::SensorCurrent::SensorCurrent (1 items):
+	ANY -- 9 - Fuselage_instance_1::Fuselage::Fuselage
+		SensorCurrent_instance_1:SensorCurrent__SensorConnector -> Fuselage_instance_1:Fuselage__FloorConnector4
+48 - Motor_instance_3::Motor::Motor (3 items):
+	ANY -- 34 - BatteryController_instance_1::BatteryController::BatteryController
+		Motor_instance_3:Motor__MotorPower -> BatteryController_instance_1:BatteryController__MotorPower
+	ANY -- 14 - Flange_instance_1::Flange::Flange
+		Motor_instance_3:Motor__Base_Connector -> Flange_instance_1:Flange__TopConnector
+	ANY -- 10 - Propeller_instance_1::Propeller::Propeller
+		Motor_instance_3:Motor__Prop_Connector -> Propeller_instance_1:Propeller__MOTOR_CONNECTOR_CS_IN
+49 - Wing_instance_6::Wing::Wing (1 items):
+	MID-BOTTOM -- 17 - Tube_instance_6::Tube::Tube
+		Wing_instance_6:Wing__Wing_Tube_Connector -> Tube_instance_6:Tube__OffsetConnection1
+50 - Motor_instance_4::Motor::Motor (3 items):
+	ANY -- 34 - BatteryController_instance_1::BatteryController::BatteryController
+		Motor_instance_4:Motor__MotorPower -> BatteryController_instance_1:BatteryController__MotorPower
+	ANY -- 33 - Propeller_instance_2::Propeller::Propeller
+		Motor_instance_4:Motor__Prop_Connector -> Propeller_instance_2:Propeller__MOTOR_CONNECTOR_CS_IN
+	ANY -- 20 - Flange_instance_2::Flange::Flange
+		Motor_instance_4:Motor__Base_Connector -> Flange_instance_2:Flange__TopConnector
+51 - Battery_instance_2::Battery::Battery (2 items):
+	BOTTOM-1 -- 9 - Fuselage_instance_1::Fuselage::Fuselage
+		Battery_instance_2:Battery__Bottom_Connector -> Fuselage_instance_1:Fuselage__FloorConnector1
+	ANY -- 34 - BatteryController_instance_1::BatteryController::BatteryController
+		Battery_instance_2:Battery__PowerBus -> BatteryController_instance_1:BatteryController__BatteryPower
+
+
+IGRAPH D--- 52 112 --
++ attr: c_type (v), component (v), instance (v), label (v), library_component
+  (v), connection (e), label (e)
++ edges:
+0->9 0->15 0->46 0->41 0->3 1->46 2->21 2->36 2->17 2->12 3->7 3->0 4->21
+5->22 6->9 6->34 7->3 7->12 7->38 8->41 8->24 8->13 9->0 9->28 9->25 9->51
+9->6 9->29 9->18 9->31 9->47 10->48 11->37 11->22 11->34 12->7 12->2 13->8
+13->14 14->13 14->16 14->48 15->0 16->23 16->14 17->49 17->22 17->2 18->9
+19->20 19->45 19->26 20->27 20->19 20->50 21->2 21->4 22->17 22->11 22->5
+23->16 24->45 24->8 25->9 26->19 27->20 28->9 29->9 30->40 30->34 30->44 31->9
+32->45 33->50 34->48 34->51 34->30 34->11 34->50 34->6 35->44 35->43 36->2
+37->11 38->44 38->7 39->45 39->42 40->30 41->8 41->0 42->39 43->35 44->30
+44->35 44->38 45->24 45->39 45->19 45->32 46->0 46->1 47->9 48->34 48->14
+48->10 49->17 50->34 50->33 50->20 51->9 51->34
+
+name: NewAxe_Cargo
+#_components: 52
+#_connections: 56
+#_component_classes:
+	Hub3: 1
+	Battery: 1
+	Tube: 1
+	Wing: 1
+	Propeller: 1
+	Flange: 1
+	SensorCurrent: 1
+	SensorGPS: 1
+	Cargo: 1
+	SensorVoltage: 1
+	CargoCase: 1
+	Motor: 1
+	SensorRpmTemp: 1
+	Fuselage: 1
+	Orient: 1
+	SensorVariometer: 1
+	BatteryController: 1
+	SensorAutopilot: 1
+
+
+connections:
+FROM
+	COMPONENT	Flange (Flange_instance_2)
+	CONNECTOR	BottomConnector
+TO
+	COMPONENT	Tube (Tube_instance_10)
+	CONNECTOR	BaseConnection
+
+FROM
+	COMPONENT	Tube (Tube_instance_7)
+	CONNECTOR	OffsetConnection1
+TO
+	COMPONENT	Wing (Wing_instance_3)
+	CONNECTOR	Wing_Tube_Connector
+
+FROM
+	COMPONENT	Battery (Battery_instance_1)
+	CONNECTOR	PowerBus
+TO
+	COMPONENT	BatteryController (BatteryController_instance_1)
+	CONNECTOR	BatteryPower
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_2)
+	CONNECTOR	Center_Connector
+TO
+	COMPONENT	Tube (Tube_instance_8)
+	CONNECTOR	BaseConnection
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_4)
+	CONNECTOR	Side_Connector_3
+TO
+	COMPONENT	Tube (Tube_instance_4)
+	CONNECTOR	BaseConnection
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_2)
+	CONNECTOR	Side_Connector_3
+TO
+	COMPONENT	Tube (Tube_instance_3)
+	CONNECTOR	EndConnection
+
+FROM
+	COMPONENT	Tube (Tube_instance_4)
+	CONNECTOR	EndConnection
+TO
+	COMPONENT	Flange (Flange_instance_1)
+	CONNECTOR	BottomConnector
+
+FROM
+	COMPONENT	Tube (Tube_instance_14)
+	CONNECTOR	EndConnection
+TO
+	COMPONENT	Flange (Flange_instance_4)
+	CONNECTOR	BottomConnector
+
+FROM
+	COMPONENT	Fuselage (Fuselage_instance_1)
+	CONNECTOR	FloorConnector7
+TO
+	COMPONENT	SensorGPS (SensorGPS_instance_1)
+	CONNECTOR	SensorConnector
+
+FROM
+	COMPONENT	Tube (Tube_instance_5)
+	CONNECTOR	EndConnection
+TO
+	COMPONENT	Wing (Wing_instance_2)
+	CONNECTOR	Wing_Tube_Connector
+
+FROM
+	COMPONENT	Flange (Flange_instance_1)
+	CONNECTOR	SideConnector
+TO
+	COMPONENT	Tube (Tube_instance_5)
+	CONNECTOR	BaseConnection
+
+FROM
+	COMPONENT	BatteryController (BatteryController_instance_1)
+	CONNECTOR	MotorPower
+TO
+	COMPONENT	Motor (Motor_instance_3)
+	CONNECTOR	MotorPower
+
+FROM
+	COMPONENT	Tube (Tube_instance_7)
+	CONNECTOR	BaseConnection
+TO
+	COMPONENT	Hub3 (Hub3_instance_5)
+	CONNECTOR	Side_Connector_2
+
+FROM
+	COMPONENT	Motor (Motor_instance_2)
+	CONNECTOR	Prop_Connector
+TO
+	COMPONENT	Propeller (Propeller_instance_4)
+	CONNECTOR	MOTOR_CONNECTOR_CS_IN
+
+FROM
+	COMPONENT	BatteryController (BatteryController_instance_1)
+	CONNECTOR	MotorPower
+TO
+	COMPONENT	Motor (Motor_instance_4)
+	CONNECTOR	MotorPower
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_1)
+	CONNECTOR	Orient_Connector
+TO
+	COMPONENT	Orient (Orient)
+	CONNECTOR	ORIENTCONN
+
+FROM
+	COMPONENT	Tube (Tube_instance_2)
+	CONNECTOR	BaseConnection
+TO
+	COMPONENT	Flange (Flange_instance_3)
+	CONNECTOR	BottomConnector
+
+FROM
+	COMPONENT	Motor (Motor_instance_2)
+	CONNECTOR	MotorPower
+TO
+	COMPONENT	BatteryController (BatteryController_instance_1)
+	CONNECTOR	MotorPower
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_1)
+	CONNECTOR	Side_Connector_3
+TO
+	COMPONENT	Tube (Tube_instance_16)
+	CONNECTOR	BaseConnection
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_2)
+	CONNECTOR	Side_Connector_2
+TO
+	COMPONENT	Tube (Tube_instance_6)
+	CONNECTOR	BaseConnection
+
+FROM
+	COMPONENT	Fuselage (Fuselage_instance_1)
+	CONNECTOR	FloorConnector3
+TO
+	COMPONENT	SensorRpmTemp (SensorRpmTemp_instance_1)
+	CONNECTOR	SensorConnector
+
+FROM
+	COMPONENT	Motor (Motor_instance_2)
+	CONNECTOR	Base_Connector
+TO
+	COMPONENT	Flange (Flange_instance_4)
+	CONNECTOR	TopConnector
+
+FROM
+	COMPONENT	Battery (Battery_instance_1)
+	CONNECTOR	Bottom_Connector
+TO
+	COMPONENT	Fuselage (Fuselage_instance_1)
+	CONNECTOR	FloorConnector2
+
+FROM
+	COMPONENT	Tube (Tube_instance_6)
+	CONNECTOR	EndConnection
+TO
+	COMPONENT	Flange (Flange_instance_3)
+	CONNECTOR	SideConnector
+
+FROM
+	COMPONENT	Tube (Tube_instance_15)
+	CONNECTOR	EndConnection
+TO
+	COMPONENT	Wing (Wing_instance_4)
+	CONNECTOR	Wing_Tube_Connector
+
+FROM
+	COMPONENT	Fuselage (Fuselage_instance_1)
+	CONNECTOR	FloorConnector1
+TO
+	COMPONENT	Battery (Battery_instance_2)
+	CONNECTOR	Bottom_Connector
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_1)
+	CONNECTOR	Top_Connector
+TO
+	COMPONENT	Fuselage (Fuselage_instance_1)
+	CONNECTOR	BottomConnector
+
+FROM
+	COMPONENT	BatteryController (BatteryController_instance_1)
+	CONNECTOR	BatteryPower
+TO
+	COMPONENT	Battery (Battery_instance_2)
+	CONNECTOR	PowerBus
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_1)
+	CONNECTOR	Bottom_Connector
+TO
+	COMPONENT	CargoCase (CargoCase_instance_1)
+	CONNECTOR	Case2HubConnector
+
+FROM
+	COMPONENT	Wing (Wing_instance_1)
+	CONNECTOR	Wing_Tube_Connector
+TO
+	COMPONENT	Tube (Tube_instance_8)
+	CONNECTOR	EndConnection
+
+FROM
+	COMPONENT	Tube (Tube_instance_7)
+	CONNECTOR	EndConnection
+TO
+	COMPONENT	Flange (Flange_instance_2)
+	CONNECTOR	SideConnector
+
+FROM
+	COMPONENT	Cargo (Cargo_instance_1)
+	CONNECTOR	CargoConnector
+TO
+	COMPONENT	CargoCase (CargoCase_instance_1)
+	CONNECTOR	CargoConnector
+
+FROM
+	COMPONENT	Propeller (Propeller_instance_2)
+	CONNECTOR	MOTOR_CONNECTOR_CS_IN
+TO
+	COMPONENT	Motor (Motor_instance_4)
+	CONNECTOR	Prop_Connector
+
+FROM
+	COMPONENT	Flange (Flange_instance_1)
+	CONNECTOR	TopConnector
+TO
+	COMPONENT	Motor (Motor_instance_3)
+	CONNECTOR	Base_Connector
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_4)
+	CONNECTOR	Side_Connector_1
+TO
+	COMPONENT	Tube (Tube_instance_9)
+	CONNECTOR	BaseConnection
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_3)
+	CONNECTOR	Side_Connector_3
+TO
+	COMPONENT	Tube (Tube_instance_14)
+	CONNECTOR	BaseConnection
+
+FROM
+	COMPONENT	Tube (Tube_instance_1)
+	CONNECTOR	EndConnection
+TO
+	COMPONENT	Hub3 (Hub3_instance_3)
+	CONNECTOR	Side_Connector_2
+
+FROM
+	COMPONENT	Propeller (Propeller_instance_1)
+	CONNECTOR	MOTOR_CONNECTOR_CS_IN
+TO
+	COMPONENT	Motor (Motor_instance_3)
+	CONNECTOR	Prop_Connector
+
+FROM
+	COMPONENT	Tube (Tube_instance_12)
+	CONNECTOR	EndConnection
+TO
+	COMPONENT	Wing (Wing_instance_5)
+	CONNECTOR	Wing_Tube_Connector
+
+FROM
+	COMPONENT	Tube (Tube_instance_9)
+	CONNECTOR	EndConnection
+TO
+	COMPONENT	Hub3 (Hub3_instance_5)
+	CONNECTOR	Side_Connector_1
+
+FROM
+	COMPONENT	Motor (Motor_instance_1)
+	CONNECTOR	Prop_Connector
+TO
+	COMPONENT	Propeller (Propeller_instance_3)
+	CONNECTOR	MOTOR_CONNECTOR_CS_IN
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_3)
+	CONNECTOR	Side_Connector_1
+TO
+	COMPONENT	Tube (Tube_instance_3)
+	CONNECTOR	BaseConnection
+
+FROM
+	COMPONENT	Fuselage (Fuselage_instance_1)
+	CONNECTOR	FloorConnector6
+TO
+	COMPONENT	SensorVoltage (SensorVoltage_instance_1)
+	CONNECTOR	SensorConnector
+
+FROM
+	COMPONENT	Flange (Flange_instance_2)
+	CONNECTOR	TopConnector
+TO
+	COMPONENT	Motor (Motor_instance_4)
+	CONNECTOR	Base_Connector
+
+FROM
+	COMPONENT	Tube (Tube_instance_15)
+	CONNECTOR	BaseConnection
+TO
+	COMPONENT	Hub3 (Hub3_instance_5)
+	CONNECTOR	Center_Connector
+
+FROM
+	COMPONENT	Tube (Tube_instance_11)
+	CONNECTOR	BaseConnection
+TO
+	COMPONENT	Hub3 (Hub3_instance_5)
+	CONNECTOR	Side_Connector_3
+
+FROM
+	COMPONENT	Fuselage (Fuselage_instance_1)
+	CONNECTOR	FloorConnector4
+TO
+	COMPONENT	SensorCurrent (SensorCurrent_instance_1)
+	CONNECTOR	SensorConnector
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_2)
+	CONNECTOR	Side_Connector_1
+TO
+	COMPONENT	Tube (Tube_instance_13)
+	CONNECTOR	BaseConnection
+
+FROM
+	COMPONENT	Motor (Motor_instance_1)
+	CONNECTOR	Base_Connector
+TO
+	COMPONENT	Flange (Flange_instance_3)
+	CONNECTOR	TopConnector
+
+FROM
+	COMPONENT	Tube (Tube_instance_12)
+	CONNECTOR	BaseConnection
+TO
+	COMPONENT	Flange (Flange_instance_4)
+	CONNECTOR	SideConnector
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_4)
+	CONNECTOR	Side_Connector_2
+TO
+	COMPONENT	Tube (Tube_instance_16)
+	CONNECTOR	EndConnection
+
+FROM
+	COMPONENT	Fuselage (Fuselage_instance_1)
+	CONNECTOR	FloorConnector5
+TO
+	COMPONENT	SensorAutopilot (SensorAutopilot_instance_1)
+	CONNECTOR	SensorConnector
+
+FROM
+	COMPONENT	Hub3 (Hub3_instance_1)
+	CONNECTOR	Side_Connector_1
+TO
+	COMPONENT	Tube (Tube_instance_1)
+	CONNECTOR	BaseConnection
+
+FROM
+	COMPONENT	Motor (Motor_instance_1)
+	CONNECTOR	MotorPower
+TO
+	COMPONENT	BatteryController (BatteryController_instance_1)
+	CONNECTOR	MotorPower
+
+FROM
+	COMPONENT	Fuselage (Fuselage_instance_1)
+	CONNECTOR	FloorConnector8
+TO
+	COMPONENT	SensorVariometer (SensorVariometer_instance_1)
+	CONNECTOR	SensorConnector
+
+FROM
+	COMPONENT	Tube (Tube_instance_6)
+	CONNECTOR	OffsetConnection1
+TO
+	COMPONENT	Wing (Wing_instance_6)
+	CONNECTOR	Wing_Tube_Connector
+
+
+
+components:
+	COMPONENT type: Hub3
+		LIBRARY COMPONENT: 0394od_para_hub_3
+			COMPONENT: Hub3_instance_4
+				CONNECTIONS:
+					0394od_para_hub_3 :: Hub3__Side_Connector_3 <<->> Tube__BaseConnection :: Tube_instance_4 (0394OD_para_tube)
+					0394od_para_hub_3 :: Hub3__Side_Connector_1 <<->> Tube__BaseConnection :: Tube_instance_9 (0394OD_para_tube)
+					0394od_para_hub_3 :: Hub3__Side_Connector_2 <<->> Tube__EndConnection :: Tube_instance_16 (0394OD_para_tube)
+			COMPONENT: Hub3_instance_2
+				CONNECTIONS:
+					0394od_para_hub_3 :: Hub3__Center_Connector <<->> Tube__BaseConnection :: Tube_instance_8 (0394OD_para_tube)
+					0394od_para_hub_3 :: Hub3__Side_Connector_3 <<->> Tube__EndConnection :: Tube_instance_3 (0394OD_para_tube)
+					0394od_para_hub_3 :: Hub3__Side_Connector_2 <<->> Tube__BaseConnection :: Tube_instance_6 (0394OD_para_tube)
+					0394od_para_hub_3 :: Hub3__Side_Connector_1 <<->> Tube__BaseConnection :: Tube_instance_13 (0394OD_para_tube)
+			COMPONENT: Hub3_instance_1
+				CONNECTIONS:
+					0394od_para_hub_3 :: Hub3__Orient_Connector <<->> Orient__ORIENTCONN :: Orient (Orient)
+					0394od_para_hub_3 :: Hub3__Side_Connector_3 <<->> Tube__BaseConnection :: Tube_instance_16 (0394OD_para_tube)
+					0394od_para_hub_3 :: Hub3__Top_Connector <<->> Fuselage__BottomConnector :: Fuselage_instance_1 (capsule_fuselage)
+					0394od_para_hub_3 :: Hub3__Bottom_Connector <<->> CargoCase__Case2HubConnector :: CargoCase_instance_1 (CargoCase)
+					0394od_para_hub_3 :: Hub3__Side_Connector_1 <<->> Tube__BaseConnection :: Tube_instance_1 (0394OD_para_tube)
+			COMPONENT: Hub3_instance_3
+				CONNECTIONS:
+					0394od_para_hub_3 :: Hub3__Side_Connector_3 <<->> Tube__BaseConnection :: Tube_instance_14 (0394OD_para_tube)
+					0394od_para_hub_3 :: Hub3__Side_Connector_2 <<->> Tube__EndConnection :: Tube_instance_1 (0394OD_para_tube)
+					0394od_para_hub_3 :: Hub3__Side_Connector_1 <<->> Tube__BaseConnection :: Tube_instance_3 (0394OD_para_tube)
+			COMPONENT: Hub3_instance_5
+				CONNECTIONS:
+					0394od_para_hub_3 :: Hub3__Side_Connector_2 <<->> Tube__BaseConnection :: Tube_instance_7 (0394OD_para_tube)
+					0394od_para_hub_3 :: Hub3__Side_Connector_1 <<->> Tube__EndConnection :: Tube_instance_9 (0394OD_para_tube)
+					0394od_para_hub_3 :: Hub3__Center_Connector <<->> Tube__BaseConnection :: Tube_instance_15 (0394OD_para_tube)
+					0394od_para_hub_3 :: Hub3__Side_Connector_3 <<->> Tube__BaseConnection :: Tube_instance_11 (0394OD_para_tube)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: Battery
+		LIBRARY COMPONENT: TurnigyGraphene6000mAh6S75C
+			COMPONENT: Battery_instance_2
+				CONNECTIONS:
+					TurnigyGraphene6000mAh6S75C :: Battery__Bottom_Connector <<->> Fuselage__FloorConnector1 :: Fuselage_instance_1 (capsule_fuselage)
+					TurnigyGraphene6000mAh6S75C :: Battery__PowerBus <<->> BatteryController__BatteryPower :: BatteryController_instance_1 (BatteryController)
+			COMPONENT: Battery_instance_1
+				CONNECTIONS:
+					TurnigyGraphene6000mAh6S75C :: Battery__PowerBus <<->> BatteryController__BatteryPower :: BatteryController_instance_1 (BatteryController)
+					TurnigyGraphene6000mAh6S75C :: Battery__Bottom_Connector <<->> Fuselage__FloorConnector2 :: Fuselage_instance_1 (capsule_fuselage)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: Tube
+		LIBRARY COMPONENT: 0394OD_para_tube
+			COMPONENT: Tube_instance_6
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__BaseConnection <<->> Hub3__Side_Connector_2 :: Hub3_instance_2 (0394od_para_hub_3)
+					0394OD_para_tube :: Tube__EndConnection <<->> Flange__SideConnector :: Flange_instance_3 (0394_para_flange)
+					0394OD_para_tube :: Tube__OffsetConnection1 <<->> Wing__Wing_Tube_Connector :: Wing_instance_6 (Wing_vert_hole)
+			COMPONENT: Tube_instance_11
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__BaseConnection <<->> Hub3__Side_Connector_3 :: Hub3_instance_5 (0394od_para_hub_3)
+			COMPONENT: Tube_instance_8
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__BaseConnection <<->> Hub3__Center_Connector :: Hub3_instance_2 (0394od_para_hub_3)
+					0394OD_para_tube :: Tube__EndConnection <<->> Wing__Wing_Tube_Connector :: Wing_instance_1 (Wing_vert_hole)
+			COMPONENT: Tube_instance_4
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__BaseConnection <<->> Hub3__Side_Connector_3 :: Hub3_instance_4 (0394od_para_hub_3)
+					0394OD_para_tube :: Tube__EndConnection <<->> Flange__BottomConnector :: Flange_instance_1 (0394_para_flange)
+			COMPONENT: Tube_instance_13
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__BaseConnection <<->> Hub3__Side_Connector_1 :: Hub3_instance_2 (0394od_para_hub_3)
+			COMPONENT: Tube_instance_1
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__EndConnection <<->> Hub3__Side_Connector_2 :: Hub3_instance_3 (0394od_para_hub_3)
+					0394OD_para_tube :: Tube__BaseConnection <<->> Hub3__Side_Connector_1 :: Hub3_instance_1 (0394od_para_hub_3)
+			COMPONENT: Tube_instance_9
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__BaseConnection <<->> Hub3__Side_Connector_1 :: Hub3_instance_4 (0394od_para_hub_3)
+					0394OD_para_tube :: Tube__EndConnection <<->> Hub3__Side_Connector_1 :: Hub3_instance_5 (0394od_para_hub_3)
+			COMPONENT: Tube_instance_15
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__EndConnection <<->> Wing__Wing_Tube_Connector :: Wing_instance_4 (Wing_vert_hole)
+					0394OD_para_tube :: Tube__BaseConnection <<->> Hub3__Center_Connector :: Hub3_instance_5 (0394od_para_hub_3)
+			COMPONENT: Tube_instance_10
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__BaseConnection <<->> Flange__BottomConnector :: Flange_instance_2 (0394_para_flange)
+			COMPONENT: Tube_instance_16
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__BaseConnection <<->> Hub3__Side_Connector_3 :: Hub3_instance_1 (0394od_para_hub_3)
+					0394OD_para_tube :: Tube__EndConnection <<->> Hub3__Side_Connector_2 :: Hub3_instance_4 (0394od_para_hub_3)
+			COMPONENT: Tube_instance_5
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__EndConnection <<->> Wing__Wing_Tube_Connector :: Wing_instance_2 (Wing_vert_hole)
+					0394OD_para_tube :: Tube__BaseConnection <<->> Flange__SideConnector :: Flange_instance_1 (0394_para_flange)
+			COMPONENT: Tube_instance_7
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__OffsetConnection1 <<->> Wing__Wing_Tube_Connector :: Wing_instance_3 (Wing_vert_hole)
+					0394OD_para_tube :: Tube__BaseConnection <<->> Hub3__Side_Connector_2 :: Hub3_instance_5 (0394od_para_hub_3)
+					0394OD_para_tube :: Tube__EndConnection <<->> Flange__SideConnector :: Flange_instance_2 (0394_para_flange)
+			COMPONENT: Tube_instance_3
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__EndConnection <<->> Hub3__Side_Connector_3 :: Hub3_instance_2 (0394od_para_hub_3)
+					0394OD_para_tube :: Tube__BaseConnection <<->> Hub3__Side_Connector_1 :: Hub3_instance_3 (0394od_para_hub_3)
+			COMPONENT: Tube_instance_2
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__BaseConnection <<->> Flange__BottomConnector :: Flange_instance_3 (0394_para_flange)
+			COMPONENT: Tube_instance_14
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__EndConnection <<->> Flange__BottomConnector :: Flange_instance_4 (0394_para_flange)
+					0394OD_para_tube :: Tube__BaseConnection <<->> Hub3__Side_Connector_3 :: Hub3_instance_3 (0394od_para_hub_3)
+			COMPONENT: Tube_instance_12
+				CONNECTIONS:
+					0394OD_para_tube :: Tube__EndConnection <<->> Wing__Wing_Tube_Connector :: Wing_instance_5 (Wing_vert_hole)
+					0394OD_para_tube :: Tube__BaseConnection <<->> Flange__SideConnector :: Flange_instance_4 (0394_para_flange)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: Wing
+		LIBRARY COMPONENT: Wing_vert_hole
+			COMPONENT: Wing_instance_5
+				CONNECTIONS:
+					Wing_vert_hole :: Wing__Wing_Tube_Connector <<->> Tube__EndConnection :: Tube_instance_12 (0394OD_para_tube)
+			COMPONENT: Wing_instance_3
+				CONNECTIONS:
+					Wing_vert_hole :: Wing__Wing_Tube_Connector <<->> Tube__OffsetConnection1 :: Tube_instance_7 (0394OD_para_tube)
+			COMPONENT: Wing_instance_2
+				CONNECTIONS:
+					Wing_vert_hole :: Wing__Wing_Tube_Connector <<->> Tube__EndConnection :: Tube_instance_5 (0394OD_para_tube)
+			COMPONENT: Wing_instance_6
+				CONNECTIONS:
+					Wing_vert_hole :: Wing__Wing_Tube_Connector <<->> Tube__OffsetConnection1 :: Tube_instance_6 (0394OD_para_tube)
+			COMPONENT: Wing_instance_1
+				CONNECTIONS:
+					Wing_vert_hole :: Wing__Wing_Tube_Connector <<->> Tube__EndConnection :: Tube_instance_8 (0394OD_para_tube)
+			COMPONENT: Wing_instance_4
+				CONNECTIONS:
+					Wing_vert_hole :: Wing__Wing_Tube_Connector <<->> Tube__EndConnection :: Tube_instance_15 (0394OD_para_tube)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: Propeller
+		LIBRARY COMPONENT: apc_propellers_7x5E
+			COMPONENT: Propeller_instance_2
+				CONNECTIONS:
+					apc_propellers_7x5E :: Propeller__MOTOR_CONNECTOR_CS_IN <<->> Motor__Prop_Connector :: Motor_instance_4 (kde_direct_KDE2315XF_885)
+			COMPONENT: Propeller_instance_1
+				CONNECTIONS:
+					apc_propellers_7x5E :: Propeller__MOTOR_CONNECTOR_CS_IN <<->> Motor__Prop_Connector :: Motor_instance_3 (kde_direct_KDE2315XF_885)
+			COMPONENT: Propeller_instance_4
+				CONNECTIONS:
+					apc_propellers_7x5E :: Propeller__MOTOR_CONNECTOR_CS_IN <<->> Motor__Prop_Connector :: Motor_instance_2 (kde_direct_KDE2315XF_885)
+			COMPONENT: Propeller_instance_3
+				CONNECTIONS:
+					apc_propellers_7x5E :: Propeller__MOTOR_CONNECTOR_CS_IN <<->> Motor__Prop_Connector :: Motor_instance_1 (kde_direct_KDE2315XF_885)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: Flange
+		LIBRARY COMPONENT: 0394_para_flange
+			COMPONENT: Flange_instance_4
+				CONNECTIONS:
+					0394_para_flange :: Flange__BottomConnector <<->> Tube__EndConnection :: Tube_instance_14 (0394OD_para_tube)
+					0394_para_flange :: Flange__TopConnector <<->> Motor__Base_Connector :: Motor_instance_2 (kde_direct_KDE2315XF_885)
+					0394_para_flange :: Flange__SideConnector <<->> Tube__BaseConnection :: Tube_instance_12 (0394OD_para_tube)
+			COMPONENT: Flange_instance_1
+				CONNECTIONS:
+					0394_para_flange :: Flange__BottomConnector <<->> Tube__EndConnection :: Tube_instance_4 (0394OD_para_tube)
+					0394_para_flange :: Flange__SideConnector <<->> Tube__BaseConnection :: Tube_instance_5 (0394OD_para_tube)
+					0394_para_flange :: Flange__TopConnector <<->> Motor__Base_Connector :: Motor_instance_3 (kde_direct_KDE2315XF_885)
+			COMPONENT: Flange_instance_3
+				CONNECTIONS:
+					0394_para_flange :: Flange__BottomConnector <<->> Tube__BaseConnection :: Tube_instance_2 (0394OD_para_tube)
+					0394_para_flange :: Flange__SideConnector <<->> Tube__EndConnection :: Tube_instance_6 (0394OD_para_tube)
+					0394_para_flange :: Flange__TopConnector <<->> Motor__Base_Connector :: Motor_instance_1 (kde_direct_KDE2315XF_885)
+			COMPONENT: Flange_instance_2
+				CONNECTIONS:
+					0394_para_flange :: Flange__BottomConnector <<->> Tube__BaseConnection :: Tube_instance_10 (0394OD_para_tube)
+					0394_para_flange :: Flange__SideConnector <<->> Tube__EndConnection :: Tube_instance_7 (0394OD_para_tube)
+					0394_para_flange :: Flange__TopConnector <<->> Motor__Base_Connector :: Motor_instance_4 (kde_direct_KDE2315XF_885)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: SensorCurrent
+		LIBRARY COMPONENT: Current
+			COMPONENT: SensorCurrent_instance_1
+				CONNECTIONS:
+					Current :: SensorCurrent__SensorConnector <<->> Fuselage__FloorConnector4 :: Fuselage_instance_1 (capsule_fuselage)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: SensorGPS
+		LIBRARY COMPONENT: GPS
+			COMPONENT: SensorGPS_instance_1
+				CONNECTIONS:
+					GPS :: SensorGPS__SensorConnector <<->> Fuselage__FloorConnector7 :: Fuselage_instance_1 (capsule_fuselage)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: Cargo
+		LIBRARY COMPONENT: Cargo
+			COMPONENT: Cargo_instance_1
+				CONNECTIONS:
+					Cargo :: Cargo__CargoConnector <<->> CargoCase__CargoConnector :: CargoCase_instance_1 (CargoCase)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: SensorVoltage
+		LIBRARY COMPONENT: Voltage
+			COMPONENT: SensorVoltage_instance_1
+				CONNECTIONS:
+					Voltage :: SensorVoltage__SensorConnector <<->> Fuselage__FloorConnector6 :: Fuselage_instance_1 (capsule_fuselage)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: CargoCase
+		LIBRARY COMPONENT: CargoCase
+			COMPONENT: CargoCase_instance_1
+				CONNECTIONS:
+					CargoCase :: CargoCase__Case2HubConnector <<->> Hub3__Bottom_Connector :: Hub3_instance_1 (0394od_para_hub_3)
+					CargoCase :: CargoCase__CargoConnector <<->> Cargo__CargoConnector :: Cargo_instance_1 (Cargo)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: Motor
+		LIBRARY COMPONENT: kde_direct_KDE2315XF_885
+			COMPONENT: Motor_instance_3
+				CONNECTIONS:
+					kde_direct_KDE2315XF_885 :: Motor__MotorPower <<->> BatteryController__MotorPower :: BatteryController_instance_1 (BatteryController)
+					kde_direct_KDE2315XF_885 :: Motor__Base_Connector <<->> Flange__TopConnector :: Flange_instance_1 (0394_para_flange)
+					kde_direct_KDE2315XF_885 :: Motor__Prop_Connector <<->> Propeller__MOTOR_CONNECTOR_CS_IN :: Propeller_instance_1 (apc_propellers_7x5E)
+			COMPONENT: Motor_instance_4
+				CONNECTIONS:
+					kde_direct_KDE2315XF_885 :: Motor__MotorPower <<->> BatteryController__MotorPower :: BatteryController_instance_1 (BatteryController)
+					kde_direct_KDE2315XF_885 :: Motor__Prop_Connector <<->> Propeller__MOTOR_CONNECTOR_CS_IN :: Propeller_instance_2 (apc_propellers_7x5E)
+					kde_direct_KDE2315XF_885 :: Motor__Base_Connector <<->> Flange__TopConnector :: Flange_instance_2 (0394_para_flange)
+			COMPONENT: Motor_instance_2
+				CONNECTIONS:
+					kde_direct_KDE2315XF_885 :: Motor__Prop_Connector <<->> Propeller__MOTOR_CONNECTOR_CS_IN :: Propeller_instance_4 (apc_propellers_7x5E)
+					kde_direct_KDE2315XF_885 :: Motor__MotorPower <<->> BatteryController__MotorPower :: BatteryController_instance_1 (BatteryController)
+					kde_direct_KDE2315XF_885 :: Motor__Base_Connector <<->> Flange__TopConnector :: Flange_instance_4 (0394_para_flange)
+			COMPONENT: Motor_instance_1
+				CONNECTIONS:
+					kde_direct_KDE2315XF_885 :: Motor__Prop_Connector <<->> Propeller__MOTOR_CONNECTOR_CS_IN :: Propeller_instance_3 (apc_propellers_7x5E)
+					kde_direct_KDE2315XF_885 :: Motor__Base_Connector <<->> Flange__TopConnector :: Flange_instance_3 (0394_para_flange)
+					kde_direct_KDE2315XF_885 :: Motor__MotorPower <<->> BatteryController__MotorPower :: BatteryController_instance_1 (BatteryController)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: SensorRpmTemp
+		LIBRARY COMPONENT: RpmTemp
+			COMPONENT: SensorRpmTemp_instance_1
+				CONNECTIONS:
+					RpmTemp :: SensorRpmTemp__SensorConnector <<->> Fuselage__FloorConnector3 :: Fuselage_instance_1 (capsule_fuselage)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: Fuselage
+		LIBRARY COMPONENT: capsule_fuselage
+			COMPONENT: Fuselage_instance_1
+				CONNECTIONS:
+					capsule_fuselage :: Fuselage__FloorConnector7 <<->> SensorGPS__SensorConnector :: SensorGPS_instance_1 (GPS)
+					capsule_fuselage :: Fuselage__FloorConnector3 <<->> SensorRpmTemp__SensorConnector :: SensorRpmTemp_instance_1 (RpmTemp)
+					capsule_fuselage :: Fuselage__FloorConnector2 <<->> Battery__Bottom_Connector :: Battery_instance_1 (TurnigyGraphene6000mAh6S75C)
+					capsule_fuselage :: Fuselage__FloorConnector1 <<->> Battery__Bottom_Connector :: Battery_instance_2 (TurnigyGraphene6000mAh6S75C)
+					capsule_fuselage :: Fuselage__BottomConnector <<->> Hub3__Top_Connector :: Hub3_instance_1 (0394od_para_hub_3)
+					capsule_fuselage :: Fuselage__FloorConnector6 <<->> SensorVoltage__SensorConnector :: SensorVoltage_instance_1 (Voltage)
+					capsule_fuselage :: Fuselage__FloorConnector4 <<->> SensorCurrent__SensorConnector :: SensorCurrent_instance_1 (Current)
+					capsule_fuselage :: Fuselage__FloorConnector5 <<->> SensorAutopilot__SensorConnector :: SensorAutopilot_instance_1 (Autopilot)
+					capsule_fuselage :: Fuselage__FloorConnector8 <<->> SensorVariometer__SensorConnector :: SensorVariometer_instance_1 (Variometer)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: Orient
+		LIBRARY COMPONENT: Orient
+			COMPONENT: Orient
+				CONNECTIONS:
+					Orient :: Orient__ORIENTCONN <<->> Hub3__Orient_Connector :: Hub3_instance_1 (0394od_para_hub_3)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: SensorVariometer
+		LIBRARY COMPONENT: Variometer
+			COMPONENT: SensorVariometer_instance_1
+				CONNECTIONS:
+					Variometer :: SensorVariometer__SensorConnector <<->> Fuselage__FloorConnector8 :: Fuselage_instance_1 (capsule_fuselage)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: BatteryController
+		LIBRARY COMPONENT: BatteryController
+			COMPONENT: BatteryController_instance_1
+				CONNECTIONS:
+					BatteryController :: BatteryController__BatteryPower <<->> Battery__PowerBus :: Battery_instance_1 (TurnigyGraphene6000mAh6S75C)
+					BatteryController :: BatteryController__MotorPower <<->> Motor__MotorPower :: Motor_instance_3 (kde_direct_KDE2315XF_885)
+					BatteryController :: BatteryController__MotorPower <<->> Motor__MotorPower :: Motor_instance_4 (kde_direct_KDE2315XF_885)
+					BatteryController :: BatteryController__MotorPower <<->> Motor__MotorPower :: Motor_instance_2 (kde_direct_KDE2315XF_885)
+					BatteryController :: BatteryController__BatteryPower <<->> Battery__PowerBus :: Battery_instance_2 (TurnigyGraphene6000mAh6S75C)
+					BatteryController :: BatteryController__MotorPower <<->> Motor__MotorPower :: Motor_instance_1 (kde_direct_KDE2315XF_885)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	COMPONENT type: SensorAutopilot
+		LIBRARY COMPONENT: Autopilot
+			COMPONENT: SensorAutopilot_instance_1
+				CONNECTIONS:
+					Autopilot :: SensorAutopilot__SensorConnector <<->> Fuselage__FloorConnector5 :: Fuselage_instance_1 (capsule_fuselage)
+
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

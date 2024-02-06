@@ -1,0 +1,2018 @@
+{
+    "Tattu10C25000mAh6S1PHV": {
+        "id": "Tattu10C25000mAh6S1PHV",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CAPACITY": 25000.0,
+            "CONT_DISCHARGE_RATE": 10.0,
+            "PACK_RESISTANCE": 12.0,
+            "THICKNESS": 65.0,
+            "NUMBER_OF_CELLS": "6S1P",
+            "BATTERY_TYPE": "UAV",
+            "DISCHARGE_PLUG": "XT90",
+            "CHEMISTRY_TYPE": "LiHv",
+            "COST": 489.99,
+            "PEAK_DISCHARGE_RATE": 20.0,
+            "CORPUS": "UAV",
+            "MODEL": "Tattu10C25000mAh6S1PHV",
+            "VOLTAGE": 22.8,
+            "WIDTH": 91.0,
+            "WEIGHT": 2.577,
+            "LENGTH": 207.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu10C32000mAh6S1PHV": {
+        "id": "Tattu10C32000mAh6S1PHV",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CAPACITY": 32000.0,
+            "BATTERY_TYPE": "UAV",
+            "COST": 419.0,
+            "THICKNESS": 61.0,
+            "PEAK_DISCHARGE_RATE": 20.0,
+            "MODEL": "Tattu10C32000mAh6S1PHV",
+            "DISCHARGE_PLUG": "XT90",
+            "PACK_RESISTANCE": 12.0,
+            "VOLTAGE": 22.8,
+            "NUMBER_OF_CELLS": "6S1P",
+            "LENGTH": 216.0,
+            "CORPUS": "UAV",
+            "WIDTH": 125.0,
+            "CHEMISTRY_TYPE": "LiHv",
+            "WEIGHT": 3.494,
+            "CONT_DISCHARGE_RATE": 10.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu10C40000mAh6S1PHV": {
+        "id": "Tattu10C40000mAh6S1PHV",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "NUMBER_OF_CELLS": "6S1P",
+            "VOLTAGE": 22.8,
+            "COST": 822.0,
+            "BATTERY_TYPE": "UAV",
+            "WIDTH": 123.0,
+            "CAPACITY": 40000.0,
+            "WEIGHT": 4.08,
+            "MODEL": "Tattu10C40000mAh6S1PHV",
+            "CHEMISTRY_TYPE": "LiHv",
+            "CONT_DISCHARGE_RATE": 10.0,
+            "THICKNESS": 62.0,
+            "LENGTH": 258.0,
+            "PEAK_DISCHARGE_RATE": 20.0,
+            "CORPUS": "UAV",
+            "DISCHARGE_PLUG": "XT90",
+            "PACK_RESISTANCE": 12.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu15C16000mAh4S1P": {
+        "id": "Tattu15C16000mAh4S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "VOLTAGE": 14.8,
+            "PACK_RESISTANCE": 12.0,
+            "DISCHARGE_PLUG": "EC5",
+            "CORPUS": "UAV",
+            "BATTERY_TYPE": "UAV",
+            "CONT_DISCHARGE_RATE": 15.0,
+            "PEAK_DISCHARGE_RATE": 30.0,
+            "MODEL": "Tattu15C16000mAh4S1P",
+            "CHEMISTRY_TYPE": "LiPo",
+            "COST": 179.0,
+            "WEIGHT": 1.241,
+            "LENGTH": 180.0,
+            "CAPACITY": 16000.0,
+            "WIDTH": 74.0,
+            "THICKNESS": 44.0,
+            "NUMBER_OF_CELLS": "4S1P"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu15C17000mAh6S1PHV": {
+        "id": "Tattu15C17000mAh6S1PHV",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "NUMBER_OF_CELLS": "6S1P",
+            "CORPUS": "UAV",
+            "CONT_DISCHARGE_RATE": 15.0,
+            "CAPACITY": 17000.0,
+            "PEAK_DISCHARGE_RATE": 30.0,
+            "BATTERY_TYPE": "UAV",
+            "PACK_RESISTANCE": 12.0,
+            "WIDTH": 78.0,
+            "DISCHARGE_PLUG": "XT150",
+            "COST": 345.99,
+            "LENGTH": 195.0,
+            "WEIGHT": 1.86,
+            "CHEMISTRY_TYPE": "LiHv",
+            "MODEL": "Tattu15C17000mAh6S1PHV",
+            "THICKNESS": 64.5,
+            "VOLTAGE": 22.8
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu25C10000mAh4S1P": {
+        "id": "Tattu25C10000mAh4S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "THICKNESS": 39.0,
+            "LENGTH": 169.0,
+            "CONT_DISCHARGE_RATE": 25.0,
+            "COST": 149.99,
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "MODEL": "Tattu25C10000mAh4S1P",
+            "CAPACITY": 10000.0,
+            "DISCHARGE_PLUG": "XT150",
+            "CORPUS": "UAV",
+            "PACK_RESISTANCE": 12.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "BATTERY_TYPE": "UAV",
+            "NUMBER_OF_CELLS": "4S1P",
+            "VOLTAGE": 14.8,
+            "WEIGHT": 0.94,
+            "WIDTH": 65.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu25C11000mAh6S1PHV": {
+        "id": "Tattu25C11000mAh6S1PHV",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "NUMBER_OF_CELLS": "6S1P",
+            "CAPACITY": 11000.0,
+            "PACK_RESISTANCE": 12.0,
+            "CORPUS": "UAV",
+            "CONT_DISCHARGE_RATE": 25.0,
+            "VOLTAGE": 22.8,
+            "WEIGHT": 1.35,
+            "LENGTH": 176.0,
+            "CHEMISTRY_TYPE": "LiHv",
+            "COST": 210.0,
+            "DISCHARGE_PLUG": "XT90",
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "WIDTH": 65.0,
+            "THICKNESS": 56.0,
+            "BATTERY_TYPE": "UAV",
+            "MODEL": "Tattu25C11000mAh6S1PHV"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu25C19000mAh14S1P": {
+        "id": "Tattu25C19000mAh14S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "UAV",
+            "CHEMISTRY_TYPE": "LiPo",
+            "WEIGHT": 7.86,
+            "CAPACITY": 19000.0,
+            "MODEL": "Tattu25C19000mAh14S1P",
+            "BATTERY_TYPE": "UAV",
+            "PACK_RESISTANCE": 12.0,
+            "CONT_DISCHARGE_RATE": 25.0,
+            "COST": 1022.99,
+            "WIDTH": 236.0,
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "VOLTAGE": 51.8,
+            "NUMBER_OF_CELLS": "14S1P",
+            "LENGTH": 279.0,
+            "DISCHARGE_PLUG": "Molex",
+            "THICKNESS": 91.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu25C22000mAh14S1P": {
+        "id": "Tattu25C22000mAh14S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CONT_DISCHARGE_RATE": 25.0,
+            "THICKNESS": 91.0,
+            "WIDTH": 236.0,
+            "DISCHARGE_PLUG": "Molex",
+            "BATTERY_TYPE": "UAV",
+            "CAPACITY": 22000.0,
+            "PACK_RESISTANCE": 12.0,
+            "CORPUS": "UAV",
+            "NUMBER_OF_CELLS": "14S1P",
+            "VOLTAGE": 51.8,
+            "CHEMISTRY_TYPE": "LiPo",
+            "COST": 1185.79,
+            "MODEL": "Tattu25C22000mAh14S1P",
+            "WEIGHT": 8.74,
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "LENGTH": 279.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu25C22000mAh4S1P": {
+        "id": "Tattu25C22000mAh4S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "PACK_RESISTANCE": 12.0,
+            "LENGTH": 195.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "CORPUS": "UAV",
+            "CAPACITY": 22000.0,
+            "NUMBER_OF_CELLS": "4S1P",
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "DISCHARGE_PLUG": "EC5",
+            "CONT_DISCHARGE_RATE": 25.0,
+            "MODEL": "Tattu25C22000mAh4S1P",
+            "VOLTAGE": 14.8,
+            "BATTERY_TYPE": "UAV",
+            "THICKNESS": 43.0,
+            "COST": 343.89,
+            "WIDTH": 91.0,
+            "WEIGHT": 1.673
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu25C23000mAh6S1PHV": {
+        "id": "Tattu25C23000mAh6S1PHV",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "NUMBER_OF_CELLS": "6S1P",
+            "PACK_RESISTANCE": 12.0,
+            "THICKNESS": 66.0,
+            "COST": 482.99,
+            "CHEMISTRY_TYPE": "LiHv",
+            "BATTERY_TYPE": "UAV",
+            "CAPACITY": 23000.0,
+            "CORPUS": "UAV",
+            "DISCHARGE_PLUG": "XT150",
+            "VOLTAGE": 22.8,
+            "WIDTH": 93.0,
+            "CONT_DISCHARGE_RATE": 25.0,
+            "LENGTH": 210.0,
+            "MODEL": "Tattu25C23000mAh6S1PHV",
+            "WEIGHT": 2.47,
+            "PEAK_DISCHARGE_RATE": 50.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu25C25000mAh14S1P": {
+        "id": "Tattu25C25000mAh14S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "NUMBER_OF_CELLS": "14S1P",
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "THICKNESS": 91.0,
+            "WEIGHT": 9.54,
+            "PACK_RESISTANCE": 12.0,
+            "CONT_DISCHARGE_RATE": 25.0,
+            "LENGTH": 279.0,
+            "WIDTH": 236.0,
+            "CORPUS": "UAV",
+            "COST": 1347.49,
+            "CAPACITY": 25000.0,
+            "MODEL": "Tattu25C25000mAh14S1P",
+            "CHEMISTRY_TYPE": "LiPo",
+            "DISCHARGE_PLUG": "Molex",
+            "BATTERY_TYPE": "UAV",
+            "VOLTAGE": 51.8
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu25C28000mAh6S1P": {
+        "id": "Tattu25C28000mAh6S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "THICKNESS": 67.0,
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "WIDTH": 121.0,
+            "MODEL": "Tattu25C28000mAh6S1P",
+            "LENGTH": 205.0,
+            "CAPACITY": 28000.0,
+            "BATTERY_TYPE": "UAV",
+            "VOLTAGE": 22.2,
+            "PACK_RESISTANCE": 12.0,
+            "COST": 517.13,
+            "CONT_DISCHARGE_RATE": 25.0,
+            "WEIGHT": 3.505,
+            "DISCHARGE_PLUG": "XT150",
+            "NUMBER_OF_CELLS": "6S1P",
+            "CHEMISTRY_TYPE": "LiPo",
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu25C30000mAh6S1P": {
+        "id": "Tattu25C30000mAh6S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "DISCHARGE_PLUG": "XT150",
+            "BATTERY_TYPE": "UAV",
+            "WEIGHT": 3.505,
+            "CONT_DISCHARGE_RATE": 25.0,
+            "THICKNESS": 65.0,
+            "CORPUS": "UAV",
+            "COST": 517.13,
+            "MODEL": "Tattu25C30000mAh6S1P",
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "VOLTAGE": 22.2,
+            "LENGTH": 217.0,
+            "CAPACITY": 30000.0,
+            "NUMBER_OF_CELLS": "6S1P",
+            "PACK_RESISTANCE": 12.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "WIDTH": 120.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu25C7000mAh6S1P": {
+        "id": "Tattu25C7000mAh6S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "LENGTH": 138.0,
+            "CONT_DISCHARGE_RATE": 25.0,
+            "NUMBER_OF_CELLS": "6S1P",
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "CORPUS": "UAV",
+            "CHEMISTRY_TYPE": "LiPo",
+            "DISCHARGE_PLUG": "XT60",
+            "CAPACITY": 7000.0,
+            "PACK_RESISTANCE": 12.0,
+            "MODEL": "Tattu25C7000mAh6S1P",
+            "BATTERY_TYPE": "UAV",
+            "COST": 142.0,
+            "VOLTAGE": 22.2,
+            "WIDTH": 42.0,
+            "THICKNESS": 65.0,
+            "WEIGHT": 0.87
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu25C8000mAh6S1P": {
+        "id": "Tattu25C8000mAh6S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "WEIGHT": 1.16,
+            "THICKNESS": 51.0,
+            "DISCHARGE_PLUG": "XT60",
+            "MODEL": "Tattu25C8000mAh6S1P",
+            "LENGTH": 168.0,
+            "CORPUS": "UAV",
+            "PACK_RESISTANCE": 12.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "VOLTAGE": 22.2,
+            "COST": 157.0,
+            "WIDTH": 65.0,
+            "NUMBER_OF_CELLS": "6S1P",
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "BATTERY_TYPE": "UAV",
+            "CAPACITY": 8000.0,
+            "CONT_DISCHARGE_RATE": 25.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu25C9000mAh6S1P": {
+        "id": "Tattu25C9000mAh6S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CHEMISTRY_TYPE": "LiPo",
+            "NUMBER_OF_CELLS": "6S1P",
+            "DISCHARGE_PLUG": "EC5",
+            "MODEL": "Tattu25C9000mAh6S1P",
+            "LENGTH": 208.0,
+            "WEIGHT": 1.173,
+            "VOLTAGE": 22.2,
+            "CONT_DISCHARGE_RATE": 25.0,
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "CAPACITY": 9000.0,
+            "PACK_RESISTANCE": 12.0,
+            "WIDTH": 73.0,
+            "COST": 205.62,
+            "BATTERY_TYPE": "UAV",
+            "CORPUS": "UAV",
+            "THICKNESS": 37.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu30C10000mAh6S1P": {
+        "id": "Tattu30C10000mAh6S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "THICKNESS": 58.0,
+            "LENGTH": 175.0,
+            "CAPACITY": 10000.0,
+            "BATTERY_TYPE": "UAV",
+            "VOLTAGE": 22.2,
+            "CORPUS": "UAV",
+            "WEIGHT": 1.357,
+            "CONT_DISCHARGE_RATE": 30.0,
+            "WIDTH": 65.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "MODEL": "Tattu30C10000mAh6S1P",
+            "COST": 210.0,
+            "DISCHARGE_PLUG": "XT90",
+            "NUMBER_OF_CELLS": "6S1P",
+            "PEAK_DISCHARGE_RATE": 60.0,
+            "PACK_RESISTANCE": 12.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu30C12000mAh6S1P": {
+        "id": "Tattu30C12000mAh6S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "WEIGHT": 1.532,
+            "NUMBER_OF_CELLS": "6S1P",
+            "PEAK_DISCHARGE_RATE": 60.0,
+            "VOLTAGE": 22.2,
+            "CONT_DISCHARGE_RATE": 30.0,
+            "THICKNESS": 54.0,
+            "CAPACITY": 12000.0,
+            "PACK_RESISTANCE": 12.0,
+            "DISCHARGE_PLUG": "XT90",
+            "MODEL": "Tattu30C12000mAh6S1P",
+            "CORPUS": "UAV",
+            "WIDTH": 71.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "BATTERY_TYPE": "UAV",
+            "COST": 260.63,
+            "LENGTH": 190.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu30C16000mAh6S1P": {
+        "id": "Tattu30C16000mAh6S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "Tattu30C16000mAh6S1P",
+            "THICKNESS": 65.0,
+            "COST": 325.79,
+            "CORPUS": "UAV",
+            "CONT_DISCHARGE_RATE": 30.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "NUMBER_OF_CELLS": "6S1P",
+            "LENGTH": 190.0,
+            "DISCHARGE_PLUG": "XT90",
+            "PEAK_DISCHARGE_RATE": 60.0,
+            "WIDTH": 76.0,
+            "CAPACITY": 16000.0,
+            "PACK_RESISTANCE": 12.0,
+            "BATTERY_TYPE": "UAV",
+            "WEIGHT": 1.974,
+            "VOLTAGE": 22.2
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu30C22000mAh6S1P": {
+        "id": "Tattu30C22000mAh6S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "BATTERY_TYPE": "UAV",
+            "CONT_DISCHARGE_RATE": 30.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "NUMBER_OF_CELLS": "6S1P",
+            "LENGTH": 206.0,
+            "CAPACITY": 22000.0,
+            "THICKNESS": 61.0,
+            "PEAK_DISCHARGE_RATE": 60.0,
+            "WIDTH": 91.0,
+            "COST": 461.89,
+            "WEIGHT": 2.46,
+            "CORPUS": "UAV",
+            "PACK_RESISTANCE": 12.0,
+            "MODEL": "Tattu30C22000mAh6S1P",
+            "VOLTAGE": 22.2,
+            "DISCHARGE_PLUG": "XT150"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu35C6000mAh6S1P": {
+        "id": "Tattu35C6000mAh6S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "WEIGHT": 0.885,
+            "CHEMISTRY_TYPE": "LiPo",
+            "CAPACITY": 6000.0,
+            "DISCHARGE_PLUG": "XT60",
+            "THICKNESS": 59.0,
+            "PACK_RESISTANCE": 12.0,
+            "WIDTH": 45.0,
+            "NUMBER_OF_CELLS": "6S1P",
+            "VOLTAGE": 22.2,
+            "COST": 129.99,
+            "CORPUS": "UAV",
+            "CONT_DISCHARGE_RATE": 35.0,
+            "MODEL": "Tattu35C6000mAh6S1P",
+            "LENGTH": 148.0,
+            "PEAK_DISCHARGE_RATE": 70.0,
+            "BATTERY_TYPE": "UAV"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu5C20000mAh6S1P": {
+        "id": "Tattu5C20000mAh6S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CONT_DISCHARGE_RATE": 5.0,
+            "WEIGHT": 1.8,
+            "NUMBER_OF_CELLS": "6S1P",
+            "CAPACITY": 20000.0,
+            "DISCHARGE_PLUG": "XT90",
+            "VOLTAGE": 22.2,
+            "LENGTH": 189.0,
+            "BATTERY_TYPE": "UAV",
+            "CHEMISTRY_TYPE": "LiIon",
+            "COST": 400.0,
+            "THICKNESS": 58.0,
+            "WIDTH": 76.0,
+            "PACK_RESISTANCE": 12.0,
+            "MODEL": "Tattu5C20000mAh6S1P",
+            "CORPUS": "UAV",
+            "PEAK_DISCHARGE_RATE": 10.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "Tattu5C28000mAh6S1P": {
+        "id": "Tattu5C28000mAh6S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "THICKNESS": 61.5,
+            "BATTERY_TYPE": "UAV",
+            "PACK_RESISTANCE": 12.0,
+            "CAPACITY": 28000.0,
+            "CORPUS": "UAV",
+            "PEAK_DISCHARGE_RATE": 10.0,
+            "NUMBER_OF_CELLS": "6S1P",
+            "DISCHARGE_PLUG": "XT90",
+            "COST": 450.0,
+            "MODEL": "Tattu5C28000mAh6S1P",
+            "CONT_DISCHARGE_RATE": 5.0,
+            "LENGTH": 203.0,
+            "WIDTH": 89.0,
+            "WEIGHT": 2.5,
+            "CHEMISTRY_TYPE": "LiIon",
+            "VOLTAGE": 22.2
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TattuPlus15C16000mAh12S1P": {
+        "id": "TattuPlus15C16000mAh12S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "VOLTAGE": 44.4,
+            "DISCHARGE_PLUG": "XT90",
+            "MODEL": "TattuPlus15C16000mAh12S1P",
+            "CAPACITY": 16000.0,
+            "BATTERY_TYPE": "UAV",
+            "COST": 674.99,
+            "CHEMISTRY_TYPE": "LiPo",
+            "PACK_RESISTANCE": 12.0,
+            "THICKNESS": 90.0,
+            "LENGTH": 224.0,
+            "WEIGHT": 4.74,
+            "PEAK_DISCHARGE_RATE": 30.0,
+            "CONT_DISCHARGE_RATE": 15.0,
+            "CORPUS": "UAV",
+            "WIDTH": 163.0,
+            "NUMBER_OF_CELLS": "12S1P"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TattuPlus15C16000mAh12S1PAGRI": {
+        "id": "TattuPlus15C16000mAh12S1PAGRI",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "WIDTH": 163.0,
+            "NUMBER_OF_CELLS": "12S1P",
+            "WEIGHT": 4.7,
+            "CHEMISTRY_TYPE": "LiPo",
+            "BATTERY_TYPE": "UAV",
+            "CORPUS": "UAV",
+            "THICKNESS": 90.0,
+            "DISCHARGE_PLUG": "XT150",
+            "COST": 674.99,
+            "CONT_DISCHARGE_RATE": 15.0,
+            "MODEL": "TattuPlus15C16000mAh12S1PAGRI",
+            "PEAK_DISCHARGE_RATE": 30.0,
+            "VOLTAGE": 44.4,
+            "PACK_RESISTANCE": 12.0,
+            "LENGTH": 224.0,
+            "CAPACITY": 16000.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TattuPlus15C16000mAh12S1Pcompact": {
+        "id": "TattuPlus15C16000mAh12S1Pcompact",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "WEIGHT": 4.25,
+            "CONT_DISCHARGE_RATE": 15.0,
+            "NUMBER_OF_CELLS": "12S1P",
+            "MODEL": "TattuPlus15C16000mAh12S1Pcompact",
+            "VOLTAGE": 44.4,
+            "BATTERY_TYPE": "UAV",
+            "COST": 674.99,
+            "CORPUS": "UAV",
+            "DISCHARGE_PLUG": "XT90",
+            "THICKNESS": 80.0,
+            "LENGTH": 217.5,
+            "PACK_RESISTANCE": 12.0,
+            "PEAK_DISCHARGE_RATE": 30.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "CAPACITY": 16000.0,
+            "WIDTH": 150.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TattuPlus25C22000mAh12S1P": {
+        "id": "TattuPlus25C22000mAh12S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "PACK_RESISTANCE": 12.0,
+            "NUMBER_OF_CELLS": "12S1P",
+            "DISCHARGE_PLUG": "XT150",
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "MODEL": "TattuPlus25C22000mAh12S1P",
+            "VOLTAGE": 44.4,
+            "CHEMISTRY_TYPE": "LiPo",
+            "BATTERY_TYPE": "UAV",
+            "WEIGHT": 6.0,
+            "CORPUS": "UAV",
+            "CONT_DISCHARGE_RATE": 25.0,
+            "COST": 843.99,
+            "LENGTH": 235.5,
+            "WIDTH": 116.0,
+            "THICKNESS": 172.0,
+            "CAPACITY": 22000.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TattuPlus25C22000mAh12S1PAGRI": {
+        "id": "TattuPlus25C22000mAh12S1PAGRI",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "WIDTH": 172.0,
+            "CAPACITY": 22000.0,
+            "THICKNESS": 116.0,
+            "PACK_RESISTANCE": 12.0,
+            "CORPUS": "UAV",
+            "DISCHARGE_PLUG": "XT150",
+            "BATTERY_TYPE": "UAV",
+            "COST": 843.99,
+            "MODEL": "TattuPlus25C22000mAh12S1PAGRI",
+            "LENGTH": 235.0,
+            "CONT_DISCHARGE_RATE": 25.0,
+            "WEIGHT": 5.8,
+            "NUMBER_OF_CELLS": "12S1P",
+            "CHEMISTRY_TYPE": "LiPo",
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "VOLTAGE": 44.4
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TattuPro25C22000mAh12S1P": {
+        "id": "TattuPro25C22000mAh12S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CAPACITY": 22000.0,
+            "MODEL": "TattuPro25C22000mAh12S1P",
+            "CORPUS": "UAV",
+            "LENGTH": 238.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "THICKNESS": 117.0,
+            "BATTERY_TYPE": "UAV",
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "CONT_DISCHARGE_RATE": 25.0,
+            "DISCHARGE_PLUG": "XT150",
+            "WIDTH": 174.0,
+            "NUMBER_OF_CELLS": "12S1P",
+            "PACK_RESISTANCE": 12.0,
+            "COST": 908.59,
+            "WEIGHT": 6.3,
+            "VOLTAGE": 44.4
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TattuPro25C22000mAh14S1P": {
+        "id": "TattuPro25C22000mAh14S1P",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "WEIGHT": 7.35,
+            "BATTERY_TYPE": "UAV",
+            "DISCHARGE_PLUG": "XT150",
+            "CONT_DISCHARGE_RATE": 25.0,
+            "PEAK_DISCHARGE_RATE": 50.0,
+            "PACK_RESISTANCE": 12.0,
+            "CORPUS": "UAV",
+            "CAPACITY": 22000.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "MODEL": "TattuPro25C22000mAh14S1P",
+            "THICKNESS": 117.0,
+            "VOLTAGE": 51.8,
+            "COST": 1059.29,
+            "LENGTH": 238.0,
+            "WIDTH": 174.0,
+            "NUMBER_OF_CELLS": "14S1P"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene1000mAh2S75C": {
+        "id": "TurnigyGraphene1000mAh2S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "PACK_RESISTANCE": 11.0,
+            "CAPACITY": 1000.0,
+            "VOLTAGE": 7.4,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "COST": 9.54,
+            "WIDTH": 35.0,
+            "MODEL": "TurnigyGraphene1000mAh2S75C",
+            "BATTERY_TYPE": "UAV",
+            "WEIGHT": 0.084,
+            "LENGTH": 74.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "CORPUS": "UAV",
+            "THICKNESS": 17.0,
+            "DISCHARGE_PLUG": "XT60",
+            "NUMBER_OF_CELLS": "2S1P"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene1000mAh3S75C": {
+        "id": "TurnigyGraphene1000mAh3S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "PACK_RESISTANCE": 13.0,
+            "MODEL": "TurnigyGraphene1000mAh3S75C",
+            "CORPUS": "UAV",
+            "COST": 16.88,
+            "NUMBER_OF_CELLS": "3S1P",
+            "WIDTH": 35.0,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "DISCHARGE_PLUG": "XT60",
+            "CHEMISTRY_TYPE": "LiPo",
+            "CAPACITY": 1000.0,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "THICKNESS": 24.0,
+            "WEIGHT": 0.116,
+            "VOLTAGE": 11.1,
+            "LENGTH": 74.0,
+            "BATTERY_TYPE": "UAV"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene1000mAh4S75C": {
+        "id": "TurnigyGraphene1000mAh4S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CAPACITY": 1000.0,
+            "MODEL": "TurnigyGraphene1000mAh4S75C",
+            "CORPUS": "UAV",
+            "DISCHARGE_PLUG": "XT60",
+            "COST": 23.65,
+            "WIDTH": 35.0,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "BATTERY_TYPE": "UAV",
+            "CONT_DISCHARGE_RATE": 75.0,
+            "LENGTH": 75.0,
+            "VOLTAGE": 14.8,
+            "THICKNESS": 30.0,
+            "NUMBER_OF_CELLS": "4S1P",
+            "CHEMISTRY_TYPE": "LiPo",
+            "WEIGHT": 0.148,
+            "PACK_RESISTANCE": 17.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene1000mAh6S75C": {
+        "id": "TurnigyGraphene1000mAh6S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "LENGTH": 75.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "NUMBER_OF_CELLS": "6S1P",
+            "VOLTAGE": 22.2,
+            "CAPACITY": 1000.0,
+            "DISCHARGE_PLUG": "XT60",
+            "MODEL": "TurnigyGraphene1000mAh6S75C",
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "CORPUS": "UAV",
+            "CONT_DISCHARGE_RATE": 75.0,
+            "THICKNESS": 43.0,
+            "PACK_RESISTANCE": 19.0,
+            "WEIGHT": 0.212,
+            "COST": 26.79,
+            "BATTERY_TYPE": "UAV",
+            "WIDTH": 35.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene1200mAh6S75C": {
+        "id": "TurnigyGraphene1200mAh6S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "PACK_RESISTANCE": 19.0,
+            "CAPACITY": 1200.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "BATTERY_TYPE": "UAV",
+            "CONT_DISCHARGE_RATE": 75.0,
+            "DISCHARGE_PLUG": "XT60",
+            "NUMBER_OF_CELLS": "6S1P",
+            "VOLTAGE": 22.2,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "MODEL": "TurnigyGraphene1200mAh6S75C",
+            "THICKNESS": 45.0,
+            "CORPUS": "UAV",
+            "LENGTH": 75.0,
+            "WIDTH": 35.0,
+            "WEIGHT": 0.232,
+            "COST": 27.99
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene1300mAh3S75C": {
+        "id": "TurnigyGraphene1300mAh3S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "TurnigyGraphene1300mAh3S75C",
+            "THICKNESS": 27.0,
+            "WEIGHT": 0.137,
+            "CHEMISTRY_TYPE": "LiPo",
+            "VOLTAGE": 11.1,
+            "CORPUS": "UAV",
+            "WIDTH": 35.0,
+            "COST": 16.96,
+            "PACK_RESISTANCE": 13.0,
+            "NUMBER_OF_CELLS": "3S1P",
+            "CAPACITY": 1300.0,
+            "DISCHARGE_PLUG": "XT60",
+            "LENGTH": 74.0,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "BATTERY_TYPE": "UAV"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene1300mAh4S75C": {
+        "id": "TurnigyGraphene1300mAh4S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "COST": 23.99,
+            "CHEMISTRY_TYPE": "LiPo",
+            "THICKNESS": 36.0,
+            "WIDTH": 35.0,
+            "LENGTH": 75.0,
+            "VOLTAGE": 14.8,
+            "PACK_RESISTANCE": 12.0,
+            "CAPACITY": 1300.0,
+            "NUMBER_OF_CELLS": "4S1P",
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "DISCHARGE_PLUG": "XT60",
+            "MODEL": "TurnigyGraphene1300mAh4S75C",
+            "BATTERY_TYPE": "UAV",
+            "CORPUS": "UAV",
+            "CONT_DISCHARGE_RATE": 75.0,
+            "WEIGHT": 0.173
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene1400mAh4S75C": {
+        "id": "TurnigyGraphene1400mAh4S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "COST": 27.87,
+            "THICKNESS": 32.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "LENGTH": 90.0,
+            "NUMBER_OF_CELLS": "4S1P",
+            "CONT_DISCHARGE_RATE": 75.0,
+            "WEIGHT": 0.196,
+            "VOLTAGE": 14.8,
+            "CORPUS": "UAV",
+            "CAPACITY": 1400.0,
+            "BATTERY_TYPE": "UAV",
+            "WIDTH": 35.0,
+            "PACK_RESISTANCE": 17.0,
+            "MODEL": "TurnigyGraphene1400mAh4S75C",
+            "DISCHARGE_PLUG": "XT60",
+            "PEAK_DISCHARGE_RATE": 150.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene1500mAh3S75C": {
+        "id": "TurnigyGraphene1500mAh3S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "WEIGHT": 0.156,
+            "NUMBER_OF_CELLS": "3S1P",
+            "CORPUS": "UAV",
+            "CONT_DISCHARGE_RATE": 75.0,
+            "WIDTH": 35.0,
+            "PACK_RESISTANCE": 13.0,
+            "MODEL": "TurnigyGraphene1500mAh3S75C",
+            "VOLTAGE": 11.1,
+            "THICKNESS": 25.0,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "CAPACITY": 1400.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "BATTERY_TYPE": "UAV",
+            "COST": 24.0,
+            "LENGTH": 90.0,
+            "DISCHARGE_PLUG": "XT60"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene1500mAh4S75C": {
+        "id": "TurnigyGraphene1500mAh4S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "WIDTH": 35.0,
+            "BATTERY_TYPE": "UAV",
+            "CONT_DISCHARGE_RATE": 75.0,
+            "PACK_RESISTANCE": 17.0,
+            "WEIGHT": 0.202,
+            "COST": 26.49,
+            "LENGTH": 91.0,
+            "CAPACITY": 1500.0,
+            "VOLTAGE": 14.8,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "DISCHARGE_PLUG": "XT60",
+            "THICKNESS": 33.0,
+            "CORPUS": "UAV",
+            "NUMBER_OF_CELLS": "4S1P",
+            "MODEL": "TurnigyGraphene1500mAh4S75C"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene1600mAh4S75CSquare": {
+        "id": "TurnigyGraphene1600mAh4S75CSquare",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "PACK_RESISTANCE": 14.0,
+            "WIDTH": 35.0,
+            "COST": 30.0,
+            "MODEL": "TurnigyGraphene1600mAh4S75CSquare",
+            "LENGTH": 95.0,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "BATTERY_TYPE": "UAV",
+            "CAPACITY": 1600.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "VOLTAGE": 14.8,
+            "WEIGHT": 0.212,
+            "NUMBER_OF_CELLS": "4S1P",
+            "THICKNESS": 35.0,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "DISCHARGE_PLUG": "XT60",
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene2200mAh3S75C": {
+        "id": "TurnigyGraphene2200mAh3S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CHEMISTRY_TYPE": "LiPo",
+            "CAPACITY": 2200.0,
+            "NUMBER_OF_CELLS": "3S1P",
+            "PACK_RESISTANCE": 10.0,
+            "WEIGHT": 0.23,
+            "COST": 32.73,
+            "LENGTH": 106.0,
+            "THICKNESS": 31.0,
+            "BATTERY_TYPE": "UAV",
+            "VOLTAGE": 11.1,
+            "WIDTH": 35.0,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "MODEL": "TurnigyGraphene2200mAh3S75C",
+            "DISCHARGE_PLUG": "XT60",
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene2200mAh4S75C": {
+        "id": "TurnigyGraphene2200mAh4S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "DISCHARGE_PLUG": "XT60",
+            "COST": 42.63,
+            "THICKNESS": 41.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "LENGTH": 106.0,
+            "WEIGHT": 0.295,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "NUMBER_OF_CELLS": "4S1P",
+            "CORPUS": "UAV",
+            "BATTERY_TYPE": "UAV",
+            "WIDTH": 35.0,
+            "PACK_RESISTANCE": 13.0,
+            "CAPACITY": 2200.0,
+            "VOLTAGE": 14.8,
+            "MODEL": "TurnigyGraphene2200mAh4S75C"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene3000mAh3S75C": {
+        "id": "TurnigyGraphene3000mAh3S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "DISCHARGE_PLUG": "XT90",
+            "COST": 42.54,
+            "BATTERY_TYPE": "UAV",
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "WIDTH": 45.0,
+            "CORPUS": "UAV",
+            "THICKNESS": 26.0,
+            "VOLTAGE": 11.1,
+            "CHEMISTRY_TYPE": "LiPo",
+            "CAPACITY": 3000.0,
+            "LENGTH": 137.0,
+            "NUMBER_OF_CELLS": "3S1P",
+            "WEIGHT": 0.32,
+            "MODEL": "TurnigyGraphene3000mAh3S75C",
+            "PACK_RESISTANCE": 13.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene3000mAh4S75C": {
+        "id": "TurnigyGraphene3000mAh4S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CAPACITY": 3000.0,
+            "THICKNESS": 45.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "CORPUS": "UAV",
+            "VOLTAGE": 14.8,
+            "WEIGHT": 0.405,
+            "LENGTH": 137.0,
+            "DISCHARGE_PLUG": "XT90",
+            "WIDTH": 34.0,
+            "PACK_RESISTANCE": 15.0,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "COST": 56.77,
+            "MODEL": "TurnigyGraphene3000mAh4S75C",
+            "NUMBER_OF_CELLS": "4S1P",
+            "BATTERY_TYPE": "UAV",
+            "CONT_DISCHARGE_RATE": 75.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene3000mAh6S75C": {
+        "id": "TurnigyGraphene3000mAh6S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "TurnigyGraphene3000mAh6S75C",
+            "LENGTH": 137.0,
+            "COST": 82.57,
+            "WEIGHT": 0.598,
+            "CAPACITY": 3000.0,
+            "WIDTH": 45.0,
+            "VOLTAGE": 22.2,
+            "DISCHARGE_PLUG": "XT90",
+            "CONT_DISCHARGE_RATE": 75.0,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "THICKNESS": 47.0,
+            "BATTERY_TYPE": "UAV",
+            "CHEMISTRY_TYPE": "LiPo",
+            "NUMBER_OF_CELLS": "6S1P",
+            "PACK_RESISTANCE": 18.0,
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene4000mAh3S75C": {
+        "id": "TurnigyGraphene4000mAh3S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "PACK_RESISTANCE": 10.0,
+            "CORPUS": "UAV",
+            "LENGTH": 145.0,
+            "WEIGHT": 0.412,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "THICKNESS": 28.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "WIDTH": 51.0,
+            "DISCHARGE_PLUG": "XT90",
+            "BATTERY_TYPE": "UAV",
+            "COST": 55.05,
+            "CAPACITY": 4000.0,
+            "NUMBER_OF_CELLS": "3S1P",
+            "VOLTAGE": 11.1,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "MODEL": "TurnigyGraphene4000mAh3S75C"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene4000mAh4S75C": {
+        "id": "TurnigyGraphene4000mAh4S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CONT_DISCHARGE_RATE": 75.0,
+            "DISCHARGE_PLUG": "XT90",
+            "CHEMISTRY_TYPE": "LiPo",
+            "COST": 70.83,
+            "WEIGHT": 0.526,
+            "PACK_RESISTANCE": 12.0,
+            "CAPACITY": 4000.0,
+            "THICKNESS": 36.0,
+            "LENGTH": 145.0,
+            "MODEL": "TurnigyGraphene4000mAh4S75C",
+            "CORPUS": "UAV",
+            "NUMBER_OF_CELLS": "4S1P",
+            "BATTERY_TYPE": "UAV",
+            "WIDTH": 51.0,
+            "VOLTAGE": 14.8,
+            "PEAK_DISCHARGE_RATE": 150.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene4000mAh6S75C": {
+        "id": "TurnigyGraphene4000mAh6S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CHEMISTRY_TYPE": "LiPo",
+            "NUMBER_OF_CELLS": "6S1P",
+            "CAPACITY": 4000.0,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "THICKNESS": 51.0,
+            "LENGTH": 145.0,
+            "VOLTAGE": 22.2,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "DISCHARGE_PLUG": "XT90",
+            "BATTERY_TYPE": "UAV",
+            "COST": 104.34,
+            "MODEL": "TurnigyGraphene4000mAh6S75C",
+            "WEIGHT": 0.76,
+            "PACK_RESISTANCE": 16.0,
+            "WIDTH": 51.0,
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene5000mAh3S75C": {
+        "id": "TurnigyGraphene5000mAh3S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "CHEMISTRY_TYPE": "LiPo",
+            "LENGTH": 144.0,
+            "VOLTAGE": 11.1,
+            "COST": 65.48,
+            "WIDTH": 51.0,
+            "CORPUS": "UAV",
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "WEIGHT": 0.49,
+            "MODEL": "TurnigyGraphene5000mAh3S75C",
+            "CAPACITY": 5000.0,
+            "BATTERY_TYPE": "UAV",
+            "THICKNESS": 32.0,
+            "NUMBER_OF_CELLS": "3S1P",
+            "PACK_RESISTANCE": 9.0,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "DISCHARGE_PLUG": "XT90"
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene5000mAh4S75C": {
+        "id": "TurnigyGraphene5000mAh4S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "LENGTH": 145.0,
+            "CORPUS": "UAV",
+            "CAPACITY": 5000.0,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "DISCHARGE_PLUG": "XT90",
+            "MODEL": "TurnigyGraphene5000mAh4S75C",
+            "THICKNESS": 42.0,
+            "WIDTH": 51.0,
+            "COST": 81.7,
+            "NUMBER_OF_CELLS": "4S1P",
+            "BATTERY_TYPE": "UAV",
+            "PACK_RESISTANCE": 11.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "WEIGHT": 0.63,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "VOLTAGE": 14.8
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene5000mAh6S75C": {
+        "id": "TurnigyGraphene5000mAh6S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "BATTERY_TYPE": "UAV",
+            "CORPUS": "UAV",
+            "CAPACITY": 5000.0,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "COST": 116.32,
+            "NUMBER_OF_CELLS": "6S1P",
+            "PACK_RESISTANCE": 15.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "DISCHARGE_PLUG": "XT90",
+            "VOLTAGE": 22.2,
+            "WEIGHT": 0.92,
+            "LENGTH": 145.0,
+            "MODEL": "TurnigyGraphene5000mAh6S75C",
+            "WIDTH": 51.0,
+            "THICKNESS": 61.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene6000mAh3S75C": {
+        "id": "TurnigyGraphene6000mAh3S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "DISCHARGE_PLUG": "XT90",
+            "WIDTH": 69.0,
+            "COST": 75.16,
+            "CORPUS": "UAV",
+            "CAPACITY": 6000.0,
+            "CONT_DISCHARGE_RATE": 75.0,
+            "BATTERY_TYPE": "UAV",
+            "THICKNESS": 27.0,
+            "LENGTH": 168.0,
+            "NUMBER_OF_CELLS": "3S1P",
+            "PACK_RESISTANCE": 7.0,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "MODEL": "TurnigyGraphene6000mAh3S75C",
+            "VOLTAGE": 11.1,
+            "WEIGHT": 0.63
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene6000mAh4S75C": {
+        "id": "TurnigyGraphene6000mAh4S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "BATTERY_TYPE": "UAV",
+            "CORPUS": "UAV",
+            "CONT_DISCHARGE_RATE": 75.0,
+            "LENGTH": 168.0,
+            "COST": 99.8,
+            "DISCHARGE_PLUG": "XT90",
+            "CAPACITY": 6000.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "THICKNESS": 34.0,
+            "WEIGHT": 0.8,
+            "PEAK_DISCHARGE_RATE": 150.0,
+            "PACK_RESISTANCE": 9.0,
+            "NUMBER_OF_CELLS": "4S1P",
+            "WIDTH": 69.0,
+            "MODEL": "TurnigyGraphene6000mAh4S75C",
+            "VOLTAGE": 14.8
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    },
+    "TurnigyGraphene6000mAh6S75C": {
+        "id": "TurnigyGraphene6000mAh6S75C",
+        "type": "Battery",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "TurnigyGraphene6000mAh6S75C",
+            "CONT_DISCHARGE_RATE": 75.0,
+            "VOLTAGE": 22.2,
+            "THICKNESS": 48.0,
+            "BATTERY_TYPE": "UAV",
+            "NUMBER_OF_CELLS": "6S1P",
+            "COST": 129.99,
+            "WEIGHT": 1.14,
+            "CORPUS": "UAV",
+            "WIDTH": 69.0,
+            "CAPACITY": 6000.0,
+            "DISCHARGE_PLUG": "XT90",
+            "PACK_RESISTANCE": 13.0,
+            "LENGTH": 170.0,
+            "CHEMISTRY_TYPE": "LiPo",
+            "PEAK_DISCHARGE_RATE": 150.0
+        },
+        "connectors": [
+            "Bottom_Connector",
+            "PowerBus",
+            "Top_Connector"
+        ]
+    }
+}

@@ -1,0 +1,3867 @@
+{
+    "components": [
+        {
+            "component_choice": "0394od_para_hub_3",
+            "component_instance": "Hub3_instance_4",
+            "component_type": "Hub3"
+        },
+        {
+            "component_choice": "t_motor_AntigravityMN4006KV380",
+            "component_instance": "Motor_instance_2",
+            "component_type": "Motor"
+        },
+        {
+            "component_choice": "0394_para_flange",
+            "component_instance": "Flange_instance_4",
+            "component_type": "Flange"
+        },
+        {
+            "component_choice": "apc_propellers_12x3_8SF",
+            "component_instance": "Propeller_instance_2",
+            "component_type": "Propeller"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_5",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "TurnigyGraphene6000mAh6S75C",
+            "component_instance": "Battery_instance_1",
+            "component_type": "Battery"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_1",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "t_motor_AntigravityMN4006KV380",
+            "component_instance": "Motor_instance_3",
+            "component_type": "Motor"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_15",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "Current",
+            "component_instance": "SensorCurrent_instance_1",
+            "component_type": "SensorCurrent"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_13",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_16",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "Wing_vert_hole",
+            "component_instance": "Wing_instance_4",
+            "component_type": "Wing"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_2",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "GPS",
+            "component_instance": "SensorGPS_instance_1",
+            "component_type": "SensorGPS"
+        },
+        {
+            "component_choice": "Wing_vert_hole",
+            "component_instance": "Wing_instance_2",
+            "component_type": "Wing"
+        },
+        {
+            "component_choice": "t_motor_AntigravityMN4006KV380",
+            "component_instance": "Motor_instance_1",
+            "component_type": "Motor"
+        },
+        {
+            "component_choice": "Wing_vert_hole",
+            "component_instance": "Wing_instance_6",
+            "component_type": "Wing"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_6",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_17",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "Wing_vert_hole",
+            "component_instance": "Wing_instance_1",
+            "component_type": "Wing"
+        },
+        {
+            "component_choice": "Cargo",
+            "component_instance": "Cargo_instance_1",
+            "component_type": "Cargo"
+        },
+        {
+            "component_choice": "Voltage",
+            "component_instance": "SensorVoltage_instance_1",
+            "component_type": "SensorVoltage"
+        },
+        {
+            "component_choice": "TurnigyGraphene6000mAh6S75C",
+            "component_instance": "Battery_instance_2",
+            "component_type": "Battery"
+        },
+        {
+            "component_choice": "0394od_para_hub_2",
+            "component_instance": "Hub2_instance_1",
+            "component_type": "Hub2"
+        },
+        {
+            "component_choice": "apc_propellers_12x3_8SF",
+            "component_instance": "Propeller_instance_4",
+            "component_type": "Propeller"
+        },
+        {
+            "component_choice": "Wing_vert_hole",
+            "component_instance": "Wing_instance_5",
+            "component_type": "Wing"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_9",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "0394od_para_hub_3",
+            "component_instance": "Hub3_instance_3",
+            "component_type": "Hub3"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_20",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_4",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "Wing_vert_hole",
+            "component_instance": "Wing_instance_3",
+            "component_type": "Wing"
+        },
+        {
+            "component_choice": "0394od_para_hub_4",
+            "component_instance": "Hub4_instance_1",
+            "component_type": "Hub4"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_10",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "capsule_fuselage",
+            "component_instance": "Fuselage_instance_1",
+            "component_type": "Fuselage"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_11",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "apc_propellers_12x3_8SF",
+            "component_instance": "Propeller_instance_3",
+            "component_type": "Propeller"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_14",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "0394od_para_hub_3",
+            "component_instance": "Hub3_instance_2",
+            "component_type": "Hub3"
+        },
+        {
+            "component_choice": "CargoCase",
+            "component_instance": "CargoCase_instance_1",
+            "component_type": "CargoCase"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_7",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "RpmTemp",
+            "component_instance": "SensorRpmTemp_instance_1",
+            "component_type": "SensorRpmTemp"
+        },
+        {
+            "component_choice": "Orient",
+            "component_instance": "Orient",
+            "component_type": "Orient"
+        },
+        {
+            "component_choice": "Variometer",
+            "component_instance": "SensorVariometer_instance_1",
+            "component_type": "SensorVariometer"
+        },
+        {
+            "component_choice": "BatteryController",
+            "component_instance": "BatteryController_instance_1",
+            "component_type": "BatteryController"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_19",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "apc_propellers_12x3_8SF",
+            "component_instance": "Propeller_instance_1",
+            "component_type": "Propeller"
+        },
+        {
+            "component_choice": "0394od_para_hub_2",
+            "component_instance": "Hub2_instance_2",
+            "component_type": "Hub2"
+        },
+        {
+            "component_choice": "0394od_para_hub_3",
+            "component_instance": "Hub3_instance_1",
+            "component_type": "Hub3"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_3",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "Autopilot",
+            "component_instance": "SensorAutopilot_instance_1",
+            "component_type": "SensorAutopilot"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_8",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "0394_para_flange",
+            "component_instance": "Flange_instance_2",
+            "component_type": "Flange"
+        },
+        {
+            "component_choice": "0394_para_flange",
+            "component_instance": "Flange_instance_3",
+            "component_type": "Flange"
+        },
+        {
+            "component_choice": "0394_para_flange",
+            "component_instance": "Flange_instance_1",
+            "component_type": "Flange"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_12",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "0394od_para_hub_3",
+            "component_instance": "Hub3_instance_5",
+            "component_type": "Hub3"
+        },
+        {
+            "component_choice": "0394OD_para_tube",
+            "component_instance": "Tube_instance_18",
+            "component_type": "Tube"
+        },
+        {
+            "component_choice": "0394od_para_hub_4",
+            "component_instance": "Hub4_instance_2",
+            "component_type": "Hub4"
+        },
+        {
+            "component_choice": "t_motor_AntigravityMN4006KV380",
+            "component_instance": "Motor_instance_4",
+            "component_type": "Motor"
+        }
+    ],
+    "connections": [
+        {
+            "from_ci": "Battery_instance_1",
+            "from_conn": "PowerBus",
+            "to_ci": "BatteryController_instance_1",
+            "to_conn": "BatteryPower"
+        },
+        {
+            "from_ci": "BatteryController_instance_1",
+            "from_conn": "BatteryPower",
+            "to_ci": "Battery_instance_1",
+            "to_conn": "PowerBus"
+        },
+        {
+            "from_ci": "Flange_instance_4",
+            "from_conn": "BottomConnector",
+            "to_ci": "Tube_instance_19",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_19",
+            "from_conn": "EndConnection",
+            "to_ci": "Flange_instance_4",
+            "to_conn": "BottomConnector"
+        },
+        {
+            "from_ci": "Tube_instance_9",
+            "from_conn": "EndConnection",
+            "to_ci": "Wing_instance_5",
+            "to_conn": "Wing_Tube_Connector"
+        },
+        {
+            "from_ci": "Wing_instance_5",
+            "from_conn": "Wing_Tube_Connector",
+            "to_ci": "Tube_instance_9",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_3",
+            "from_conn": "EndConnection",
+            "to_ci": "Hub2_instance_1",
+            "to_conn": "Side_Connector_1"
+        },
+        {
+            "from_ci": "Hub2_instance_1",
+            "from_conn": "Side_Connector_1",
+            "to_ci": "Tube_instance_3",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Hub4_instance_1",
+            "from_conn": "Side_Connector_2",
+            "to_ci": "Tube_instance_13",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_13",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub4_instance_1",
+            "to_conn": "Side_Connector_2"
+        },
+        {
+            "from_ci": "Motor_instance_1",
+            "from_conn": "MotorPower",
+            "to_ci": "BatteryController_instance_1",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "BatteryController_instance_1",
+            "from_conn": "MotorPower",
+            "to_ci": "Motor_instance_1",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "Hub3_instance_4",
+            "from_conn": "Side_Connector_3",
+            "to_ci": "Tube_instance_10",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_10",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub3_instance_4",
+            "to_conn": "Side_Connector_3"
+        },
+        {
+            "from_ci": "Hub3_instance_4",
+            "from_conn": "Side_Connector_1",
+            "to_ci": "Tube_instance_12",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_12",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub3_instance_4",
+            "to_conn": "Side_Connector_1"
+        },
+        {
+            "from_ci": "Propeller_instance_2",
+            "from_conn": "MOTOR_CONNECTOR_CS_IN",
+            "to_ci": "Motor_instance_2",
+            "to_conn": "Prop_Connector"
+        },
+        {
+            "from_ci": "Motor_instance_2",
+            "from_conn": "Prop_Connector",
+            "to_ci": "Propeller_instance_2",
+            "to_conn": "MOTOR_CONNECTOR_CS_IN"
+        },
+        {
+            "from_ci": "Tube_instance_1",
+            "from_conn": "EndConnection",
+            "to_ci": "Wing_instance_1",
+            "to_conn": "Wing_Tube_Connector"
+        },
+        {
+            "from_ci": "Wing_instance_1",
+            "from_conn": "Wing_Tube_Connector",
+            "to_ci": "Tube_instance_1",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector7",
+            "to_ci": "SensorGPS_instance_1",
+            "to_conn": "SensorConnector"
+        },
+        {
+            "from_ci": "SensorGPS_instance_1",
+            "from_conn": "SensorConnector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector7"
+        },
+        {
+            "from_ci": "Hub3_instance_3",
+            "from_conn": "Side_Connector_3",
+            "to_ci": "Tube_instance_8",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_8",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub3_instance_3",
+            "to_conn": "Side_Connector_3"
+        },
+        {
+            "from_ci": "Tube_instance_4",
+            "from_conn": "OffsetConnection1",
+            "to_ci": "Wing_instance_3",
+            "to_conn": "Wing_Tube_Connector"
+        },
+        {
+            "from_ci": "Wing_instance_3",
+            "from_conn": "Wing_Tube_Connector",
+            "to_ci": "Tube_instance_4",
+            "to_conn": "OffsetConnection1"
+        },
+        {
+            "from_ci": "Hub3_instance_1",
+            "from_conn": "Side_Connector_2",
+            "to_ci": "Tube_instance_12",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_12",
+            "from_conn": "EndConnection",
+            "to_ci": "Hub3_instance_1",
+            "to_conn": "Side_Connector_2"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector2",
+            "to_ci": "Battery_instance_2",
+            "to_conn": "Bottom_Connector"
+        },
+        {
+            "from_ci": "Battery_instance_2",
+            "from_conn": "Bottom_Connector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector2"
+        },
+        {
+            "from_ci": "Flange_instance_2",
+            "from_conn": "BottomConnector",
+            "to_ci": "Tube_instance_15",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_15",
+            "from_conn": "EndConnection",
+            "to_ci": "Flange_instance_2",
+            "to_conn": "BottomConnector"
+        },
+        {
+            "from_ci": "Flange_instance_1",
+            "from_conn": "SideConnector",
+            "to_ci": "Tube_instance_4",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_4",
+            "from_conn": "EndConnection",
+            "to_ci": "Flange_instance_1",
+            "to_conn": "SideConnector"
+        },
+        {
+            "from_ci": "Tube_instance_5",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub3_instance_2",
+            "to_conn": "Side_Connector_2"
+        },
+        {
+            "from_ci": "Hub3_instance_2",
+            "from_conn": "Side_Connector_2",
+            "to_ci": "Tube_instance_5",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Motor_instance_3",
+            "from_conn": "MotorPower",
+            "to_ci": "BatteryController_instance_1",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "BatteryController_instance_1",
+            "from_conn": "MotorPower",
+            "to_ci": "Motor_instance_3",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "Motor_instance_3",
+            "from_conn": "Prop_Connector",
+            "to_ci": "Propeller_instance_3",
+            "to_conn": "MOTOR_CONNECTOR_CS_IN"
+        },
+        {
+            "from_ci": "Propeller_instance_3",
+            "from_conn": "MOTOR_CONNECTOR_CS_IN",
+            "to_ci": "Motor_instance_3",
+            "to_conn": "Prop_Connector"
+        },
+        {
+            "from_ci": "Motor_instance_4",
+            "from_conn": "MotorPower",
+            "to_ci": "BatteryController_instance_1",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "BatteryController_instance_1",
+            "from_conn": "MotorPower",
+            "to_ci": "Motor_instance_4",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "BottomConnector",
+            "to_ci": "Hub3_instance_4",
+            "to_conn": "Top_Connector"
+        },
+        {
+            "from_ci": "Hub3_instance_4",
+            "from_conn": "Top_Connector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "BottomConnector"
+        },
+        {
+            "from_ci": "Tube_instance_2",
+            "from_conn": "BaseConnection",
+            "to_ci": "Flange_instance_3",
+            "to_conn": "BottomConnector"
+        },
+        {
+            "from_ci": "Flange_instance_3",
+            "from_conn": "BottomConnector",
+            "to_ci": "Tube_instance_2",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_5",
+            "from_conn": "OffsetConnection1",
+            "to_ci": "Wing_instance_4",
+            "to_conn": "Wing_Tube_Connector"
+        },
+        {
+            "from_ci": "Wing_instance_4",
+            "from_conn": "Wing_Tube_Connector",
+            "to_ci": "Tube_instance_5",
+            "to_conn": "OffsetConnection1"
+        },
+        {
+            "from_ci": "Motor_instance_2",
+            "from_conn": "MotorPower",
+            "to_ci": "BatteryController_instance_1",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "BatteryController_instance_1",
+            "from_conn": "MotorPower",
+            "to_ci": "Motor_instance_2",
+            "to_conn": "MotorPower"
+        },
+        {
+            "from_ci": "Tube_instance_6",
+            "from_conn": "EndConnection",
+            "to_ci": "Hub3_instance_5",
+            "to_conn": "Side_Connector_1"
+        },
+        {
+            "from_ci": "Hub3_instance_5",
+            "from_conn": "Side_Connector_1",
+            "to_ci": "Tube_instance_6",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector3",
+            "to_ci": "SensorRpmTemp_instance_1",
+            "to_conn": "SensorConnector"
+        },
+        {
+            "from_ci": "SensorRpmTemp_instance_1",
+            "from_conn": "SensorConnector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector3"
+        },
+        {
+            "from_ci": "Hub3_instance_2",
+            "from_conn": "Side_Connector_1",
+            "to_ci": "Tube_instance_17",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_17",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub3_instance_2",
+            "to_conn": "Side_Connector_1"
+        },
+        {
+            "from_ci": "Hub2_instance_1",
+            "from_conn": "Side_Connector_2",
+            "to_ci": "Tube_instance_15",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_15",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub2_instance_1",
+            "to_conn": "Side_Connector_2"
+        },
+        {
+            "from_ci": "Hub3_instance_1",
+            "from_conn": "Side_Connector_3",
+            "to_ci": "Tube_instance_14",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_14",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub3_instance_1",
+            "to_conn": "Side_Connector_3"
+        },
+        {
+            "from_ci": "Tube_instance_8",
+            "from_conn": "EndConnection",
+            "to_ci": "Hub4_instance_1",
+            "to_conn": "Side_Connector_1"
+        },
+        {
+            "from_ci": "Hub4_instance_1",
+            "from_conn": "Side_Connector_1",
+            "to_ci": "Tube_instance_8",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Hub3_instance_2",
+            "from_conn": "Center_Connector",
+            "to_ci": "Tube_instance_20",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_20",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub3_instance_2",
+            "to_conn": "Center_Connector"
+        },
+        {
+            "from_ci": "Motor_instance_3",
+            "from_conn": "Base_Connector",
+            "to_ci": "Flange_instance_4",
+            "to_conn": "TopConnector"
+        },
+        {
+            "from_ci": "Flange_instance_4",
+            "from_conn": "TopConnector",
+            "to_ci": "Motor_instance_3",
+            "to_conn": "Base_Connector"
+        },
+        {
+            "from_ci": "Wing_instance_2",
+            "from_conn": "Wing_Tube_Connector",
+            "to_ci": "Tube_instance_20",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_20",
+            "from_conn": "EndConnection",
+            "to_ci": "Wing_instance_2",
+            "to_conn": "Wing_Tube_Connector"
+        },
+        {
+            "from_ci": "Tube_instance_5",
+            "from_conn": "EndConnection",
+            "to_ci": "Flange_instance_3",
+            "to_conn": "SideConnector"
+        },
+        {
+            "from_ci": "Flange_instance_3",
+            "from_conn": "SideConnector",
+            "to_ci": "Tube_instance_5",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Hub3_instance_2",
+            "from_conn": "Side_Connector_3",
+            "to_ci": "Tube_instance_11",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_11",
+            "from_conn": "EndConnection",
+            "to_ci": "Hub3_instance_2",
+            "to_conn": "Side_Connector_3"
+        },
+        {
+            "from_ci": "Battery_instance_2",
+            "from_conn": "PowerBus",
+            "to_ci": "BatteryController_instance_1",
+            "to_conn": "BatteryPower"
+        },
+        {
+            "from_ci": "BatteryController_instance_1",
+            "from_conn": "BatteryPower",
+            "to_ci": "Battery_instance_2",
+            "to_conn": "PowerBus"
+        },
+        {
+            "from_ci": "CargoCase_instance_1",
+            "from_conn": "CargoConnector",
+            "to_ci": "Cargo_instance_1",
+            "to_conn": "CargoConnector"
+        },
+        {
+            "from_ci": "Cargo_instance_1",
+            "from_conn": "CargoConnector",
+            "to_ci": "CargoCase_instance_1",
+            "to_conn": "CargoConnector"
+        },
+        {
+            "from_ci": "Motor_instance_2",
+            "from_conn": "Base_Connector",
+            "to_ci": "Flange_instance_3",
+            "to_conn": "TopConnector"
+        },
+        {
+            "from_ci": "Flange_instance_3",
+            "from_conn": "TopConnector",
+            "to_ci": "Motor_instance_2",
+            "to_conn": "Base_Connector"
+        },
+        {
+            "from_ci": "Tube_instance_18",
+            "from_conn": "EndConnection",
+            "to_ci": "Wing_instance_6",
+            "to_conn": "Wing_Tube_Connector"
+        },
+        {
+            "from_ci": "Wing_instance_6",
+            "from_conn": "Wing_Tube_Connector",
+            "to_ci": "Tube_instance_18",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_7",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub3_instance_5",
+            "to_conn": "Side_Connector_3"
+        },
+        {
+            "from_ci": "Hub3_instance_5",
+            "from_conn": "Side_Connector_3",
+            "to_ci": "Tube_instance_7",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Hub2_instance_2",
+            "from_conn": "Side_Connector_2",
+            "to_ci": "Tube_instance_19",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_19",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub2_instance_2",
+            "to_conn": "Side_Connector_2"
+        },
+        {
+            "from_ci": "Hub4_instance_2",
+            "from_conn": "Side_Connector_1",
+            "to_ci": "Tube_instance_14",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_14",
+            "from_conn": "EndConnection",
+            "to_ci": "Hub4_instance_2",
+            "to_conn": "Side_Connector_1"
+        },
+        {
+            "from_ci": "Tube_instance_13",
+            "from_conn": "EndConnection",
+            "to_ci": "Hub2_instance_2",
+            "to_conn": "Side_Connector_1"
+        },
+        {
+            "from_ci": "Hub2_instance_2",
+            "from_conn": "Side_Connector_1",
+            "to_ci": "Tube_instance_13",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Hub3_instance_3",
+            "from_conn": "Side_Connector_2",
+            "to_ci": "Tube_instance_10",
+            "to_conn": "EndConnection"
+        },
+        {
+            "from_ci": "Tube_instance_10",
+            "from_conn": "EndConnection",
+            "to_ci": "Hub3_instance_3",
+            "to_conn": "Side_Connector_2"
+        },
+        {
+            "from_ci": "Flange_instance_1",
+            "from_conn": "BottomConnector",
+            "to_ci": "Tube_instance_16",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_16",
+            "from_conn": "BaseConnection",
+            "to_ci": "Flange_instance_1",
+            "to_conn": "BottomConnector"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector6",
+            "to_ci": "SensorVoltage_instance_1",
+            "to_conn": "SensorConnector"
+        },
+        {
+            "from_ci": "SensorVoltage_instance_1",
+            "from_conn": "SensorConnector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector6"
+        },
+        {
+            "from_ci": "Flange_instance_1",
+            "from_conn": "TopConnector",
+            "to_ci": "Motor_instance_1",
+            "to_conn": "Base_Connector"
+        },
+        {
+            "from_ci": "Motor_instance_1",
+            "from_conn": "Base_Connector",
+            "to_ci": "Flange_instance_1",
+            "to_conn": "TopConnector"
+        },
+        {
+            "from_ci": "Motor_instance_1",
+            "from_conn": "Prop_Connector",
+            "to_ci": "Propeller_instance_1",
+            "to_conn": "MOTOR_CONNECTOR_CS_IN"
+        },
+        {
+            "from_ci": "Propeller_instance_1",
+            "from_conn": "MOTOR_CONNECTOR_CS_IN",
+            "to_ci": "Motor_instance_1",
+            "to_conn": "Prop_Connector"
+        },
+        {
+            "from_ci": "Flange_instance_2",
+            "from_conn": "SideConnector",
+            "to_ci": "Tube_instance_18",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_18",
+            "from_conn": "BaseConnection",
+            "to_ci": "Flange_instance_2",
+            "to_conn": "SideConnector"
+        },
+        {
+            "from_ci": "Flange_instance_2",
+            "from_conn": "TopConnector",
+            "to_ci": "Motor_instance_4",
+            "to_conn": "Base_Connector"
+        },
+        {
+            "from_ci": "Motor_instance_4",
+            "from_conn": "Base_Connector",
+            "to_ci": "Flange_instance_2",
+            "to_conn": "TopConnector"
+        },
+        {
+            "from_ci": "Tube_instance_9",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub3_instance_5",
+            "to_conn": "Center_Connector"
+        },
+        {
+            "from_ci": "Hub3_instance_5",
+            "from_conn": "Center_Connector",
+            "to_ci": "Tube_instance_9",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector1",
+            "to_ci": "Battery_instance_1",
+            "to_conn": "Bottom_Connector"
+        },
+        {
+            "from_ci": "Battery_instance_1",
+            "from_conn": "Bottom_Connector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector1"
+        },
+        {
+            "from_ci": "Tube_instance_4",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub3_instance_5",
+            "to_conn": "Side_Connector_2"
+        },
+        {
+            "from_ci": "Hub3_instance_5",
+            "from_conn": "Side_Connector_2",
+            "to_ci": "Tube_instance_4",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Hub3_instance_1",
+            "from_conn": "Side_Connector_1",
+            "to_ci": "Tube_instance_11",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Tube_instance_11",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub3_instance_1",
+            "to_conn": "Side_Connector_1"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector4",
+            "to_ci": "SensorCurrent_instance_1",
+            "to_conn": "SensorConnector"
+        },
+        {
+            "from_ci": "SensorCurrent_instance_1",
+            "from_conn": "SensorConnector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector4"
+        },
+        {
+            "from_ci": "Motor_instance_4",
+            "from_conn": "Prop_Connector",
+            "to_ci": "Propeller_instance_4",
+            "to_conn": "MOTOR_CONNECTOR_CS_IN"
+        },
+        {
+            "from_ci": "Propeller_instance_4",
+            "from_conn": "MOTOR_CONNECTOR_CS_IN",
+            "to_ci": "Motor_instance_4",
+            "to_conn": "Prop_Connector"
+        },
+        {
+            "from_ci": "CargoCase_instance_1",
+            "from_conn": "Case2HubConnector",
+            "to_ci": "Hub3_instance_4",
+            "to_conn": "Bottom_Connector"
+        },
+        {
+            "from_ci": "Hub3_instance_4",
+            "from_conn": "Bottom_Connector",
+            "to_ci": "CargoCase_instance_1",
+            "to_conn": "Case2HubConnector"
+        },
+        {
+            "from_ci": "Tube_instance_1",
+            "from_conn": "BaseConnection",
+            "to_ci": "Flange_instance_4",
+            "to_conn": "SideConnector"
+        },
+        {
+            "from_ci": "Flange_instance_4",
+            "from_conn": "SideConnector",
+            "to_ci": "Tube_instance_1",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector5",
+            "to_ci": "SensorAutopilot_instance_1",
+            "to_conn": "SensorConnector"
+        },
+        {
+            "from_ci": "SensorAutopilot_instance_1",
+            "from_conn": "SensorConnector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector5"
+        },
+        {
+            "from_ci": "Tube_instance_3",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub4_instance_2",
+            "to_conn": "Side_Connector_2"
+        },
+        {
+            "from_ci": "Hub4_instance_2",
+            "from_conn": "Side_Connector_2",
+            "to_ci": "Tube_instance_3",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Hub3_instance_4",
+            "from_conn": "Orient_Connector",
+            "to_ci": "Orient",
+            "to_conn": "ORIENTCONN"
+        },
+        {
+            "from_ci": "Orient",
+            "from_conn": "ORIENTCONN",
+            "to_ci": "Hub3_instance_4",
+            "to_conn": "Orient_Connector"
+        },
+        {
+            "from_ci": "Tube_instance_6",
+            "from_conn": "BaseConnection",
+            "to_ci": "Hub3_instance_3",
+            "to_conn": "Side_Connector_1"
+        },
+        {
+            "from_ci": "Hub3_instance_3",
+            "from_conn": "Side_Connector_1",
+            "to_ci": "Tube_instance_6",
+            "to_conn": "BaseConnection"
+        },
+        {
+            "from_ci": "Fuselage_instance_1",
+            "from_conn": "FloorConnector8",
+            "to_ci": "SensorVariometer_instance_1",
+            "to_conn": "SensorConnector"
+        },
+        {
+            "from_ci": "SensorVariometer_instance_1",
+            "from_conn": "SensorConnector",
+            "to_ci": "Fuselage_instance_1",
+            "to_conn": "FloorConnector8"
+        }
+    ],
+    "name": "PickAxe",
+    "parameters": [
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_4",
+                    "component_property": "ANGVERTCONN"
+                }
+            ],
+            "parameter_name": "Hub3_instance_4_ANGVERTCONN",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_4",
+                    "component_property": "ANGHORZCONN"
+                }
+            ],
+            "parameter_name": "Hub3_instance_4_ANGHORZCONN",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_4",
+                    "component_property": "DIAMETER"
+                }
+            ],
+            "parameter_name": "Hub3_instance_4_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Motor_instance_2",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Motor_instance_2_CONTROL_CHANNEL",
+            "value": "4"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_4",
+                    "component_property": "SIDE_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_4_SIDE_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_4",
+                    "component_property": "BOTTOM_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_4_BOTTOM_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_2",
+                    "component_property": "Prop_type"
+                }
+            ],
+            "parameter_name": "Propeller_instance_2_Prop_type",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_2",
+                    "component_property": "Direction"
+                }
+            ],
+            "parameter_name": "Propeller_instance_2_Direction",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_5",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_5_Offset1",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_5",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_5_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_5",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_5_END_ROT",
+            "value": "270"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_5",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_5_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_5",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_5_Length",
+            "value": "150"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Battery_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "Battery_instance_1_ROTATION",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_1",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_1_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_1",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_1_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_1",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_1_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_1",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_1_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_1",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_1_Length",
+            "value": "52"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Motor_instance_3",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Motor_instance_3_CONTROL_CHANNEL",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_15",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_15_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_15",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_15_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_15",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_15_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_15",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_15_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_15",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_15_Length",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "SensorCurrent_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "SensorCurrent_instance_1_ROTATION",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_13",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_13_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_13",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_13_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_13",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_13_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_13",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_13_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_13",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_13_Length",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_16",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_16_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_16",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_16_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_16",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_16_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_16",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_16_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_16",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_16_Length",
+            "value": "150"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "NACA_Profile"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_NACA_Profile",
+            "value": "12"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "LOAD"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_LOAD",
+            "value": "30"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "TUBE_OFFSET"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_TUBE_OFFSET",
+            "value": "160"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_CONTROL_CHANNEL",
+            "value": "7"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "SERVO_LENGTH"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_SERVO_LENGTH",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "CHORD_2"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_CHORD_2",
+            "value": "180"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "FLAP_BIAS"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_FLAP_BIAS",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "SPAN"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_SPAN",
+            "value": "609"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "THICKNESS"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_THICKNESS",
+            "value": "12"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "AILERON_BIAS"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_AILERON_BIAS",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "CHORD_1"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_CHORD_1",
+            "value": "180"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "TUBE_ROTATION"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_TUBE_ROTATION",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "SERVO_WIDTH"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_SERVO_WIDTH",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "TUBE_DIAMETER"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_TUBE_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "TAPER_OFFSET"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_TAPER_OFFSET",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_4",
+                    "component_property": "SERVO_THICKNESS"
+                }
+            ],
+            "parameter_name": "Wing_instance_4_SERVO_THICKNESS",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_2",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_2_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_2",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_2_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_2",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_2_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_2",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_2_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_2",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_2_Length",
+            "value": "150"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "SensorGPS_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "SensorGPS_instance_1_ROTATION",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "NACA_Profile"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_NACA_Profile",
+            "value": "12"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "LOAD"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_LOAD",
+            "value": "20"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "TUBE_OFFSET"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_TUBE_OFFSET",
+            "value": "50"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_CONTROL_CHANNEL",
+            "value": "9"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "SERVO_LENGTH"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_SERVO_LENGTH",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "CHORD_2"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_CHORD_2",
+            "value": "100"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "FLAP_BIAS"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_FLAP_BIAS",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "SPAN"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_SPAN",
+            "value": "140"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "THICKNESS"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_THICKNESS",
+            "value": "12"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "AILERON_BIAS"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_AILERON_BIAS",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "CHORD_1"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_CHORD_1",
+            "value": "100"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "TUBE_ROTATION"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_TUBE_ROTATION",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "SERVO_WIDTH"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_SERVO_WIDTH",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "TUBE_DIAMETER"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_TUBE_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "TAPER_OFFSET"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_TAPER_OFFSET",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_2",
+                    "component_property": "SERVO_THICKNESS"
+                }
+            ],
+            "parameter_name": "Wing_instance_2_SERVO_THICKNESS",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Motor_instance_1",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Motor_instance_1_CONTROL_CHANNEL",
+            "value": "3"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "NACA_Profile"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_NACA_Profile",
+            "value": "12"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "LOAD"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_LOAD",
+            "value": "30"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "TUBE_OFFSET"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_TUBE_OFFSET",
+            "value": "160"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_CONTROL_CHANNEL",
+            "value": "6"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "SERVO_LENGTH"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_SERVO_LENGTH",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "CHORD_2"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_CHORD_2",
+            "value": "150"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "FLAP_BIAS"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_FLAP_BIAS",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "SPAN"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_SPAN",
+            "value": "450"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "THICKNESS"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_THICKNESS",
+            "value": "12"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "AILERON_BIAS"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_AILERON_BIAS",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "CHORD_1"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_CHORD_1",
+            "value": "150"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "TUBE_ROTATION"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_TUBE_ROTATION",
+            "value": "180"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "SERVO_WIDTH"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_SERVO_WIDTH",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "TUBE_DIAMETER"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_TUBE_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "TAPER_OFFSET"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_TAPER_OFFSET",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_6",
+                    "component_property": "SERVO_THICKNESS"
+                }
+            ],
+            "parameter_name": "Wing_instance_6_SERVO_THICKNESS",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_6",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_6_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_6",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_6_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_6",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_6_END_ROT",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_6",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_6_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_6",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_6_Length",
+            "value": "220"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_17",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_17_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_17",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_17_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_17",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_17_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_17",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_17_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_17",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_17_Length",
+            "value": "150"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "NACA_Profile"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_NACA_Profile",
+            "value": "12"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "LOAD"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_LOAD",
+            "value": "30"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "TUBE_OFFSET"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_TUBE_OFFSET",
+            "value": "289"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_CONTROL_CHANNEL",
+            "value": "5"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "SERVO_LENGTH"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_SERVO_LENGTH",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "CHORD_2"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_CHORD_2",
+            "value": "150"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "FLAP_BIAS"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_FLAP_BIAS",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "SPAN"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_SPAN",
+            "value": "450"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "THICKNESS"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_THICKNESS",
+            "value": "12"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "AILERON_BIAS"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_AILERON_BIAS",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "CHORD_1"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_CHORD_1",
+            "value": "150"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "TUBE_ROTATION"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_TUBE_ROTATION",
+            "value": "180"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "SERVO_WIDTH"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_SERVO_WIDTH",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "TUBE_DIAMETER"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_TUBE_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "TAPER_OFFSET"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_TAPER_OFFSET",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_1",
+                    "component_property": "SERVO_THICKNESS"
+                }
+            ],
+            "parameter_name": "Wing_instance_1_SERVO_THICKNESS",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Cargo_instance_1",
+                    "component_property": "WEIGHT"
+                }
+            ],
+            "parameter_name": "Cargo_instance_1_WEIGHT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "SensorVoltage_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "SensorVoltage_instance_1_ROTATION",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Battery_instance_2",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "Battery_instance_2_ROTATION",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub2_instance_1",
+                    "component_property": "ANGHORZCONN"
+                }
+            ],
+            "parameter_name": "Hub2_instance_1_ANGHORZCONN",
+            "value": "270"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub2_instance_1",
+                    "component_property": "DIAMETER"
+                }
+            ],
+            "parameter_name": "Hub2_instance_1_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub2_instance_1",
+                    "component_property": "ANGVERTCONN"
+                }
+            ],
+            "parameter_name": "Hub2_instance_1_ANGVERTCONN",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_4",
+                    "component_property": "Prop_type"
+                }
+            ],
+            "parameter_name": "Propeller_instance_4_Prop_type",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_4",
+                    "component_property": "Direction"
+                }
+            ],
+            "parameter_name": "Propeller_instance_4_Direction",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "NACA_Profile"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_NACA_Profile",
+            "value": "12"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "LOAD"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_LOAD",
+            "value": "20"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "TUBE_OFFSET"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_TUBE_OFFSET",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_CONTROL_CHANNEL",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "SERVO_LENGTH"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_SERVO_LENGTH",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "CHORD_2"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_CHORD_2",
+            "value": "100"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "FLAP_BIAS"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_FLAP_BIAS",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "SPAN"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_SPAN",
+            "value": "140"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "THICKNESS"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_THICKNESS",
+            "value": "12"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "AILERON_BIAS"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_AILERON_BIAS",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "CHORD_1"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_CHORD_1",
+            "value": "100"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "TUBE_ROTATION"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_TUBE_ROTATION",
+            "value": "180"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "SERVO_WIDTH"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_SERVO_WIDTH",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "TUBE_DIAMETER"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_TUBE_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "TAPER_OFFSET"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_TAPER_OFFSET",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_5",
+                    "component_property": "SERVO_THICKNESS"
+                }
+            ],
+            "parameter_name": "Wing_instance_5_SERVO_THICKNESS",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_9",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_9_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_9",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_9_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_9",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_9_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_9",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_9_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_9",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_9_Length",
+            "value": "41"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_3",
+                    "component_property": "ANGVERTCONN"
+                }
+            ],
+            "parameter_name": "Hub3_instance_3_ANGVERTCONN",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_3",
+                    "component_property": "ANGHORZCONN"
+                }
+            ],
+            "parameter_name": "Hub3_instance_3_ANGHORZCONN",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_3",
+                    "component_property": "DIAMETER"
+                }
+            ],
+            "parameter_name": "Hub3_instance_3_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_20",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_20_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_20",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_20_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_20",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_20_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_20",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_20_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_20",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_20_Length",
+            "value": "41"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_4",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_4_Offset1",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_4",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_4_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_4",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_4_END_ROT",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_4",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_4_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_4",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_4_Length",
+            "value": "150"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "NACA_Profile"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_NACA_Profile",
+            "value": "12"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "LOAD"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_LOAD",
+            "value": "30"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "TUBE_OFFSET"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_TUBE_OFFSET",
+            "value": "448"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_CONTROL_CHANNEL",
+            "value": "8"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "SERVO_LENGTH"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_SERVO_LENGTH",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "CHORD_2"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_CHORD_2",
+            "value": "180"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "FLAP_BIAS"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_FLAP_BIAS",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "SPAN"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_SPAN",
+            "value": "609"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "THICKNESS"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_THICKNESS",
+            "value": "12"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "AILERON_BIAS"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_AILERON_BIAS",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "CHORD_1"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_CHORD_1",
+            "value": "180"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "TUBE_ROTATION"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_TUBE_ROTATION",
+            "value": "270"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "SERVO_WIDTH"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_SERVO_WIDTH",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "TUBE_DIAMETER"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_TUBE_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "TAPER_OFFSET"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_TAPER_OFFSET",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Wing_instance_3",
+                    "component_property": "SERVO_THICKNESS"
+                }
+            ],
+            "parameter_name": "Wing_instance_3_SERVO_THICKNESS",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub4_instance_1",
+                    "component_property": "ANGHORZCONN"
+                }
+            ],
+            "parameter_name": "Hub4_instance_1_ANGHORZCONN",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub4_instance_1",
+                    "component_property": "DIAMETER"
+                }
+            ],
+            "parameter_name": "Hub4_instance_1_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub4_instance_1",
+                    "component_property": "ANGVERTCONN"
+                }
+            ],
+            "parameter_name": "Hub4_instance_1_ANGVERTCONN",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_10",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_10_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_10",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_10_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_10",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_10_END_ROT",
+            "value": "180"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_10",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_10_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_10",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_10_Length",
+            "value": "140"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_7_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_7_DISP_WIDTH",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_6_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_6_DISP_LENGTH",
+            "value": "-20"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "BOTTOM_CONNECTOR_OFFSET_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_BOTTOM_CONNECTOR_OFFSET_WIDTH",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FUSE_CYL_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FUSE_CYL_LENGTH",
+            "value": "140"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "HORZ_DIAMETER"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_HORZ_DIAMETER",
+            "value": "300"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_7_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_7_DISP_LENGTH",
+            "value": "-80"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_8_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_8_DISP_LENGTH",
+            "value": "-20"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "BOTTOM_CONNECTOR_ROTATION"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_BOTTOM_CONNECTOR_ROTATION",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_2_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_2_DISP_LENGTH",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_HEIGHT"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_HEIGHT",
+            "value": "20"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_8_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_8_DISP_WIDTH",
+            "value": "-11"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_2_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_2_DISP_WIDTH",
+            "value": "-70"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_3_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_3_DISP_LENGTH",
+            "value": "-20"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_3_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_3_DISP_WIDTH",
+            "value": "33"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_5_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_5_DISP_WIDTH",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_6_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_6_DISP_WIDTH",
+            "value": "11"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_4_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_4_DISP_LENGTH",
+            "value": "-20"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_5_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_5_DISP_LENGTH",
+            "value": "50"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "VERT_DIAMETER"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_VERT_DIAMETER",
+            "value": "105"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "BOTTOM_CONNECTOR_OFFSET_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_BOTTOM_CONNECTOR_OFFSET_LENGTH",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_1_DISP_LENGTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_1_DISP_LENGTH",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_1_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_1_DISP_WIDTH",
+            "value": "70"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Fuselage_instance_1",
+                    "component_property": "FLOOR_CONNECTOR_4_DISP_WIDTH"
+                }
+            ],
+            "parameter_name": "Fuselage_instance_1_FLOOR_CONNECTOR_4_DISP_WIDTH",
+            "value": "-30"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_11",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_11_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_11",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_11_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_11",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_11_END_ROT",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_11",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_11_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_11",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_11_Length",
+            "value": "220"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_3",
+                    "component_property": "Prop_type"
+                }
+            ],
+            "parameter_name": "Propeller_instance_3_Prop_type",
+            "value": "-1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_3",
+                    "component_property": "Direction"
+                }
+            ],
+            "parameter_name": "Propeller_instance_3_Direction",
+            "value": "-1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_14",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_14_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_14",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_14_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_14",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_14_END_ROT",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_14",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_14_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_14",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_14_Length",
+            "value": "135"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_2",
+                    "component_property": "ANGVERTCONN"
+                }
+            ],
+            "parameter_name": "Hub3_instance_2_ANGVERTCONN",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_2",
+                    "component_property": "ANGHORZCONN"
+                }
+            ],
+            "parameter_name": "Hub3_instance_2_ANGHORZCONN",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_2",
+                    "component_property": "DIAMETER"
+                }
+            ],
+            "parameter_name": "Hub3_instance_2_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "CargoCase_instance_1",
+                    "component_property": "Rotation"
+                }
+            ],
+            "parameter_name": "CargoCase_instance_1_Rotation",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_7",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_7_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_7",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_7_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_7",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_7_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_7",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_7_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_7",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_7_Length",
+            "value": "150"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "SensorRpmTemp_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "SensorRpmTemp_instance_1_ROTATION",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Orient",
+                    "component_property": "Z_ANGLE"
+                }
+            ],
+            "parameter_name": "Orient_Z_ANGLE",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "SensorVariometer_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "SensorVariometer_instance_1_ROTATION",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "BatteryController_instance_1",
+                    "component_property": "Input_Voltage"
+                }
+            ],
+            "parameter_name": "BatteryController_instance_1_Input_Voltage",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "BatteryController_instance_1",
+                    "component_property": "Output_Voltage"
+                }
+            ],
+            "parameter_name": "BatteryController_instance_1_Output_Voltage",
+            "value": "1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_19",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_19_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_19",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_19_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_19",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_19_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_19",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_19_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_19",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_19_Length",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_1",
+                    "component_property": "Prop_type"
+                }
+            ],
+            "parameter_name": "Propeller_instance_1_Prop_type",
+            "value": "-1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Propeller_instance_1",
+                    "component_property": "Direction"
+                }
+            ],
+            "parameter_name": "Propeller_instance_1_Direction",
+            "value": "-1"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub2_instance_2",
+                    "component_property": "ANGHORZCONN"
+                }
+            ],
+            "parameter_name": "Hub2_instance_2_ANGHORZCONN",
+            "value": "270"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub2_instance_2",
+                    "component_property": "DIAMETER"
+                }
+            ],
+            "parameter_name": "Hub2_instance_2_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub2_instance_2",
+                    "component_property": "ANGVERTCONN"
+                }
+            ],
+            "parameter_name": "Hub2_instance_2_ANGVERTCONN",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_1",
+                    "component_property": "ANGVERTCONN"
+                }
+            ],
+            "parameter_name": "Hub3_instance_1_ANGVERTCONN",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_1",
+                    "component_property": "ANGHORZCONN"
+                }
+            ],
+            "parameter_name": "Hub3_instance_1_ANGHORZCONN",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_1",
+                    "component_property": "DIAMETER"
+                }
+            ],
+            "parameter_name": "Hub3_instance_1_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_3",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_3_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_3",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_3_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_3",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_3_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_3",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_3_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_3",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_3_Length",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "SensorAutopilot_instance_1",
+                    "component_property": "ROTATION"
+                }
+            ],
+            "parameter_name": "SensorAutopilot_instance_1_ROTATION",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_8",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_8_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_8",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_8_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_8",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_8_END_ROT",
+            "value": "270"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_8",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_8_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_8",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_8_Length",
+            "value": "135"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_2",
+                    "component_property": "SIDE_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_2_SIDE_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_2",
+                    "component_property": "BOTTOM_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_2_BOTTOM_ANGLE",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_3",
+                    "component_property": "SIDE_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_3_SIDE_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_3",
+                    "component_property": "BOTTOM_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_3_BOTTOM_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_1",
+                    "component_property": "SIDE_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_1_SIDE_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Flange_instance_1",
+                    "component_property": "BOTTOM_ANGLE"
+                }
+            ],
+            "parameter_name": "Flange_instance_1_BOTTOM_ANGLE",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_12",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_12_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_12",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_12_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_12",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_12_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_12",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_12_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_12",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_12_Length",
+            "value": "140"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_5",
+                    "component_property": "ANGVERTCONN"
+                }
+            ],
+            "parameter_name": "Hub3_instance_5_ANGVERTCONN",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_5",
+                    "component_property": "ANGHORZCONN"
+                }
+            ],
+            "parameter_name": "Hub3_instance_5_ANGHORZCONN",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub3_instance_5",
+                    "component_property": "DIAMETER"
+                }
+            ],
+            "parameter_name": "Hub3_instance_5_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_18",
+                    "component_property": "Offset1"
+                }
+            ],
+            "parameter_name": "Tube_instance_18_Offset1",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_18",
+                    "component_property": "Offset2"
+                }
+            ],
+            "parameter_name": "Tube_instance_18_Offset2",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_18",
+                    "component_property": "END_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_18_END_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_18",
+                    "component_property": "BASE_ROT"
+                }
+            ],
+            "parameter_name": "Tube_instance_18_BASE_ROT",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Tube_instance_18",
+                    "component_property": "Length"
+                }
+            ],
+            "parameter_name": "Tube_instance_18_Length",
+            "value": "52"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub4_instance_2",
+                    "component_property": "ANGHORZCONN"
+                }
+            ],
+            "parameter_name": "Hub4_instance_2_ANGHORZCONN",
+            "value": "90"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub4_instance_2",
+                    "component_property": "DIAMETER"
+                }
+            ],
+            "parameter_name": "Hub4_instance_2_DIAMETER",
+            "value": "10"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Hub4_instance_2",
+                    "component_property": "ANGVERTCONN"
+                }
+            ],
+            "parameter_name": "Hub4_instance_2_ANGVERTCONN",
+            "value": "0"
+        },
+        {
+            "component_properties": [
+                {
+                    "component_name": "Motor_instance_4",
+                    "component_property": "CONTROL_CHANNEL"
+                }
+            ],
+            "parameter_name": "Motor_instance_4_CONTROL_CHANNEL",
+            "value": "2"
+        }
+    ]
+}

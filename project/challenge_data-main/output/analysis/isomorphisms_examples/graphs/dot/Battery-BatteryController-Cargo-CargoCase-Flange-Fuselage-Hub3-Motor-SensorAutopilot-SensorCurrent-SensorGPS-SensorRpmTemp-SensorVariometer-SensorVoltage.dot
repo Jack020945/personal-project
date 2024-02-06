@@ -1,0 +1,214 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=CargoCase_instance_1
+    label=CargoCase
+  ];
+  1 [
+    instance=Fuselage_instance_1
+    label=Fuselage
+  ];
+  2 [
+    instance=Flange_instance_1
+    label=Flange
+  ];
+  3 [
+    instance=Motor_instance_1
+    label=Motor
+  ];
+  4 [
+    instance=SensorAutopilot_instance_1
+    label=SensorAutopilot
+  ];
+  5 [
+    instance=Hub3_instance_4
+    label=Hub3
+  ];
+  6 [
+    instance=Flange_instance_2
+    label=Flange
+  ];
+  7 [
+    instance=SensorVoltage_instance_1
+    label=SensorVoltage
+  ];
+  8 [
+    instance=Cargo_instance_1
+    label=Cargo
+  ];
+  9 [
+    instance=Motor_instance_2
+    label=Motor
+  ];
+  10 [
+    instance=Motor_instance_3
+    label=Motor
+  ];
+  11 [
+    instance=Flange_instance_3
+    label=Flange
+  ];
+  12 [
+    instance=Flange_instance_4
+    label=Flange
+  ];
+  13 [
+    instance=SensorGPS_instance_1
+    label=SensorGPS
+  ];
+  14 [
+    instance=Battery_instance_1
+    label=Battery
+  ];
+  15 [
+    instance=SensorVariometer_instance_1
+    label=SensorVariometer
+  ];
+  16 [
+    instance=Battery_instance_2
+    label=Battery
+  ];
+  17 [
+    instance=SensorCurrent_instance_1
+    label=SensorCurrent
+  ];
+  18 [
+    instance=Motor_instance_4
+    label=Motor
+  ];
+  19 [
+    instance=BatteryController_instance_1
+    label=BatteryController
+  ];
+  20 [
+    instance=SensorRpmTemp_instance_1
+    label=SensorRpmTemp
+  ];
+
+  0 -> 5 [
+    label=ANY
+  ];
+  0 -> 8 [
+    label=ANY
+  ];
+  1 -> 4 [
+    label=ANY
+  ];
+  1 -> 5 [
+    label=BOTTOM
+  ];
+  1 -> 7 [
+    label=ANY
+  ];
+  1 -> 13 [
+    label=ANY
+  ];
+  1 -> 14 [
+    label="INSIDE-1"
+  ];
+  1 -> 15 [
+    label=ANY
+  ];
+  1 -> 16 [
+    label="INSIDE-2"
+  ];
+  1 -> 17 [
+    label=ANY
+  ];
+  1 -> 20 [
+    label=ANY
+  ];
+  2 -> 3 [
+    label=ANY
+  ];
+  3 -> 2 [
+    label=ANY
+  ];
+  3 -> 19 [
+    label=ANY
+  ];
+  4 -> 1 [
+    label=ANY
+  ];
+  5 -> 0 [
+    label=ANY
+  ];
+  5 -> 1 [
+    label=TOP
+  ];
+  6 -> 18 [
+    label=ANY
+  ];
+  7 -> 1 [
+    label=ANY
+  ];
+  8 -> 0 [
+    label=ANY
+  ];
+  9 -> 11 [
+    label=ANY
+  ];
+  9 -> 19 [
+    label=ANY
+  ];
+  10 -> 12 [
+    label=ANY
+  ];
+  10 -> 19 [
+    label=ANY
+  ];
+  11 -> 9 [
+    label=ANY
+  ];
+  12 -> 10 [
+    label=ANY
+  ];
+  13 -> 1 [
+    label=ANY
+  ];
+  14 -> 1 [
+    label="BOTTOM-1"
+  ];
+  14 -> 19 [
+    label=ANY
+  ];
+  15 -> 1 [
+    label=ANY
+  ];
+  16 -> 1 [
+    label="BOTTOM-2"
+  ];
+  16 -> 19 [
+    label=ANY
+  ];
+  17 -> 1 [
+    label=ANY
+  ];
+  18 -> 6 [
+    label=ANY
+  ];
+  18 -> 19 [
+    label=ANY
+  ];
+  19 -> 3 [
+    label=ANY
+  ];
+  19 -> 9 [
+    label=ANY
+  ];
+  19 -> 10 [
+    label=ANY
+  ];
+  19 -> 14 [
+    label=ANY
+  ];
+  19 -> 16 [
+    label=ANY
+  ];
+  19 -> 18 [
+    label=ANY
+  ];
+  20 -> 1 [
+    label=ANY
+  ];
+}

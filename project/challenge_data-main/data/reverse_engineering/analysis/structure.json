@@ -1,0 +1,183 @@
+{
+    "Propeller_str_top": {
+        "InterfaceComponent": "Flange",
+        "CenterComponent": "Propeller",
+        "Components": [
+            {"Motor": {
+                "CONNECTIONS": {
+                    "BatteryController": "ANY",
+                    "Flange": "ANY",
+                    "Propeller": "ANY"
+                },
+                "PARAMETERS": {
+                    "Motor__CONTROL_CHANNEL": 1.0
+                }
+            }},
+            {"Flange": {
+                "CONNECTIONS": {
+                    "Motor": "ANY"
+                },
+                "PARAMETERS": {
+                    "Flange__BOTTOM_ANGLE": 0.0,
+                    "Flange__SIDE_ANGLE": 0.0
+                }
+            }},
+            {"Propeller": {
+                "CONNECTIONS": {
+                    "Motor": "ANY"
+                },
+                "PARAMETERS": {
+                    "Propeller__Direction": -1.0,
+                    "Propeller__Prop_type": -1.0
+                }
+            }}
+        ]
+    },
+    "Fuselage_str": {
+        "InterfaceComponent": "Fuselage",
+        "CenterComponent": "SensorVariometer",
+        "Components": [
+            {"Fuselage":
+                {
+                    "CONNECTIONS":
+                    {
+                        "SensorGPS": "ANY",
+                        "SensorAutopilot": "ANY",
+                        "SensorVoltage": "ANY",
+                        "SensorVariometer": "ANY",
+                        "SensorRpmTemp": "ANY",
+                        "SensorCurrent": "ANY"
+                    },
+                    "PARAMETERS":
+                    {
+                        "Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH": -160.0,
+                        "Fuselage__FLOOR_CONNECTOR_5_DISP_WIDTH": 0.0,
+                        "Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH": -18.0,
+                        "Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH": -18.0,
+                        "Fuselage__FLOOR_CONNECTOR_7_DISP_WIDTH": 0.0,
+                        "Fuselage__BOTTOM_CONNECTOR_ROTATION": 45.0,
+                        "Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH": 155.0,
+                        "Fuselage__FLOOR_HEIGHT": 20.0,
+                        "Fuselage__HORZ_DIAMETER": 190.0,
+                        "Fuselage__FLOOR_CONNECTOR_1_DISP_LENGTH": 0.0,
+                        "Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH": -30.0,
+                        "Fuselage__FUSE_CYL_LENGTH": 270.0,
+                        "Fuselage__VERT_DIAMETER": 125.0,
+                        "Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH": 155.0,
+                        "Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH": 30.0,
+                        "Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH": -120.0,
+                        "Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH": 18.0,
+                        "Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH": 115.0,
+                        "Fuselage__BOTTOM_CONNECTOR_OFFSET_WIDTH": 0.0,
+                        "Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH": -160.0,
+                        "Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH": 13.0,
+                        "Fuselage__BOTTOM_CONNECTOR_OFFSET_LENGTH": 0.0,
+                        "Fuselage__FLOOR_CONNECTOR_2_DISP_LENGTH": 0.0
+                    }
+                }
+            },
+            {"SensorAutopilot":
+                {
+                    "CONNECTIONS":
+                    {
+                        "Fuselage": "ANY"
+                    },
+                    "PARAMETERS":
+                    {
+                        "SensorAutopilot__ROTATION": 90.0
+                    }
+                }
+            },
+            {"SensorVoltage":
+                {
+                    "CONNECTIONS":
+                    {
+                        "Fuselage": "ANY"
+                    },
+                    "PARAMETERS":
+                    {
+                        "SensorVoltage__ROTATION": 90.0
+                    }
+                }
+            },
+            {"SensorGPS":
+                {
+                    "CONNECTIONS":
+                    {
+                        "Fuselage": "ANY"
+                    },
+                    "PARAMETERS":
+                    {
+                        "SensorGPS__ROTATION": 0.0
+                    }
+                }     
+            },
+            {"SensorRpmTemp":
+                {
+                    "CONNECTIONS":
+                    {
+                        "Fuselage": "ANY"
+                    },
+                    "PARAMETERS":
+                    {
+                        "SensorRpmTemp__ROTATION": 90.0
+                    }
+                }
+            },
+            {"SensorCurrent":
+                {
+                    "CONNECTIONS":
+                    {
+                        "Fuselage": "ANY"
+                    },
+                    "PARAMETERS":
+                    {
+                        "SensorCurrent__ROTATION": 90.0
+                    }
+                }
+            },
+            {"SensorVariometer":
+                {
+                    "CONNECTIONS":
+                    {
+                        "Fuselage": "ANY"
+                    },
+                    "PARAMETERS":
+                    {
+                        "SensorVariometer__ROTATION": 90.0
+                    }
+                }
+            }
+        ]
+    },
+    "Cargo_str": {
+        "InterfaceComponent": "CargoCase",
+        "CenterComponent": "Cargo",
+        "Components": [
+            {"Cargo":
+                {
+                    "CONNECTIONS":
+                    {
+                        "CargoCase": "ANY"
+                    },
+                    "PARAMETERS":
+                    {
+                        "Cargo__WEIGHT": 0.5
+                    }
+                }
+            },
+            {"CargoCase":
+                {
+                    "CONNECTIONS":
+                    {
+                        "Cargo": "ANY"
+                    },
+                    "PARAMETERS":
+                    {
+                        "CargoCase__Rotation": 0.0
+                    }
+                }
+            }
+        ]
+    }
+}

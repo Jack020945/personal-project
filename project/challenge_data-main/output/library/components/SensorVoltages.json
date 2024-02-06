@@ -1,0 +1,27 @@
+{
+    "Voltage": {
+        "id": "Voltage",
+        "type": "SensorVoltage",
+        "parameters": [
+            {
+                "name": "ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "Model": "FLVSS",
+            "CORPUS": "UAV",
+            "WIDTH": 23.0,
+            "LENGTH": 35.0,
+            "Manufacturer": "FrSKY",
+            "WEIGHT": 0.006,
+            "HEIGHT": 6.0
+        },
+        "connectors": [
+            "SensorConnector"
+        ]
+    }
+}

@@ -1,0 +1,2 @@
+name,class,connector,HEIGHT,CORPUS,WEIGHT,WIDTH,Rotation,LENGTH,OD
+CargoCase,CargoCase,"['CargoConnector', 'Case2HubConnector']",125,UAV,0.1,250,"('0', '0', '360', '0')",250,10

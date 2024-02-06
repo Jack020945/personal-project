@@ -1,0 +1,124 @@
+TOPOLOGY SUMMARY
+
+0 (Tube) (1 items):
+	Flange
+1 (Motor) (3 items):
+	Propeller
+	BatteryController
+	Flange
+2 (Tube) (2 items):
+	Hub4
+	Flange
+3 (Tube) (1 items):
+	Flange
+4 (Propeller) (1 items):
+	Motor
+5 (Tube) (1 items):
+	Flange
+6 (Battery) (2 items):
+	Fuselage
+	BatteryController
+7 (Motor) (3 items):
+	Flange
+	Propeller
+	BatteryController
+8 (Flange) (3 items):
+	Tube
+	Tube
+	Motor
+9 (Hub4) (6 items):
+	Tube
+	Fuselage
+	Tube
+	Orient
+	Tube
+	Tube
+10 (Fuselage) (3 items):
+	Hub4
+	Battery
+	Battery
+11 (Tube) (1 items):
+	Flange
+12 (Tube) (2 items):
+	Flange
+	Hub4
+13 (Orient) (1 items):
+	Hub4
+14 (BatteryController) (6 items):
+	Motor
+	Battery
+	Motor
+	Motor
+	Battery
+	Motor
+15 (Motor) (3 items):
+	Flange
+	Propeller
+	BatteryController
+16 (Flange) (3 items):
+	Tube
+	Tube
+	Motor
+17 (Propeller) (1 items):
+	Motor
+18 (Flange) (3 items):
+	Tube
+	Tube
+	Motor
+19 (Propeller) (1 items):
+	Motor
+20 (Battery) (2 items):
+	Fuselage
+	BatteryController
+21 (Propeller) (1 items):
+	Motor
+22 (Motor) (3 items):
+	Flange
+	Propeller
+	BatteryController
+23 (Flange) (3 items):
+	Motor
+	Tube
+	Tube
+24 (Tube) (2 items):
+	Flange
+	Hub4
+25 (Tube) (2 items):
+	Hub4
+	Flange
+
+
+GRAPHIGRAPH D--- 26 60 --
++ attr: c_type (v), label (v), connection (e), label (e)
++ edges:
+0->16 1->23 1->17 1->14 2->23 2->9 3->18 4->7 5->23 6->10 6->14 7->4 7->16
+7->14 8->12 8->11 8->15 9->12 9->13 9->25 9->10 9->2 9->24 10->6 10->9 10->20
+11->8 12->8 12->9 13->9 14->1 14->20 14->22 14->7 14->6 14->15 15->14 15->8
+15->21 16->0 16->7 16->24 17->1 18->22 18->25 18->3 19->22 20->10 20->14
+21->15 22->14 22->19 22->18 23->1 23->5 23->2 24->16 24->9 25->9 25->18
+0: Tube
+1: Motor
+2: Tube
+3: Tube
+4: Propeller
+5: Tube
+6: Battery
+7: Motor
+8: Flange
+9: Hub4
+10: Fuselage
+11: Tube
+12: Tube
+13: Orient
+14: BatteryController
+15: Motor
+16: Flange
+17: Propeller
+18: Flange
+19: Propeller
+20: Battery
+21: Propeller
+22: Motor
+23: Flange
+24: Tube
+25: Tube

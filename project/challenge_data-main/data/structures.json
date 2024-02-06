@@ -1,0 +1,34 @@
+{
+    "Propeller_str_top": {
+        "Motor": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_4": "ANY",
+                "Propeller_instance_2": "ANY"
+            },
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": 1.0
+            }
+        },
+        "Flange": {
+            "CONNECTIONS": {
+                "Motor_instance_3": "ANY",
+                "Tube_instance_3": "SIDE-TOP",
+                "Tube_instance_8": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Flange__BOTTOM_ANGLE": 0.0,
+                "Flange__SIDE_ANGLE": 0.0
+            }
+        },
+        "Propeller": {
+            "CONNECTIONS": {
+                "Motor_instance_3": "ANY"
+            },
+            "PARAMETERS": {
+                "Propeller__Direction": -1.0,
+                "Propeller__Prop_type": -1.0
+            }
+        }
+    }
+}

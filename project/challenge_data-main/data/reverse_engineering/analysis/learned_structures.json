@@ -1,0 +1,14 @@
+{
+    "PROPELLER_STRUCTURE_1": {
+        "COMPONENTS": ["Motor", "Flange"]
+    },
+    "PROPELLER_STRUCTURE_2": {
+        "COMPONENTS": ["Motor", "BatteryController"]
+    },
+    "WING_STRUCTURE_1": {
+        "COMPONENTS": ["Tube", "Flange"]
+    },
+    "WING_STRUCTURE_2": {
+        "COMPONENTS":  ["Tube", "Hub3"]
+    }
+}

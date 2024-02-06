@@ -1,0 +1,69 @@
+{
+    "Battery": [
+        "TurnigyGraphene6000mAh6S75C",
+        "TurnigyGraphene1000mAh2S75C"
+    ],
+    "BatteryController": [
+        "BatteryController"
+    ],
+    "Cargo": [
+        "Cargo"
+    ],
+    "CargoCase": [
+        "CargoCase"
+    ],
+    "Flange": [
+        "0394_para_flange"
+    ],
+    "Fuselage": [
+        "capsule_fuselage"
+    ],
+    "Hub2": [
+        "0394od_para_hub_2"
+    ],
+    "Hub3": [
+        "0394od_para_hub_3"
+    ],
+    "Hub4": [
+        "0394od_para_hub_4"
+    ],
+    "Motor": [
+        "kde_direct_KDE2315XF_885",
+        "t_motor_AntigravityMN4006KV380",
+        "t_motor_AT2312KV1400",
+        "t_motor_AT4130KV300"
+    ],
+    "Orient": [
+        "Orient"
+    ],
+    "Propeller": [
+        "apc_propellers_7x5E",
+        "apc_propellers_12x3_8SF",
+        "apc_propellers_6x4E",
+        "apc_propellers_17x6"
+    ],
+    "SensorAutopilot": [
+        "Autopilot"
+    ],
+    "SensorCurrent": [
+        "Current"
+    ],
+    "SensorGPS": [
+        "GPS"
+    ],
+    "SensorRpmTemp": [
+        "RpmTemp"
+    ],
+    "SensorVariometer": [
+        "Variometer"
+    ],
+    "SensorVoltage": [
+        "Voltage"
+    ],
+    "Tube": [
+        "0394OD_para_tube"
+    ],
+    "Wing": [
+        "Wing_vert_hole"
+    ]
+}

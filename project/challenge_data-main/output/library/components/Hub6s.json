@@ -1,0 +1,45 @@
+{
+    "0394od_para_hub_6": {
+        "id": "0394od_para_hub_6",
+        "type": "Hub6",
+        "parameters": [
+            {
+                "name": "ANGVERTCONN",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "ANGHORZCONN",
+                "min": "55.0",
+                "max": "55.0",
+                "default": "60.0",
+                "learned": "60.0"
+            },
+            {
+                "name": "DIAMETER",
+                "min": "7.1374",
+                "max": "7.1374",
+                "default": "10.0076",
+                "learned": "10.0076"
+            }
+        ],
+        "properties": {
+            "NUMHORZCONN": 6.0,
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "Orient_Connector",
+            "Side_Connector_6",
+            "Side_Connector_4",
+            "Side_Connector_3",
+            "Side_Connector_2",
+            "Side_Connector_5",
+            "Bottom_Connector",
+            "Side_Connector_1",
+            "Center_Connector",
+            "Top_Connector"
+        ]
+    }
+}

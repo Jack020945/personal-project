@@ -1,0 +1,29 @@
+{
+    "BatteryController": {
+        "id": "BatteryController",
+        "type": "BatteryController",
+        "parameters": [
+            {
+                "name": "Input_Voltage",
+                "min": "110.0",
+                "max": "110.0",
+                "default": "1.0",
+                "learned": "1.0"
+            },
+            {
+                "name": "Output_Voltage",
+                "min": "110.0",
+                "max": "110.0",
+                "default": "1.0",
+                "learned": "1.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "BOTH"
+        },
+        "connectors": [
+            "MotorPower",
+            "BatteryPower"
+        ]
+    }
+}

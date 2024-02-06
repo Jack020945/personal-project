@@ -1,0 +1,160 @@
+{
+    "ABSTRACTION_LEVEL": 3,
+    "DESCRIPTION": "",
+    "NAME": "TestQuad",
+    "TOPOLOGY": {
+        "Propeller_str_top_instance_1": {
+            "CONNECTIONS": { 
+                "Tube_instance_1": "BOTTOM-BOTTOM",
+                "Tube_instance_5": "SIDE-TOP"
+            },
+            "PARAMETERS": {}
+        },
+        "Propeller_str_top_instance_2": {
+            "CONNECTIONS": {
+                "Tube_instance_4": "SIDE-TOP",
+                "Tube_instance_6": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {}
+        },
+        "Propeller_str_top_instance_3": {
+            "CONNECTIONS": {
+                "Tube_instance_2": "BOTTOM-BOTTOM",
+                "Tube_instance_7": "SIDE-TOP"
+            },
+            "PARAMETERS": {}
+        },
+        "Propeller_str_top_instance_4": {
+            "CONNECTIONS": {
+                "Tube_instance_3": "SIDE-TOP",
+                "Tube_instance_8": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {}
+        },
+        "BatteryController_instance_1": {
+            "CONNECTIONS": {
+                "Battery_UAV_instance_1": "ANY",
+                "Battery_UAV_instance_2": "ANY",
+                "Propeller_str_top_instance_1": "ANY",
+                "Propeller_str_top_instance_2": "ANY",
+                "Propeller_str_top_instance_3": "ANY",
+                "Propeller_str_top_instance_4": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Battery_UAV_instance_1": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "Battery_UAV_instance_2": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "ControlBox_instance_1": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "Hub4_instance_1": {
+            "CONNECTIONS": {
+                "Orient": "ANY",
+                "Tube_instance_3": "SIDE1-BOTTOM",
+                "Tube_instance_4": "SIDE4-BOTTOM",
+                "Tube_instance_5": "SIDE3-BOTTOM",
+                "Tube_instance_7": "SIDE2-BOTTOM"
+            },
+            "PARAMETERS": {}
+        },
+        "Orient": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {
+                "Orient__Z_ANGLE": 45.0
+            }
+        },
+        "Tube_instance_1": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_1": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 95.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_2": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_3": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 95.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_3": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_4": "TOP-SIDE"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_4": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_2": "TOP-SIDE"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_5": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_1": "TOP-SIDE"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_6": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_2": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 95.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_7": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_3": "TOP-SIDE"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_8": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_4": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__Length": 95.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "capsule_fuselage_instance_1": {
+            "CONNECTIONS": {
+                "Battery_UAV_instance_1": "INSIDE-1",
+                "Battery_UAV_instance_2": "INSIDE-2",
+                "Hub4_instance_1": "BOTTOM"
+            },
+            "PARAMETERS": {
+                "capsule_fuselage__BOTTOM_CONNECTOR_ROTATION": 45.0,
+                "capsule_fuselage__FLOOR_HEIGHT": 20.0,
+                "capsule_fuselage__HORZ_DIAMETER": 145.0,
+                "capsule_fuselage__TUBE_LENGTH": 100.0,
+                "capsule_fuselage__VERT_DIAMETER": 90.0
+            }
+        }
+    }
+}

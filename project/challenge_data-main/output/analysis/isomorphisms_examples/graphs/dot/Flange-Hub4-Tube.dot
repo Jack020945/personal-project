@@ -1,0 +1,128 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Tube_instance_1
+    label=Tube
+  ];
+  1 [
+    instance=Tube_instance_2
+    label=Tube
+  ];
+  2 [
+    instance=Tube_instance_3
+    label=Tube
+  ];
+  3 [
+    instance=Tube_instance_4
+    label=Tube
+  ];
+  4 [
+    instance=Flange_instance_1
+    label=Flange
+  ];
+  5 [
+    instance=Hub4_instance_1
+    label=Hub4
+  ];
+  6 [
+    instance=Tube_instance_5
+    label=Tube
+  ];
+  7 [
+    instance=Tube_instance_6
+    label=Tube
+  ];
+  8 [
+    instance=Flange_instance_2
+    label=Flange
+  ];
+  9 [
+    instance=Flange_instance_3
+    label=Flange
+  ];
+  10 [
+    instance=Flange_instance_4
+    label=Flange
+  ];
+  11 [
+    instance=Tube_instance_7
+    label=Tube
+  ];
+  12 [
+    instance=Tube_instance_8
+    label=Tube
+  ];
+
+  0 -> 8 [
+    label="BOTTOM-BOTTOM"
+  ];
+  1 -> 5 [
+    label="SIDE1-BOTTOM"
+  ];
+  1 -> 10 [
+    label="TOP-SIDE"
+  ];
+  2 -> 9 [
+    label="BOTTOM-BOTTOM"
+  ];
+  3 -> 10 [
+    label="BOTTOM-BOTTOM"
+  ];
+  4 -> 6 [
+    label="BOTTOM-BOTTOM"
+  ];
+  4 -> 7 [
+    label="SIDE-TOP"
+  ];
+  5 -> 1 [
+    label="BOTTOM-SIDE1"
+  ];
+  5 -> 7 [
+    label="BOTTOM-SIDE2"
+  ];
+  5 -> 11 [
+    label="BOTTOM-SIDE4"
+  ];
+  5 -> 12 [
+    label="BOTTOM-SIDE3"
+  ];
+  6 -> 4 [
+    label="BOTTOM-BOTTOM"
+  ];
+  7 -> 4 [
+    label="TOP-SIDE"
+  ];
+  7 -> 5 [
+    label="SIDE2-BOTTOM"
+  ];
+  8 -> 0 [
+    label="BOTTOM-BOTTOM"
+  ];
+  8 -> 11 [
+    label="SIDE-TOP"
+  ];
+  9 -> 2 [
+    label="BOTTOM-BOTTOM"
+  ];
+  9 -> 12 [
+    label="SIDE-TOP"
+  ];
+  10 -> 1 [
+    label="SIDE-TOP"
+  ];
+  10 -> 3 [
+    label="BOTTOM-BOTTOM"
+  ];
+  11 -> 5 [
+    label="SIDE4-BOTTOM"
+  ];
+  11 -> 8 [
+    label="TOP-SIDE"
+  ];
+  12 -> 5 [
+    label="SIDE3-BOTTOM"
+  ];
+  12 -> 9 [
+    label="TOP-SIDE"
+  ];
+}

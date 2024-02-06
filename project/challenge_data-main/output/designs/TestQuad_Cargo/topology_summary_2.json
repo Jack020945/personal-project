@@ -1,0 +1,342 @@
+{
+    "ABSTRACTION_LEVEL": 2,
+    "DESCRIPTION": "",
+    "NAME": "TestQuad_Cargo",
+    "TOPOLOGY": {
+        "BatteryController_instance_1": {
+            "CONNECTIONS": {
+                "Battery_instance_1": "ANY",
+                "Battery_instance_2": "ANY",
+                "Motor_instance_1": "ANY",
+                "Motor_instance_2": "ANY",
+                "Motor_instance_3": "ANY",
+                "Motor_instance_4": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Battery_instance_1": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Fuselage_instance_1": "BOTTOM-2"
+            },
+            "PARAMETERS": {}
+        },
+        "Battery_instance_2": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Fuselage_instance_1": "BOTTOM-1"
+            },
+            "PARAMETERS": {}
+        },
+        "CargoCase_instance_1": {
+            "CONNECTIONS": {
+                "Cargo_instance_1": "ANY",
+                "Hub4_instance_1": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Cargo_instance_1": {
+            "CONNECTIONS": {
+                "CargoCase_instance_1": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Flange_instance_1": {
+            "CONNECTIONS": {
+                "Motor_instance_3": "ANY",
+                "Tube_instance_5": "BOTTOM-BOTTOM",
+                "Tube_instance_8": "SIDE-TOP"
+            },
+            "PARAMETERS": {
+                "Flange__BOTTOM_ANGLE": 0.0
+            }
+        },
+        "Flange_instance_2": {
+            "CONNECTIONS": {
+                "Motor_instance_1": "ANY",
+                "Tube_instance_6": "SIDE-TOP",
+                "Tube_instance_7": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Flange__BOTTOM_ANGLE": 0.0
+            }
+        },
+        "Flange_instance_3": {
+            "CONNECTIONS": {
+                "Motor_instance_4": "ANY",
+                "Tube_instance_2": "SIDE-TOP",
+                "Tube_instance_4": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Flange__BOTTOM_ANGLE": 0.0
+            }
+        },
+        "Flange_instance_4": {
+            "CONNECTIONS": {
+                "Motor_instance_2": "ANY",
+                "Tube_instance_1": "SIDE-TOP",
+                "Tube_instance_3": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Flange__BOTTOM_ANGLE": 0.0
+            }
+        },
+        "Fuselage_instance_1": {
+            "CONNECTIONS": {
+                "Battery_instance_1": "INSIDE-2",
+                "Battery_instance_2": "INSIDE-1",
+                "Hub4_instance_1": "BOTTOM",
+                "SensorAutopilot_instance_1": "ANY",
+                "SensorCurrent_instance_1": "ANY",
+                "SensorGPS_instance_1": "ANY",
+                "SensorRpmTemp_instance_1": "ANY",
+                "SensorVariometer_instance_1": "ANY",
+                "SensorVoltage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "Fuselage__BOTTOM_CONNECTOR_ROTATION": 45.0,
+                "Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH": 30.0,
+                "Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH": -30.0,
+                "Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH": -160.0,
+                "Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH": 13.0,
+                "Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH": -160.0,
+                "Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH": -18.0,
+                "Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH": 115.0,
+                "Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH": 155.0,
+                "Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH": 18.0,
+                "Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH": -120.0,
+                "Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH": 155.0,
+                "Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH": -18.0,
+                "Fuselage__FUSE_CYL_LENGTH": 270.0,
+                "Fuselage__HORZ_DIAMETER": 190.0,
+                "Fuselage__VERT_DIAMETER": 125.0
+            }
+        },
+        "Hub4_instance_1": {
+            "CONNECTIONS": {
+                "CargoCase_instance_1": "ANY",
+                "Fuselage_instance_1": "TOP",
+                "Orient": "ANY",
+                "Tube_instance_1": "BOTTOM-SIDE4",
+                "Tube_instance_2": "BOTTOM-SIDE1",
+                "Tube_instance_6": "BOTTOM-SIDE3",
+                "Tube_instance_8": "BOTTOM-SIDE2"
+            },
+            "PARAMETERS": {}
+        },
+        "Motor_instance_1": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_2": "ANY",
+                "Propeller_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": 4.0
+            }
+        },
+        "Motor_instance_2": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_4": "ANY",
+                "Propeller_instance_2": "ANY"
+            },
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": 3.0
+            }
+        },
+        "Motor_instance_3": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_1": "ANY",
+                "Propeller_instance_4": "ANY"
+            },
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": 2.0
+            }
+        },
+        "Motor_instance_4": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_3": "ANY",
+                "Propeller_instance_3": "ANY"
+            },
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": 1.0
+            }
+        },
+        "Orient": {
+            "CONNECTIONS": {
+                "Hub4_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "Orient__Z_ANGLE": 45.0
+            }
+        },
+        "Propeller_instance_1": {
+            "CONNECTIONS": {
+                "Motor_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "Propeller__Direction": 1.0,
+                "Propeller__Prop_type": 1.0
+            }
+        },
+        "Propeller_instance_2": {
+            "CONNECTIONS": {
+                "Motor_instance_2": "ANY"
+            },
+            "PARAMETERS": {
+                "Propeller__Direction": -1.0,
+                "Propeller__Prop_type": -1.0
+            }
+        },
+        "Propeller_instance_3": {
+            "CONNECTIONS": {
+                "Motor_instance_4": "ANY"
+            },
+            "PARAMETERS": {
+                "Propeller__Direction": -1.0,
+                "Propeller__Prop_type": -1.0
+            }
+        },
+        "Propeller_instance_4": {
+            "CONNECTIONS": {
+                "Motor_instance_3": "ANY"
+            },
+            "PARAMETERS": {
+                "Propeller__Direction": 1.0,
+                "Propeller__Prop_type": 1.0
+            }
+        },
+        "SensorAutopilot_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "SensorAutopilot__ROTATION": 90.0
+            }
+        },
+        "SensorCurrent_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "SensorCurrent__ROTATION": 90.0
+            }
+        },
+        "SensorGPS_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "SensorRpmTemp_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "SensorRpmTemp__ROTATION": 90.0
+            }
+        },
+        "SensorVariometer_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "SensorVariometer__ROTATION": 90.0
+            }
+        },
+        "SensorVoltage_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "SensorVoltage__ROTATION": 90.0
+            }
+        },
+        "Tube_instance_1": {
+            "CONNECTIONS": {
+                "Flange_instance_4": "TOP-SIDE",
+                "Hub4_instance_1": "SIDE4-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 400.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_2": {
+            "CONNECTIONS": {
+                "Flange_instance_3": "TOP-SIDE",
+                "Hub4_instance_1": "SIDE1-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 400.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_3": {
+            "CONNECTIONS": {
+                "Flange_instance_4": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 170.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_4": {
+            "CONNECTIONS": {
+                "Flange_instance_3": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 170.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_5": {
+            "CONNECTIONS": {
+                "Flange_instance_1": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 170.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_6": {
+            "CONNECTIONS": {
+                "Flange_instance_2": "TOP-SIDE",
+                "Hub4_instance_1": "SIDE3-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 400.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_7": {
+            "CONNECTIONS": {
+                "Flange_instance_2": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 170.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_8": {
+            "CONNECTIONS": {
+                "Flange_instance_1": "TOP-SIDE",
+                "Hub4_instance_1": "SIDE2-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 400.0,
+                "Tube__Offset1": 0.0
+            }
+        }
+    }
+}

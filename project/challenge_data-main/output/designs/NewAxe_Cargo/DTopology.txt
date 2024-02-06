@@ -1,0 +1,233 @@
+TOPOLOGY SUMMARY
+
+0 (Hub3) (5 items):
+	Tube
+	Fuselage
+	Tube
+	CargoCase
+	Orient
+1 (Cargo) (1 items):
+	CargoCase
+2 (Hub3) (4 items):
+	Tube
+	Tube
+	Tube
+	Tube
+3 (Tube) (2 items):
+	Hub3
+	Hub3
+4 (Wing) (1 items):
+	Tube
+5 (Tube) (1 items):
+	Flange
+6 (Battery) (2 items):
+	Fuselage
+	BatteryController
+7 (Hub3) (3 items):
+	Tube
+	Tube
+	Tube
+8 (Hub3) (3 items):
+	Tube
+	Tube
+	Tube
+9 (Fuselage) (9 items):
+	Hub3
+	Battery
+	SensorCurrent
+	SensorVoltage
+	Battery
+	SensorGPS
+	SensorVariometer
+	SensorAutopilot
+	SensorRpmTemp
+10 (Propeller) (1 items):
+	Motor
+11 (Motor) (3 items):
+	BatteryController
+	Propeller
+	Flange
+12 (Tube) (2 items):
+	Hub3
+	Hub3
+13 (Tube) (2 items):
+	Hub3
+	Flange
+14 (Flange) (3 items):
+	Tube
+	Motor
+	Tube
+15 (Orient) (1 items):
+	Hub3
+16 (Tube) (2 items):
+	Flange
+	Wing
+17 (Tube) (3 items):
+	Wing
+	Hub3
+	Flange
+18 (SensorVoltage) (1 items):
+	Fuselage
+19 (Tube) (3 items):
+	Wing
+	Flange
+	Hub3
+20 (Flange) (3 items):
+	Tube
+	Motor
+	Tube
+21 (Tube) (2 items):
+	Hub3
+	Wing
+22 (Flange) (3 items):
+	Tube
+	Motor
+	Tube
+23 (Wing) (1 items):
+	Tube
+24 (Tube) (2 items):
+	Hub3
+	Hub3
+25 (SensorGPS) (1 items):
+	Fuselage
+26 (Wing) (1 items):
+	Tube
+27 (Tube) (1 items):
+	Flange
+28 (SensorVariometer) (1 items):
+	Fuselage
+29 (SensorAutopilot) (1 items):
+	Fuselage
+30 (Motor) (3 items):
+	Propeller
+	BatteryController
+	Flange
+31 (SensorRpmTemp) (1 items):
+	Fuselage
+32 (Tube) (1 items):
+	Hub3
+33 (Propeller) (1 items):
+	Motor
+34 (BatteryController) (6 items):
+	Battery
+	Motor
+	Motor
+	Motor
+	Battery
+	Motor
+35 (Tube) (2 items):
+	Wing
+	Flange
+36 (Tube) (1 items):
+	Hub3
+37 (Propeller) (1 items):
+	Motor
+38 (Tube) (2 items):
+	Flange
+	Hub3
+39 (Tube) (2 items):
+	Wing
+	Hub3
+40 (Propeller) (1 items):
+	Motor
+41 (Tube) (2 items):
+	Hub3
+	Hub3
+42 (Wing) (1 items):
+	Tube
+43 (Wing) (1 items):
+	Tube
+44 (Flange) (3 items):
+	Tube
+	Tube
+	Motor
+45 (Hub3) (4 items):
+	Tube
+	Tube
+	Tube
+	Tube
+46 (CargoCase) (2 items):
+	Hub3
+	Cargo
+47 (SensorCurrent) (1 items):
+	Fuselage
+48 (Motor) (3 items):
+	BatteryController
+	Propeller
+	Flange
+49 (Wing) (1 items):
+	Tube
+50 (Motor) (3 items):
+	Propeller
+	BatteryController
+	Flange
+51 (Battery) (2 items):
+	Fuselage
+	BatteryController
+
+
+GRAPHIGRAPH D--- 52 112 --
++ attr: c_type (v), label (v), connection (e), label (e)
++ edges:
+0->9 0->15 0->46 0->41 0->3 1->46 2->21 2->36 2->17 2->12 3->7 3->0 4->21
+5->22 6->9 6->34 7->3 7->12 7->38 8->41 8->24 8->13 9->0 9->28 9->25 9->51
+9->6 9->29 9->18 9->31 9->47 10->48 11->37 11->22 11->34 12->7 12->2 13->8
+13->14 14->13 14->16 14->48 15->0 16->23 16->14 17->49 17->22 17->2 18->9
+19->20 19->45 19->26 20->27 20->19 20->50 21->2 21->4 22->17 22->11 22->5
+23->16 24->45 24->8 25->9 26->19 27->20 28->9 29->9 30->40 30->34 30->44 31->9
+32->45 33->50 34->48 34->51 34->30 34->11 34->50 34->6 35->44 35->43 36->2
+37->11 38->44 38->7 39->45 39->42 40->30 41->8 41->0 42->39 43->35 44->30
+44->35 44->38 45->24 45->39 45->19 45->32 46->0 46->1 47->9 48->34 48->14
+48->10 49->17 50->34 50->33 50->20 51->9 51->34
+0: Hub3
+1: Cargo
+2: Hub3
+3: Tube
+4: Wing
+5: Tube
+6: Battery
+7: Hub3
+8: Hub3
+9: Fuselage
+10: Propeller
+11: Motor
+12: Tube
+13: Tube
+14: Flange
+15: Orient
+16: Tube
+17: Tube
+18: SensorVoltage
+19: Tube
+20: Flange
+21: Tube
+22: Flange
+23: Wing
+24: Tube
+25: SensorGPS
+26: Wing
+27: Tube
+28: SensorVariometer
+29: SensorAutopilot
+30: Motor
+31: SensorRpmTemp
+32: Tube
+33: Propeller
+34: BatteryController
+35: Tube
+36: Tube
+37: Propeller
+38: Tube
+39: Tube
+40: Propeller
+41: Tube
+42: Wing
+43: Wing
+44: Flange
+45: Hub3
+46: CargoCase
+47: SensorCurrent
+48: Motor
+49: Wing
+50: Motor
+51: Battery

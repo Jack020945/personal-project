@@ -1,0 +1,928 @@
+{
+    "Battery": {
+        "BatteryController": {
+            "ANY": [
+                "Battery__PowerBus",
+                "BatteryController__BatteryPower"
+            ]
+        },
+        "Fuselage": {
+            "BOTTOM-1": [
+                "Battery__Bottom_Connector",
+                "Fuselage__FloorConnector1"
+            ],
+            "BOTTOM-2": [
+                "Battery__Bottom_Connector",
+                "Fuselage__FloorConnector2"
+            ]
+        }
+    },
+    "BatteryController": {
+        "Battery": {
+            "ANY": [
+                "BatteryController__BatteryPower",
+                "Battery__PowerBus"
+            ]
+        },
+        "Motor": {
+            "ANY": [
+                "BatteryController__MotorPower",
+                "Motor__MotorPower"
+            ]
+        }
+    },
+    "Cargo": {
+        "CargoCase": {
+            "ANY": [
+                "Cargo__CargoConnector",
+                "CargoCase__CargoConnector"
+            ]
+        }
+    },
+    "CargoCase": {
+        "Cargo": {
+            "ANY": [
+                "CargoCase__CargoConnector",
+                "Cargo__CargoConnector"
+            ]
+        },
+        "Hub3": {
+            "ANY": [
+                "CargoCase__Case2HubConnector",
+                "Hub3__Bottom_Connector"
+            ]
+        },
+        "Hub4": {
+            "ANY": [
+                "CargoCase__Case2HubConnector",
+                "Hub4__Bottom_Connector"
+            ]
+        }
+    },
+    "Flange": {
+        "Motor": {
+            "ANY": [
+                "Flange__TopConnector",
+                "Motor__Base_Connector"
+            ]
+        },
+        "Tube": {
+            "BOTTOM-BOTTOM": [
+                "Flange__BottomConnector",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-TOP": [
+                "Flange__BottomConnector",
+                "Tube__EndConnection"
+            ],
+            "SIDE-BOTTOM": [
+                "Flange__SideConnector",
+                "Tube__BaseConnection"
+            ],
+            "SIDE-TOP": [
+                "Flange__SideConnector",
+                "Tube__EndConnection"
+            ]
+        }
+    },
+    "Fuselage": {
+        "Battery": {
+            "INSIDE-1": [
+                "Fuselage__FloorConnector1",
+                "Battery__Bottom_Connector"
+            ],
+            "INSIDE-2": [
+                "Fuselage__FloorConnector2",
+                "Battery__Bottom_Connector"
+            ]
+        },
+        "Hub2": {
+            "BOTTOM": [
+                "Fuselage__BottomConnector",
+                "Hub2__Top_Connector"
+            ]
+        },
+        "Hub3": {
+            "BOTTOM": [
+                "Fuselage__BottomConnector",
+                "Hub3__Top_Connector"
+            ]
+        },
+        "Hub4": {
+            "BOTTOM": [
+                "Fuselage__BottomConnector",
+                "Hub4__Top_Connector"
+            ]
+        },
+        "Hub5": {
+            "BOTTOM": [
+                "Fuselage__BottomConnector",
+                "Hub5__Top_Connector"
+            ]
+        },
+        "Hub6": {
+            "BOTTOM": [
+                "Fuselage__BottomConnector",
+                "Hub6__Top_Connector"
+            ]
+        },
+        "SensorAutopilot": {
+            "ANY": [
+                "Fuselage__FloorConnector5",
+                "SensorAutopilot__SensorConnector"
+            ]
+        },
+        "SensorCurrent": {
+            "ANY": [
+                "Fuselage__FloorConnector4",
+                "SensorCurrent__SensorConnector"
+            ]
+        },
+        "SensorGPS": {
+            "ANY": [
+                "Fuselage__FloorConnector7",
+                "SensorGPS__SensorConnector"
+            ]
+        },
+        "SensorRpmTemp": {
+            "ANY": [
+                "Fuselage__FloorConnector3",
+                "SensorRpmTemp__SensorConnector"
+            ]
+        },
+        "SensorVariometer": {
+            "ANY": [
+                "Fuselage__FloorConnector8",
+                "SensorVariometer__SensorConnector"
+            ]
+        },
+        "SensorVoltage": {
+            "ANY": [
+                "Fuselage__FloorConnector6",
+                "SensorVoltage__SensorConnector"
+            ]
+        }
+    },
+    "Hub2": {
+        "Fuselage": {
+            "TOP": [
+                "Hub2__Top_Connector",
+                "Fuselage__BottomConnector"
+            ]
+        },
+        "Orient": {
+            "ANY": [
+                "Hub2__Orient_Connector",
+                "Orient__ORIENTCONN"
+            ]
+        },
+        "Tube": {
+            "BOTTOM-CENTER": [
+                "Hub2__Center_Connector",
+                "Tube__EndConnection"
+            ],
+            "BOTTOM-SIDE1": [
+                "Hub2__Side_Connector_1",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE2": [
+                "Hub2__Side_Connector_2",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-TOP": [
+                "Hub2__Top_Connector",
+                "Tube__EndConnection"
+            ],
+            "TOP-CENTER": [
+                "Hub2__Center_Connector",
+                "Tube__BaseConnection"
+            ],
+            "TOP-SIDE1": [
+                "Hub2__Side_Connector_1",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE2": [
+                "Hub2__Side_Connector_2",
+                "Tube__EndConnection"
+            ],
+            "TOP-TOP": [
+                "Hub2__Top_Connector",
+                "Tube__BaseConnection"
+            ]
+        }
+    },
+    "Hub3": {
+        "CargoCase": {
+            "ANY": [
+                "Hub3__Bottom_Connector",
+                "CargoCase__Case2HubConnector"
+            ]
+        },
+        "Fuselage": {
+            "TOP": [
+                "Hub3__Top_Connector",
+                "Fuselage__BottomConnector"
+            ]
+        },
+        "Orient": {
+            "ANY": [
+                "Hub3__Orient_Connector",
+                "Orient__ORIENTCONN"
+            ]
+        },
+        "Tube": {
+            "BOTTOM-CENTER": [
+                "Hub3__Center_Connector",
+                "Tube__EndConnection"
+            ],
+            "BOTTOM-SIDE1": [
+                "Hub3__Side_Connector_1",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE2": [
+                "Hub3__Side_Connector_2",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE3": [
+                "Hub3__Side_Connector_3",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-TOP": [
+                "Hub3__Top_Connector",
+                "Tube__EndConnection"
+            ],
+            "TOP-CENTER": [
+                "Hub3__Center_Connector",
+                "Tube__BaseConnection"
+            ],
+            "TOP-SIDE1": [
+                "Hub3__Side_Connector_1",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE2": [
+                "Hub3__Side_Connector_2",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE3": [
+                "Hub3__Side_Connector_3",
+                "Tube__EndConnection"
+            ],
+            "TOP-TOP": [
+                "Hub3__Top_Connector",
+                "Tube__BaseConnection"
+            ]
+        }
+    },
+    "Hub4": {
+        "CargoCase": {
+            "ANY": [
+                "Hub4__Bottom_Connector",
+                "CargoCase__Case2HubConnector"
+            ]
+        },
+        "Fuselage": {
+            "TOP": [
+                "Hub4__Top_Connector",
+                "Fuselage__BottomConnector"
+            ]
+        },
+        "Orient": {
+            "ANY": [
+                "Hub4__Orient_Connector",
+                "Orient__ORIENTCONN"
+            ]
+        },
+        "Tube": {
+            "BOTTOM-CENTER": [
+                "Hub4__Center_Connector",
+                "Tube__EndConnection"
+            ],
+            "BOTTOM-SIDE1": [
+                "Hub4__Side_Connector_1",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE2": [
+                "Hub4__Side_Connector_2",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE3": [
+                "Hub4__Side_Connector_3",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE4": [
+                "Hub4__Side_Connector_4",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-TOP": [
+                "Hub4__Top_Connector",
+                "Tube__EndConnection"
+            ],
+            "TOP-CENTER": [
+                "Hub4__Center_Connector",
+                "Tube__BaseConnection"
+            ],
+            "TOP-SIDE1": [
+                "Hub4__Side_Connector_1",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE2": [
+                "Hub4__Side_Connector_2",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE3": [
+                "Hub4__Side_Connector_3",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE4": [
+                "Hub4__Side_Connector_4",
+                "Tube__EndConnection"
+            ],
+            "TOP-TOP": [
+                "Hub4__Top_Connector",
+                "Tube__BaseConnection"
+            ]
+        }
+    },
+    "Hub5": {
+        "Fuselage": {
+            "TOP": [
+                "Hub5__Top_Connector",
+                "Fuselage__BottomConnector"
+            ]
+        },
+        "Orient": {
+            "ANY": [
+                "Hub5__Orient_Connector",
+                "Orient__ORIENTCONN"
+            ]
+        },
+        "Tube": {
+            "BOTTOM-CENTER": [
+                "Hub5__Center_Connector",
+                "Tube__EndConnection"
+            ],
+            "BOTTOM-SIDE1": [
+                "Hub5__Side_Connector_1",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE2": [
+                "Hub5__Side_Connector_2",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE3": [
+                "Hub5__Side_Connector_3",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE4": [
+                "Hub5__Side_Connector_4",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE5": [
+                "Hub5__Side_Connector_5",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-TOP": [
+                "Hub5__Top_Connector",
+                "Tube__EndConnection"
+            ],
+            "TOP-CENTER": [
+                "Hub5__Center_Connector",
+                "Tube__BaseConnection"
+            ],
+            "TOP-SIDE1": [
+                "Hub5__Side_Connector_1",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE2": [
+                "Hub5__Side_Connector_2",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE3": [
+                "Hub5__Side_Connector_3",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE4": [
+                "Hub5__Side_Connector_4",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE5": [
+                "Hub5__Side_Connector_5",
+                "Tube__EndConnection"
+            ],
+            "TOP-TOP": [
+                "Hub5__Top_Connector",
+                "Tube__BaseConnection"
+            ]
+        }
+    },
+    "Hub6": {
+        "Fuselage": {
+            "TOP": [
+                "Hub6__Top_Connector",
+                "Fuselage__BottomConnector"
+            ]
+        },
+        "Orient": {
+            "ANY": [
+                "Hub6__Orient_Connector",
+                "Orient__ORIENTCONN"
+            ]
+        },
+        "Tube": {
+            "BOTTOM-CENTER": [
+                "Hub6__Center_Connector",
+                "Tube__EndConnection"
+            ],
+            "BOTTOM-SIDE1": [
+                "Hub6__Side_Connector_1",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE2": [
+                "Hub6__Side_Connector_2",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE3": [
+                "Hub6__Side_Connector_3",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE4": [
+                "Hub6__Side_Connector_4",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE5": [
+                "Hub6__Side_Connector_5",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-SIDE6": [
+                "Hub6__Side_Connector_6",
+                "Tube__BaseConnection"
+            ],
+            "BOTTOM-TOP": [
+                "Hub6__Top_Connector",
+                "Tube__EndConnection"
+            ],
+            "TOP-CENTER": [
+                "Hub6__Center_Connector",
+                "Tube__BaseConnection"
+            ],
+            "TOP-SIDE1": [
+                "Hub6__Side_Connector_1",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE2": [
+                "Hub6__Side_Connector_2",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE3": [
+                "Hub6__Side_Connector_3",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE4": [
+                "Hub6__Side_Connector_4",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE5": [
+                "Hub6__Side_Connector_5",
+                "Tube__EndConnection"
+            ],
+            "TOP-SIDE6": [
+                "Hub6__Side_Connector_6",
+                "Tube__EndConnection"
+            ],
+            "TOP-TOP": [
+                "Hub6__Top_Connector",
+                "Tube__BaseConnection"
+            ]
+        }
+    },
+    "Motor": {
+        "BatteryController": {
+            "ANY": [
+                "Motor__MotorPower",
+                "BatteryController__MotorPower"
+            ]
+        },
+        "Flange": {
+            "ANY": [
+                "Motor__Base_Connector",
+                "Flange__TopConnector"
+            ]
+        },
+        "Propeller": {
+            "ANY": [
+                "Motor__Prop_Connector",
+                "Propeller__MOTOR_CONNECTOR_CS_IN"
+            ]
+        }
+    },
+    "Orient": {
+        "Hub2": {
+            "ANY": [
+                "Orient__ORIENTCONN",
+                "Hub2__Orient_Connector"
+            ]
+        },
+        "Hub3": {
+            "ANY": [
+                "Orient__ORIENTCONN",
+                "Hub3__Orient_Connector"
+            ]
+        },
+        "Hub4": {
+            "ANY": [
+                "Orient__ORIENTCONN",
+                "Hub4__Orient_Connector"
+            ]
+        },
+        "Hub5": {
+            "ANY": [
+                "Orient__ORIENTCONN",
+                "Hub5__Orient_Connector"
+            ]
+        },
+        "Hub6": {
+            "ANY": [
+                "Orient__ORIENTCONN",
+                "Hub6__Orient_Connector"
+            ]
+        }
+    },
+    "Propeller": {
+        "Motor": {
+            "ANY": [
+                "Propeller__MOTOR_CONNECTOR_CS_IN",
+                "Motor__Prop_Connector"
+            ]
+        }
+    },
+    "SensorAutopilot": {
+        "Fuselage": {
+            "ANY": [
+                "SensorAutopilot__SensorConnector",
+                "Fuselage__FloorConnector5"
+            ]
+        }
+    },
+    "SensorCurrent": {
+        "Fuselage": {
+            "ANY": [
+                "SensorCurrent__SensorConnector",
+                "Fuselage__FloorConnector4"
+            ]
+        }
+    },
+    "SensorGPS": {
+        "Fuselage": {
+            "ANY": [
+                "SensorGPS__SensorConnector",
+                "Fuselage__FloorConnector7"
+            ]
+        }
+    },
+    "SensorRpmTemp": {
+        "Fuselage": {
+            "ANY": [
+                "SensorRpmTemp__SensorConnector",
+                "Fuselage__FloorConnector3"
+            ]
+        }
+    },
+    "SensorVariometer": {
+        "Fuselage": {
+            "ANY": [
+                "SensorVariometer__SensorConnector",
+                "Fuselage__FloorConnector8"
+            ]
+        }
+    },
+    "SensorVoltage": {
+        "Fuselage": {
+            "ANY": [
+                "SensorVoltage__SensorConnector",
+                "Fuselage__FloorConnector6"
+            ]
+        }
+    },
+    "Servo": {
+        "Wing": {
+            "ANY": [
+                "Servo__Connector",
+                "Wing__Wing_Servo_Connector"
+            ]
+        }
+    },
+    "Tube": {
+        "Flange": {
+            "BOTTOM-BOTTOM": [
+                "Tube__BaseConnection",
+                "Flange__BottomConnector"
+            ],
+            "BOTTOM-SIDE": [
+                "Tube__BaseConnection",
+                "Flange__SideConnector"
+            ],
+            "TOP-BOTTOM": [
+                "Tube__EndConnection",
+                "Flange__BottomConnector"
+            ],
+            "TOP-SIDE": [
+                "Tube__EndConnection",
+                "Flange__SideConnector"
+            ]
+        },
+        "Hub2": {
+            "CENTER-BOTTOM": [
+                "Tube__EndConnection",
+                "Hub2__Center_Connector"
+            ],
+            "CENTER-TOP": [
+                "Tube__BaseConnection",
+                "Hub2__Center_Connector"
+            ],
+            "SIDE1-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub2__Side_Connector_1"
+            ],
+            "SIDE1-TOP": [
+                "Tube__EndConnection",
+                "Hub2__Side_Connector_1"
+            ],
+            "SIDE2-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub2__Side_Connector_2"
+            ],
+            "SIDE2-TOP": [
+                "Tube__EndConnection",
+                "Hub2__Side_Connector_2"
+            ],
+            "TOP-BOTTOM": [
+                "Tube__EndConnection",
+                "Hub2__Top_Connector"
+            ],
+            "TP{-TOP": [
+                "Tube__BaseConnection",
+                "Hub2__Top_Connector"
+            ]
+        },
+        "Hub3": {
+            "CENTER-BOTTOM": [
+                "Tube__EndConnection",
+                "Hub3__Center_Connector"
+            ],
+            "CENTER-TOP": [
+                "Tube__BaseConnection",
+                "Hub3__Center_Connector"
+            ],
+            "SIDE1-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub3__Side_Connector_1"
+            ],
+            "SIDE1-TOP": [
+                "Tube__EndConnection",
+                "Hub3__Side_Connector_1"
+            ],
+            "SIDE2-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub3__Side_Connector_2"
+            ],
+            "SIDE2-TOP": [
+                "Tube__EndConnection",
+                "Hub3__Side_Connector_2"
+            ],
+            "SIDE3-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub3__Side_Connector_3"
+            ],
+            "SIDE3-TOP": [
+                "Tube__EndConnection",
+                "Hub3__Side_Connector_3"
+            ],
+            "TOP-BOTTOM": [
+                "Tube__EndConnection",
+                "Hub3__Top_Connector"
+            ],
+            "TP{-TOP": [
+                "Tube__BaseConnection",
+                "Hub3__Top_Connector"
+            ]
+        },
+        "Hub4": {
+            "CENTER-BOTTOM": [
+                "Tube__EndConnection",
+                "Hub4__Center_Connector"
+            ],
+            "CENTER-TOP": [
+                "Tube__BaseConnection",
+                "Hub4__Center_Connector"
+            ],
+            "SIDE1-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub4__Side_Connector_1"
+            ],
+            "SIDE1-TOP": [
+                "Tube__EndConnection",
+                "Hub4__Side_Connector_1"
+            ],
+            "SIDE2-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub4__Side_Connector_2"
+            ],
+            "SIDE2-TOP": [
+                "Tube__EndConnection",
+                "Hub4__Side_Connector_2"
+            ],
+            "SIDE3-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub4__Side_Connector_3"
+            ],
+            "SIDE3-TOP": [
+                "Tube__EndConnection",
+                "Hub4__Side_Connector_3"
+            ],
+            "SIDE4-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub4__Side_Connector_4"
+            ],
+            "SIDE4-TOP": [
+                "Tube__EndConnection",
+                "Hub4__Side_Connector_4"
+            ],
+            "TOP-BOTTOM": [
+                "Tube__EndConnection",
+                "Hub4__Top_Connector"
+            ],
+            "TP{-TOP": [
+                "Tube__BaseConnection",
+                "Hub4__Top_Connector"
+            ]
+        },
+        "Hub5": {
+            "CENTER-BOTTOM": [
+                "Tube__EndConnection",
+                "Hub5__Center_Connector"
+            ],
+            "CENTER-TOP": [
+                "Tube__BaseConnection",
+                "Hub5__Center_Connector"
+            ],
+            "SIDE1-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub5__Side_Connector_1"
+            ],
+            "SIDE1-TOP": [
+                "Tube__EndConnection",
+                "Hub5__Side_Connector_1"
+            ],
+            "SIDE2-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub5__Side_Connector_2"
+            ],
+            "SIDE2-TOP": [
+                "Tube__EndConnection",
+                "Hub5__Side_Connector_2"
+            ],
+            "SIDE3-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub5__Side_Connector_3"
+            ],
+            "SIDE3-TOP": [
+                "Tube__EndConnection",
+                "Hub5__Side_Connector_3"
+            ],
+            "SIDE4-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub5__Side_Connector_4"
+            ],
+            "SIDE4-TOP": [
+                "Tube__EndConnection",
+                "Hub5__Side_Connector_4"
+            ],
+            "SIDE5-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub5__Side_Connector_5"
+            ],
+            "SIDE5-TOP": [
+                "Tube__EndConnection",
+                "Hub5__Side_Connector_5"
+            ],
+            "TOP-BOTTOM": [
+                "Tube__EndConnection",
+                "Hub5__Top_Connector"
+            ],
+            "TP{-TOP": [
+                "Tube__BaseConnection",
+                "Hub5__Top_Connector"
+            ]
+        },
+        "Hub6": {
+            "CENTER-BOTTOM": [
+                "Tube__EndConnection",
+                "Hub6__Center_Connector"
+            ],
+            "CENTER-TOP": [
+                "Tube__BaseConnection",
+                "Hub6__Center_Connector"
+            ],
+            "SIDE1-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub6__Side_Connector_1"
+            ],
+            "SIDE1-TOP": [
+                "Tube__EndConnection",
+                "Hub6__Side_Connector_1"
+            ],
+            "SIDE2-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub6__Side_Connector_2"
+            ],
+            "SIDE2-TOP": [
+                "Tube__EndConnection",
+                "Hub6__Side_Connector_2"
+            ],
+            "SIDE3-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub6__Side_Connector_3"
+            ],
+            "SIDE3-TOP": [
+                "Tube__EndConnection",
+                "Hub6__Side_Connector_3"
+            ],
+            "SIDE4-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub6__Side_Connector_4"
+            ],
+            "SIDE4-TOP": [
+                "Tube__EndConnection",
+                "Hub6__Side_Connector_4"
+            ],
+            "SIDE5-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub6__Side_Connector_5"
+            ],
+            "SIDE5-TOP": [
+                "Tube__EndConnection",
+                "Hub6__Side_Connector_5"
+            ],
+            "SIDE6-BOTTOM": [
+                "Tube__BaseConnection",
+                "Hub6__Side_Connector_6"
+            ],
+            "SIDE6-TOP": [
+                "Tube__EndConnection",
+                "Hub6__Side_Connector_6"
+            ],
+            "TOP-BOTTOM": [
+                "Tube__EndConnection",
+                "Hub6__Top_Connector"
+            ],
+            "TP{-TOP": [
+                "Tube__BaseConnection",
+                "Hub6__Top_Connector"
+            ]
+        },
+        "Wing": {
+            "BOTTOM": [
+                "Tube__EndConnection",
+                "Wing__Wing_Tube_Connector"
+            ],
+            "MID-BOTTOM": [
+                "Tube__OffsetConnection2",
+                "Wing__Wing_Tube_Connector"
+            ],
+            "MID-TOP": [
+                "Tube__OffsetConnection1",
+                "Wing__Wing_Tube_Connector"
+            ],
+            "TOP": [
+                "Tube__BaseConnection",
+                "Wing__Wing_Tube_Connector"
+            ]
+        }
+    },
+    "Wing": {
+        "Servo": {
+            "ANY": [
+                "Wing__Wing_Servo_Connector",
+                "Servo__Connector"
+            ]
+        },
+        "Tube": {
+            "BOTTOM": [
+                "Wing__Wing_Tube_Connector",
+                "Tube__BaseConnection"
+            ],
+            "MID-BOTTOM": [
+                "Wing__Wing_Tube_Connector",
+                "Tube__OffsetConnection1"
+            ],
+            "MID-TOP": [
+                "Wing__Wing_Tube_Connector",
+                "Tube__OffsetConnection2"
+            ],
+            "TOP": [
+                "Wing__Wing_Tube_Connector",
+                "Tube__EndConnection"
+            ]
+        }
+    }
+}

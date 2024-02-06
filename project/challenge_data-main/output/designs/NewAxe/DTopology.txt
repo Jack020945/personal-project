@@ -1,0 +1,194 @@
+TOPOLOGY SUMMARY
+
+0 (Propeller) (1 items):
+	Motor
+1 (Tube) (2 items):
+	Flange
+	Hub3
+2 (Orient) (1 items):
+	Hub3
+3 (Wing) (1 items):
+	Tube
+4 (Tube) (2 items):
+	Wing
+	Flange
+5 (Tube) (2 items):
+	Hub3
+	Hub3
+6 (Wing) (1 items):
+	Tube
+7 (Tube) (2 items):
+	Hub3
+	Hub3
+8 (Flange) (3 items):
+	Tube
+	Motor
+	Tube
+9 (Flange) (3 items):
+	Tube
+	Tube
+	Motor
+10 (Tube) (3 items):
+	Flange
+	Hub3
+	Wing
+11 (Propeller) (1 items):
+	Motor
+12 (Tube) (1 items):
+	Flange
+13 (Hub3) (4 items):
+	Tube
+	Tube
+	Tube
+	Tube
+14 (Wing) (1 items):
+	Tube
+15 (Hub3) (3 items):
+	Tube
+	Tube
+	Tube
+16 (Wing) (1 items):
+	Tube
+17 (Flange) (3 items):
+	Motor
+	Tube
+	Tube
+18 (BatteryController) (5 items):
+	Motor
+	Motor
+	Battery
+	Motor
+	Motor
+19 (Tube) (2 items):
+	Hub3
+	Hub3
+20 (Motor) (3 items):
+	Flange
+	Propeller
+	BatteryController
+21 (Propeller) (1 items):
+	Motor
+22 (Tube) (3 items):
+	Wing
+	Flange
+	Hub3
+23 (Propeller) (1 items):
+	Motor
+24 (Tube) (2 items):
+	Hub3
+	Wing
+25 (Tube) (2 items):
+	Flange
+	Wing
+26 (Fuselage) (2 items):
+	Battery
+	Hub3
+27 (Hub3) (4 items):
+	Orient
+	Fuselage
+	Tube
+	Tube
+28 (Tube) (2 items):
+	Hub3
+	Hub3
+29 (Tube) (1 items):
+	Hub3
+30 (Tube) (1 items):
+	Flange
+31 (Motor) (3 items):
+	Flange
+	BatteryController
+	Propeller
+32 (Motor) (3 items):
+	BatteryController
+	Flange
+	Propeller
+33 (Tube) (1 items):
+	Hub3
+34 (Wing) (1 items):
+	Tube
+35 (Hub3) (3 items):
+	Tube
+	Tube
+	Tube
+36 (Hub3) (4 items):
+	Tube
+	Tube
+	Tube
+	Tube
+37 (Flange) (3 items):
+	Motor
+	Tube
+	Tube
+38 (Tube) (2 items):
+	Flange
+	Hub3
+39 (Tube) (2 items):
+	Wing
+	Hub3
+40 (Motor) (3 items):
+	Flange
+	BatteryController
+	Propeller
+41 (Battery) (2 items):
+	Fuselage
+	BatteryController
+42 (Wing) (1 items):
+	Tube
+
+
+GRAPHIGRAPH D--- 43 92 --
++ attr: c_type (v), label (v), connection (e), label (e)
++ edges:
+0->20 1->15 1->8 2->27 3->39 4->9 4->16 5->35 5->13 6->10 7->36 7->15 8->1
+8->25 8->20 9->31 9->4 9->38 10->17 10->36 10->6 11->31 12->37 13->24 13->22
+13->5 13->33 14->24 15->28 15->7 15->1 16->4 17->30 17->10 17->40 18->20
+18->31 18->41 18->32 18->40 19->35 19->27 20->18 20->8 20->0 21->40 22->34
+22->13 22->37 23->32 24->13 24->14 25->42 25->8 26->27 26->41 27->19 27->26
+27->2 27->28 28->15 28->27 29->36 30->17 31->11 31->18 31->9 32->23 32->37
+32->18 33->13 34->22 35->19 35->5 35->38 36->7 36->39 36->29 36->10 37->12
+37->22 37->32 38->9 38->35 39->36 39->3 40->18 40->21 40->17 41->26 41->18
+42->25
+0: Propeller
+1: Tube
+2: Orient
+3: Wing
+4: Tube
+5: Tube
+6: Wing
+7: Tube
+8: Flange
+9: Flange
+10: Tube
+11: Propeller
+12: Tube
+13: Hub3
+14: Wing
+15: Hub3
+16: Wing
+17: Flange
+18: BatteryController
+19: Tube
+20: Motor
+21: Propeller
+22: Tube
+23: Propeller
+24: Tube
+25: Tube
+26: Fuselage
+27: Hub3
+28: Tube
+29: Tube
+30: Tube
+31: Motor
+32: Motor
+33: Tube
+34: Wing
+35: Hub3
+36: Hub3
+37: Flange
+38: Tube
+39: Tube
+40: Motor
+41: Battery
+42: Wing

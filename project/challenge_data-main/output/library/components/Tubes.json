@@ -1,0 +1,164 @@
+{
+    "0281OD_para_tube": {
+        "id": "0281OD_para_tube",
+        "type": "Tube",
+        "parameters": [
+            {
+                "name": "BASE_ROT",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "Length",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "100.0",
+                "learned": "100.0"
+            },
+            {
+                "name": "END_ROT",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "Offset2",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "50.0",
+                "learned": "50.0"
+            },
+            {
+                "name": "Offset1",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "25.0",
+                "learned": "25.0"
+            }
+        ],
+        "properties": {
+            "OD": 7.1374,
+            "ID": 4.699,
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "OffsetConnection1",
+            "OffsetConnection2",
+            "BaseConnection",
+            "EndConnection",
+            "End Connection 2",
+            "End Connection 1"
+        ]
+    },
+    "0394OD_para_tube": {
+        "id": "0394OD_para_tube",
+        "type": "Tube",
+        "parameters": [
+            {
+                "name": "BASE_ROT",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "Length",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "100.0",
+                "learned": "100.0"
+            },
+            {
+                "name": "END_ROT",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "Offset2",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "50.0",
+                "learned": "50.0"
+            },
+            {
+                "name": "Offset1",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "25.0",
+                "learned": "25.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "UAV",
+            "OD": 10.0076,
+            "ID": 7.3152
+        },
+        "connectors": [
+            "OffsetConnection1",
+            "OffsetConnection2",
+            "BaseConnection",
+            "EndConnection",
+            "End Connection 2",
+            "End Connection 1"
+        ]
+    },
+    "05OD_para_tube": {
+        "id": "05OD_para_tube",
+        "type": "Tube",
+        "parameters": [
+            {
+                "name": "BASE_ROT",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "Length",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "100.0",
+                "learned": "100.0"
+            },
+            {
+                "name": "END_ROT",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "Offset2",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "50.0",
+                "learned": "50.0"
+            },
+            {
+                "name": "Offset1",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "25.0",
+                "learned": "25.0"
+            }
+        ],
+        "properties": {
+            "OD": 12.7,
+            "ID": 10.16,
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "OffsetConnection1",
+            "OffsetConnection2",
+            "BaseConnection",
+            "EndConnection",
+            "End Connection 2",
+            "End Connection 1"
+        ]
+    }
+}

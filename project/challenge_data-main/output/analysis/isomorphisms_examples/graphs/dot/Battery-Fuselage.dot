@@ -1,0 +1,28 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Fuselage_instance_1
+    label=Fuselage
+  ];
+  1 [
+    instance=Battery_instance_1
+    label=Battery
+  ];
+  2 [
+    instance=Battery_instance_2
+    label=Battery
+  ];
+
+  0 -> 1 [
+    label="INSIDE-1"
+  ];
+  0 -> 2 [
+    label="INSIDE-2"
+  ];
+  1 -> 0 [
+    label="BOTTOM-1"
+  ];
+  2 -> 0 [
+    label="BOTTOM-2"
+  ];
+}

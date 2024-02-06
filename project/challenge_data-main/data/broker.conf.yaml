@@ -1,0 +1,14 @@
+# Deploy #
+url: redis://swri-cloud-broker.iquigz.clustercfg.memorydb.us-west-2.amazonaws.com:6379
+
+# Dev #
+# url: redis://swri-cloud-test-cluster.iquigz.clustercfg.memorydb.us-west-2.amazonaws.com:6379
+
+backend:
+  enabled: true
+
+  # Deploy #
+  url: redis://swri-cloud-broker.iquigz.clustercfg.memorydb.us-west-2.amazonaws.com:6379
+
+  # Dev #
+  # url: redis://swri-cloud-test-cluster.iquigz.clustercfg.memorydb.us-west-2.amazonaws.com:6379

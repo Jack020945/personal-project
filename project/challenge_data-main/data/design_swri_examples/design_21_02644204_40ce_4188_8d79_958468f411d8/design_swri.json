@@ -1,0 +1,1615 @@
+{
+  "extra": {
+    "generator_version": "2022-05-23"
+  },
+  "name": "design_21_02644204_40ce_4188_8d79_958468f411d8",
+  "parameters": [
+    {
+      "parameter_name": "FuselageDualSeat_3_FLOOR_HEIGHT",
+      "value": "150.0",
+      "component_properties": [
+        {
+          "component_name": "FuselageDualSeat_3_1",
+          "component_property": "FLOOR_HEIGHT"
+        }
+      ]
+    },
+    {
+      "parameter_name": "FuselageDualSeat_3_SEAT_2_LR",
+      "value": "210.0",
+      "component_properties": [
+        {
+          "component_name": "FuselageDualSeat_3_1",
+          "component_property": "SEAT_2_LR"
+        }
+      ]
+    },
+    {
+      "parameter_name": "FuselageDualSeat_3_SEAT_2_FB",
+      "value": "790.0",
+      "component_properties": [
+        {
+          "component_name": "FuselageDualSeat_3_1",
+          "component_property": "SEAT_2_FB"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingWithBatteryMain_3_CHORD_OUTER",
+      "value": "1455.0532811665757",
+      "component_properties": [
+        {
+          "component_name": "Wing_6_1",
+          "component_property": "CHORD_2"
+        },
+        {
+          "component_name": "Battery_11_1",
+          "component_property": "CHORD_2"
+        },
+        {
+          "component_name": "Wing_6_2",
+          "component_property": "CHORD_1"
+        },
+        {
+          "component_name": "Battery_12_1",
+          "component_property": "CHORD_1"
+        }
+      ]
+    },
+    {
+      "parameter_name": "TailWingWithPropArm_3_TAIL_FIRST_LENGTH",
+      "value": "552.152362707199",
+      "component_properties": [
+        {
+          "component_name": "StraightArmNoSides_3_1",
+          "component_property": "LENGTH"
+        }
+      ]
+    },
+    {
+      "parameter_name": "TailWingWithPropArm_3_TAIL_WING_OFFSET",
+      "value": "0.0",
+      "component_properties": [
+        {
+          "component_name": "StraightArm_17_1",
+          "component_property": "TOP_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_17_1",
+          "component_property": "BOTTOM_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_17_1",
+          "component_property": "LEFT_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_17_1",
+          "component_property": "RIGHT_CONN_DISP"
+        }
+      ]
+    },
+    {
+      "parameter_name": "Wing_7_NACA_Profile",
+      "value": "2406",
+      "component_properties": [
+        {
+          "component_name": "Wing_7_1",
+          "component_property": "NACA_Profile"
+        },
+        {
+          "component_name": "Wing_7_2",
+          "component_property": "NACA_Profile"
+        }
+      ]
+    },
+    {
+      "parameter_name": "FrontBackPropArmMulti_5_PROP_OFFSET",
+      "value": "617.4158699116091",
+      "component_properties": [
+        {
+          "component_name": "StraightArm_14_1",
+          "component_property": "TOP_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_14_1",
+          "component_property": "BOTTOM_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_14_1",
+          "component_property": "LEFT_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_14_1",
+          "component_property": "RIGHT_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_14_2",
+          "component_property": "TOP_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_14_2",
+          "component_property": "BOTTOM_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_14_2",
+          "component_property": "LEFT_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_14_2",
+          "component_property": "RIGHT_CONN_DISP"
+        }
+      ]
+    },
+    {
+      "parameter_name": "GLOBAL_VOLTAGE",
+      "value": "802.9000000000001",
+      "component_properties": [
+        {
+          "component_name": "Battery_11_1",
+          "component_property": "VOLTAGE_REQUEST"
+        },
+        {
+          "component_name": "Battery_12_1",
+          "component_property": "VOLTAGE_REQUEST"
+        },
+        {
+          "component_name": "Battery_13_1",
+          "component_property": "VOLTAGE_REQUEST"
+        },
+        {
+          "component_name": "Battery_14_1",
+          "component_property": "VOLTAGE_REQUEST"
+        }
+      ]
+    },
+    {
+      "parameter_name": "Wing_6_NACA_Profile",
+      "value": "4412",
+      "component_properties": [
+        {
+          "component_name": "Wing_6_1",
+          "component_property": "NACA_Profile"
+        },
+        {
+          "component_name": "Wing_6_2",
+          "component_property": "NACA_Profile"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingWithBatteryMain_3_TAPER_OFFSET",
+      "value": "1",
+      "component_properties": [
+        {
+          "component_name": "Wing_6_1",
+          "component_property": "TAPER_OFFSET"
+        },
+        {
+          "component_name": "Battery_11_1",
+          "component_property": "TAPER_OFFSET"
+        },
+        {
+          "component_name": "Wing_6_2",
+          "component_property": "TAPER_OFFSET"
+        },
+        {
+          "component_name": "Battery_12_1",
+          "component_property": "TAPER_OFFSET"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingPair_4_CHORD_OUTER",
+      "value": "689.3211593505007",
+      "component_properties": [
+        {
+          "component_name": "Wing_7_1",
+          "component_property": "CHORD_2"
+        },
+        {
+          "component_name": "Battery_13_1",
+          "component_property": "CHORD_2"
+        },
+        {
+          "component_name": "Wing_7_2",
+          "component_property": "CHORD_1"
+        },
+        {
+          "component_name": "Battery_14_1",
+          "component_property": "CHORD_1"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingWithBatteryMain_3_SPAN",
+      "value": "13977.771057791144",
+      "component_properties": [
+        {
+          "component_name": "Wing_6_1",
+          "component_property": "SPAN"
+        },
+        {
+          "component_name": "Battery_11_1",
+          "component_property": "SPAN"
+        },
+        {
+          "component_name": "Wing_6_2",
+          "component_property": "SPAN"
+        },
+        {
+          "component_name": "Battery_12_1",
+          "component_property": "SPAN"
+        }
+      ]
+    },
+    {
+      "parameter_name": "PosPropDir",
+      "value": "1",
+      "component_properties": [
+        {
+          "component_name": "Propeller_2",
+          "component_property": "Direction"
+        },
+        {
+          "component_name": "Propeller_4",
+          "component_property": "Direction"
+        },
+        {
+          "component_name": "Propeller_5",
+          "component_property": "Direction"
+        },
+        {
+          "component_name": "Propeller_7",
+          "component_property": "Direction"
+        },
+        {
+          "component_name": "Propeller_9",
+          "component_property": "Direction"
+        },
+        {
+          "component_name": "Propeller_12",
+          "component_property": "Direction"
+        },
+        {
+          "component_name": "Propeller_13",
+          "component_property": "Direction"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingWithBatteryMain_3_AILERON_BIAS",
+      "value": "0.5041080794454097",
+      "component_properties": [
+        {
+          "component_name": "Wing_6_1",
+          "component_property": "AILERON_BIAS"
+        },
+        {
+          "component_name": "Wing_6_2",
+          "component_property": "AILERON_BIAS"
+        }
+      ]
+    },
+    {
+      "parameter_name": "SideMountedPropArmSegment_5_OFFSET",
+      "value": "491.08549384789137",
+      "component_properties": [
+        {
+          "component_name": "StraightArm_13_1",
+          "component_property": "TOP_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_13_1",
+          "component_property": "BOTTOM_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_13_1",
+          "component_property": "LEFT_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_13_1",
+          "component_property": "RIGHT_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_13_2",
+          "component_property": "TOP_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_13_2",
+          "component_property": "BOTTOM_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_13_2",
+          "component_property": "LEFT_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_13_2",
+          "component_property": "RIGHT_CONN_DISP"
+        }
+      ]
+    },
+    {
+      "parameter_name": "NegPropType",
+      "value": "-1",
+      "component_properties": [
+        {
+          "component_name": "Propeller_6",
+          "component_property": "Prop_type"
+        },
+        {
+          "component_name": "Propeller_5",
+          "component_property": "Prop_type"
+        },
+        {
+          "component_name": "Propeller_7",
+          "component_property": "Prop_type"
+        },
+        {
+          "component_name": "Propeller_8",
+          "component_property": "Prop_type"
+        },
+        {
+          "component_name": "Propeller_9",
+          "component_property": "Prop_type"
+        },
+        {
+          "component_name": "Propeller_10",
+          "component_property": "Prop_type"
+        },
+        {
+          "component_name": "Propeller_14",
+          "component_property": "Prop_type"
+        },
+        {
+          "component_name": "Propeller_13",
+          "component_property": "Prop_type"
+        }
+      ]
+    },
+    {
+      "parameter_name": "ControlChannelAuto",
+      "value": "-1",
+      "component_properties": [
+        {
+          "component_name": "Motor_2",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_1",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_3",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_4",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_6",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_5",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_7",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_8",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_9",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_10",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_12",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_11",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_14",
+          "component_property": "CONTROL_CHANNEL"
+        },
+        {
+          "component_name": "Motor_13",
+          "component_property": "CONTROL_CHANNEL"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingPair_4_FLAP_BIAS",
+      "value": "0.9913544418976639",
+      "component_properties": [
+        {
+          "component_name": "Wing_7_1",
+          "component_property": "FLAP_BIAS"
+        },
+        {
+          "component_name": "Wing_7_2",
+          "component_property": "FLAP_BIAS"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingPair_4_SPAN",
+      "value": "13422.02528217537",
+      "component_properties": [
+        {
+          "component_name": "Wing_7_1",
+          "component_property": "SPAN"
+        },
+        {
+          "component_name": "Battery_13_1",
+          "component_property": "SPAN"
+        },
+        {
+          "component_name": "Wing_7_2",
+          "component_property": "SPAN"
+        },
+        {
+          "component_name": "Battery_14_1",
+          "component_property": "SPAN"
+        }
+      ]
+    },
+    {
+      "parameter_name": "FuselageDualSeat_3_SPHERE_DIAMETER",
+      "value": "1520.0",
+      "component_properties": [
+        {
+          "component_name": "FuselageDualSeat_3_1",
+          "component_property": "SPHERE_DIAMETER"
+        }
+      ]
+    },
+    {
+      "parameter_name": "FuselageDualSeat_3_SEAT_1_FB",
+      "value": "790.0",
+      "component_properties": [
+        {
+          "component_name": "FuselageDualSeat_3_1",
+          "component_property": "SEAT_1_FB"
+        }
+      ]
+    },
+    {
+      "parameter_name": "PosPropType",
+      "value": "1",
+      "component_properties": [
+        {
+          "component_name": "Propeller_2",
+          "component_property": "Prop_type"
+        },
+        {
+          "component_name": "Propeller_1",
+          "component_property": "Prop_type"
+        },
+        {
+          "component_name": "Propeller_3",
+          "component_property": "Prop_type"
+        },
+        {
+          "component_name": "Propeller_4",
+          "component_property": "Prop_type"
+        },
+        {
+          "component_name": "Propeller_12",
+          "component_property": "Prop_type"
+        },
+        {
+          "component_name": "Propeller_11",
+          "component_property": "Prop_type"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingPair_4_LOAD",
+      "value": "4795.627809968342",
+      "component_properties": [
+        {
+          "component_name": "Wing_7_1",
+          "component_property": "LOAD"
+        },
+        {
+          "component_name": "Wing_7_2",
+          "component_property": "LOAD"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingPair_4_VOLUME_PERCENT",
+      "value": "2.9204076197358413",
+      "component_properties": [
+        {
+          "component_name": "Battery_13_1",
+          "component_property": "VOLUME_PERCENT"
+        },
+        {
+          "component_name": "Battery_14_1",
+          "component_property": "VOLUME_PERCENT"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingWithBatteryMain_3_LOAD",
+      "value": "5751.008433294242",
+      "component_properties": [
+        {
+          "component_name": "Wing_6_1",
+          "component_property": "LOAD"
+        },
+        {
+          "component_name": "Wing_6_2",
+          "component_property": "LOAD"
+        }
+      ]
+    },
+    {
+      "parameter_name": "NACA_2406_THICKNESS",
+      "value": "6",
+      "component_properties": [
+        {
+          "component_name": "NACAPortConnector_1",
+          "component_property": "THICKNESS"
+        },
+        {
+          "component_name": "Wing_7_1",
+          "component_property": "THICKNESS"
+        },
+        {
+          "component_name": "Battery_13_1",
+          "component_property": "THICKNESS"
+        },
+        {
+          "component_name": "Wing_7_2",
+          "component_property": "THICKNESS"
+        },
+        {
+          "component_name": "Battery_14_1",
+          "component_property": "THICKNESS"
+        }
+      ]
+    },
+    {
+      "parameter_name": "SideMountedPropArmSegment_6_LENGTH",
+      "value": "996.8737723416306",
+      "component_properties": [
+        {
+          "component_name": "StraightArm_15_1",
+          "component_property": "LENGTH"
+        },
+        {
+          "component_name": "StraightArm_15_2",
+          "component_property": "LENGTH"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingWithBatteryMain_3_FLAP_BIAS",
+      "value": "0.9202721152604559",
+      "component_properties": [
+        {
+          "component_name": "Wing_6_1",
+          "component_property": "FLAP_BIAS"
+        },
+        {
+          "component_name": "Wing_6_2",
+          "component_property": "FLAP_BIAS"
+        }
+      ]
+    },
+    {
+      "parameter_name": "FuselageDualSeat_3_MIDDLE_LENGTH",
+      "value": "275.0",
+      "component_properties": [
+        {
+          "component_name": "FuselageDualSeat_3_1",
+          "component_property": "MIDDLE_LENGTH"
+        }
+      ]
+    },
+    {
+      "parameter_name": "NACA_4412_THICKNESS",
+      "value": "12",
+      "component_properties": [
+        {
+          "component_name": "Wing_6_1",
+          "component_property": "THICKNESS"
+        },
+        {
+          "component_name": "Battery_11_1",
+          "component_property": "THICKNESS"
+        },
+        {
+          "component_name": "Wing_6_2",
+          "component_property": "THICKNESS"
+        },
+        {
+          "component_name": "Battery_12_1",
+          "component_property": "THICKNESS"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingWithBatteryMain_3_CHORD_INNER",
+      "value": "1833.1597096677456",
+      "component_properties": [
+        {
+          "component_name": "Wing_6_1",
+          "component_property": "CHORD_1"
+        },
+        {
+          "component_name": "Battery_11_1",
+          "component_property": "CHORD_1"
+        },
+        {
+          "component_name": "Wing_6_2",
+          "component_property": "CHORD_2"
+        },
+        {
+          "component_name": "Battery_12_1",
+          "component_property": "CHORD_2"
+        }
+      ]
+    },
+    {
+      "parameter_name": "RightMountSide",
+      "value": "2",
+      "component_properties": [
+        {
+          "component_name": "Battery_12_1",
+          "component_property": "MOUNT_SIDE"
+        },
+        {
+          "component_name": "Battery_14_1",
+          "component_property": "MOUNT_SIDE"
+        }
+      ]
+    },
+    {
+      "parameter_name": "NegPropDir",
+      "value": "-1",
+      "component_properties": [
+        {
+          "component_name": "Propeller_1",
+          "component_property": "Direction"
+        },
+        {
+          "component_name": "Propeller_3",
+          "component_property": "Direction"
+        },
+        {
+          "component_name": "Propeller_6",
+          "component_property": "Direction"
+        },
+        {
+          "component_name": "Propeller_8",
+          "component_property": "Direction"
+        },
+        {
+          "component_name": "Propeller_10",
+          "component_property": "Direction"
+        },
+        {
+          "component_name": "Propeller_11",
+          "component_property": "Direction"
+        },
+        {
+          "component_name": "Propeller_14",
+          "component_property": "Direction"
+        }
+      ]
+    },
+    {
+      "parameter_name": "TailWingWithPropArm_3_PROP_OFFSET",
+      "value": "525.8261483711797",
+      "component_properties": [
+        {
+          "component_name": "StraightArm_18_1",
+          "component_property": "TOP_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_18_1",
+          "component_property": "BOTTOM_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_18_1",
+          "component_property": "LEFT_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_18_1",
+          "component_property": "RIGHT_CONN_DISP"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingPair_4_AILERON_BIAS",
+      "value": "0.847329147155874",
+      "component_properties": [
+        {
+          "component_name": "Wing_7_1",
+          "component_property": "AILERON_BIAS"
+        },
+        {
+          "component_name": "Wing_7_2",
+          "component_property": "AILERON_BIAS"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingWithBatteryMain_3_VOLUME_PERCENT",
+      "value": "57.14478038349568",
+      "component_properties": [
+        {
+          "component_name": "Battery_11_1",
+          "component_property": "VOLUME_PERCENT"
+        },
+        {
+          "component_name": "Battery_12_1",
+          "component_property": "VOLUME_PERCENT"
+        }
+      ]
+    },
+    {
+      "parameter_name": "SideMountedPropArmSegment_6_OFFSET",
+      "value": "948.2200307142413",
+      "component_properties": [
+        {
+          "component_name": "StraightArm_15_1",
+          "component_property": "TOP_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_15_1",
+          "component_property": "BOTTOM_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_15_1",
+          "component_property": "LEFT_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_15_1",
+          "component_property": "RIGHT_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_15_2",
+          "component_property": "TOP_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_15_2",
+          "component_property": "BOTTOM_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_15_2",
+          "component_property": "LEFT_CONN_DISP"
+        },
+        {
+          "component_name": "StraightArm_15_2",
+          "component_property": "RIGHT_CONN_DISP"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingPair_4_TAPER_OFFSET",
+      "value": "1",
+      "component_properties": [
+        {
+          "component_name": "Wing_7_1",
+          "component_property": "TAPER_OFFSET"
+        },
+        {
+          "component_name": "Battery_13_1",
+          "component_property": "TAPER_OFFSET"
+        },
+        {
+          "component_name": "Wing_7_2",
+          "component_property": "TAPER_OFFSET"
+        },
+        {
+          "component_name": "Battery_14_1",
+          "component_property": "TAPER_OFFSET"
+        }
+      ]
+    },
+    {
+      "parameter_name": "SideMountedPropArmSegment_5_LENGTH",
+      "value": "654.4307076064581",
+      "component_properties": [
+        {
+          "component_name": "StraightArm_13_1",
+          "component_property": "LENGTH"
+        },
+        {
+          "component_name": "StraightArm_13_2",
+          "component_property": "LENGTH"
+        }
+      ]
+    },
+    {
+      "parameter_name": "TailWingWithPropArm_3_PROP_SEGMENT_LENGTH",
+      "value": "777.9206584697379",
+      "component_properties": [
+        {
+          "component_name": "StraightArm_18_1",
+          "component_property": "LENGTH"
+        }
+      ]
+    },
+    {
+      "parameter_name": "WingPair_4_CHORD_INNER",
+      "value": "3891.272494890955",
+      "component_properties": [
+        {
+          "component_name": "NACAPortConnector_1",
+          "component_property": "CHORD"
+        },
+        {
+          "component_name": "Wing_7_1",
+          "component_property": "CHORD_1"
+        },
+        {
+          "component_name": "Battery_13_1",
+          "component_property": "CHORD_1"
+        },
+        {
+          "component_name": "Wing_7_2",
+          "component_property": "CHORD_2"
+        },
+        {
+          "component_name": "Battery_14_1",
+          "component_property": "CHORD_2"
+        }
+      ]
+    },
+    {
+      "parameter_name": "FuselageDualSeat_3_SEAT_1_LR",
+      "value": "-210.0",
+      "component_properties": [
+        {
+          "component_name": "FuselageDualSeat_3_1",
+          "component_property": "SEAT_1_LR"
+        }
+      ]
+    },
+    {
+      "parameter_name": "OrientAngle",
+      "value": "0.0",
+      "component_properties": [
+        {
+          "component_name": "Orient",
+          "component_property": "Z_ANGLE"
+        }
+      ]
+    },
+    {
+      "parameter_name": "FuselageDualSeat_3_LENGTH",
+      "value": "2000.0",
+      "component_properties": [
+        {
+          "component_name": "FuselageDualSeat_3_1",
+          "component_property": "LENGTH"
+        }
+      ]
+    },
+    {
+      "parameter_name": "FrontBackPropArmMulti_5_PROP_SEGMENT_LENGTH",
+      "value": "865.0320483041123",
+      "component_properties": [
+        {
+          "component_name": "StraightArm_14_1",
+          "component_property": "LENGTH"
+        },
+        {
+          "component_name": "StraightArm_14_2",
+          "component_property": "LENGTH"
+        }
+      ]
+    },
+    {
+      "parameter_name": "FuselageDualSeat_3_TAIL_DIAMETER",
+      "value": "300.0",
+      "component_properties": [
+        {
+          "component_name": "FuselageDualSeat_3_1",
+          "component_property": "TAIL_DIAMETER"
+        }
+      ]
+    },
+    {
+      "parameter_name": "LeftMountSide",
+      "value": "1",
+      "component_properties": [
+        {
+          "component_name": "Battery_11_1",
+          "component_property": "MOUNT_SIDE"
+        },
+        {
+          "component_name": "Battery_13_1",
+          "component_property": "MOUNT_SIDE"
+        }
+      ]
+    },
+    {
+      "parameter_name": "TailWingWithPropArm_3_TAIL_LENGTH",
+      "value": "2657.776657989979",
+      "component_properties": [
+        {
+          "component_name": "StraightArm_17_1",
+          "component_property": "LENGTH"
+        }
+      ]
+    }
+  ],
+  "components": [
+    {
+      "component_instance": "BatteryController_3_1",
+      "component_type": "BatteryController",
+      "component_choice": "BatteryController"
+    },
+    {
+      "component_instance": "Battery_11_1",
+      "component_type": "Battery",
+      "component_choice": "VitalyBeta"
+    },
+    {
+      "component_instance": "Battery_12_1",
+      "component_type": "Battery",
+      "component_choice": "VitalyBeta"
+    },
+    {
+      "component_instance": "Battery_13_1",
+      "component_type": "Battery",
+      "component_choice": "VitalyBeta"
+    },
+    {
+      "component_instance": "Battery_14_1",
+      "component_type": "Battery",
+      "component_choice": "VitalyBeta"
+    },
+    {
+      "component_instance": "FuselageDualSeat_3_1",
+      "component_type": "Fuselage",
+      "component_choice": "FUSE_SPHERE_CYL_CONE"
+    },
+    {
+      "component_instance": "Motor_1",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_10",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_11",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_12",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_13",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_14",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_2",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_3",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_4",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_5",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_6",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_7",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_8",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "Motor_9",
+      "component_type": "Motor",
+      "component_choice": "MAGiDRIVE500"
+    },
+    {
+      "component_instance": "NACAPortConnector_1",
+      "component_type": "NACA_Port_Connector",
+      "component_choice": "naca_connector"
+    },
+    {
+      "component_instance": "Orient",
+      "component_type": "Orient",
+      "component_choice": "Orient"
+    },
+    {
+      "component_instance": "Passenger_1",
+      "component_type": "Passenger",
+      "component_choice": "Passenger"
+    },
+    {
+      "component_instance": "Passenger_2",
+      "component_type": "Passenger",
+      "component_choice": "Passenger"
+    },
+    {
+      "component_instance": "Propeller_1",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_10",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_11",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_12",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_13",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_14",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_2",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_3",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_4",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_5",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_6",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_7",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_8",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "Propeller_9",
+      "component_type": "Propeller",
+      "component_choice": "83x13_3_1200_41_1350"
+    },
+    {
+      "component_instance": "StraightArmNoSides_3_1",
+      "component_type": "Cylinder",
+      "component_choice": "PORTED_CYL"
+    },
+    {
+      "component_instance": "StraightArm_13_1",
+      "component_type": "Cylinder",
+      "component_choice": "PORTED_CYL"
+    },
+    {
+      "component_instance": "StraightArm_13_2",
+      "component_type": "Cylinder",
+      "component_choice": "PORTED_CYL"
+    },
+    {
+      "component_instance": "StraightArm_14_1",
+      "component_type": "Cylinder",
+      "component_choice": "PORTED_CYL"
+    },
+    {
+      "component_instance": "StraightArm_14_2",
+      "component_type": "Cylinder",
+      "component_choice": "PORTED_CYL"
+    },
+    {
+      "component_instance": "StraightArm_15_1",
+      "component_type": "Cylinder",
+      "component_choice": "PORTED_CYL"
+    },
+    {
+      "component_instance": "StraightArm_15_2",
+      "component_type": "Cylinder",
+      "component_choice": "PORTED_CYL"
+    },
+    {
+      "component_instance": "StraightArm_17_1",
+      "component_type": "Cylinder",
+      "component_choice": "PORTED_CYL"
+    },
+    {
+      "component_instance": "StraightArm_18_1",
+      "component_type": "Cylinder",
+      "component_choice": "PORTED_CYL"
+    },
+    {
+      "component_instance": "Wing_6_1",
+      "component_type": "Wing",
+      "component_choice": "naca_wing"
+    },
+    {
+      "component_instance": "Wing_6_2",
+      "component_type": "Wing",
+      "component_choice": "naca_wing"
+    },
+    {
+      "component_instance": "Wing_7_1",
+      "component_type": "Wing",
+      "component_choice": "naca_wing"
+    },
+    {
+      "component_instance": "Wing_7_2",
+      "component_type": "Wing",
+      "component_choice": "naca_wing"
+    }
+  ],
+  "connections": [
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "BatteryPower",
+      "to_ci": "Battery_11_1",
+      "to_conn": "PowerBus"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_2",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_12",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "BatteryPower",
+      "to_ci": "Battery_12_1",
+      "to_conn": "PowerBus"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "BatteryPower",
+      "to_ci": "Battery_14_1",
+      "to_conn": "PowerBus"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_11",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_1",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_4",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_9",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_7",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_8",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_5",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_6",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_3",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_13",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "BatteryPower",
+      "to_ci": "Battery_13_1",
+      "to_conn": "PowerBus"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_10",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "BatteryController_3_1",
+      "from_conn": "MotorPower",
+      "to_ci": "Motor_14",
+      "to_conn": "MotorPower"
+    },
+    {
+      "from_ci": "FuselageDualSeat_3_1",
+      "from_conn": "LEFT_CONNECTOR",
+      "to_ci": "Wing_6_1",
+      "to_conn": "Connector_1"
+    },
+    {
+      "from_ci": "FuselageDualSeat_3_1",
+      "from_conn": "SEAT_2_CONNECTOR",
+      "to_ci": "Passenger_2",
+      "to_conn": "Connector"
+    },
+    {
+      "from_ci": "FuselageDualSeat_3_1",
+      "from_conn": "RIGHT_CONNECTOR",
+      "to_ci": "Wing_6_2",
+      "to_conn": "Connector_2"
+    },
+    {
+      "from_ci": "FuselageDualSeat_3_1",
+      "from_conn": "SEAT_1_CONNECTOR",
+      "to_ci": "Passenger_1",
+      "to_conn": "Connector"
+    },
+    {
+      "from_ci": "FuselageDualSeat_3_1",
+      "from_conn": "REAR_CONNECTOR",
+      "to_ci": "StraightArmNoSides_3_1",
+      "to_conn": "FRONT_CONNECTOR"
+    },
+    {
+      "from_ci": "Motor_1",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_1",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_10",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_10",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_11",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_11",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_12",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_12",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_13",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_13",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_14",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_14",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_2",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_2",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_3",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_3",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_4",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_4",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_5",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_5",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_6",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_6",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_7",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_7",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_8",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_8",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "Motor_9",
+      "from_conn": "Prop_Connector",
+      "to_ci": "Propeller_9",
+      "to_conn": "MOTOR_CONNECTOR_CS_IN"
+    },
+    {
+      "from_ci": "NACAPortConnector_1",
+      "from_conn": "End_Connector_2",
+      "to_ci": "Wing_7_2",
+      "to_conn": "Connector_2"
+    },
+    {
+      "from_ci": "NACAPortConnector_1",
+      "from_conn": "End_Connector_1",
+      "to_ci": "Wing_7_1",
+      "to_conn": "Connector_1"
+    },
+    {
+      "from_ci": "Orient",
+      "from_conn": "ORIENTCONN",
+      "to_ci": "FuselageDualSeat_3_1",
+      "to_conn": "ORIENT"
+    },
+    {
+      "from_ci": "StraightArmNoSides_3_1",
+      "from_conn": "REAR_CONNECTOR",
+      "to_ci": "StraightArm_18_1",
+      "to_conn": "FRONT_CONNECTOR"
+    },
+    {
+      "from_ci": "StraightArm_13_1",
+      "from_conn": "FRONT_CONNECTOR",
+      "to_ci": "StraightArm_14_1",
+      "to_conn": "FRONT_CONNECTOR"
+    },
+    {
+      "from_ci": "StraightArm_13_1",
+      "from_conn": "BOTTOM_CONNECTOR",
+      "to_ci": "Motor_1",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_13_1",
+      "from_conn": "TOP_CONNECTOR",
+      "to_ci": "Motor_2",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_13_2",
+      "from_conn": "BOTTOM_CONNECTOR",
+      "to_ci": "Motor_5",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_13_2",
+      "from_conn": "FRONT_CONNECTOR",
+      "to_ci": "StraightArm_14_2",
+      "to_conn": "FRONT_CONNECTOR"
+    },
+    {
+      "from_ci": "StraightArm_13_2",
+      "from_conn": "TOP_CONNECTOR",
+      "to_ci": "Motor_6",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_14_1",
+      "from_conn": "BOTTOM_CONNECTOR",
+      "to_ci": "Motor_3",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_14_1",
+      "from_conn": "TOP_CONNECTOR",
+      "to_ci": "Motor_4",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_14_2",
+      "from_conn": "BOTTOM_CONNECTOR",
+      "to_ci": "Motor_7",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_14_2",
+      "from_conn": "TOP_CONNECTOR",
+      "to_ci": "Motor_8",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_15_1",
+      "from_conn": "TOP_CONNECTOR",
+      "to_ci": "Motor_12",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_15_1",
+      "from_conn": "BOTTOM_CONNECTOR",
+      "to_ci": "Motor_11",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_15_2",
+      "from_conn": "TOP_CONNECTOR",
+      "to_ci": "Motor_14",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_15_2",
+      "from_conn": "BOTTOM_CONNECTOR",
+      "to_ci": "Motor_13",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_17_1",
+      "from_conn": "TOP_CONNECTOR",
+      "to_ci": "NACAPortConnector_1",
+      "to_conn": "Bottom_Connector"
+    },
+    {
+      "from_ci": "StraightArm_18_1",
+      "from_conn": "REAR_CONNECTOR",
+      "to_ci": "StraightArm_17_1",
+      "to_conn": "FRONT_CONNECTOR"
+    },
+    {
+      "from_ci": "StraightArm_18_1",
+      "from_conn": "TOP_CONNECTOR",
+      "to_ci": "Motor_10",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "StraightArm_18_1",
+      "from_conn": "BOTTOM_CONNECTOR",
+      "to_ci": "Motor_9",
+      "to_conn": "Base_Connector"
+    },
+    {
+      "from_ci": "Wing_6_1",
+      "from_conn": "Battery_Connector_1",
+      "to_ci": "Battery_11_1",
+      "to_conn": "Battery_Connector_1_out"
+    },
+    {
+      "from_ci": "Wing_6_1",
+      "from_conn": "Connector_2",
+      "to_ci": "StraightArm_13_1",
+      "to_conn": "RIGHT_CONNECTOR"
+    },
+    {
+      "from_ci": "Wing_6_2",
+      "from_conn": "Connector_1",
+      "to_ci": "StraightArm_13_2",
+      "to_conn": "LEFT_CONNECTOR"
+    },
+    {
+      "from_ci": "Wing_6_2",
+      "from_conn": "Battery_Connector_2",
+      "to_ci": "Battery_12_1",
+      "to_conn": "Battery_Connector_2_out"
+    },
+    {
+      "from_ci": "Wing_7_1",
+      "from_conn": "Battery_Connector_1",
+      "to_ci": "Battery_13_1",
+      "to_conn": "Battery_Connector_1_out"
+    },
+    {
+      "from_ci": "Wing_7_1",
+      "from_conn": "Connector_2",
+      "to_ci": "StraightArm_15_1",
+      "to_conn": "RIGHT_CONNECTOR"
+    },
+    {
+      "from_ci": "Wing_7_2",
+      "from_conn": "Connector_1",
+      "to_ci": "StraightArm_15_2",
+      "to_conn": "LEFT_CONNECTOR"
+    },
+    {
+      "from_ci": "Wing_7_2",
+      "from_conn": "Battery_Connector_2",
+      "to_ci": "Battery_14_1",
+      "to_conn": "Battery_Connector_2_out"
+    }
+  ]
+}

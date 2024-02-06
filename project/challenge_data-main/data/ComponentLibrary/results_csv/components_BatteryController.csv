@@ -1,0 +1,2 @@
+name,class,connector,Input_Voltage,Output_Voltage,CORPUS
+BatteryController,BatteryController,"['BatteryPower', 'MotorPower']","('1', None, None, None)","('1', None, None, None)",BOTH

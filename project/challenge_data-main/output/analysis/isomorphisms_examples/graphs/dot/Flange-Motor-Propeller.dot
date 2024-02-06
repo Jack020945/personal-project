@@ -1,0 +1,28 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Propeller_instance_4
+    label=Propeller
+  ];
+  1 [
+    instance=Motor_instance_3
+    label=Motor
+  ];
+  2 [
+    instance=Flange_instance_4
+    label=Flange
+  ];
+
+  0 -> 1 [
+    label=ANY
+  ];
+  1 -> 0 [
+    label=ANY
+  ];
+  1 -> 2 [
+    label=ANY
+  ];
+  2 -> 1 [
+    label=ANY
+  ];
+}

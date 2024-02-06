@@ -1,0 +1,54 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Fuselage_instance_1
+    label=Fuselage
+  ];
+  1 [
+    instance=Hub3_instance_4
+    label=Hub3
+  ];
+  2 [
+    instance=Battery_instance_1
+    label=Battery
+  ];
+  3 [
+    instance=Battery_instance_2
+    label=Battery
+  ];
+  4 [
+    instance=BatteryController_instance_1
+    label=BatteryController
+  ];
+
+  0 -> 1 [
+    label=BOTTOM
+  ];
+  0 -> 2 [
+    label="INSIDE-1"
+  ];
+  0 -> 3 [
+    label="INSIDE-2"
+  ];
+  1 -> 0 [
+    label=TOP
+  ];
+  2 -> 0 [
+    label="BOTTOM-1"
+  ];
+  2 -> 4 [
+    label=ANY
+  ];
+  3 -> 0 [
+    label="BOTTOM-2"
+  ];
+  3 -> 4 [
+    label=ANY
+  ];
+  4 -> 2 [
+    label=ANY
+  ];
+  4 -> 3 [
+    label=ANY
+  ];
+}

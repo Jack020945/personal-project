@@ -1,0 +1,332 @@
+{
+    "NAME": "NewAxe_Cargo",
+    "DESCRIPTION": "",
+    "ABSTRACTION_LEVEL": 4,
+    "TOPOLOGY": {
+        "Hub3_instance_1": {
+            "CONNECTIONS": {
+                "Orient": "ANY",
+                "Tube_instance_16": "BOTTOM-SIDE3",
+                "Tube_instance_1": "BOTTOM-SIDE1",
+                "Cargo_str_instance_1": "ANY",
+                "Fuselage_str_instance_1": "TOP"
+            },
+            "PARAMETERS": {}
+        },
+        "Orient": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {
+                "Orient__Z_ANGLE": 90.0
+            }
+        },
+        "Tube_instance_16": {
+            "CONNECTIONS": {
+                "Hub3_instance_4": "SIDE2-TOP"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 180.0,
+                "Tube__Length": 140.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_1": {
+            "CONNECTIONS": {
+                "Hub3_instance_3": "SIDE2-TOP"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 140.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Hub3_instance_2": {
+            "CONNECTIONS": {
+                "Tube_instance_8": "TOP-CENTER",
+                "Tube_instance_13": "BOTTOM-SIDE1",
+                "Tube_instance_6": "BOTTOM-SIDE2",
+                "Tube_instance_3": "TOP-SIDE3"
+            },
+            "PARAMETERS": {}
+        },
+        "Tube_instance_8": {
+            "CONNECTIONS": {
+                "Wing_instance_1": "BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 41.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_13": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 150.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_6": {
+            "CONNECTIONS": {
+                "Wing_instance_6": "MID-TOP",
+                "Propeller_str_top_instance_3": "TOP-SIDE"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 270.0,
+                "Tube__Length": 150.0,
+                "Tube__Offset1": 90.0
+            }
+        },
+        "Tube_instance_3": {
+            "CONNECTIONS": {
+                "Hub3_instance_3": "SIDE1-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 90.0,
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Hub3_instance_3": {
+            "CONNECTIONS": {
+                "Tube_instance_14": "BOTTOM-SIDE3"
+            },
+            "PARAMETERS": {}
+        },
+        "Wing_instance_1": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {
+                "Wing__TUBE_ROTATION": 0.0,
+                "Wing__LOAD": 15.0,
+                "Wing__TUBE_OFFSET": 50.0,
+                "Wing__CHORD_1": 100.0,
+                "Wing__SPAN": 140.0,
+                "Wing__CHORD_2": 100.0,
+                "Wing__CONTROL_CHANNEL": 9.0
+            }
+        },
+        "Tube_instance_2": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_3": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 150.1524,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Battery_instance_1": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Fuselage_str_instance_1": "BOTTOM-2"
+            },
+            "PARAMETERS": {}
+        },
+        "BatteryController_instance_1": {
+            "CONNECTIONS": {
+                "Battery_instance_2": "ANY",
+                "Propeller_str_top_instance_1": "ANY",
+                "Propeller_str_top_instance_2": "ANY",
+                "Propeller_str_top_instance_3": "ANY",
+                "Propeller_str_top_instance_4": "ANY"
+            },
+            "PARAMETERS": {}
+        },
+        "Tube_instance_14": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_4": "TOP-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 90.0,
+                "Tube__Length": 335.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Hub3_instance_4": {
+            "CONNECTIONS": {
+                "Tube_instance_9": "BOTTOM-SIDE1",
+                "Tube_instance_4": "BOTTOM-SIDE3"
+            },
+            "PARAMETERS": {}
+        },
+        "Tube_instance_9": {
+            "CONNECTIONS": {
+                "Hub3_instance_5": "SIDE1-TOP"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 90.0,
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_4": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_1": "TOP-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 270.0,
+                "Tube__Length": 335.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_5": {
+            "CONNECTIONS": {
+                "Wing_instance_2": "BOTTOM",
+                "Propeller_str_top_instance_1": "BOTTOM-SIDE"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 52.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Wing_instance_2": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {
+                "Wing__TUBE_ROTATION": 180.0,
+                "Wing__LOAD": 15.0,
+                "Wing__TUBE_OFFSET": 289.68,
+                "Wing__CHORD_1": 150.0,
+                "Wing__SPAN": 450.0,
+                "Wing__CHORD_2": 150.0,
+                "Wing__CONTROL_CHANNEL": 5.0
+            }
+        },
+        "Wing_instance_6": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {
+                "Wing__TUBE_ROTATION": 90.0,
+                "Wing__LOAD": 15.0,
+                "Wing__TUBE_OFFSET": 160.32,
+                "Wing__CHORD_1": 180.0,
+                "Wing__SPAN": 609.0,
+                "Wing__CHORD_2": 180.0,
+                "Wing__CONTROL_CHANNEL": 7.0
+            }
+        },
+        "Tube_instance_7": {
+            "CONNECTIONS": {
+                "Hub3_instance_5": "SIDE2-BOTTOM",
+                "Wing_instance_3": "MID-TOP",
+                "Propeller_str_top_instance_2": "TOP-SIDE"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 90.0,
+                "Tube__Length": 150.0,
+                "Tube__Offset1": 90.0
+            }
+        },
+        "Hub3_instance_5": {
+            "CONNECTIONS": {
+                "Tube_instance_11": "BOTTOM-SIDE3",
+                "Tube_instance_15": "TOP-CENTER"
+            },
+            "PARAMETERS": {}
+        },
+        "Wing_instance_3": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {
+                "Wing__TUBE_ROTATION": 270.0,
+                "Wing__LOAD": 15.0,
+                "Wing__TUBE_OFFSET": 448.68,
+                "Wing__CHORD_1": 180.0,
+                "Wing__SPAN": 609.0,
+                "Wing__CHORD_2": 180.0,
+                "Wing__CONTROL_CHANNEL": 8.0
+            }
+        },
+        "Tube_instance_10": {
+            "CONNECTIONS": {
+                "Propeller_str_top_instance_2": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 150.1524,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Tube_instance_11": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 150.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Battery_instance_2": {
+            "CONNECTIONS": {
+                "Fuselage_str_instance_1": "BOTTOM-1"
+            },
+            "PARAMETERS": {}
+        },
+        "Tube_instance_12": {
+            "CONNECTIONS": {
+                "Wing_instance_5": "BOTTOM",
+                "Propeller_str_top_instance_4": "BOTTOM-SIDE"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 52.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Wing_instance_5": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {
+                "Wing__TUBE_ROTATION": 180.0,
+                "Wing__LOAD": 15.0,
+                "Wing__TUBE_OFFSET": 160.32,
+                "Wing__CHORD_1": 150.0,
+                "Wing__SPAN": 450.0,
+                "Wing__CHORD_2": 150.0,
+                "Wing__CONTROL_CHANNEL": 6.0
+            }
+        },
+        "Tube_instance_15": {
+            "CONNECTIONS": {
+                "Wing_instance_4": "BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 41.0,
+                "Tube__Offset1": 0.0
+            }
+        },
+        "Wing_instance_4": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {
+                "Wing__TUBE_ROTATION": 180.0,
+                "Wing__LOAD": 15.0,
+                "Wing__TUBE_OFFSET": 90.0,
+                "Wing__CHORD_1": 100.0,
+                "Wing__SPAN": 140.0,
+                "Wing__CHORD_2": 100.0,
+                "Wing__CONTROL_CHANNEL": 10.0
+            }
+        },
+        "Cargo_str_instance_1": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "Propeller_str_top_instance_1": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "Fuselage_str_instance_1": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "Propeller_str_top_instance_2": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "Propeller_str_top_instance_3": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        },
+        "Propeller_str_top_instance_4": {
+            "CONNECTIONS": {},
+            "PARAMETERS": {}
+        }
+    }
+}

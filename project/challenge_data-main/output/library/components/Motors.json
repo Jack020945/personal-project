@@ -1,0 +1,6350 @@
+{
+    "kde_direct_KDE10218XF_105": {
+        "id": "kde_direct_KDE10218XF_105",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_DIAMETER": 108.6,
+            "Min_Cells": 6.0,
+            "KT": 0.0909,
+            "SHAFT_DIAMETER": 10.0,
+            "CAN_LENGTH": 18.0,
+            "COST": 842.95,
+            "IO_IDLE_CURRENT_10V": 1.0,
+            "KM": 0.5993768503167703,
+            "ADAPTER_DIAMETER": 10.0,
+            "PROP_SIZE_REC": "22,38",
+            "PROP_PITCH_REC": "10,30",
+            "KV": 105.0,
+            "WEIGHT": 1.18,
+            "MAX_CURRENT": 142.0,
+            "TOTAL_LENGTH": 74.7,
+            "Max_Cells": 14.0,
+            "MAX_POWER": 7355.0,
+            "LENGTH": 65.2,
+            "ADAPTER_LENGTH": 20.0,
+            "INTERNAL_RESISTANCE": 23.0,
+            "ESC_BEC_Class": 1.0,
+            "MODEL": "kde_direct_KDE10218XF_105",
+            "CORPUS": "Both"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE13218XF_105": {
+        "id": "kde_direct_KDE13218XF_105",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "SHAFT_DIAMETER": 10.0,
+            "INTERNAL_RESISTANCE": 13.0,
+            "MAX_POWER": 9135.0,
+            "ADAPTER_DIAMETER": 10.0,
+            "TOTAL_LENGTH": 74.7,
+            "MODEL": "kde_direct_KDE13218XF_105",
+            "KT": 0.124,
+            "IO_IDLE_CURRENT_10V": 3.1,
+            "KV": 105.0,
+            "COST": 1325.95,
+            "PROP_PITCH_REC": "10,30",
+            "MAX_CURRENT": 150.0,
+            "ADAPTER_LENGTH": 20.0,
+            "CORPUS": "Both",
+            "LENGTH": 65.2,
+            "Max_Cells": 14.0,
+            "CAN_DIAMETER": 150.2,
+            "KM": 1.0875519439407162,
+            "CAN_LENGTH": 18.0,
+            "ESC_BEC_Class": 1.0,
+            "WEIGHT": 2.12,
+            "PROP_SIZE_REC": "22,40",
+            "Min_Cells": 6.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE2306XF_2550": {
+        "id": "kde_direct_KDE2306XF_2550",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ADAPTER_DIAMETER": 5.0,
+            "COST": 28.95,
+            "MAX_CURRENT": 34.0,
+            "IO_IDLE_CURRENT_10V": 1.2,
+            "KT": 0.0037,
+            "CORPUS": "UAV",
+            "INTERNAL_RESISTANCE": 44.0,
+            "MODEL": "kde_direct_KDE2306XF_2550",
+            "MAX_POWER": 629.0,
+            "TOTAL_LENGTH": 21.5,
+            "ESC_BEC_Class": 1.0,
+            "CAN_LENGTH": 6.0,
+            "PROP_PITCH_REC": "3,5",
+            "KM": 0.017639057901043458,
+            "SHAFT_DIAMETER": 4.0,
+            "CAN_DIAMETER": 28.3,
+            "KV": 2550.0,
+            "Min_Cells": 2.0,
+            "ADAPTER_LENGTH": 9.0,
+            "Max_Cells": 5.0,
+            "WEIGHT": 0.042,
+            "LENGTH": 18.0,
+            "PROP_SIZE_REC": "5,8"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE2315XF_885": {
+        "id": "kde_direct_KDE2315XF_885",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KT": 0.0108,
+            "MAX_POWER": 532.0,
+            "TOTAL_LENGTH": 35.25,
+            "ADAPTER_DIAMETER": 6.0,
+            "Min_Cells": 3.0,
+            "CAN_DIAMETER": 28.3,
+            "LENGTH": 28.5,
+            "KM": 0.030305530796380944,
+            "Max_Cells": 6.0,
+            "SHAFT_DIAMETER": 4.0,
+            "MAX_CURRENT": 24.0,
+            "ESC_BEC_Class": 1.0,
+            "CORPUS": "UAV",
+            "KV": 885.0,
+            "ADAPTER_LENGTH": 12.0,
+            "CAN_LENGTH": 15.0,
+            "PROP_SIZE_REC": "9,12",
+            "INTERNAL_RESISTANCE": 127.0,
+            "WEIGHT": 0.075,
+            "MODEL": "kde_direct_KDE2315XF_885",
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "PROP_PITCH_REC": "3,5",
+            "COST": 60.95
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE2315XF_965": {
+        "id": "kde_direct_KDE2315XF_965",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_LENGTH": 15.0,
+            "ESC_BEC_Class": 1.0,
+            "KT": 0.0099,
+            "ADAPTER_DIAMETER": 6.0,
+            "WEIGHT": 0.075,
+            "LENGTH": 28.5,
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "KV": 965.0,
+            "MAX_CURRENT": 26.0,
+            "INTERNAL_RESISTANCE": 102.0,
+            "CORPUS": "UAV",
+            "CAN_DIAMETER": 28.3,
+            "TOTAL_LENGTH": 35.25,
+            "ADAPTER_LENGTH": 12.0,
+            "SHAFT_DIAMETER": 4.0,
+            "PROP_SIZE_REC": "9,12",
+            "MODEL": "kde_direct_KDE2315XF_965",
+            "Max_Cells": 4.0,
+            "COST": 60.95,
+            "KM": 0.030998102408714902,
+            "PROP_PITCH_REC": "3,5",
+            "MAX_POWER": 384.0,
+            "Min_Cells": 3.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE2814XF_515": {
+        "id": "kde_direct_KDE2814XF_515",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ESC_BEC_Class": 1.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "ADAPTER_LENGTH": 15.0,
+            "KT": 0.0185,
+            "LENGTH": 31.7,
+            "MAX_POWER": 532.0,
+            "Max_Cells": 6.0,
+            "INTERNAL_RESISTANCE": 130.0,
+            "PROP_SIZE_REC": "12,16",
+            "KM": 0.051309768150833684,
+            "Min_Cells": 4.0,
+            "KV": 515.0,
+            "CORPUS": "UAV",
+            "WEIGHT": 0.125,
+            "TOTAL_LENGTH": 41.45,
+            "COST": 71.95,
+            "CAN_LENGTH": 14.0,
+            "IO_IDLE_CURRENT_10V": 0.3,
+            "MODEL": "kde_direct_KDE2814XF_515",
+            "MAX_CURRENT": 24.0,
+            "SHAFT_DIAMETER": 4.0,
+            "CAN_DIAMETER": 35.5,
+            "PROP_PITCH_REC": "3,6"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE2814XF_775": {
+        "id": "kde_direct_KDE2814XF_775",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "INTERNAL_RESISTANCE": 69.0,
+            "Min_Cells": 3.0,
+            "MAX_POWER": 666.0,
+            "KV": 775.0,
+            "KT": 0.0123,
+            "CAN_DIAMETER": 35.5,
+            "Max_Cells": 5.0,
+            "MODEL": "kde_direct_KDE2814XF_775",
+            "ESC_BEC_Class": 1.0,
+            "SHAFT_DIAMETER": 4.0,
+            "CORPUS": "UAV",
+            "TOTAL_LENGTH": 41.45,
+            "PROP_PITCH_REC": "3,6",
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "COST": 71.95,
+            "PROP_SIZE_REC": "12,16",
+            "WEIGHT": 0.125,
+            "LENGTH": 31.7,
+            "ADAPTER_LENGTH": 15.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "CAN_LENGTH": 14.0,
+            "KM": 0.04682529973905318,
+            "MAX_CURRENT": 36.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE3510XF_475": {
+        "id": "kde_direct_KDE3510XF_475",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "IO_IDLE_CURRENT_10V": 0.2,
+            "COST": 92.95,
+            "MAX_CURRENT": 30.0,
+            "WEIGHT": 0.175,
+            "SHAFT_DIAMETER": 4.0,
+            "CAN_DIAMETER": 42.2,
+            "PROP_PITCH_REC": "4,6",
+            "KT": 0.0201,
+            "TOTAL_LENGTH": 44.75,
+            "LENGTH": 35.0,
+            "INTERNAL_RESISTANCE": 105.0,
+            "Max_Cells": 6.0,
+            "ADAPTER_LENGTH": "17,17",
+            "Min_Cells": 4.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "PROP_SIZE_REC": "12,16",
+            "CORPUS": "UAV",
+            "ESC_BEC_Class": 1.0,
+            "MAX_POWER": 666.0,
+            "KV": 475.0,
+            "CAN_LENGTH": 10.0,
+            "MODEL": "kde_direct_KDE3510XF_475",
+            "KM": 0.06202994668476095
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE3510XF_715": {
+        "id": "kde_direct_KDE3510XF_715",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ADAPTER_DIAMETER": "6,8",
+            "WEIGHT": 0.175,
+            "INTERNAL_RESISTANCE": 54.0,
+            "PROP_SIZE_REC": "12,16",
+            "PROP_PITCH_REC": "4,6",
+            "MAX_CURRENT": 45.0,
+            "Min_Cells": 3.0,
+            "LENGTH": 35.0,
+            "KM": 0.057664418710199325,
+            "COST": 92.95,
+            "ADAPTER_LENGTH": "17,17",
+            "SHAFT_DIAMETER": 4.0,
+            "TOTAL_LENGTH": 44.75,
+            "Max_Cells": 5.0,
+            "ESC_BEC_Class": 1.0,
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "KV": 715.0,
+            "CORPUS": "UAV",
+            "CAN_LENGTH": 10.0,
+            "KT": 0.0134,
+            "MAX_POWER": 832.0,
+            "CAN_DIAMETER": 42.2,
+            "MODEL": "kde_direct_KDE3510XF_715"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE3520XF_400": {
+        "id": "kde_direct_KDE3520XF_400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ADAPTER_DIAMETER": "6,8",
+            "MAX_POWER": 1332.0,
+            "CORPUS": "UAV",
+            "SHAFT_DIAMETER": 4.0,
+            "IO_IDLE_CURRENT_10V": 0.3,
+            "MODEL": "kde_direct_KDE3520XF_400",
+            "CAN_DIAMETER": 42.2,
+            "ESC_BEC_Class": 1.0,
+            "COST": 112.95,
+            "KV": 400.0,
+            "Min_Cells": 4.0,
+            "WEIGHT": 0.245,
+            "ADAPTER_LENGTH": "17,17",
+            "PROP_PITCH_REC": "4,8",
+            "Max_Cells": 8.0,
+            "INTERNAL_RESISTANCE": 78.0,
+            "CAN_LENGTH": 20.0,
+            "PROP_SIZE_REC": "16,20",
+            "LENGTH": 45.0,
+            "KM": 0.08557572744771223,
+            "KT": 0.0239,
+            "MAX_CURRENT": 45.0,
+            "TOTAL_LENGTH": 54.25
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE4012XF_400": {
+        "id": "kde_direct_KDE4012XF_400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KV": 400.0,
+            "SHAFT_DIAMETER": 4.0,
+            "Min_Cells": 4.0,
+            "PROP_PITCH_REC": "4,8",
+            "KT": 0.0239,
+            "ESC_BEC_Class": 1.0,
+            "KM": 0.08449926035179244,
+            "CAN_LENGTH": 12.0,
+            "MODEL": "kde_direct_KDE4012XF_400",
+            "INTERNAL_RESISTANCE": 80.0,
+            "CAN_DIAMETER": 46.5,
+            "Max_Cells": 8.0,
+            "LENGTH": 30.0,
+            "WEIGHT": 0.2,
+            "COST": 114.95,
+            "TOTAL_LENGTH": 39.75,
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "ADAPTER_LENGTH": "20,20",
+            "MAX_CURRENT": 32.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "CORPUS": "UAV",
+            "MAX_POWER": 947.0,
+            "PROP_SIZE_REC": "16,20"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE4014XF_380": {
+        "id": "kde_direct_KDE4014XF_380",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ADAPTER_DIAMETER": "6,8",
+            "CORPUS": "UAV",
+            "PROP_PITCH_REC": "4,8",
+            "TOTAL_LENGTH": 41.75,
+            "WEIGHT": 0.215,
+            "ESC_BEC_Class": 1.0,
+            "COST": 118.95,
+            "LENGTH": 32.0,
+            "MAX_CURRENT": 36.0,
+            "CAN_LENGTH": 14.0,
+            "ADAPTER_LENGTH": "20,20",
+            "SHAFT_DIAMETER": 4.0,
+            "Min_Cells": 4.0,
+            "MODEL": "kde_direct_KDE4014XF_380",
+            "PROP_SIZE_REC": "16,22",
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "MAX_POWER": 1065.0,
+            "KV": 380.0,
+            "KM": 0.0916522412891978,
+            "KT": 0.0251,
+            "INTERNAL_RESISTANCE": 75.0,
+            "CAN_DIAMETER": 46.5,
+            "Max_Cells": 8.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE4213XF_360": {
+        "id": "kde_direct_KDE4213XF_360",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "INTERNAL_RESISTANCE": 81.0,
+            "PROP_SIZE_REC": "16,22",
+            "MODEL": "kde_direct_KDE4213XF_360",
+            "ESC_BEC_Class": 1.0,
+            "IO_IDLE_CURRENT_10V": 0.4,
+            "Max_Cells": 8.0,
+            "MAX_POWER": 1124.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "PROP_PITCH_REC": "4,8",
+            "KV": 360.0,
+            "CAN_DIAMETER": 48.2,
+            "CORPUS": "UAV",
+            "CAN_LENGTH": 13.0,
+            "TOTAL_LENGTH": 44.0,
+            "LENGTH": 34.0,
+            "ADAPTER_LENGTH": "20,20",
+            "COST": 133.95,
+            "Min_Cells": 4.0,
+            "KT": 0.0265,
+            "SHAFT_DIAMETER": 4.0,
+            "WEIGHT": 0.23,
+            "MAX_CURRENT": 38.0,
+            "KM": 0.0931115088827356
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE4215XF_465": {
+        "id": "kde_direct_KDE4215XF_465",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "LENGTH": 36.0,
+            "SHAFT_DIAMETER": 4.0,
+            "PROP_PITCH_REC": "4,18",
+            "ESC_BEC_Class": 1.0,
+            "CORPUS": "Both",
+            "WEIGHT": 0.25,
+            "MAX_CURRENT": 62.0,
+            "KV": 468.0,
+            "IO_IDLE_CURRENT_10V": 0.7,
+            "MAX_POWER": 1375.0,
+            "Min_Cells": 4.0,
+            "TOTAL_LENGTH": 48.2,
+            "ADAPTER_LENGTH": 20.0,
+            "INTERNAL_RESISTANCE": 52.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "KT": 0.0205,
+            "CAN_DIAMETER": 48.2,
+            "PROP_SIZE_REC": "16,22",
+            "Max_Cells": 6.0,
+            "CAN_LENGTH": 15.0,
+            "KM": 0.08989844697897051,
+            "COST": 153.95,
+            "MODEL": "kde_direct_KDE4215XF_465"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE5215XF_220": {
+        "id": "kde_direct_KDE5215XF_220",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KT": 0.0434,
+            "CAN_LENGTH": 15.0,
+            "CORPUS": "Both",
+            "COST": 205.95,
+            "ESC_BEC_Class": 1.0,
+            "KV": 220.0,
+            "TOTAL_LENGTH": 53.3,
+            "MAX_CURRENT": 44.0,
+            "PROP_SIZE_REC": "18,26",
+            "ADAPTER_DIAMETER": "6,8",
+            "SHAFT_DIAMETER": 4.0,
+            "MAX_POWER": 1955.0,
+            "ADAPTER_LENGTH": 20.0,
+            "LENGTH": 41.0,
+            "KM": 0.15539692766655694,
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "PROP_PITCH_REC": "4,20",
+            "WEIGHT": 0.361,
+            "INTERNAL_RESISTANCE": 78.0,
+            "MODEL": "kde_direct_KDE5215XF_220",
+            "Max_Cells": 12.0,
+            "Min_Cells": 6.0,
+            "CAN_DIAMETER": 60.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE5215XF_330": {
+        "id": "kde_direct_KDE5215XF_330",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_DIAMETER": 60.0,
+            "INTERNAL_RESISTANCE": 44.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "KV": 330.0,
+            "PROP_SIZE_REC": "16,24",
+            "MAX_CURRENT": 62.0,
+            "KT": 0.0289,
+            "Max_Cells": 8.0,
+            "CORPUS": "Both",
+            "PROP_PITCH_REC": "4,20",
+            "MAX_POWER": 1835.0,
+            "COST": 201.95,
+            "SHAFT_DIAMETER": 4.0,
+            "LENGTH": 41.0,
+            "WEIGHT": 0.36,
+            "Min_Cells": 4.0,
+            "ADAPTER_LENGTH": 20.0,
+            "ESC_BEC_Class": 1.0,
+            "KM": 0.13777534414598808,
+            "CAN_LENGTH": 15.0,
+            "TOTAL_LENGTH": 53.3,
+            "MODEL": "kde_direct_KDE5215XF_330",
+            "IO_IDLE_CURRENT_10V": 0.7
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE5215XF_435": {
+        "id": "kde_direct_KDE5215XF_435",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Max_Cells": 8.0,
+            "KM": 0.12495160353435426,
+            "MAX_POWER": 1595.0,
+            "IO_IDLE_CURRENT_10V": 1.4,
+            "Min_Cells": 4.0,
+            "PROP_PITCH_REC": "4,20",
+            "COST": 201.95,
+            "CAN_LENGTH": 15.0,
+            "INTERNAL_RESISTANCE": 31.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "CAN_DIAMETER": 60.0,
+            "MODEL": "kde_direct_KDE5215XF_435",
+            "TOTAL_LENGTH": 53.3,
+            "LENGTH": 41.0,
+            "ESC_BEC_Class": 1.0,
+            "KT": 0.022,
+            "KV": 435.0,
+            "WEIGHT": 0.36,
+            "CORPUS": "Both",
+            "SHAFT_DIAMETER": 4.0,
+            "ADAPTER_LENGTH": 20.0,
+            "PROP_SIZE_REC": "16,24",
+            "MAX_CURRENT": 72.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE600XF_1100_G3": {
+        "id": "kde_direct_KDE600XF_1100_G3",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KT": 0.0087,
+            "WEIGHT": 0.375,
+            "ADAPTER_LENGTH": 0.0,
+            "KV": 1100.0,
+            "IO_IDLE_CURRENT_10V": 3.4,
+            "SHAFT_DIAMETER": 6.0,
+            "COST": 207.95,
+            "MAX_POWER": 3335.0,
+            "CORPUS": "Both",
+            "PROP_PITCH_REC": NaN,
+            "Min_Cells": 4.0,
+            "KM": 0.10398488901209224,
+            "TOTAL_LENGTH": 96.5,
+            "INTERNAL_RESISTANCE": 7.0,
+            "ESC_BEC_Class": 1.0,
+            "Max_Cells": 8.0,
+            "MODEL": "kde_direct_KDE600XF_1100_G3",
+            "PROP_SIZE_REC": NaN,
+            "ADAPTER_DIAMETER": 5.0,
+            "MAX_CURRENT": 112.0,
+            "LENGTH": 56.0,
+            "CAN_LENGTH": 40.0,
+            "CAN_DIAMETER": 46.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE600XF_530_G3": {
+        "id": "kde_direct_KDE600XF_530_G3",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KV": 530.0,
+            "ESC_BEC_Class": 1.0,
+            "ADAPTER_LENGTH": 0.0,
+            "KT": 0.018,
+            "MAX_CURRENT": 88.0,
+            "KM": 0.13805369799252665,
+            "Max_Cells": 12.0,
+            "COST": 229.95,
+            "WEIGHT": 0.425,
+            "MAX_POWER": 3905.0,
+            "INTERNAL_RESISTANCE": 17.0,
+            "CAN_DIAMETER": 46.0,
+            "IO_IDLE_CURRENT_10V": 1.2,
+            "LENGTH": 62.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "MODEL": "kde_direct_KDE600XF_530_G3",
+            "PROP_PITCH_REC": NaN,
+            "CORPUS": "Both",
+            "PROP_SIZE_REC": NaN,
+            "SHAFT_DIAMETER": 6.0,
+            "CAN_LENGTH": 46.0,
+            "Min_Cells": 6.0,
+            "TOTAL_LENGTH": 102.5
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE6213XF_185": {
+        "id": "kde_direct_KDE6213XF_185",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "TOTAL_LENGTH": 53.3,
+            "LENGTH": 39.0,
+            "COST": 264.95,
+            "CAN_DIAMETER": 70.0,
+            "CORPUS": "Both",
+            "WEIGHT": 0.415,
+            "KV": 185.0,
+            "PROP_SIZE_REC": "18,28",
+            "KT": 0.0516,
+            "SHAFT_DIAMETER": 4.0,
+            "MODEL": "kde_direct_KDE6213XF_185",
+            "IO_IDLE_CURRENT_10V": 0.6,
+            "KM": 0.1923018460649819,
+            "MAX_POWER": 2755.0,
+            "PROP_PITCH_REC": "6,24",
+            "ADAPTER_DIAMETER": "6,10",
+            "ADAPTER_LENGTH": 20.0,
+            "ESC_BEC_Class": 1.0,
+            "INTERNAL_RESISTANCE": 72.0,
+            "CAN_LENGTH": 13.0,
+            "Min_Cells": 6.0,
+            "Max_Cells": 12.0,
+            "MAX_CURRENT": 50.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE6815XF_205": {
+        "id": "kde_direct_KDE6815XF_205",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KV": 205.0,
+            "CORPUS": "Both",
+            "CAN_LENGTH": 15.0,
+            "MODEL": "kde_direct_KDE6815XF_205",
+            "KT": 0.047,
+            "LENGTH": 44.5,
+            "KM": 0.21452466835619005,
+            "WEIGHT": 0.63,
+            "INTERNAL_RESISTANCE": 48.0,
+            "PROP_SIZE_REC": "18,28",
+            "ADAPTER_LENGTH": 20.0,
+            "Max_Cells": 12.0,
+            "TOTAL_LENGTH": 56.8,
+            "MAX_CURRENT": 57.0,
+            "ADAPTER_DIAMETER": "6,10",
+            "MAX_POWER": 3000.0,
+            "ESC_BEC_Class": 1.0,
+            "IO_IDLE_CURRENT_10V": 1.9,
+            "CAN_DIAMETER": 77.2,
+            "SHAFT_DIAMETER": 4.0,
+            "COST": 350.95,
+            "Min_Cells": 6.0,
+            "PROP_PITCH_REC": "6,26"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE700XF_295_G3": {
+        "id": "kde_direct_KDE700XF_295_G3",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MAX_CURRENT": 139.0,
+            "COST": 330.95,
+            "Max_Cells": 16.0,
+            "Min_Cells": 10.0,
+            "PROP_SIZE_REC": NaN,
+            "MODEL": "kde_direct_KDE700XF_295_G3",
+            "CAN_LENGTH": 52.8,
+            "CORPUS": "Both",
+            "ESC_BEC_Class": 1.0,
+            "CAN_DIAMETER": 56.0,
+            "MAX_POWER": 7195.0,
+            "SHAFT_DIAMETER": 8.0,
+            "LENGTH": 74.7,
+            "ADAPTER_LENGTH": 0.0,
+            "KT": 0.0324,
+            "PROP_PITCH_REC": NaN,
+            "ADAPTER_DIAMETER": 6.0,
+            "INTERNAL_RESISTANCE": 18.0,
+            "IO_IDLE_CURRENT_10V": 1.1,
+            "TOTAL_LENGTH": 125.7,
+            "KV": 295.0,
+            "KM": 0.24149534156997726,
+            "WEIGHT": 0.695
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE700XF_455_G3": {
+        "id": "kde_direct_KDE700XF_455_G3",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KM": 0.21,
+            "PROP_PITCH_REC": NaN,
+            "IO_IDLE_CURRENT_10V": 2.2,
+            "INTERNAL_RESISTANCE": 10.0,
+            "WEIGHT": 0.7,
+            "KV": 455.0,
+            "SHAFT_DIAMETER": 6.0,
+            "Max_Cells": 16.0,
+            "ESC_BEC_Class": 1.0,
+            "PROP_SIZE_REC": NaN,
+            "CAN_DIAMETER": 56.0,
+            "Min_Cells": 10.0,
+            "COST": 330.95,
+            "LENGTH": 74.7,
+            "KT": 0.021,
+            "CORPUS": "Both",
+            "MAX_POWER": 6995.0,
+            "ADAPTER_LENGTH": 5.0,
+            "TOTAL_LENGTH": 125.7,
+            "MODEL": "kde_direct_KDE700XF_455_G3",
+            "MAX_CURRENT": 135.0,
+            "ADAPTER_DIAMETER": 8.0,
+            "CAN_LENGTH": 52.8
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE700XF_535_G3": {
+        "id": "kde_direct_KDE700XF_535_G3",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_DIAMETER": 56.0,
+            "LENGTH": 63.7,
+            "IO_IDLE_CURRENT_10V": 2.4,
+            "MODEL": "kde_direct_KDE700XF_535_G3",
+            "ADAPTER_DIAMETER": 6.0,
+            "ESC_BEC_Class": 1.0,
+            "ADAPTER_LENGTH": 0.0,
+            "Max_Cells": 14.0,
+            "KM": 0.18762847450332384,
+            "CAN_LENGTH": 41.8,
+            "TOTAL_LENGTH": 114.7,
+            "PROP_SIZE_REC": NaN,
+            "WEIGHT": 0.56,
+            "CORPUS": "Both",
+            "Min_Cells": 8.0,
+            "SHAFT_DIAMETER": 6.0,
+            "MAX_POWER": 5595.0,
+            "COST": 296.95,
+            "MAX_CURRENT": 126.0,
+            "PROP_PITCH_REC": NaN,
+            "KT": 0.0178,
+            "KV": 535.0,
+            "INTERNAL_RESISTANCE": 9.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE7208XF_135": {
+        "id": "kde_direct_KDE7208XF_135",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_DIAMETER": 79.5,
+            "IO_IDLE_CURRENT_10V": 0.4,
+            "KM": 0.2103198154686359,
+            "TOTAL_LENGTH": 56.8,
+            "ESC_BEC_Class": 1.0,
+            "INTERNAL_RESISTANCE": 113.0,
+            "MAX_POWER": 2145.0,
+            "ADAPTER_DIAMETER": "8,10",
+            "SHAFT_DIAMETER": 10.0,
+            "Max_Cells": 12.0,
+            "PROP_SIZE_REC": "20,32",
+            "CORPUS": "Both",
+            "KT": 0.0707,
+            "PROP_PITCH_REC": "8,28",
+            "MAX_CURRENT": 58.0,
+            "MODEL": "kde_direct_KDE7208XF_135",
+            "KV": 135.0,
+            "COST": 360.95,
+            "Min_Cells": 6.0,
+            "WEIGHT": 0.445,
+            "CAN_LENGTH": 8.0,
+            "LENGTH": 42.5,
+            "ADAPTER_LENGTH": 20.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE7215XF_135": {
+        "id": "kde_direct_KDE7215XF_135",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "kde_direct_KDE7215XF_135",
+            "KM": 0.259898368910161,
+            "KT": 0.0707,
+            "ADAPTER_DIAMETER": 10.0,
+            "Max_Cells": 14.0,
+            "LENGTH": 49.5,
+            "KV": 135.0,
+            "Min_Cells": 6.0,
+            "ESC_BEC_Class": 1.0,
+            "TOTAL_LENGTH": 66.3,
+            "SHAFT_DIAMETER": 10.0,
+            "CAN_LENGTH": 15.0,
+            "WEIGHT": 0.64,
+            "CORPUS": "Both",
+            "CAN_DIAMETER": 79.5,
+            "MAX_POWER": 4405.0,
+            "PROP_PITCH_REC": "10,30",
+            "MAX_CURRENT": 85.0,
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "COST": 383.95,
+            "ADAPTER_LENGTH": 20.0,
+            "INTERNAL_RESISTANCE": 74.0,
+            "PROP_SIZE_REC": "20,32"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "kde_direct_KDE8218XF_120": {
+        "id": "kde_direct_KDE8218XF_120",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MAX_CURRENT": 110.0,
+            "IO_IDLE_CURRENT_10V": 0.8,
+            "CORPUS": "Both",
+            "MODEL": "kde_direct_KDE8218XF_120",
+            "CAN_LENGTH": 18.0,
+            "Min_Cells": 6.0,
+            "KV": 120.0,
+            "INTERNAL_RESISTANCE": 42.0,
+            "WEIGHT": 0.845,
+            "PROP_SIZE_REC": "22,34",
+            "ADAPTER_LENGTH": 20.0,
+            "Max_Cells": 14.0,
+            "ADAPTER_DIAMETER": 10.0,
+            "ESC_BEC_Class": 1.0,
+            "SHAFT_DIAMETER": 10.0,
+            "LENGTH": 62.0,
+            "MAX_POWER": 5695.0,
+            "KM": 0.3884082290335162,
+            "CAN_DIAMETER": 88.5,
+            "COST": 615.95,
+            "KT": 0.0796,
+            "PROP_PITCH_REC": "10,30",
+            "TOTAL_LENGTH": 71.5
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2308KV1450": {
+        "id": "t_motor_AS2308KV1450",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Poles": "12N14P",
+            "ADAPTER_DIAMETER": "5,6",
+            "INTERNAL_RESISTANCE": 88.0,
+            "Max_Cells": 4.0,
+            "MAX_CURRENT": 24.0,
+            "TOTAL_LENGTH": 40.5,
+            "PROP_PITCH_REC": "5,7",
+            "KT": 0.006585721783112911,
+            "CORPUS": "UAV",
+            "ESC_BEC_Class": 3.0,
+            "Min_Cells": 2.0,
+            "SHAFT_DIAMETER": 4.0,
+            "CAN_LENGTH": 8.0,
+            "ADAPTER_LENGTH": "24,28",
+            "LENGTH": 26.0,
+            "IO_IDLE_CURRENT_10V": 0.74,
+            "KV": 1450.0,
+            "WEIGHT": 0.049,
+            "MODEL": "t_motor_AS2308KV1450",
+            "KM": 0.02220046360197951,
+            "PROP_SIZE_REC": "7,10",
+            "MAX_POWER": 275.0,
+            "CAN_DIAMETER": 29.4,
+            "COST": 18.99
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2308KV2600": {
+        "id": "t_motor_AS2308KV2600",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Poles": "12N14P",
+            "COST": 18.99,
+            "WEIGHT": 0.049,
+            "CAN_LENGTH": 8.0,
+            "KM": 0.021204957516222773,
+            "MODEL": "t_motor_AS2308KV2600",
+            "PROP_PITCH_REC": "3,6",
+            "MAX_POWER": 326.0,
+            "Max_Cells": 4.0,
+            "PROP_SIZE_REC": "4,8",
+            "KT": 0.003672806379043739,
+            "LENGTH": 26.0,
+            "ADAPTER_DIAMETER": "5,6",
+            "INTERNAL_RESISTANCE": 30.0,
+            "ESC_BEC_Class": 3.0,
+            "Min_Cells": 2.0,
+            "TOTAL_LENGTH": 40.5,
+            "KV": 2600.0,
+            "MAX_CURRENT": 29.0,
+            "CORPUS": "UAV",
+            "ADAPTER_LENGTH": "24,28",
+            "IO_IDLE_CURRENT_10V": 1.62,
+            "SHAFT_DIAMETER": 4.0,
+            "CAN_DIAMETER": 29.4
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2312KV1150": {
+        "id": "t_motor_AS2312KV1150",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MAX_CURRENT": 23.0,
+            "TOTAL_LENGTH": 44.5,
+            "ESC_BEC_Class": 3.0,
+            "INTERNAL_RESISTANCE": 81.0,
+            "ADAPTER_LENGTH": "24,28",
+            "PROP_SIZE_REC": "7,10",
+            "CAN_LENGTH": 12.0,
+            "Min_Cells": 3.0,
+            "CAN_DIAMETER": 29.4,
+            "IO_IDLE_CURRENT_10V": 0.76,
+            "MAX_POWER": 357.0,
+            "Max_Cells": 4.0,
+            "Poles": "12N14P",
+            "LENGTH": 30.0,
+            "KT": 0.008303736161316279,
+            "COST": 19.99,
+            "KV": 1150.0,
+            "SHAFT_DIAMETER": 4.0,
+            "PROP_PITCH_REC": "5,7",
+            "KM": 0.029176354843180888,
+            "ADAPTER_DIAMETER": "5,6",
+            "CORPUS": "UAV",
+            "WEIGHT": 0.063,
+            "MODEL": "t_motor_AS2312KV1150"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2312KV1400": {
+        "id": "t_motor_AS2312KV1400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "LENGTH": 30.0,
+            "ESC_BEC_Class": 3.0,
+            "KM": 0.030504109003593304,
+            "Poles": "12N14P",
+            "CAN_LENGTH": 12.0,
+            "PROP_SIZE_REC": "7,9",
+            "Min_Cells": 3.0,
+            "Max_Cells": 4.0,
+            "SHAFT_DIAMETER": 4.0,
+            "MAX_POWER": 334.0,
+            "MODEL": "t_motor_AS2312KV1400",
+            "MAX_CURRENT": 30.0,
+            "CORPUS": "UAV",
+            "INTERNAL_RESISTANCE": 50.0,
+            "ADAPTER_LENGTH": "24,28",
+            "CAN_DIAMETER": 29.4,
+            "TOTAL_LENGTH": 44.5,
+            "IO_IDLE_CURRENT_10V": 1.05,
+            "WEIGHT": 0.063,
+            "COST": 19.99,
+            "ADAPTER_DIAMETER": "5,6",
+            "KV": 1400.0,
+            "KT": 0.006820926132509801,
+            "PROP_PITCH_REC": "5,7"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2317KV1250": {
+        "id": "t_motor_AS2317KV1250",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "IO_IDLE_CURRENT_10V": 1.7,
+            "MAX_POWER": 596.0,
+            "ESC_BEC_Class": 3.0,
+            "SHAFT_DIAMETER": 4.0,
+            "KT": 0.007639437268410976,
+            "Max_Cells": 4.0,
+            "MAX_CURRENT": 40.0,
+            "CAN_DIAMETER": 29.4,
+            "INTERNAL_RESISTANCE": 50.0,
+            "PROP_PITCH_REC": "5,7",
+            "TOTAL_LENGTH": 52.0,
+            "WEIGHT": 0.081,
+            "ADAPTER_DIAMETER": "5,6",
+            "LENGTH": 36.0,
+            "Min_Cells": 3.0,
+            "Poles": "12N14P",
+            "CAN_LENGTH": 17.0,
+            "ADAPTER_LENGTH": "24,28",
+            "KV": 1250.0,
+            "COST": 21.95,
+            "MODEL": "t_motor_AS2317KV1250",
+            "KM": 0.0341646020840245,
+            "CORPUS": "UAV",
+            "PROP_SIZE_REC": "8,11"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2317KV1400": {
+        "id": "t_motor_AS2317KV1400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "PROP_PITCH_REC": "5,7",
+            "IO_IDLE_CURRENT_10V": 1.68,
+            "KV": 1400.0,
+            "MAX_CURRENT": 48.0,
+            "INTERNAL_RESISTANCE": 35.2,
+            "Min_Cells": 3.0,
+            "Max_Cells": 4.0,
+            "PROP_SIZE_REC": "8,10",
+            "SHAFT_DIAMETER": 4.0,
+            "CAN_DIAMETER": 29.4,
+            "Poles": "12N14P",
+            "MODEL": "t_motor_AS2317KV1400",
+            "LENGTH": 36.0,
+            "TOTAL_LENGTH": 52.0,
+            "CORPUS": "UAV",
+            "CAN_LENGTH": 17.0,
+            "ESC_BEC_Class": 3.0,
+            "WEIGHT": 0.081,
+            "COST": 21.95,
+            "MAX_POWER": 712.0,
+            "ADAPTER_LENGTH": "24,28",
+            "ADAPTER_DIAMETER": "5,6",
+            "KT": 0.006820926132509801,
+            "KM": 0.03635565844149482
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2317KV880": {
+        "id": "t_motor_AS2317KV880",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Poles": "12N14P",
+            "KV": 880.0,
+            "COST": 21.95,
+            "CAN_DIAMETER": 29.4,
+            "ESC_BEC_Class": 3.0,
+            "WEIGHT": 0.081,
+            "TOTAL_LENGTH": 52.0,
+            "MAX_CURRENT": 26.0,
+            "MODEL": "t_motor_AS2317KV880",
+            "PROP_SIZE_REC": "9,13",
+            "ADAPTER_LENGTH": "24,28",
+            "LENGTH": 36.0,
+            "PROP_PITCH_REC": "5,8",
+            "SHAFT_DIAMETER": 4.0,
+            "CAN_LENGTH": 17.0,
+            "MAX_POWER": 394.0,
+            "Min_Cells": 3.0,
+            "ADAPTER_DIAMETER": "5,6",
+            "KT": 0.010851473392629226,
+            "Max_Cells": 4.0,
+            "KM": 0.03836575210896759,
+            "CORPUS": "UAV",
+            "IO_IDLE_CURRENT_10V": 0.74,
+            "INTERNAL_RESISTANCE": 80.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2814KV1050": {
+        "id": "t_motor_AS2814KV1050",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "PROP_SIZE_REC": "9,14",
+            "ADAPTER_LENGTH": 30.0,
+            "INTERNAL_RESISTANCE": 34.6,
+            "WEIGHT": 0.112,
+            "LENGTH": 36.0,
+            "TOTAL_LENGTH": 54.5,
+            "Poles": "12N14P",
+            "MAX_CURRENT": 49.0,
+            "KM": 0.048892701418832354,
+            "SHAFT_DIAMETER": 5.0,
+            "CAN_DIAMETER": 36.2,
+            "KV": 1050.0,
+            "IO_IDLE_CURRENT_10V": 1.35,
+            "CAN_LENGTH": 14.0,
+            "MAX_POWER": 718.0,
+            "ESC_BEC_Class": 3.0,
+            "PROP_PITCH_REC": "4,7",
+            "KT": 0.009094568176679734,
+            "MODEL": "t_motor_AS2814KV1050",
+            "ADAPTER_DIAMETER": 6.0,
+            "COST": 33.99,
+            "Min_Cells": 3.0,
+            "CORPUS": "UAV",
+            "Max_Cells": 4.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2814KV1200": {
+        "id": "t_motor_AS2814KV1200",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Max_Cells": 4.0,
+            "KM": 0.05012909516045148,
+            "WEIGHT": 0.112,
+            "COST": 33.99,
+            "ADAPTER_LENGTH": 30.0,
+            "PROP_PITCH_REC": "4,7",
+            "Poles": "12N14P",
+            "KT": 0.007957747154594767,
+            "TOTAL_LENGTH": 54.5,
+            "LENGTH": 36.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "INTERNAL_RESISTANCE": 25.2,
+            "MODEL": "t_motor_AS2814KV1200",
+            "IO_IDLE_CURRENT_10V": 2.21,
+            "ESC_BEC_Class": 3.0,
+            "KV": 1200.0,
+            "PROP_SIZE_REC": "8,12",
+            "SHAFT_DIAMETER": 5.0,
+            "CAN_LENGTH": 14.0,
+            "MAX_CURRENT": 61.0,
+            "MAX_POWER": 885.0,
+            "CORPUS": "UAV",
+            "Min_Cells": 3.0,
+            "CAN_DIAMETER": 36.2
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2814KV2000": {
+        "id": "t_motor_AS2814KV2000",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "COST": 33.99,
+            "Min_Cells": 2.0,
+            "MODEL": "t_motor_AS2814KV2000",
+            "Poles": "12N14P",
+            "SHAFT_DIAMETER": 5.0,
+            "MAX_POWER": 441.0,
+            "Max_Cells": 3.0,
+            "CORPUS": "UAV",
+            "CAN_DIAMETER": 36.2,
+            "ESC_BEC_Class": 3.0,
+            "PROP_SIZE_REC": "7,11",
+            "IO_IDLE_CURRENT_10V": 4.5,
+            "INTERNAL_RESISTANCE": 11.0,
+            "KM": 0.04552448523949003,
+            "PROP_PITCH_REC": "4,7",
+            "ADAPTER_LENGTH": 30.0,
+            "KV": 2000.0,
+            "CAN_LENGTH": 14.0,
+            "WEIGHT": 0.116,
+            "ADAPTER_DIAMETER": 6.0,
+            "LENGTH": 36.0,
+            "MAX_CURRENT": 42.0,
+            "TOTAL_LENGTH": 54.5,
+            "KT": 0.004774648292756861
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2814KV900": {
+        "id": "t_motor_AS2814KV900",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "COST": 33.99,
+            "MODEL": "t_motor_AS2814KV900",
+            "ADAPTER_DIAMETER": 6.0,
+            "CAN_DIAMETER": 36.2,
+            "MAX_CURRENT": 37.0,
+            "LENGTH": 36.0,
+            "KM": 0.05087263630837239,
+            "MAX_POWER": 553.0,
+            "PROP_PITCH_REC": "4,7",
+            "IO_IDLE_CURRENT_10V": 1.35,
+            "ESC_BEC_Class": 3.0,
+            "CORPUS": "UAV",
+            "Min_Cells": 3.0,
+            "ADAPTER_LENGTH": 30.0,
+            "Poles": "12N14P",
+            "INTERNAL_RESISTANCE": 43.5,
+            "PROP_SIZE_REC": "9,14",
+            "TOTAL_LENGTH": 54.5,
+            "KT": 0.01061032953945969,
+            "CAN_LENGTH": 14.0,
+            "Max_Cells": 4.0,
+            "SHAFT_DIAMETER": 5.0,
+            "KV": 900.0,
+            "WEIGHT": 0.11
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2820KV1050": {
+        "id": "t_motor_AS2820KV1050",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KT": 0.009094568176679734,
+            "ADAPTER_LENGTH": 30.0,
+            "TOTAL_LENGTH": 62.2,
+            "INTERNAL_RESISTANCE": 23.2,
+            "MAX_POWER": 963.0,
+            "Max_Cells": 4.0,
+            "ESC_BEC_Class": 3.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "LENGTH": 42.0,
+            "COST": 34.0,
+            "Poles": "12N14P",
+            "WEIGHT": 0.144,
+            "PROP_SIZE_REC": "10,13",
+            "CAN_LENGTH": 20.0,
+            "MODEL": "t_motor_AS2820KV1050",
+            "Min_Cells": 3.0,
+            "MAX_CURRENT": 67.0,
+            "KV": 1050.0,
+            "PROP_PITCH_REC": "5,8",
+            "CAN_DIAMETER": 36.2,
+            "CORPUS": "UAV",
+            "KM": 0.059708765283968346,
+            "IO_IDLE_CURRENT_10V": 2.6,
+            "SHAFT_DIAMETER": 5.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2820KV1250": {
+        "id": "t_motor_AS2820KV1250",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "t_motor_AS2820KV1250",
+            "PROP_PITCH_REC": "5,8",
+            "LENGTH": 42.0,
+            "INTERNAL_RESISTANCE": 16.8,
+            "CAN_DIAMETER": 36.2,
+            "WEIGHT": 0.144,
+            "ADAPTER_DIAMETER": 6.0,
+            "Min_Cells": 3.0,
+            "PROP_SIZE_REC": "8,12",
+            "TOTAL_LENGTH": 62.2,
+            "KV": 1250.0,
+            "SHAFT_DIAMETER": 5.0,
+            "Max_Cells": 4.0,
+            "Poles": "12N14P",
+            "CORPUS": "UAV",
+            "IO_IDLE_CURRENT_10V": 3.44,
+            "COST": 34.0,
+            "ADAPTER_LENGTH": 30.0,
+            "KM": 0.05893953811705331,
+            "MAX_POWER": 1092.0,
+            "CAN_LENGTH": 20.0,
+            "KT": 0.007639437268410976,
+            "MAX_CURRENT": 77.0,
+            "ESC_BEC_Class": 3.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AS2820KV880": {
+        "id": "t_motor_AS2820KV880",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "WEIGHT": 0.136,
+            "Min_Cells": 3.0,
+            "Poles": "12N14P",
+            "MAX_POWER": 626.0,
+            "KT": 0.010851473392629226,
+            "KM": 0.058850377276750604,
+            "TOTAL_LENGTH": 62.2,
+            "PROP_PITCH_REC": "5,7",
+            "SHAFT_DIAMETER": 5.0,
+            "CAN_DIAMETER": 36.2,
+            "COST": 34.0,
+            "LENGTH": 42.0,
+            "CORPUS": "UAV",
+            "ADAPTER_DIAMETER": 6.0,
+            "IO_IDLE_CURRENT_10V": 2.0,
+            "PROP_SIZE_REC": "11,14",
+            "ADAPTER_LENGTH": 30.0,
+            "Max_Cells": 4.0,
+            "INTERNAL_RESISTANCE": 34.0,
+            "ESC_BEC_Class": 3.0,
+            "MODEL": "t_motor_AS2820KV880",
+            "KV": 880.0,
+            "CAN_LENGTH": 20.0,
+            "MAX_CURRENT": 45.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2308KV1450": {
+        "id": "t_motor_AT2308KV1450",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "INTERNAL_RESISTANCE": 90.0,
+            "SHAFT_DIAMETER": 4.0,
+            "COST": 29.99,
+            "ADAPTER_LENGTH": 23.0,
+            "WEIGHT": 0.047,
+            "PROP_SIZE_REC": "6,9",
+            "KT": 0.006585721783112911,
+            "IO_IDLE_CURRENT_10V": 0.8,
+            "TOTAL_LENGTH": 40.5,
+            "MODEL": "t_motor_AT2308KV1450",
+            "CORPUS": "UAV",
+            "Poles": "12N14P",
+            "MAX_CURRENT": 23.0,
+            "Max_Cells": 4.0,
+            "KM": 0.021952405943709705,
+            "KV": 1450.0,
+            "ESC_BEC_Class": 3.0,
+            "CAN_LENGTH": 8.0,
+            "MAX_POWER": 250.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "PROP_PITCH_REC": "4,7",
+            "LENGTH": 26.0,
+            "CAN_DIAMETER": 28.8,
+            "Min_Cells": 2.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2308KV2600": {
+        "id": "t_motor_AT2308KV2600",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_DIAMETER": 28.8,
+            "MAX_CURRENT": 28.0,
+            "INTERNAL_RESISTANCE": 28.0,
+            "COST": 29.99,
+            "CAN_LENGTH": 8.0,
+            "Poles": "12N14P",
+            "TOTAL_LENGTH": 40.5,
+            "IO_IDLE_CURRENT_10V": 1.8,
+            "CORPUS": "UAV",
+            "ADAPTER_DIAMETER": 6.0,
+            "KT": 0.003672806379043739,
+            "Min_Cells": 2.0,
+            "MAX_POWER": 300.0,
+            "Max_Cells": 4.0,
+            "KV": 2600.0,
+            "KM": 0.02194921630389469,
+            "MODEL": "t_motor_AT2308KV2600",
+            "LENGTH": 26.0,
+            "PROP_SIZE_REC": "5,7",
+            "ADAPTER_LENGTH": 23.0,
+            "WEIGHT": 0.048,
+            "SHAFT_DIAMETER": 4.0,
+            "ESC_BEC_Class": 3.0,
+            "PROP_PITCH_REC": "4,6"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2310KV2200": {
+        "id": "t_motor_AT2310KV2200",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ESC_BEC_Class": 3.0,
+            "Poles": "12N14P",
+            "Min_Cells": 3.0,
+            "PROP_SIZE_REC": "5,6",
+            "WEIGHT": 0.052,
+            "TOTAL_LENGTH": 49.8,
+            "SHAFT_DIAMETER": 6.0,
+            "KM": 0.02320142604394973,
+            "MODEL": "t_motor_AT2310KV2200",
+            "CORPUS": "UAV",
+            "ADAPTER_LENGTH": NaN,
+            "IO_IDLE_CURRENT_10V": 2.1,
+            "MAX_POWER": 650.0,
+            "PROP_PITCH_REC": "4,5",
+            "CAN_LENGTH": 10.0,
+            "COST": 27.99,
+            "ADAPTER_DIAMETER": NaN,
+            "Max_Cells": 4.0,
+            "KT": 0.004340589357051691,
+            "MAX_CURRENT": 45.0,
+            "LENGTH": 24.8,
+            "CAN_DIAMETER": 28.8,
+            "KV": 2200.0,
+            "INTERNAL_RESISTANCE": 35.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2312KV1150": {
+        "id": "t_motor_AT2312KV1150",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "TOTAL_LENGTH": 44.5,
+            "IO_IDLE_CURRENT_10V": 0.85,
+            "WEIGHT": 0.06,
+            "KM": 0.030320957380828555,
+            "COST": 34.99,
+            "ESC_BEC_Class": 3.0,
+            "MAX_CURRENT": 25.0,
+            "KT": 0.008303736161316279,
+            "CAN_DIAMETER": 28.8,
+            "LENGTH": 30.0,
+            "Poles": "12N14P",
+            "ADAPTER_LENGTH": 23.0,
+            "Min_Cells": 2.0,
+            "MAX_POWER": 350.0,
+            "CAN_LENGTH": 12.0,
+            "SHAFT_DIAMETER": 4.0,
+            "INTERNAL_RESISTANCE": 75.0,
+            "Max_Cells": 4.0,
+            "KV": 1150.0,
+            "PROP_PITCH_REC": "4,7",
+            "ADAPTER_DIAMETER": 6.0,
+            "MODEL": "t_motor_AT2312KV1150",
+            "PROP_SIZE_REC": "8,10",
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2312KV1400": {
+        "id": "t_motor_AT2312KV1400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KM": 0.029084526753195856,
+            "TOTAL_LENGTH": 44.5,
+            "ESC_BEC_Class": 3.0,
+            "PROP_PITCH_REC": "4,7",
+            "CAN_DIAMETER": 28.8,
+            "KT": 0.006820926132509801,
+            "KV": 1400.0,
+            "ADAPTER_LENGTH": 23.0,
+            "INTERNAL_RESISTANCE": 55.0,
+            "CORPUS": "UAV",
+            "MODEL": "t_motor_AT2312KV1400",
+            "ADAPTER_DIAMETER": 6.0,
+            "Poles": "12N14P",
+            "MAX_CURRENT": 30.0,
+            "Max_Cells": 4.0,
+            "PROP_SIZE_REC": "7,9",
+            "IO_IDLE_CURRENT_10V": 1.1,
+            "Min_Cells": 2.0,
+            "CAN_LENGTH": 12.0,
+            "SHAFT_DIAMETER": 4.0,
+            "LENGTH": 30.0,
+            "COST": 34.99,
+            "MAX_POWER": 320.0,
+            "WEIGHT": 0.06
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2317KV1250": {
+        "id": "t_motor_AT2317KV1250",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Max_Cells": 4.0,
+            "INTERNAL_RESISTANCE": 52.0,
+            "KM": 0.033501148596264164,
+            "WEIGHT": 0.079,
+            "CORPUS": "UAV",
+            "CAN_LENGTH": 17.0,
+            "MODEL": "t_motor_AT2317KV1250",
+            "KV": 1250.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "CAN_DIAMETER": 28.8,
+            "ESC_BEC_Class": 3.0,
+            "TOTAL_LENGTH": 52.0,
+            "MAX_CURRENT": 40.0,
+            "IO_IDLE_CURRENT_10V": 1.3,
+            "KT": 0.007639437268410976,
+            "COST": 39.99,
+            "LENGTH": 36.0,
+            "SHAFT_DIAMETER": 4.0,
+            "Min_Cells": 2.0,
+            "MAX_POWER": 550.0,
+            "Poles": "12N14P",
+            "ADAPTER_LENGTH": 23.0,
+            "PROP_SIZE_REC": "8,11",
+            "PROP_PITCH_REC": "4,7"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2317KV1400": {
+        "id": "t_motor_AT2317KV1400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "UAV",
+            "LENGTH": 36.0,
+            "KT": 0.006820926132509801,
+            "IO_IDLE_CURRENT_10V": 1.7,
+            "KM": 0.03645938378334958,
+            "COST": 39.99,
+            "INTERNAL_RESISTANCE": 35.0,
+            "MODEL": "t_motor_AT2317KV1400",
+            "PROP_PITCH_REC": "4,7",
+            "ADAPTER_DIAMETER": 6.0,
+            "CAN_LENGTH": 17.0,
+            "KV": 1400.0,
+            "ADAPTER_LENGTH": 23.0,
+            "ESC_BEC_Class": 3.0,
+            "MAX_CURRENT": 45.0,
+            "WEIGHT": 0.08,
+            "Max_Cells": 4.0,
+            "CAN_DIAMETER": 28.8,
+            "TOTAL_LENGTH": 52.0,
+            "Poles": "12N14P",
+            "Min_Cells": 2.0,
+            "MAX_POWER": 700.0,
+            "PROP_SIZE_REC": "8,10",
+            "SHAFT_DIAMETER": 4.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2317KV880": {
+        "id": "t_motor_AT2317KV880",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ADAPTER_DIAMETER": 6.0,
+            "LENGTH": 36.0,
+            "KM": 0.03789498885574869,
+            "COST": 39.99,
+            "PROP_SIZE_REC": "9,14",
+            "CAN_LENGTH": 17.0,
+            "CAN_DIAMETER": 28.8,
+            "KT": 0.010851473392629226,
+            "WEIGHT": 0.079,
+            "INTERNAL_RESISTANCE": 82.0,
+            "Min_Cells": 2.0,
+            "TOTAL_LENGTH": 52.0,
+            "Max_Cells": 4.0,
+            "PROP_PITCH_REC": "4,8",
+            "CORPUS": "UAV",
+            "Poles": "12N14P",
+            "MODEL": "t_motor_AT2317KV880",
+            "IO_IDLE_CURRENT_10V": 0.9,
+            "ADAPTER_LENGTH": 23.0,
+            "MAX_POWER": 350.0,
+            "SHAFT_DIAMETER": 4.0,
+            "KV": 880.0,
+            "ESC_BEC_Class": 3.0,
+            "MAX_CURRENT": 25.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2321KV1250": {
+        "id": "t_motor_AT2321KV1250",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "t_motor_AT2321KV1250",
+            "PROP_SIZE_REC": "8,11",
+            "KM": 0.039189486297511025,
+            "Min_Cells": 2.0,
+            "Max_Cells": 4.0,
+            "KT": 0.007639437268410976,
+            "PROP_PITCH_REC": "4,7",
+            "MAX_CURRENT": 45.0,
+            "ADAPTER_LENGTH": 23.0,
+            "COST": 44.99,
+            "WEIGHT": 0.094,
+            "LENGTH": 40.0,
+            "MAX_POWER": 700.0,
+            "CORPUS": "UAV",
+            "TOTAL_LENGTH": 56.0,
+            "SHAFT_DIAMETER": 4.0,
+            "IO_IDLE_CURRENT_10V": 1.8,
+            "KV": 1250.0,
+            "Poles": "12N14P",
+            "ADAPTER_DIAMETER": 6.0,
+            "INTERNAL_RESISTANCE": 38.0,
+            "CAN_DIAMETER": 28.8,
+            "ESC_BEC_Class": 3.0,
+            "CAN_LENGTH": 21.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2321KV950": {
+        "id": "t_motor_AT2321KV950",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KV": 950.0,
+            "PROP_SIZE_REC": "9,12",
+            "WEIGHT": 0.093,
+            "MAX_POWER": 450.0,
+            "LENGTH": 40.0,
+            "KM": 0.03942676083450965,
+            "TOTAL_LENGTH": 56.0,
+            "CAN_DIAMETER": 28.8,
+            "CAN_LENGTH": 21.0,
+            "KT": 0.010051891142646022,
+            "ADAPTER_LENGTH": 23.0,
+            "CORPUS": "UAV",
+            "IO_IDLE_CURRENT_10V": 1.2,
+            "MAX_CURRENT": 30.0,
+            "Poles": "12N14P",
+            "MODEL": "t_motor_AT2321KV950",
+            "SHAFT_DIAMETER": 4.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "ESC_BEC_Class": 3.0,
+            "PROP_PITCH_REC": "4,7",
+            "Max_Cells": 4.0,
+            "INTERNAL_RESISTANCE": 65.0,
+            "Min_Cells": 2.0,
+            "COST": 44.99
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2814KV1050": {
+        "id": "t_motor_AT2814KV1050",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ESC_BEC_Class": 3.0,
+            "Poles": "12N14P",
+            "ADAPTER_DIAMETER": "6,8",
+            "PROP_PITCH_REC": "4,7",
+            "CORPUS": "UAV",
+            "LENGTH": 36.0,
+            "IO_IDLE_CURRENT_10V": 1.5,
+            "Min_Cells": 3.0,
+            "KV": 1050.0,
+            "MAX_CURRENT": 50.0,
+            "PROP_SIZE_REC": "9,13",
+            "ADAPTER_LENGTH": "30,36",
+            "WEIGHT": 0.107,
+            "MAX_POWER": 700.0,
+            "COST": 49.99,
+            "CAN_LENGTH": 14.0,
+            "SHAFT_DIAMETER": 5.0,
+            "TOTAL_LENGTH": 54.5,
+            "Max_Cells": 4.0,
+            "KT": 0.009094568176679734,
+            "INTERNAL_RESISTANCE": 35.0,
+            "KM": 0.048612511711132775,
+            "MODEL": "t_motor_AT2814KV1050",
+            "CAN_DIAMETER": 35.2
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2814KV1200": {
+        "id": "t_motor_AT2814KV1200",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ADAPTER_DIAMETER": "6,8",
+            "TOTAL_LENGTH": 54.5,
+            "Max_Cells": 4.0,
+            "PROP_PITCH_REC": "4,6",
+            "CAN_LENGTH": 14.0,
+            "COST": 49.99,
+            "PROP_SIZE_REC": "9,12",
+            "IO_IDLE_CURRENT_10V": 1.8,
+            "KM": 0.04935185281240953,
+            "SHAFT_DIAMETER": 5.0,
+            "MAX_CURRENT": 55.0,
+            "CAN_DIAMETER": 35.2,
+            "ESC_BEC_Class": 3.0,
+            "CORPUS": "UAV",
+            "Min_Cells": 3.0,
+            "LENGTH": 36.0,
+            "Poles": "12N14P",
+            "ADAPTER_LENGTH": "30,36",
+            "KT": 0.007957747154594767,
+            "WEIGHT": 0.108,
+            "MAX_POWER": 800.0,
+            "MODEL": "t_motor_AT2814KV1200",
+            "INTERNAL_RESISTANCE": 26.0,
+            "KV": 1200.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2814KV900": {
+        "id": "t_motor_AT2814KV900",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "PROP_SIZE_REC": "9,14",
+            "CORPUS": "UAV",
+            "ADAPTER_LENGTH": "30,36",
+            "SHAFT_DIAMETER": 5.0,
+            "KV": 900.0,
+            "COST": 49.99,
+            "INTERNAL_RESISTANCE": 82.0,
+            "CAN_LENGTH": 14.0,
+            "KM": 0.03705287799228762,
+            "MODEL": "t_motor_AT2814KV900",
+            "Min_Cells": 3.0,
+            "MAX_POWER": 650.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "MAX_CURRENT": 45.0,
+            "CAN_DIAMETER": 35.2,
+            "IO_IDLE_CURRENT_10V": 1.2,
+            "PROP_PITCH_REC": "4,7",
+            "KT": 0.01061032953945969,
+            "LENGTH": 36.0,
+            "WEIGHT": 0.108,
+            "ESC_BEC_Class": 3.0,
+            "TOTAL_LENGTH": 54.5,
+            "Max_Cells": 4.0,
+            "Poles": "12N14P"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2820KV1050": {
+        "id": "t_motor_AT2820KV1050",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "TOTAL_LENGTH": 63.5,
+            "KV": 1050.0,
+            "Max_Cells": 4.0,
+            "MAX_POWER": 900.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "CAN_DIAMETER": 35.2,
+            "PROP_PITCH_REC": "5,8",
+            "Poles": "12N14P",
+            "MAX_CURRENT": 65.0,
+            "CAN_LENGTH": 20.0,
+            "WEIGHT": 0.139,
+            "CORPUS": "UAV",
+            "KT": 0.009094568176679734,
+            "PROP_SIZE_REC": "10,14",
+            "COST": 59.99,
+            "KM": 0.05435044037154876,
+            "Min_Cells": 3.0,
+            "SHAFT_DIAMETER": 5.0,
+            "IO_IDLE_CURRENT_10V": 2.0,
+            "ESC_BEC_Class": 3.0,
+            "ADAPTER_LENGTH": "30,36",
+            "MODEL": "t_motor_AT2820KV1050",
+            "LENGTH": 43.0,
+            "INTERNAL_RESISTANCE": 28.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2820KV1250": {
+        "id": "t_motor_AT2820KV1250",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "INTERNAL_RESISTANCE": 16.0,
+            "ESC_BEC_Class": 3.0,
+            "KV": 1250.0,
+            "CORPUS": "UAV",
+            "PROP_PITCH_REC": "4,8",
+            "LENGTH": 43.0,
+            "ADAPTER_LENGTH": "30,36",
+            "WEIGHT": 0.141,
+            "MAX_POWER": 1000.0,
+            "Max_Cells": 4.0,
+            "KM": 0.06039505452538445,
+            "COST": 59.99,
+            "Min_Cells": 3.0,
+            "PROP_SIZE_REC": "9,13",
+            "CAN_DIAMETER": 35.2,
+            "IO_IDLE_CURRENT_10V": 2.7,
+            "CAN_LENGTH": 20.0,
+            "Poles": "12N14P",
+            "ADAPTER_DIAMETER": "6,8",
+            "SHAFT_DIAMETER": 5.0,
+            "MODEL": "t_motor_AT2820KV1250",
+            "MAX_CURRENT": 70.0,
+            "TOTAL_LENGTH": 63.5,
+            "KT": 0.007639437268410976
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2820KV880": {
+        "id": "t_motor_AT2820KV880",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_LENGTH": 20.0,
+            "MODEL": "t_motor_AT2820KV880",
+            "CORPUS": "UAV",
+            "Poles": "12N14P",
+            "MAX_CURRENT": 45.0,
+            "ESC_BEC_Class": 3.0,
+            "IO_IDLE_CURRENT_10V": 1.6,
+            "WEIGHT": 0.139,
+            "LENGTH": 43.0,
+            "ADAPTER_LENGTH": "30,36",
+            "Max_Cells": 4.0,
+            "COST": 59.99,
+            "SHAFT_DIAMETER": 5.0,
+            "MAX_POWER": 700.0,
+            "KV": 880.0,
+            "PROP_SIZE_REC": "10,15",
+            "KT": 0.010851473392629226,
+            "PROP_PITCH_REC": "5,8",
+            "CAN_DIAMETER": 35.2,
+            "INTERNAL_RESISTANCE": 39.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "KM": 0.05494857147788286,
+            "TOTAL_LENGTH": 63.5,
+            "Min_Cells": 3.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2826KV1100": {
+        "id": "t_motor_AT2826KV1100",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Min_Cells": 3.0,
+            "COST": 69.99,
+            "ADAPTER_DIAMETER": "6,8",
+            "ADAPTER_LENGTH": "30,36",
+            "CAN_LENGTH": 26.0,
+            "ESC_BEC_Class": 3.0,
+            "WEIGHT": 0.175,
+            "SHAFT_DIAMETER": 5.0,
+            "Max_Cells": 4.0,
+            "PROP_PITCH_REC": "5,8",
+            "LENGTH": 49.0,
+            "MAX_CURRENT": 59.0,
+            "INTERNAL_RESISTANCE": 110.0,
+            "PROP_SIZE_REC": "12,15",
+            "MODEL": "t_motor_AT2826KV1100",
+            "CORPUS": "UAV",
+            "KV": 1100.0,
+            "KT": 0.008681178714103382,
+            "Poles": "12N14P",
+            "IO_IDLE_CURRENT_10V": 2.9,
+            "KM": 0.02617473866609172,
+            "TOTAL_LENGTH": 69.5,
+            "MAX_POWER": 900.0,
+            "CAN_DIAMETER": 35.2
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT2826KV900": {
+        "id": "t_motor_AT2826KV900",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "TOTAL_LENGTH": 69.5,
+            "KT": 0.01061032953945969,
+            "ESC_BEC_Class": 3.0,
+            "Min_Cells": 3.0,
+            "Poles": "12N14P",
+            "ADAPTER_DIAMETER": "6,8",
+            "PROP_SIZE_REC": "12,16",
+            "KM": 0.0684893826735,
+            "LENGTH": 49.0,
+            "COST": 69.99,
+            "MAX_POWER": 820.0,
+            "ADAPTER_LENGTH": "30,36",
+            "IO_IDLE_CURRENT_10V": 2.2,
+            "Max_Cells": 4.0,
+            "INTERNAL_RESISTANCE": 24.0,
+            "MODEL": "t_motor_AT2826KV900",
+            "CORPUS": "UAV",
+            "WEIGHT": 0.175,
+            "SHAFT_DIAMETER": 5.0,
+            "CAN_DIAMETER": 35.2,
+            "CAN_LENGTH": 26.0,
+            "KV": 900.0,
+            "MAX_CURRENT": 57.0,
+            "PROP_PITCH_REC": "6,9"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT3520KV550": {
+        "id": "t_motor_AT3520KV550",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ESC_BEC_Class": 3.0,
+            "PROP_SIZE_REC": "13,15",
+            "CAN_DIAMETER": 43.0,
+            "INTERNAL_RESISTANCE": 31.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "MODEL": "t_motor_AT3520KV550",
+            "COST": 79.99,
+            "TOTAL_LENGTH": 65.0,
+            "WEIGHT": 0.218,
+            "KV": 550.0,
+            "PROP_PITCH_REC": "5,8",
+            "MAX_CURRENT": 50.0,
+            "Poles": "12N14P",
+            "IO_IDLE_CURRENT_10V": 1.1,
+            "MAX_POWER": 0.0,
+            "Max_Cells": 6.0,
+            "SHAFT_DIAMETER": 5.0,
+            "CORPUS": "UAV",
+            "CAN_LENGTH": 20.0,
+            "ADAPTER_LENGTH": "30,36",
+            "LENGTH": 45.0,
+            "KM": 0.09861156371777464,
+            "KT": 0.017362357428206764,
+            "Min_Cells": 4.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT3520KV720": {
+        "id": "t_motor_AT3520KV720",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KV": 720.0,
+            "CAN_LENGTH": 20.0,
+            "MODEL": "t_motor_AT3520KV720",
+            "ADAPTER_LENGTH": "30,36",
+            "PROP_PITCH_REC": "5,8",
+            "Min_Cells": 4.0,
+            "CORPUS": "UAV",
+            "CAN_DIAMETER": 43.0,
+            "Poles": "12N14P",
+            "TOTAL_LENGTH": 65.0,
+            "PROP_SIZE_REC": "13,15",
+            "IO_IDLE_CURRENT_10V": 1.6,
+            "Max_Cells": 5.0,
+            "LENGTH": 45.0,
+            "ESC_BEC_Class": 3.0,
+            "MAX_CURRENT": 70.0,
+            "KM": 0.09378294959969856,
+            "INTERNAL_RESISTANCE": 20.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "MAX_POWER": 1300.0,
+            "KT": 0.013262911924324612,
+            "WEIGHT": 0.339,
+            "COST": 79.99,
+            "SHAFT_DIAMETER": 5.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT3520KV850": {
+        "id": "t_motor_AT3520KV850",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "COST": 79.99,
+            "PROP_PITCH_REC": "5,7",
+            "CORPUS": "UAV",
+            "PROP_SIZE_REC": "13,15",
+            "WEIGHT": 0.221,
+            "ADAPTER_LENGTH": "30,36",
+            "Min_Cells": 3.0,
+            "Poles": "12N14P",
+            "SHAFT_DIAMETER": 5.0,
+            "CAN_DIAMETER": 43.0,
+            "CAN_LENGTH": 20.0,
+            "Max_Cells": 4.0,
+            "ESC_BEC_Class": 3.0,
+            "TOTAL_LENGTH": 65.0,
+            "INTERNAL_RESISTANCE": 14.0,
+            "MAX_POWER": 1100.0,
+            "KV": 850.0,
+            "KT": 0.011234466571192613,
+            "MODEL": "t_motor_AT3520KV850",
+            "KM": 0.09494857222248725,
+            "IO_IDLE_CURRENT_10V": 2.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "LENGTH": 45.0,
+            "MAX_CURRENT": 70.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT3530KV580": {
+        "id": "t_motor_AT3530KV580",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "UAV",
+            "ESC_BEC_Class": 3.0,
+            "KV": 580.0,
+            "KT": 0.016464304457782276,
+            "ADAPTER_DIAMETER": "6,8",
+            "MAX_CURRENT": 65.0,
+            "Min_Cells": 4.0,
+            "PROP_PITCH_REC": "7,9",
+            "MODEL": "t_motor_AT3530KV580",
+            "Max_Cells": 6.0,
+            "TOTAL_LENGTH": 75.0,
+            "COST": 99.99,
+            "SHAFT_DIAMETER": 5.0,
+            "CAN_LENGTH": 30.0,
+            "WEIGHT": 0.298,
+            "ADAPTER_LENGTH": "30,36",
+            "KM": 0.12271767989951328,
+            "MAX_POWER": 1400.0,
+            "LENGTH": 55.0,
+            "CAN_DIAMETER": 43.0,
+            "Poles": "12N14P",
+            "INTERNAL_RESISTANCE": 18.0,
+            "IO_IDLE_CURRENT_10V": 1.9,
+            "PROP_SIZE_REC": "13,16"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT4120KV250": {
+        "id": "t_motor_AT4120KV250",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "IO_IDLE_CURRENT_10V": 1.0,
+            "PROP_SIZE_REC": "14,18",
+            "ESC_BEC_Class": 3.0,
+            "INTERNAL_RESISTANCE": 76.0,
+            "ADAPTER_DIAMETER": "8,10",
+            "Max_Cells": 12.0,
+            "MAX_POWER": 2100.0,
+            "LENGTH": 45.0,
+            "Min_Cells": 6.0,
+            "CORPUS": "UAV",
+            "Poles": "12N14P",
+            "COST": 109.99,
+            "TOTAL_LENGTH": 69.0,
+            "KM": 0.13855575756093666,
+            "ADAPTER_LENGTH": "35,40",
+            "WEIGHT": 0.304,
+            "SHAFT_DIAMETER": 6.0,
+            "MODEL": "t_motor_AT4120KV250",
+            "CAN_DIAMETER": 50.0,
+            "MAX_CURRENT": 45.0,
+            "CAN_LENGTH": 20.0,
+            "KT": 0.038197186342054885,
+            "PROP_PITCH_REC": "6,10",
+            "KV": 250.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT4120KV500": {
+        "id": "t_motor_AT4120KV500",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_DIAMETER": 50.0,
+            "TOTAL_LENGTH": 69.0,
+            "IO_IDLE_CURRENT_10V": 2.0,
+            "ADAPTER_LENGTH": "35,40",
+            "MAX_CURRENT": 75.0,
+            "KM": 0.1317928137921712,
+            "CORPUS": "UAV",
+            "KV": 500.0,
+            "KT": 0.019098593171027443,
+            "COST": 109.99,
+            "Poles": "12N14P",
+            "PROP_SIZE_REC": "14,16",
+            "Min_Cells": 4.0,
+            "INTERNAL_RESISTANCE": 21.0,
+            "ESC_BEC_Class": 3.0,
+            "MAX_POWER": 1700.0,
+            "LENGTH": 45.0,
+            "SHAFT_DIAMETER": 6.0,
+            "PROP_PITCH_REC": "7,10",
+            "MODEL": "t_motor_AT4120KV500",
+            "CAN_LENGTH": 20.0,
+            "Max_Cells": 6.0,
+            "ADAPTER_DIAMETER": "8,10",
+            "WEIGHT": 0.305
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT4120KV560": {
+        "id": "t_motor_AT4120KV560",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "TOTAL_LENGTH": 69.0,
+            "WEIGHT": 0.3,
+            "IO_IDLE_CURRENT_10V": 2.4,
+            "KM": 0.1348103895655903,
+            "SHAFT_DIAMETER": 6.0,
+            "MAX_CURRENT": 80.0,
+            "CAN_DIAMETER": 50.0,
+            "LENGTH": 45.0,
+            "INTERNAL_RESISTANCE": 16.0,
+            "ESC_BEC_Class": 3.0,
+            "CAN_LENGTH": 20.0,
+            "KT": 0.017052315331274503,
+            "KV": 560.0,
+            "MAX_POWER": 1800.0,
+            "PROP_SIZE_REC": "14,16",
+            "CORPUS": "UAV",
+            "MODEL": "t_motor_AT4120KV560",
+            "Max_Cells": 6.0,
+            "ADAPTER_LENGTH": "35,40",
+            "PROP_PITCH_REC": "7,9",
+            "ADAPTER_DIAMETER": "8,10",
+            "Poles": "12N14P",
+            "COST": 109.99,
+            "Min_Cells": 4.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT4125KV250": {
+        "id": "t_motor_AT4125KV250",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "t_motor_AT4125KV250",
+            "CORPUS": "UAV",
+            "MAX_CURRENT": 50.0,
+            "INTERNAL_RESISTANCE": 68.0,
+            "Max_Cells": 12.0,
+            "KT": 0.038197186342054885,
+            "PROP_PITCH_REC": "8,10",
+            "ADAPTER_DIAMETER": "8,10",
+            "Min_Cells": 6.0,
+            "SHAFT_DIAMETER": 6.0,
+            "TOTAL_LENGTH": 74.0,
+            "IO_IDLE_CURRENT_10V": 1.0,
+            "KV": 250.0,
+            "ESC_BEC_Class": 3.0,
+            "PROP_SIZE_REC": "15,18",
+            "ADAPTER_LENGTH": "35,40",
+            "COST": 115.99,
+            "WEIGHT": 0.35,
+            "CAN_LENGTH": 25.0,
+            "CAN_DIAMETER": 50.0,
+            "Poles": "12N14P",
+            "MAX_POWER": 2200.0,
+            "KM": 0.14647952298417527,
+            "LENGTH": 50.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT4125KV540": {
+        "id": "t_motor_AT4125KV540",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_LENGTH": 25.0,
+            "TOTAL_LENGTH": 74.0,
+            "IO_IDLE_CURRENT_10V": 2.6,
+            "Max_Cells": 6.0,
+            "KV": 540.0,
+            "SHAFT_DIAMETER": 6.0,
+            "PROP_SIZE_REC": "13,16",
+            "INTERNAL_RESISTANCE": 14.0,
+            "KT": 0.01768388256576615,
+            "MAX_POWER": 2000.0,
+            "COST": 115.99,
+            "ADAPTER_DIAMETER": "8,10",
+            "LENGTH": 50.0,
+            "PROP_PITCH_REC": "7,9",
+            "ESC_BEC_Class": 3.0,
+            "KM": 0.14945608590576698,
+            "Min_Cells": 4.0,
+            "CORPUS": "UAV",
+            "CAN_DIAMETER": 50.0,
+            "WEIGHT": 0.355,
+            "Poles": "12N14P",
+            "MODEL": "t_motor_AT4125KV540",
+            "MAX_CURRENT": 85.0,
+            "ADAPTER_LENGTH": "35,40"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT4130KV230": {
+        "id": "t_motor_AT4130KV230",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ESC_BEC_Class": 3.0,
+            "CAN_LENGTH": 30.0,
+            "KM": 0.16949930461601653,
+            "MAX_CURRENT": 60.0,
+            "Poles": "12N14P",
+            "Min_Cells": 6.0,
+            "MAX_POWER": 2500.0,
+            "MODEL": "t_motor_AT4130KV230",
+            "ADAPTER_DIAMETER": "8,10",
+            "PROP_SIZE_REC": "15,20",
+            "KT": 0.04151868080658139,
+            "Max_Cells": 12.0,
+            "WEIGHT": 0.408,
+            "INTERNAL_RESISTANCE": 60.0,
+            "TOTAL_LENGTH": 79.0,
+            "LENGTH": 55.0,
+            "PROP_PITCH_REC": "7,11",
+            "CAN_DIAMETER": 50.0,
+            "IO_IDLE_CURRENT_10V": 1.4,
+            "CORPUS": "UAV",
+            "KV": 230.0,
+            "ADAPTER_LENGTH": "35,40",
+            "SHAFT_DIAMETER": 6.0,
+            "COST": 119.99
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT4130KV300": {
+        "id": "t_motor_AT4130KV300",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MAX_CURRENT": 75.0,
+            "Poles": "12N14P",
+            "WEIGHT": 0.405,
+            "ESC_BEC_Class": 3.0,
+            "KM": 0.17794063585429426,
+            "COST": 119.99,
+            "CAN_LENGTH": 30.0,
+            "KV": 300.0,
+            "LENGTH": 55.0,
+            "MODEL": "t_motor_AT4130KV300",
+            "TOTAL_LENGTH": 79.0,
+            "PROP_PITCH_REC": "7,11",
+            "INTERNAL_RESISTANCE": 32.0,
+            "IO_IDLE_CURRENT_10V": 1.8,
+            "PROP_SIZE_REC": "15,20",
+            "MAX_POWER": 3200.0,
+            "KT": 0.03183098861837907,
+            "ADAPTER_LENGTH": "35,40",
+            "CORPUS": "UAV",
+            "Max_Cells": 12.0,
+            "Min_Cells": 6.0,
+            "ADAPTER_DIAMETER": "8,10",
+            "CAN_DIAMETER": 50.0,
+            "SHAFT_DIAMETER": 6.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AT4130KV450": {
+        "id": "t_motor_AT4130KV450",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "SHAFT_DIAMETER": 6.0,
+            "MAX_POWER": 1800.0,
+            "KT": 0.02122065907891938,
+            "Max_Cells": 8.0,
+            "COST": 119.99,
+            "Min_Cells": 6.0,
+            "ADAPTER_LENGTH": "35,40",
+            "ESC_BEC_Class": 3.0,
+            "WEIGHT": 0.408,
+            "INTERNAL_RESISTANCE": 17.0,
+            "LENGTH": 55.0,
+            "PROP_PITCH_REC": "7,10",
+            "Poles": "12N14P",
+            "CAN_DIAMETER": 50.0,
+            "KM": 0.1627550255379725,
+            "PROP_SIZE_REC": "15,18",
+            "IO_IDLE_CURRENT_10V": 2.5,
+            "ADAPTER_DIAMETER": "8,10",
+            "MODEL": "t_motor_AT4130KV450",
+            "CORPUS": "UAV",
+            "CAN_LENGTH": 30.0,
+            "KV": 450.0,
+            "MAX_CURRENT": 75.0,
+            "TOTAL_LENGTH": 79.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN1005V2KV90": {
+        "id": "t_motor_AntigravityMN1005V2KV90",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MAX_POWER": 1500.0,
+            "MAX_CURRENT": 32.0,
+            "ADAPTER_DIAMETER": 10.0,
+            "COST": 249.9,
+            "MODEL": "t_motor_AntigravityMN1005V2KV90",
+            "KV": 90.0,
+            "KT": 0.1061032953945969,
+            "LENGTH": 23.0,
+            "INTERNAL_RESISTANCE": 168.0,
+            "WEIGHT": 0.282,
+            "ESC_BEC_Class": 2.0,
+            "Min_Cells": 12.0,
+            "Max_Cells": 16.0,
+            "IO_IDLE_CURRENT_10V": 0.9,
+            "TOTAL_LENGTH": 26.0,
+            "CAN_DIAMETER": 107.0,
+            "PROP_SIZE_REC": "28,34",
+            "ADAPTER_LENGTH": 14.5,
+            "KM": 0.2588655342891672,
+            "CORPUS": "Both",
+            "PROP_PITCH_REC": "6,16",
+            "CAN_LENGTH": 5.0,
+            "SHAFT_DIAMETER": 4.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN2806KV401": {
+        "id": "t_motor_AntigravityMN2806KV401",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "SHAFT_DIAMETER": 4.0,
+            "CAN_LENGTH": 6.0,
+            "Min_Cells": 4.0,
+            "Max_Cells": 6.0,
+            "WEIGHT": 0.046,
+            "COST": 59.9,
+            "KV": 650.0,
+            "KM": 0.028015067839686172,
+            "CAN_DIAMETER": 35.0,
+            "PROP_PITCH_REC": "2,8",
+            "IO_IDLE_CURRENT_10V": 0.2,
+            "CORPUS": "Both",
+            "MODEL": "t_motor_AntigravityMN2806KV401",
+            "TOTAL_LENGTH": 26.0,
+            "INTERNAL_RESISTANCE": 275.0,
+            "PROP_SIZE_REC": "10,14",
+            "ADAPTER_LENGTH": 26.0,
+            "KT": 0.014691225516174956,
+            "MAX_POWER": 275.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "MAX_CURRENT": 12.3,
+            "ESC_BEC_Class": 2.0,
+            "LENGTH": 18.4
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN2806KV650": {
+        "id": "t_motor_AntigravityMN2806KV650",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_DIAMETER": 35.0,
+            "KM": 0.02972566187026016,
+            "Max_Cells": 6.0,
+            "KT": 0.0238732414637843,
+            "SHAFT_DIAMETER": 4.0,
+            "TOTAL_LENGTH": 26.0,
+            "MAX_CURRENT": 9.4,
+            "KV": 400.0,
+            "INTERNAL_RESISTANCE": 645.0,
+            "WEIGHT": 0.046,
+            "COST": 59.9,
+            "Min_Cells": 4.0,
+            "PROP_PITCH_REC": "2,8",
+            "ADAPTER_DIAMETER": 6.0,
+            "MODEL": "t_motor_AntigravityMN2806KV650",
+            "PROP_SIZE_REC": "10,14",
+            "ADAPTER_LENGTH": 26.0,
+            "ESC_BEC_Class": 2.0,
+            "CORPUS": "Both",
+            "IO_IDLE_CURRENT_10V": 0.2,
+            "CAN_LENGTH": 6.0,
+            "MAX_POWER": 216.0,
+            "LENGTH": 18.4
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN4004KV300": {
+        "id": "t_motor_AntigravityMN4004KV300",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KV": 300.0,
+            "Min_Cells": 4.0,
+            "MODEL": "t_motor_AntigravityMN4004KV300",
+            "PROP_SIZE_REC": "12,18",
+            "KT": 0.03183098861837907,
+            "SHAFT_DIAMETER": 4.0,
+            "TOTAL_LENGTH": 27.5,
+            "KM": 0.0473457401159953,
+            "IO_IDLE_CURRENT_10V": 0.2,
+            "ADAPTER_DIAMETER": 6.0,
+            "CAN_DIAMETER": 44.35,
+            "ADAPTER_LENGTH": 26.0,
+            "Max_Cells": 6.0,
+            "ESC_BEC_Class": 2.0,
+            "LENGTH": 19.0,
+            "PROP_PITCH_REC": "3,8",
+            "MAX_POWER": 216.0,
+            "INTERNAL_RESISTANCE": 452.0,
+            "COST": 72.95,
+            "MAX_CURRENT": 9.0,
+            "CAN_LENGTH": 4.0,
+            "CORPUS": "Both",
+            "WEIGHT": 0.053
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN4004KV400": {
+        "id": "t_motor_AntigravityMN4004KV400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_LENGTH": 4.0,
+            "INTERNAL_RESISTANCE": 359.0,
+            "MAX_POWER": 300.0,
+            "LENGTH": 19.0,
+            "ESC_BEC_Class": 2.0,
+            "KM": 0.03984411330258835,
+            "CAN_DIAMETER": 44.35,
+            "WEIGHT": 0.053,
+            "MODEL": "t_motor_AntigravityMN4004KV400",
+            "SHAFT_DIAMETER": 4.0,
+            "TOTAL_LENGTH": 27.5,
+            "PROP_PITCH_REC": "3,8",
+            "ADAPTER_DIAMETER": 6.0,
+            "KV": 400.0,
+            "KT": 0.0238732414637843,
+            "COST": 72.95,
+            "CORPUS": "Both",
+            "PROP_SIZE_REC": "12,18",
+            "MAX_CURRENT": 12.0,
+            "ADAPTER_LENGTH": 26.0,
+            "IO_IDLE_CURRENT_10V": 0.2,
+            "Min_Cells": 4.0,
+            "Max_Cells": 6.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN4006KV380": {
+        "id": "t_motor_AntigravityMN4006KV380",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MAX_POWER": 380.0,
+            "TOTAL_LENGTH": 29.5,
+            "Min_Cells": 4.0,
+            "LENGTH": 21.0,
+            "KV": 380.0,
+            "MODEL": "t_motor_AntigravityMN4006KV380",
+            "ESC_BEC_Class": 2.0,
+            "KT": 0.025129727856615054,
+            "PROP_PITCH_REC": "3,8",
+            "COST": 74.95,
+            "SHAFT_DIAMETER": 4.0,
+            "Max_Cells": 6.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "IO_IDLE_CURRENT_10V": 0.3,
+            "WEIGHT": 0.068,
+            "ADAPTER_LENGTH": 26.0,
+            "KM": 0.05705410807455646,
+            "MAX_CURRENT": 16.0,
+            "INTERNAL_RESISTANCE": 194.0,
+            "CAN_LENGTH": 6.0,
+            "CAN_DIAMETER": 44.35,
+            "PROP_SIZE_REC": "12,18",
+            "CORPUS": "Both"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN5006KV300": {
+        "id": "t_motor_AntigravityMN5006KV300",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Max_Cells": 6.0,
+            "KT": 0.03183098861837907,
+            "PROP_SIZE_REC": "16,20",
+            "TOTAL_LENGTH": 30.0,
+            "PROP_PITCH_REC": "4,12",
+            "INTERNAL_RESISTANCE": 125.0,
+            "KM": 0.09003163161571061,
+            "MAX_POWER": 500.0,
+            "ESC_BEC_Class": 2.0,
+            "ADAPTER_LENGTH": 26.0,
+            "LENGTH": 25.0,
+            "WEIGHT": 0.108,
+            "KV": 300.0,
+            "SHAFT_DIAMETER": 4.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "Min_Cells": 4.0,
+            "MODEL": "t_motor_AntigravityMN5006KV300",
+            "CAN_LENGTH": 6.0,
+            "COST": 84.99,
+            "IO_IDLE_CURRENT_10V": 0.6,
+            "CAN_DIAMETER": 55.6,
+            "MAX_CURRENT": 20.0,
+            "CORPUS": "Both"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN5006KV450": {
+        "id": "t_motor_AntigravityMN5006KV450",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Max_Cells": 6.0,
+            "LENGTH": 25.0,
+            "TOTAL_LENGTH": 30.0,
+            "Min_Cells": 4.0,
+            "ESC_BEC_Class": 2.0,
+            "PROP_SIZE_REC": "14,18",
+            "KM": 0.08663297791485292,
+            "SHAFT_DIAMETER": 4.0,
+            "COST": 84.99,
+            "WEIGHT": 0.106,
+            "CAN_LENGTH": 6.0,
+            "INTERNAL_RESISTANCE": 60.0,
+            "KT": 0.02122065907891938,
+            "CAN_DIAMETER": 55.6,
+            "MODEL": "t_motor_AntigravityMN5006KV450",
+            "PROP_PITCH_REC": "4,12",
+            "ADAPTER_LENGTH": 26.0,
+            "MAX_POWER": 650.0,
+            "CORPUS": "Both",
+            "MAX_CURRENT": 26.0,
+            "IO_IDLE_CURRENT_10V": 0.9,
+            "ADAPTER_DIAMETER": 6.0,
+            "KV": 450.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN5008KV170": {
+        "id": "t_motor_AntigravityMN5008KV170",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_DIAMETER": 55.6,
+            "Min_Cells": 6.0,
+            "CORPUS": "Both",
+            "PROP_SIZE_REC": "16,20",
+            "ESC_BEC_Class": 2.0,
+            "MAX_POWER": 720.0,
+            "LENGTH": 27.0,
+            "INTERNAL_RESISTANCE": 270.0,
+            "ADAPTER_LENGTH": 26.0,
+            "WEIGHT": 0.128,
+            "CAN_LENGTH": 8.0,
+            "Max_Cells": 12.0,
+            "TOTAL_LENGTH": 32.0,
+            "PROP_PITCH_REC": "4,12",
+            "COST": 89.99,
+            "MAX_CURRENT": 15.0,
+            "KV": 170.0,
+            "MODEL": "t_motor_AntigravityMN5008KV170",
+            "KT": 0.05617233285596306,
+            "ADAPTER_DIAMETER": 6.0,
+            "KM": 0.10810370498466511,
+            "IO_IDLE_CURRENT_10V": 0.4,
+            "SHAFT_DIAMETER": 4.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN5008KV340": {
+        "id": "t_motor_AntigravityMN5008KV340",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MAX_CURRENT": 35.0,
+            "KV": 340.0,
+            "Max_Cells": 12.0,
+            "MAX_POWER": 760.0,
+            "KT": 0.02808616642798153,
+            "KM": 0.11975981604257117,
+            "TOTAL_LENGTH": 32.0,
+            "COST": 89.99,
+            "INTERNAL_RESISTANCE": 55.0,
+            "IO_IDLE_CURRENT_10V": 0.9,
+            "CAN_DIAMETER": 55.6,
+            "WEIGHT": 0.135,
+            "CORPUS": "Both",
+            "ADAPTER_DIAMETER": 6.0,
+            "CAN_LENGTH": 8.0,
+            "LENGTH": 27.0,
+            "Min_Cells": 6.0,
+            "PROP_PITCH_REC": "4,10",
+            "PROP_SIZE_REC": "16,20",
+            "ADAPTER_LENGTH": 26.0,
+            "ESC_BEC_Class": 2.0,
+            "MODEL": "t_motor_AntigravityMN5008KV340",
+            "SHAFT_DIAMETER": 4.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN5008KV400": {
+        "id": "t_motor_AntigravityMN5008KV400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KT": 0.0238732414637843,
+            "CAN_LENGTH": 8.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "ADAPTER_LENGTH": 26.0,
+            "IO_IDLE_CURRENT_10V": 1.1,
+            "KV": 400.0,
+            "SHAFT_DIAMETER": 4.0,
+            "CAN_DIAMETER": 55.6,
+            "KM": 0.10676438151257656,
+            "PROP_PITCH_REC": "4,10",
+            "WEIGHT": 0.132,
+            "PROP_SIZE_REC": "14,18",
+            "MODEL": "t_motor_AntigravityMN5008KV400",
+            "Min_Cells": 6.0,
+            "TOTAL_LENGTH": 32.0,
+            "ESC_BEC_Class": 2.0,
+            "MAX_CURRENT": 35.0,
+            "Max_Cells": 12.0,
+            "LENGTH": 27.0,
+            "CORPUS": "Both",
+            "COST": 89.99,
+            "INTERNAL_RESISTANCE": 50.0,
+            "MAX_POWER": 800.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN6007IIKV160": {
+        "id": "t_motor_AntigravityMN6007IIKV160",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Min_Cells": 6.0,
+            "COST": 129.99,
+            "INTERNAL_RESISTANCE": 178.0,
+            "CAN_LENGTH": 7.0,
+            "CAN_DIAMETER": 67.2,
+            "MAX_CURRENT": 23.7,
+            "ADAPTER_LENGTH": 26.0,
+            "KM": 0.1414625225794017,
+            "TOTAL_LENGTH": 26.1,
+            "PROP_PITCH_REC": "4,12",
+            "LENGTH": 21.1,
+            "SHAFT_DIAMETER": 4.0,
+            "ESC_BEC_Class": 2.0,
+            "WEIGHT": 0.159,
+            "CORPUS": "Both",
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "MAX_POWER": 1120.0,
+            "PROP_SIZE_REC": "18,24",
+            "KV": 160.0,
+            "KT": 0.05968310365946075,
+            "ADAPTER_DIAMETER": 6.0,
+            "MODEL": "t_motor_AntigravityMN6007IIKV160",
+            "Max_Cells": 12.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN6007IIKV320": {
+        "id": "t_motor_AntigravityMN6007IIKV320",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_DIAMETER": 67.2,
+            "ADAPTER_LENGTH": 26.0,
+            "COST": 129.99,
+            "KM": 0.13692243025708,
+            "Max_Cells": 12.0,
+            "MODEL": "t_motor_AntigravityMN6007IIKV320",
+            "PROP_SIZE_REC": "18,24",
+            "CAN_LENGTH": 7.0,
+            "INTERNAL_RESISTANCE": 47.5,
+            "KT": 0.029841551829730376,
+            "IO_IDLE_CURRENT_10V": 1.0,
+            "TOTAL_LENGTH": 26.1,
+            "MAX_CURRENT": 44.2,
+            "ADAPTER_DIAMETER": 6.0,
+            "KV": 320.0,
+            "SHAFT_DIAMETER": 4.0,
+            "WEIGHT": 0.161,
+            "Min_Cells": 6.0,
+            "PROP_PITCH_REC": "4,10",
+            "CORPUS": "Both",
+            "LENGTH": 21.1,
+            "ESC_BEC_Class": 2.0,
+            "MAX_POWER": 1040.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN6007KV160": {
+        "id": "t_motor_AntigravityMN6007KV160",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Max_Cells": 12.0,
+            "ADAPTER_LENGTH": 26.0,
+            "KT": 0.05968310365946075,
+            "SHAFT_DIAMETER": 4.0,
+            "CAN_LENGTH": 7.0,
+            "CORPUS": "Both",
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "ESC_BEC_Class": 2.0,
+            "KM": 0.12526751748077822,
+            "CAN_DIAMETER": 67.0,
+            "LENGTH": 25.1,
+            "MAX_CURRENT": 18.0,
+            "COST": 119.99,
+            "Min_Cells": 6.0,
+            "WEIGHT": 0.18,
+            "MAX_POWER": 864.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "TOTAL_LENGTH": 30.1,
+            "PROP_SIZE_REC": "18,24",
+            "MODEL": "t_motor_AntigravityMN6007KV160",
+            "KV": 160.0,
+            "PROP_PITCH_REC": "4,12",
+            "INTERNAL_RESISTANCE": 227.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN6007KV320": {
+        "id": "t_motor_AntigravityMN6007KV320",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MAX_POWER": 936.0,
+            "Max_Cells": 12.0,
+            "WEIGHT": 0.18,
+            "MAX_CURRENT": 39.0,
+            "Min_Cells": 6.0,
+            "ADAPTER_LENGTH": 26.0,
+            "COST": 119.99,
+            "SHAFT_DIAMETER": 4.0,
+            "ESC_BEC_Class": 2.0,
+            "LENGTH": 25.1,
+            "MODEL": "t_motor_AntigravityMN6007KV320",
+            "ADAPTER_DIAMETER": 6.0,
+            "PROP_SIZE_REC": "18,24",
+            "PROP_PITCH_REC": "4,10",
+            "CAN_DIAMETER": 67.0,
+            "KM": 0.1334554768907207,
+            "INTERNAL_RESISTANCE": 50.0,
+            "CAN_LENGTH": 7.0,
+            "TOTAL_LENGTH": 30.1,
+            "CORPUS": "Both",
+            "KV": 320.0,
+            "IO_IDLE_CURRENT_10V": 1.4,
+            "KT": 0.029841551829730376
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN7005KV115": {
+        "id": "t_motor_AntigravityMN7005KV115",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KV": 115.0,
+            "CORPUS": "Both",
+            "ADAPTER_DIAMETER": 10.0,
+            "TOTAL_LENGTH": 37.8,
+            "Max_Cells": 12.0,
+            "MAX_POWER": 750.0,
+            "INTERNAL_RESISTANCE": 288.0,
+            "PROP_PITCH_REC": "4,14",
+            "PROP_SIZE_REC": "20,28",
+            "MODEL": "t_motor_AntigravityMN7005KV115",
+            "LENGTH": 21.8,
+            "IO_IDLE_CURRENT_10V": 0.4,
+            "WEIGHT": 0.188,
+            "CAN_LENGTH": 5.0,
+            "COST": 219.99,
+            "SHAFT_DIAMETER": 4.0,
+            "Min_Cells": 6.0,
+            "ESC_BEC_Class": 2.0,
+            "MAX_CURRENT": 15.0,
+            "CAN_DIAMETER": 79.0,
+            "KT": 0.08303736161316277,
+            "ADAPTER_LENGTH": 14.5,
+            "KM": 0.15473098769938629
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN7005KV230": {
+        "id": "t_motor_AntigravityMN7005KV230",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MAX_CURRENT": 28.0,
+            "INTERNAL_RESISTANCE": 71.0,
+            "LENGTH": 21.8,
+            "KT": 0.04151868080658139,
+            "COST": 219.99,
+            "PROP_SIZE_REC": "20,26",
+            "CAN_DIAMETER": 79.0,
+            "CAN_LENGTH": 5.0,
+            "Min_Cells": 6.0,
+            "KV": 230.0,
+            "SHAFT_DIAMETER": 4.0,
+            "CORPUS": "Both",
+            "WEIGHT": 0.188,
+            "ADAPTER_LENGTH": 14.5,
+            "ESC_BEC_Class": 2.0,
+            "PROP_PITCH_REC": "4,12",
+            "MAX_POWER": 700.0,
+            "KM": 0.15581683251379116,
+            "MODEL": "t_motor_AntigravityMN7005KV230",
+            "ADAPTER_DIAMETER": 10.0,
+            "Max_Cells": 12.0,
+            "TOTAL_LENGTH": 37.8,
+            "IO_IDLE_CURRENT_10V": 0.9
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN8012KV100": {
+        "id": "t_motor_AntigravityMN8012KV100",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "LENGTH": 29.0,
+            "INTERNAL_RESISTANCE": 85.0,
+            "Max_Cells": 16.0,
+            "PROP_PITCH_REC": "6,16",
+            "KM": 0.3275381707043587,
+            "IO_IDLE_CURRENT_10V": 1.0,
+            "ADAPTER_DIAMETER": 10.0,
+            "MAX_POWER": 1873.0,
+            "MODEL": "t_motor_AntigravityMN8012KV100",
+            "KV": 100.0,
+            "TOTAL_LENGTH": 32.0,
+            "MAX_CURRENT": 40.0,
+            "COST": 269.9,
+            "PROP_SIZE_REC": "26,32",
+            "ADAPTER_LENGTH": 14.5,
+            "CORPUS": "Both",
+            "ESC_BEC_Class": 2.0,
+            "CAN_DIAMETER": 87.8,
+            "SHAFT_DIAMETER": 4.0,
+            "WEIGHT": 0.351,
+            "CAN_LENGTH": 12.0,
+            "Min_Cells": 12.0,
+            "KT": 0.0954929658551372
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN8014KV100": {
+        "id": "t_motor_AntigravityMN8014KV100",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_DIAMETER": 87.8,
+            "TOTAL_LENGTH": 34.5,
+            "MAX_POWER": 2423.0,
+            "Min_Cells": 12.0,
+            "CORPUS": "Both",
+            "LENGTH": 31.5,
+            "INTERNAL_RESISTANCE": 65.0,
+            "SHAFT_DIAMETER": 4.0,
+            "MAX_CURRENT": 52.0,
+            "IO_IDLE_CURRENT_10V": 1.4,
+            "ADAPTER_LENGTH": 14.5,
+            "COST": 279.9,
+            "KM": 0.3745542279278416,
+            "Max_Cells": 16.0,
+            "PROP_SIZE_REC": "26,32",
+            "CAN_LENGTH": 14.0,
+            "ESC_BEC_Class": 2.0,
+            "WEIGHT": 0.392,
+            "PROP_PITCH_REC": "6,16",
+            "ADAPTER_DIAMETER": 10.0,
+            "KV": 100.0,
+            "MODEL": "t_motor_AntigravityMN8014KV100",
+            "KT": 0.0954929658551372
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_AntigravityMN8017KV120": {
+        "id": "t_motor_AntigravityMN8017KV120",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ADAPTER_DIAMETER": 10.0,
+            "MAX_POWER": 3180.0,
+            "Max_Cells": 16.0,
+            "Min_Cells": 12.0,
+            "COST": 289.9,
+            "KV": 120.0,
+            "ESC_BEC_Class": 2.0,
+            "MAX_CURRENT": 68.6,
+            "LENGTH": 34.5,
+            "ADAPTER_LENGTH": 14.5,
+            "CORPUS": "Both",
+            "CAN_LENGTH": 17.0,
+            "SHAFT_DIAMETER": 4.0,
+            "CAN_DIAMETER": 87.8,
+            "KM": 0.37513179839879424,
+            "TOTAL_LENGTH": 37.5,
+            "KT": 0.07957747154594767,
+            "WEIGHT": 0.453,
+            "INTERNAL_RESISTANCE": 45.0,
+            "MODEL": "t_motor_AntigravityMN8017KV120",
+            "PROP_SIZE_REC": "26,32",
+            "IO_IDLE_CURRENT_10V": 1.8,
+            "PROP_PITCH_REC": "6,16"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN22041400KV": {
+        "id": "t_motor_MN22041400KV",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "t_motor_MN22041400KV",
+            "ESC_BEC_Class": 2.0,
+            "ADAPTER_LENGTH": NaN,
+            "Max_Cells": 3.0,
+            "COST": 25.9,
+            "LENGTH": 12.0,
+            "INTERNAL_RESISTANCE": 290.0,
+            "PROP_PITCH_REC": "2,3",
+            "KV": 1400.0,
+            "ADAPTER_DIAMETER": NaN,
+            "WEIGHT": 0.023,
+            "KM": 0.01266614184857098,
+            "PROP_SIZE_REC": "5,8",
+            "CAN_DIAMETER": 27.0,
+            "Min_Cells": 2.0,
+            "CORPUS": "UAV",
+            "MAX_POWER": 88.0,
+            "Poles": "12N14P",
+            "CAN_LENGTH": 4.0,
+            "IO_IDLE_CURRENT_10V": 0.3,
+            "TOTAL_LENGTH": 16.5,
+            "SHAFT_DIAMETER": 2.0,
+            "KT": 0.006820926132509801,
+            "MAX_CURRENT": 8.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN2212KV780": {
+        "id": "t_motor_MN2212KV780",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_LENGTH": 12.0,
+            "Max_Cells": 4.0,
+            "MODEL": "t_motor_MN2212KV780",
+            "CAN_DIAMETER": 27.5,
+            "KV": 780.0,
+            "WEIGHT": 0.065,
+            "Min_Cells": 2.0,
+            "ADAPTER_DIAMETER": 5.0,
+            "COST": 46.9,
+            "CORPUS": "UAV",
+            "KM": 0.029434301070491033,
+            "MAX_POWER": 200.0,
+            "KT": 0.012242687930145796,
+            "TOTAL_LENGTH": 32.6,
+            "Poles": "9N12P",
+            "IO_IDLE_CURRENT_10V": 0.4,
+            "ESC_BEC_Class": 2.0,
+            "PROP_SIZE_REC": "8,11",
+            "INTERNAL_RESISTANCE": 173.0,
+            "SHAFT_DIAMETER": 4.0,
+            "LENGTH": 16.0,
+            "PROP_PITCH_REC": "3,4",
+            "ADAPTER_LENGTH": 24.0,
+            "MAX_CURRENT": 13.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN2212KV920": {
+        "id": "t_motor_MN2212KV920",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "t_motor_MN2212KV920",
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "PROP_SIZE_REC": "7,9",
+            "KT": 0.010379670201645347,
+            "Max_Cells": 4.0,
+            "MAX_POWER": 220.0,
+            "MAX_CURRENT": 15.0,
+            "CORPUS": "UAV",
+            "TOTAL_LENGTH": 32.6,
+            "ADAPTER_DIAMETER": 5.0,
+            "PROP_PITCH_REC": "2,3",
+            "CAN_DIAMETER": 24.0,
+            "ADAPTER_LENGTH": 24.0,
+            "LENGTH": 16.0,
+            "WEIGHT": 0.065,
+            "COST": 46.9,
+            "KM": 0.02754478472337756,
+            "KV": 920.0,
+            "Poles": "9N12P",
+            "INTERNAL_RESISTANCE": 142.0,
+            "SHAFT_DIAMETER": 4.0,
+            "Min_Cells": 2.0,
+            "ESC_BEC_Class": 2.0,
+            "CAN_LENGTH": 12.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN3110KV470": {
+        "id": "t_motor_MN3110KV470",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "COST": 61.9,
+            "INTERNAL_RESISTANCE": 135.0,
+            "ESC_BEC_Class": 2.0,
+            "MODEL": "t_motor_MN3110KV470",
+            "Max_Cells": 6.0,
+            "KV": 470.0,
+            "IO_IDLE_CURRENT_10V": 0.3,
+            "ADAPTER_DIAMETER": 6.0,
+            "PROP_PITCH_REC": "3,5",
+            "PROP_SIZE_REC": "10,15",
+            "TOTAL_LENGTH": 37.1,
+            "CAN_DIAMETER": 37.7,
+            "MAX_POWER": 330.0,
+            "CORPUS": "UAV",
+            "WEIGHT": 0.098,
+            "KM": 0.05529764547756568,
+            "SHAFT_DIAMETER": 4.0,
+            "KT": 0.02031765230960366,
+            "ADAPTER_LENGTH": 26.0,
+            "CAN_LENGTH": 10.0,
+            "MAX_CURRENT": 15.0,
+            "LENGTH": 30.0,
+            "Min_Cells": 3.0,
+            "Poles": "12N14P"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN3110KV700": {
+        "id": "t_motor_MN3110KV700",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "IO_IDLE_CURRENT_10V": 0.3,
+            "MODEL": "t_motor_MN3110KV700",
+            "SHAFT_DIAMETER": 4.0,
+            "COST": 61.9,
+            "INTERNAL_RESISTANCE": 92.0,
+            "MAX_POWER": 0.0,
+            "LENGTH": 30.0,
+            "KV": 700.0,
+            "CAN_DIAMETER": 37.7,
+            "TOTAL_LENGTH": 37.1,
+            "Min_Cells": 3.0,
+            "ESC_BEC_Class": 2.0,
+            "WEIGHT": 0.099,
+            "ADAPTER_DIAMETER": 6.0,
+            "Max_Cells": 6.0,
+            "Poles": "12N14P",
+            "KM": 0.044975855022520064,
+            "KT": 0.013641852265019601,
+            "PROP_PITCH_REC": "3,5",
+            "CAN_LENGTH": 10.0,
+            "ADAPTER_LENGTH": 26.0,
+            "PROP_SIZE_REC": "10,13",
+            "CORPUS": "UAV",
+            "MAX_CURRENT": 21.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN3110KV780": {
+        "id": "t_motor_MN3110KV780",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_LENGTH": 10.0,
+            "ESC_BEC_Class": 2.0,
+            "CORPUS": "UAV",
+            "KV": 780.0,
+            "MAX_POWER": 481.0,
+            "MAX_CURRENT": 26.0,
+            "Max_Cells": 6.0,
+            "Min_Cells": 3.0,
+            "SHAFT_DIAMETER": 4.0,
+            "INTERNAL_RESISTANCE": 71.0,
+            "COST": 61.9,
+            "KT": 0.012242687930145796,
+            "WEIGHT": 0.1,
+            "IO_IDLE_CURRENT_10V": 0.4,
+            "PROP_SIZE_REC": "9,12",
+            "LENGTH": 30.0,
+            "KM": 0.04594598907457945,
+            "PROP_PITCH_REC": "3,4",
+            "MODEL": "t_motor_MN3110KV780",
+            "CAN_DIAMETER": 37.7,
+            "Poles": "12N14P",
+            "ADAPTER_LENGTH": 26.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "TOTAL_LENGTH": 37.1
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN3508KV380": {
+        "id": "t_motor_MN3508KV380",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Poles": "12N14P",
+            "MAX_CURRENT": 14.0,
+            "KM": 0.05550228394103166,
+            "KV": 380.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "MAX_POWER": 0.0,
+            "LENGTH": 27.0,
+            "Min_Cells": 3.0,
+            "IO_IDLE_CURRENT_10V": 0.4,
+            "ADAPTER_LENGTH": 26.0,
+            "INTERNAL_RESISTANCE": 205.0,
+            "COST": 69.9,
+            "KT": 0.025129727856615054,
+            "ESC_BEC_Class": 2.0,
+            "WEIGHT": 0.103,
+            "PROP_SIZE_REC": "12,16",
+            "SHAFT_DIAMETER": 4.0,
+            "Max_Cells": 6.0,
+            "CORPUS": "UAV",
+            "TOTAL_LENGTH": 35.1,
+            "CAN_DIAMETER": 41.8,
+            "PROP_PITCH_REC": "4,6",
+            "CAN_LENGTH": 8.0,
+            "MODEL": "t_motor_MN3508KV380"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN3508KV580": {
+        "id": "t_motor_MN3508KV580",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "PROP_PITCH_REC": "4,5",
+            "TOTAL_LENGTH": 35.1,
+            "ADAPTER_LENGTH": 26.0,
+            "ESC_BEC_Class": 2.0,
+            "SHAFT_DIAMETER": 4.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "CAN_DIAMETER": 41.8,
+            "IO_IDLE_CURRENT_10V": 0.4,
+            "INTERNAL_RESISTANCE": 110.0,
+            "KT": 0.016464304457782276,
+            "LENGTH": 27.0,
+            "WEIGHT": 0.103,
+            "MAX_POWER": 400.0,
+            "MAX_CURRENT": 18.0,
+            "CAN_LENGTH": 8.0,
+            "Poles": "12N14P",
+            "CORPUS": "UAV",
+            "MODEL": "t_motor_MN3508KV580",
+            "Max_Cells": 4.0,
+            "KV": 580.0,
+            "KM": 0.04964174574603602,
+            "Min_Cells": 3.0,
+            "COST": 69.9,
+            "PROP_SIZE_REC": "12,15"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN3508KV700": {
+        "id": "t_motor_MN3508KV700",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KT": 0.013641852265019601,
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "Poles": "12N14P",
+            "CAN_LENGTH": 8.0,
+            "KV": 700.0,
+            "Max_Cells": 4.0,
+            "TOTAL_LENGTH": 35.1,
+            "SHAFT_DIAMETER": 4.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "WEIGHT": 0.104,
+            "KM": 0.050840181672655506,
+            "CAN_DIAMETER": 41.8,
+            "MAX_CURRENT": 23.0,
+            "LENGTH": 27.0,
+            "MAX_POWER": 510.0,
+            "PROP_SIZE_REC": "11,13",
+            "Min_Cells": 3.0,
+            "MODEL": "t_motor_MN3508KV700",
+            "PROP_PITCH_REC": "3,5",
+            "COST": 69.9,
+            "INTERNAL_RESISTANCE": 72.0,
+            "ADAPTER_LENGTH": 26.0,
+            "CORPUS": "UAV",
+            "ESC_BEC_Class": 2.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN3510KV360": {
+        "id": "t_motor_MN3510KV360",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "PROP_SIZE_REC": "12,16",
+            "PROP_PITCH_REC": "4,6",
+            "KM": 0.06117725079763944,
+            "MAX_CURRENT": 15.0,
+            "SHAFT_DIAMETER": 4.0,
+            "CAN_DIAMETER": 41.8,
+            "KT": 0.026525823848649224,
+            "IO_IDLE_CURRENT_10V": 0.4,
+            "TOTAL_LENGTH": 37.1,
+            "MODEL": "t_motor_MN3510KV360",
+            "WEIGHT": 0.117,
+            "COST": 79.9,
+            "KV": 360.0,
+            "CAN_LENGTH": 10.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "MAX_POWER": 330.0,
+            "Poles": "12N14P",
+            "INTERNAL_RESISTANCE": 188.0,
+            "LENGTH": 29.0,
+            "CORPUS": "UAV",
+            "Min_Cells": 3.0,
+            "ESC_BEC_Class": 2.0,
+            "Max_Cells": 6.0,
+            "ADAPTER_LENGTH": 26.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN3510KV630": {
+        "id": "t_motor_MN3510KV630",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "WEIGHT": 0.119,
+            "MODEL": "t_motor_MN3510KV630",
+            "INTERNAL_RESISTANCE": 65.0,
+            "PROP_SIZE_REC": "12,14",
+            "CORPUS": "UAV",
+            "CAN_DIAMETER": 41.8,
+            "Max_Cells": 4.0,
+            "COST": 79.9,
+            "MAX_CURRENT": 22.0,
+            "ADAPTER_LENGTH": 26.0,
+            "Poles": "12N14P",
+            "PROP_PITCH_REC": "4,5",
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "KM": 0.059453052052038345,
+            "CAN_LENGTH": 10.0,
+            "MAX_POWER": 495.0,
+            "Min_Cells": 3.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "ESC_BEC_Class": 2.0,
+            "SHAFT_DIAMETER": 4.0,
+            "LENGTH": 29.0,
+            "KT": 0.015157613627799556,
+            "TOTAL_LENGTH": 37.1,
+            "KV": 630.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN3510KV700": {
+        "id": "t_motor_MN3510KV700",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Min_Cells": 3.0,
+            "MAX_POWER": 555.0,
+            "SHAFT_DIAMETER": 4.0,
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "ESC_BEC_Class": 2.0,
+            "CAN_DIAMETER": 41.8,
+            "PROP_SIZE_REC": "11,14",
+            "INTERNAL_RESISTANCE": 50.0,
+            "MODEL": "t_motor_MN3510KV700",
+            "ADAPTER_DIAMETER": 6.0,
+            "COST": 79.9,
+            "TOTAL_LENGTH": 37.1,
+            "KT": 0.013641852265019601,
+            "WEIGHT": 0.118,
+            "Poles": "12N14P",
+            "MAX_CURRENT": 25.0,
+            "ADAPTER_LENGTH": 26.0,
+            "CAN_LENGTH": 10.0,
+            "CORPUS": "UAV",
+            "KV": 700.0,
+            "LENGTH": 29.0,
+            "KM": 0.06100821800718661,
+            "Max_Cells": 4.0,
+            "PROP_PITCH_REC": "3,5"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN3515KV400": {
+        "id": "t_motor_MN3515KV400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MAX_POWER": 900.0,
+            "Max_Cells": 8.0,
+            "CAN_DIAMETER": 42.5,
+            "PROP_PITCH_REC": "3,6",
+            "CAN_LENGTH": 15.0,
+            "ADAPTER_LENGTH": 31.5,
+            "INTERNAL_RESISTANCE": 116.0,
+            "PROP_SIZE_REC": "12,17",
+            "Min_Cells": 4.0,
+            "KV": 400.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "LENGTH": 34.0,
+            "KM": 0.07009425046445468,
+            "Poles": "12N14P",
+            "ESC_BEC_Class": 2.0,
+            "KT": 0.0238732414637843,
+            "MAX_CURRENT": 30.0,
+            "TOTAL_LENGTH": 43.0,
+            "IO_IDLE_CURRENT_10V": 0.3,
+            "MODEL": "t_motor_MN3515KV400",
+            "WEIGHT": 0.183,
+            "CORPUS": "UAV",
+            "COST": 96.9,
+            "SHAFT_DIAMETER": 4.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN3520KV400": {
+        "id": "t_motor_MN3520KV400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "t_motor_MN3520KV400",
+            "KV": 400.0,
+            "TOTAL_LENGTH": 50.6,
+            "WEIGHT": 0.222,
+            "INTERNAL_RESISTANCE": 82.0,
+            "MAX_POWER": 1140.0,
+            "PROP_SIZE_REC": "14,18",
+            "LENGTH": 42.0,
+            "Max_Cells": 8.0,
+            "ESC_BEC_Class": 2.0,
+            "CAN_LENGTH": 20.0,
+            "MAX_CURRENT": 38.0,
+            "COST": 109.9,
+            "Poles": "12N14P",
+            "PROP_PITCH_REC": "4,6",
+            "CORPUS": "UAV",
+            "KT": 0.0238732414637843,
+            "CAN_DIAMETER": 42.5,
+            "Min_Cells": 4.0,
+            "ADAPTER_LENGTH": "31.5,31.5",
+            "SHAFT_DIAMETER": 4.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "KM": 0.08336897548264713,
+            "IO_IDLE_CURRENT_10V": 1.2
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN4010KV370": {
+        "id": "t_motor_MN4010KV370",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "LENGTH": 30.0,
+            "Min_Cells": 4.0,
+            "ESC_BEC_Class": 2.0,
+            "ADAPTER_LENGTH": "31.5,31.5",
+            "PROP_PITCH_REC": "4,6",
+            "ADAPTER_DIAMETER": "6,8",
+            "MODEL": "t_motor_MN4010KV370",
+            "PROP_SIZE_REC": "12,17",
+            "MAX_CURRENT": 20.0,
+            "KM": 0.08244353784754947,
+            "MAX_POWER": 450.0,
+            "CAN_LENGTH": 10.0,
+            "INTERNAL_RESISTANCE": 98.0,
+            "IO_IDLE_CURRENT_10V": 0.8,
+            "WEIGHT": 0.137,
+            "COST": 86.9,
+            "KT": 0.025808909690577624,
+            "Max_Cells": 8.0,
+            "Poles": "18N24P",
+            "KV": 370.0,
+            "CORPUS": "UAV",
+            "CAN_DIAMETER": 44.7,
+            "TOTAL_LENGTH": 39.1,
+            "SHAFT_DIAMETER": 4.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN4010KV475": {
+        "id": "t_motor_MN4010KV475",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ADAPTER_LENGTH": "31.5,31.5",
+            "ADAPTER_DIAMETER": "6,8",
+            "KV": 475.0,
+            "Min_Cells": 4.0,
+            "CORPUS": "UAV",
+            "ESC_BEC_Class": 2.0,
+            "COST": 86.9,
+            "SHAFT_DIAMETER": 4.0,
+            "WEIGHT": 0.137,
+            "INTERNAL_RESISTANCE": 98.0,
+            "Max_Cells": 8.0,
+            "CAN_LENGTH": 10.0,
+            "PROP_SIZE_REC": "12,16",
+            "MODEL": "t_motor_MN4010KV475",
+            "Poles": "18N24P",
+            "KT": 0.020103782285292044,
+            "PROP_PITCH_REC": "4,6",
+            "MAX_POWER": 540.0,
+            "IO_IDLE_CURRENT_10V": 0.8,
+            "CAN_DIAMETER": 44.7,
+            "LENGTH": 30.0,
+            "MAX_CURRENT": 30.0,
+            "TOTAL_LENGTH": 39.1,
+            "KM": 0.06421917684967011
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN4010KV580": {
+        "id": "t_motor_MN4010KV580",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "TOTAL_LENGTH": 39.1,
+            "SHAFT_DIAMETER": 4.0,
+            "ESC_BEC_Class": 2.0,
+            "CAN_DIAMETER": 44.7,
+            "INTERNAL_RESISTANCE": 42.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "COST": 86.9,
+            "Max_Cells": 8.0,
+            "WEIGHT": 0.137,
+            "CORPUS": "UAV",
+            "KT": 0.016464304457782276,
+            "PROP_PITCH_REC": "4,6",
+            "MODEL": "t_motor_MN4010KV580",
+            "LENGTH": 30.0,
+            "Poles": "18N24P",
+            "IO_IDLE_CURRENT_10V": 1.3,
+            "CAN_LENGTH": 10.0,
+            "Min_Cells": 4.0,
+            "KM": 0.08033757960698291,
+            "KV": 580.0,
+            "ADAPTER_LENGTH": "31.5,31.5",
+            "MAX_POWER": 575.0,
+            "PROP_SIZE_REC": "12,15",
+            "MAX_CURRENT": 31.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN4012KV340": {
+        "id": "t_motor_MN4012KV340",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "UAV",
+            "TOTAL_LENGTH": 40.9,
+            "IO_IDLE_CURRENT_10V": 0.9,
+            "ADAPTER_DIAMETER": "6,8",
+            "CAN_DIAMETER": 44.7,
+            "Min_Cells": 4.0,
+            "CAN_LENGTH": 12.0,
+            "KM": 0.07701346160134363,
+            "LENGTH": 33.0,
+            "WEIGHT": 0.155,
+            "KT": 0.02808616642798153,
+            "ADAPTER_LENGTH": "31.5,31.5",
+            "Max_Cells": 8.0,
+            "INTERNAL_RESISTANCE": 133.0,
+            "MODEL": "t_motor_MN4012KV340",
+            "COST": 92.9,
+            "MAX_POWER": 660.0,
+            "PROP_SIZE_REC": "13,17",
+            "Poles": "18N24P",
+            "PROP_PITCH_REC": "4,6",
+            "ESC_BEC_Class": 2.0,
+            "MAX_CURRENT": 22.0,
+            "SHAFT_DIAMETER": 4.0,
+            "KV": 340.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN4012KV400": {
+        "id": "t_motor_MN4012KV400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KM": 0.08717275246988208,
+            "Max_Cells": 8.0,
+            "SHAFT_DIAMETER": 4.0,
+            "IO_IDLE_CURRENT_10V": 1.0,
+            "CORPUS": "UAV",
+            "ESC_BEC_Class": 2.0,
+            "Poles": "18N24P",
+            "KV": 400.0,
+            "MODEL": "t_motor_MN4012KV400",
+            "PROP_SIZE_REC": "12,16",
+            "INTERNAL_RESISTANCE": 75.0,
+            "MAX_CURRENT": 25.0,
+            "PROP_PITCH_REC": "4,6",
+            "MAX_POWER": 750.0,
+            "LENGTH": 33.0,
+            "KT": 0.0238732414637843,
+            "TOTAL_LENGTH": 40.9,
+            "ADAPTER_DIAMETER": "6,8",
+            "WEIGHT": 0.155,
+            "Min_Cells": 4.0,
+            "COST": 92.9,
+            "CAN_LENGTH": 12.0,
+            "ADAPTER_LENGTH": "31.5,31.5",
+            "CAN_DIAMETER": 44.7
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN4012KV480": {
+        "id": "t_motor_MN4012KV480",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "LENGTH": 33.0,
+            "KV": 480.0,
+            "CORPUS": "UAV",
+            "KT": 0.019894367886486918,
+            "SHAFT_DIAMETER": 4.0,
+            "COST": 92.9,
+            "INTERNAL_RESISTANCE": 57.0,
+            "CAN_DIAMETER": 44.7,
+            "ADAPTER_DIAMETER": "6,8",
+            "MAX_CURRENT": 29.0,
+            "Min_Cells": 4.0,
+            "KM": 0.08332833742247843,
+            "CAN_LENGTH": 12.0,
+            "ESC_BEC_Class": 2.0,
+            "ADAPTER_LENGTH": "31.5,31.5",
+            "Poles": "18N24P",
+            "MAX_POWER": 870.0,
+            "PROP_PITCH_REC": "4,6",
+            "PROP_SIZE_REC": "12,16",
+            "MODEL": "t_motor_MN4012KV480",
+            "IO_IDLE_CURRENT_10V": 1.3,
+            "TOTAL_LENGTH": 40.9,
+            "Max_Cells": 8.0,
+            "WEIGHT": 0.155
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN4014KV330": {
+        "id": "t_motor_MN4014KV330",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MAX_POWER": 750.0,
+            "INTERNAL_RESISTANCE": 85.0,
+            "PROP_PITCH_REC": "4,7",
+            "ESC_BEC_Class": 2.0,
+            "TOTAL_LENGTH": 42.9,
+            "CAN_LENGTH": 14.0,
+            "MAX_CURRENT": 25.0,
+            "ADAPTER_LENGTH": "31.5,31.5",
+            "KM": 0.09925399112253296,
+            "ADAPTER_DIAMETER": "6,8",
+            "KV": 330.0,
+            "CAN_DIAMETER": 44.7,
+            "Poles": "18N24P",
+            "KT": 0.028937262380344612,
+            "COST": 96.9,
+            "SHAFT_DIAMETER": 4.0,
+            "PROP_SIZE_REC": "14,18",
+            "WEIGHT": 0.171,
+            "MODEL": "t_motor_MN4014KV330",
+            "Min_Cells": 4.0,
+            "CORPUS": "UAV",
+            "IO_IDLE_CURRENT_10V": 1.1,
+            "LENGTH": 35.0,
+            "Max_Cells": 8.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN4014KV400": {
+        "id": "t_motor_MN4014KV400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KT": 0.0238732414637843,
+            "Poles": "18N24P",
+            "WEIGHT": 0.171,
+            "CORPUS": "UAV",
+            "MAX_POWER": 900.0,
+            "KV": 400.0,
+            "Max_Cells": 8.0,
+            "LENGTH": 35.0,
+            "ADAPTER_DIAMETER": "6,8",
+            "PROP_PITCH_REC": "4,6",
+            "TOTAL_LENGTH": 42.9,
+            "CAN_DIAMETER": 44.7,
+            "Min_Cells": 4.0,
+            "KM": 0.09223037816543718,
+            "SHAFT_DIAMETER": 4.0,
+            "ESC_BEC_Class": 2.0,
+            "MAX_CURRENT": 30.0,
+            "PROP_SIZE_REC": "14,18",
+            "INTERNAL_RESISTANCE": 67.0,
+            "CAN_LENGTH": 14.0,
+            "MODEL": "t_motor_MN4014KV400",
+            "COST": 96.9,
+            "ADAPTER_LENGTH": "31.5,31.5",
+            "IO_IDLE_CURRENT_10V": 1.3
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN5208KV340": {
+        "id": "t_motor_MN5208KV340",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KM": 0.09209816785799094,
+            "ADAPTER_LENGTH": 31.5,
+            "PROP_PITCH_REC": "4,7",
+            "Min_Cells": 4.0,
+            "LENGTH": 29.5,
+            "ADAPTER_DIAMETER": 6.0,
+            "IO_IDLE_CURRENT_10V": 0.9,
+            "CAN_LENGTH": 8.0,
+            "CORPUS": "UAV",
+            "KT": 0.02808616642798153,
+            "Max_Cells": 6.0,
+            "MODEL": "t_motor_MN5208KV340",
+            "MAX_POWER": 850.0,
+            "MAX_CURRENT": 35.0,
+            "TOTAL_LENGTH": 38.5,
+            "CAN_DIAMETER": 59.0,
+            "SHAFT_DIAMETER": 4.0,
+            "COST": 99.9,
+            "WEIGHT": 0.196,
+            "KV": 340.0,
+            "Poles": "24N22P",
+            "INTERNAL_RESISTANCE": 93.0,
+            "PROP_SIZE_REC": "14,18",
+            "ESC_BEC_Class": 2.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN5212KV340": {
+        "id": "t_motor_MN5212KV340",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KV": 340.0,
+            "ADAPTER_LENGTH": 31.5,
+            "Min_Cells": 4.0,
+            "MAX_POWER": 840.0,
+            "TOTAL_LENGTH": 42.5,
+            "WEIGHT": 0.249,
+            "SHAFT_DIAMETER": 4.0,
+            "LENGTH": 33.5,
+            "MAX_CURRENT": 35.0,
+            "INTERNAL_RESISTANCE": 69.0,
+            "MODEL": "t_motor_MN5212KV340",
+            "Max_Cells": 8.0,
+            "ESC_BEC_Class": 2.0,
+            "PROP_SIZE_REC": "14,19",
+            "CORPUS": "UAV",
+            "CAN_LENGTH": 12.0,
+            "Poles": "24N22P",
+            "ADAPTER_DIAMETER": 6.0,
+            "COST": 109.9,
+            "KM": 0.10692220825294046,
+            "IO_IDLE_CURRENT_10V": 1.1,
+            "PROP_PITCH_REC": "5,7",
+            "KT": 0.02808616642798153,
+            "CAN_DIAMETER": 59.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MN5212KV420": {
+        "id": "t_motor_MN5212KV420",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "t_motor_MN5212KV420",
+            "WEIGHT": 0.249,
+            "ESC_BEC_Class": 2.0,
+            "PROP_SIZE_REC": "14,18",
+            "TOTAL_LENGTH": 42.5,
+            "KV": 420.0,
+            "PROP_PITCH_REC": "5,7",
+            "Poles": "24N22P",
+            "COST": 109.9,
+            "KT": 0.022736420441699334,
+            "MAX_POWER": 1440.0,
+            "LENGTH": 33.5,
+            "KM": 0.08655607334761847,
+            "IO_IDLE_CURRENT_10V": 1.1,
+            "MAX_CURRENT": 60.0,
+            "Min_Cells": 4.0,
+            "CORPUS": "UAV",
+            "SHAFT_DIAMETER": 4.0,
+            "Max_Cells": 8.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "CAN_LENGTH": 12.0,
+            "ADAPTER_LENGTH": 31.5,
+            "CAN_DIAMETER": 59.0,
+            "INTERNAL_RESISTANCE": 69.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MT13063100KV": {
+        "id": "t_motor_MT13063100KV",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "LENGTH": 12.0,
+            "SHAFT_DIAMETER": 4.0,
+            "INTERNAL_RESISTANCE": 62.0,
+            "Min_Cells": 1.0,
+            "KT": 0.0030804182533915227,
+            "CAN_LENGTH": 6.0,
+            "ESC_BEC_Class": 3.0,
+            "Max_Cells": 2.0,
+            "IO_IDLE_CURRENT_10V": 0.2,
+            "ADAPTER_LENGTH": NaN,
+            "WEIGHT": 0.0112,
+            "CORPUS": "UAV",
+            "COST": 41.9,
+            "MODEL": "t_motor_MT13063100KV",
+            "ADAPTER_DIAMETER": NaN,
+            "KV": 3100.0,
+            "KM": 0.012371257411140733,
+            "MAX_POWER": 44.0,
+            "PROP_SIZE_REC": "6,7",
+            "CAN_DIAMETER": 17.7,
+            "TOTAL_LENGTH": 26.0,
+            "PROP_PITCH_REC": "2,3",
+            "MAX_CURRENT": 6.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MT22081100KV": {
+        "id": "t_motor_MT22081100KV",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "TOTAL_LENGTH": 48.0,
+            "MAX_CURRENT": 12.0,
+            "ADAPTER_LENGTH": NaN,
+            "IO_IDLE_CURRENT_10V": 0.1,
+            "PROP_SIZE_REC": "8,11",
+            "MODEL": "t_motor_MT22081100KV",
+            "SHAFT_DIAMETER": 5.0,
+            "ESC_BEC_Class": 3.0,
+            "PROP_PITCH_REC": "2,4",
+            "KV": 1100.0,
+            "KT": 0.008681178714103382,
+            "CORPUS": "UAV",
+            "INTERNAL_RESISTANCE": 165.0,
+            "CAN_DIAMETER": 27.5,
+            "Max_Cells": 4.0,
+            "MAX_POWER": 180.0,
+            "KM": 0.021371584627540637,
+            "WEIGHT": 0.045,
+            "CAN_LENGTH": 8.0,
+            "Min_Cells": 3.0,
+            "LENGTH": 24.5,
+            "COST": 43.9,
+            "ADAPTER_DIAMETER": NaN
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_MT2216V2800KV": {
+        "id": "t_motor_MT2216V2800KV",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KV": 800.0,
+            "MAX_POWER": 260.0,
+            "CORPUS": "UAV",
+            "CAN_LENGTH": 16.0,
+            "PROP_SIZE_REC": "9,12",
+            "KT": 0.01193662073189215,
+            "ESC_BEC_Class": 3.0,
+            "IO_IDLE_CURRENT_10V": 0.3,
+            "PROP_PITCH_REC": "3,5",
+            "Max_Cells": 4.0,
+            "WEIGHT": 0.075,
+            "CAN_DIAMETER": 27.5,
+            "ADAPTER_DIAMETER": NaN,
+            "Poles": "12N14P",
+            "MODEL": "t_motor_MT2216V2800KV",
+            "LENGTH": 34.0,
+            "COST": 54.9,
+            "KM": 0.02853398119506309,
+            "SHAFT_DIAMETER": 5.0,
+            "TOTAL_LENGTH": 58.0,
+            "MAX_CURRENT": 18.0,
+            "INTERNAL_RESISTANCE": 175.0,
+            "Min_Cells": 3.0,
+            "ADAPTER_LENGTH": NaN
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_P60KV170": {
+        "id": "t_motor_P60KV170",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "WEIGHT": 0.375,
+            "INTERNAL_RESISTANCE": 80.0,
+            "PROP_SIZE_REC": "16,24",
+            "SHAFT_DIAMETER": 6.0,
+            "ADAPTER_LENGTH": 0.0,
+            "KT": 0.05617233285596306,
+            "IO_IDLE_CURRENT_10V": 1.0,
+            "CAN_DIAMETER": 69.0,
+            "Min_Cells": 6.0,
+            "Max_Cells": 14.0,
+            "KV": 170.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "KM": 0.19859918738759694,
+            "TOTAL_LENGTH": 40.8,
+            "MAX_POWER": 1800.0,
+            "MAX_CURRENT": 38.0,
+            "CAN_LENGTH": 15.0,
+            "ESC_BEC_Class": 2.0,
+            "CORPUS": "Both",
+            "PROP_PITCH_REC": "4,20",
+            "LENGTH": 33.5,
+            "MODEL": "t_motor_P60KV170",
+            "COST": 107.9
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_P60KV340": {
+        "id": "t_motor_P60KV340",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "t_motor_P60KV340",
+            "KT": 0.02808616642798153,
+            "PROP_PITCH_REC": "4,20",
+            "CAN_DIAMETER": 69.0,
+            "ESC_BEC_Class": 2.0,
+            "ADAPTER_LENGTH": 0.0,
+            "KV": 340.0,
+            "ADAPTER_DIAMETER": 6.0,
+            "IO_IDLE_CURRENT_10V": 2.0,
+            "KM": 0.15012687440202768,
+            "TOTAL_LENGTH": 40.8,
+            "PROP_SIZE_REC": "16,24",
+            "Max_Cells": 8.0,
+            "Min_Cells": 6.0,
+            "LENGTH": 33.5,
+            "INTERNAL_RESISTANCE": 35.0,
+            "CAN_LENGTH": 15.0,
+            "MAX_CURRENT": 65.0,
+            "WEIGHT": 0.375,
+            "SHAFT_DIAMETER": 6.0,
+            "COST": 107.9,
+            "MAX_POWER": 1550.0,
+            "CORPUS": "Both"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_P80IIIKV100": {
+        "id": "t_motor_P80IIIKV100",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "TOTAL_LENGTH": 53.5,
+            "KM": 0.4358637623494104,
+            "LENGTH": 40.0,
+            "KT": 0.0954929658551372,
+            "MAX_CURRENT": 60.0,
+            "COST": 199.9,
+            "Max_Cells": 14.0,
+            "ESC_BEC_Class": 2.0,
+            "ADAPTER_DIAMETER": 10.0,
+            "INTERNAL_RESISTANCE": 48.0,
+            "CAN_LENGTH": 18.0,
+            "MODEL": "t_motor_P80IIIKV100",
+            "SHAFT_DIAMETER": 10.0,
+            "IO_IDLE_CURRENT_10V": 1.6,
+            "CORPUS": "Both",
+            "ADAPTER_LENGTH": 0.0,
+            "CAN_DIAMETER": 91.6,
+            "Min_Cells": 6.0,
+            "KV": 100.0,
+            "PROP_SIZE_REC": "18,34",
+            "WEIGHT": 0.649,
+            "PROP_PITCH_REC": "8,30",
+            "MAX_POWER": 2700.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_P80IIIKV120": {
+        "id": "t_motor_P80IIIKV120",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ESC_BEC_Class": 2.0,
+            "CORPUS": "Both",
+            "KM": 0.40822381559907317,
+            "MAX_POWER": 3600.0,
+            "LENGTH": 40.0,
+            "MAX_CURRENT": 70.0,
+            "MODEL": "t_motor_P80IIIKV120",
+            "ADAPTER_DIAMETER": 10.0,
+            "KT": 0.07957747154594767,
+            "PROP_SIZE_REC": "18,34",
+            "SHAFT_DIAMETER": 10.0,
+            "CAN_DIAMETER": 91.6,
+            "KV": 120.0,
+            "INTERNAL_RESISTANCE": 38.0,
+            "ADAPTER_LENGTH": 0.0,
+            "CAN_LENGTH": 18.0,
+            "Min_Cells": 6.0,
+            "PROP_PITCH_REC": "8,30",
+            "Max_Cells": 14.0,
+            "IO_IDLE_CURRENT_10V": 2.0,
+            "COST": 199.9,
+            "TOTAL_LENGTH": 53.5,
+            "WEIGHT": 0.649
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U10IIKV100": {
+        "id": "t_motor_U10IIKV100",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ADAPTER_LENGTH": 14.5,
+            "MAX_CURRENT": 32.4,
+            "KV": 100.0,
+            "PROP_SIZE_REC": "24,32",
+            "ESC_BEC_Class": 2.0,
+            "MODEL": "t_motor_U10IIKV100",
+            "INTERNAL_RESISTANCE": 101.0,
+            "ADAPTER_DIAMETER": 7.0,
+            "COST": 339.99,
+            "TOTAL_LENGTH": 33.1,
+            "IO_IDLE_CURRENT_10V": 1.0,
+            "Min_Cells": 8.0,
+            "PROP_PITCH_REC": "6,20",
+            "LENGTH": 30.1,
+            "MAX_POWER": 1600.0,
+            "CAN_DIAMETER": 98.6,
+            "KT": 0.0954929658551372,
+            "CAN_LENGTH": 10.0,
+            "SHAFT_DIAMETER": 10.0,
+            "Max_Cells": 14.0,
+            "CORPUS": "Both",
+            "WEIGHT": 0.415,
+            "KM": 0.3004766267875881
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U11IIKV120": {
+        "id": "t_motor_U11IIKV120",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "PROP_PITCH_REC": "6,16",
+            "ADAPTER_DIAMETER": 7.0,
+            "ADAPTER_LENGTH": 14.5,
+            "INTERNAL_RESISTANCE": 80.0,
+            "LENGTH": 51.6,
+            "IO_IDLE_CURRENT_10V": 1.5,
+            "ESC_BEC_Class": 2.0,
+            "Min_Cells": 6.0,
+            "PROP_SIZE_REC": "24,30",
+            "KM": 0.28134884879909566,
+            "TOTAL_LENGTH": 54.0,
+            "SHAFT_DIAMETER": 10.0,
+            "Max_Cells": 12.0,
+            "MODEL": "t_motor_U11IIKV120",
+            "CAN_LENGTH": 18.0,
+            "KT": 0.07957747154594767,
+            "CAN_DIAMETER": 79.5,
+            "WEIGHT": 0.772,
+            "KV": 120.0,
+            "CORPUS": "Both",
+            "MAX_POWER": 2783.0,
+            "COST": 349.9,
+            "MAX_CURRENT": 57.3
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U12IIKV120": {
+        "id": "t_motor_U12IIKV120",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Min_Cells": 10.0,
+            "WEIGHT": 0.778,
+            "KV": 120.0,
+            "LENGTH": 40.0,
+            "INTERNAL_RESISTANCE": 22.0,
+            "TOTAL_LENGTH": 47.6,
+            "IO_IDLE_CURRENT_10V": 1.5,
+            "ADAPTER_LENGTH": 14.5,
+            "CAN_DIAMETER": 106.8,
+            "MAX_CURRENT": 95.0,
+            "COST": 369.9,
+            "PROP_SIZE_REC": "24,32",
+            "ESC_BEC_Class": 2.0,
+            "CORPUS": "Both",
+            "KM": 0.5365112037145049,
+            "CAN_LENGTH": 18.0,
+            "Max_Cells": 14.0,
+            "PROP_PITCH_REC": "6,20",
+            "MAX_POWER": 4560.0,
+            "MODEL": "t_motor_U12IIKV120",
+            "ADAPTER_DIAMETER": 7.0,
+            "KT": 0.07957747154594767,
+            "SHAFT_DIAMETER": 10.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U12IIKV60": {
+        "id": "t_motor_U12IIKV60",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "INTERNAL_RESISTANCE": 75.0,
+            "COST": 369.9,
+            "Max_Cells": 25.0,
+            "ADAPTER_LENGTH": 14.5,
+            "ADAPTER_DIAMETER": 7.0,
+            "PROP_SIZE_REC": "24,34",
+            "MAX_CURRENT": 41.0,
+            "CAN_LENGTH": 18.0,
+            "WEIGHT": 0.803,
+            "CAN_DIAMETER": 106.8,
+            "KT": 0.15915494309189535,
+            "MAX_POWER": 4000.0,
+            "KM": 0.5811516831325473,
+            "LENGTH": 40.0,
+            "CORPUS": "Both",
+            "IO_IDLE_CURRENT_10V": 1.7,
+            "SHAFT_DIAMETER": 10.0,
+            "KV": 60.0,
+            "TOTAL_LENGTH": 47.6,
+            "PROP_PITCH_REC": "6,20",
+            "ESC_BEC_Class": 2.0,
+            "MODEL": "t_motor_U12IIKV60",
+            "Min_Cells": 22.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U13IIKV130": {
+        "id": "t_motor_U13IIKV130",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_DIAMETER": 100.0,
+            "PROP_SIZE_REC": "26,34",
+            "PROP_PITCH_REC": "8,30",
+            "LENGTH": 57.0,
+            "CAN_LENGTH": 20.0,
+            "ESC_BEC_Class": 2.0,
+            "COST": 379.9,
+            "Max_Cells": 14.0,
+            "SHAFT_DIAMETER": 10.0,
+            "INTERNAL_RESISTANCE": 18.0,
+            "TOTAL_LENGTH": 60.0,
+            "MODEL": "t_motor_U13IIKV130",
+            "IO_IDLE_CURRENT_10V": 1.5,
+            "Min_Cells": 10.0,
+            "WEIGHT": 0.99,
+            "KV": 130.0,
+            "CORPUS": "Both",
+            "MAX_CURRENT": 118.0,
+            "MAX_POWER": 5659.0,
+            "KT": 0.07345612758087477,
+            "ADAPTER_LENGTH": 14.5,
+            "ADAPTER_DIAMETER": 7.0,
+            "KM": 0.5475096487824439
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U13IIKV65": {
+        "id": "t_motor_U13IIKV65",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CORPUS": "Both",
+            "KM": 0.543746651278758,
+            "SHAFT_DIAMETER": 10.0,
+            "PROP_SIZE_REC": "26,34",
+            "IO_IDLE_CURRENT_10V": 1.7,
+            "CAN_DIAMETER": 100.0,
+            "MAX_POWER": 6720.0,
+            "WEIGHT": 0.975,
+            "KV": 65.0,
+            "ADAPTER_DIAMETER": 7.0,
+            "COST": 379.9,
+            "ADAPTER_LENGTH": 14.5,
+            "MAX_CURRENT": 68.0,
+            "Min_Cells": 22.0,
+            "ESC_BEC_Class": 2.0,
+            "TOTAL_LENGTH": 60.0,
+            "LENGTH": 57.0,
+            "Max_Cells": 25.0,
+            "CAN_LENGTH": 20.0,
+            "PROP_PITCH_REC": "8,30",
+            "MODEL": "t_motor_U13IIKV65",
+            "INTERNAL_RESISTANCE": 73.0,
+            "KT": 0.14691225516174955
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U15IIKV100": {
+        "id": "t_motor_U15IIKV100",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_LENGTH": 18.0,
+            "WEIGHT": 1.74,
+            "CAN_DIAMETER": 147.5,
+            "ADAPTER_DIAMETER": 12.0,
+            "MAX_POWER": 9942.0,
+            "IO_IDLE_CURRENT_10V": 4.5,
+            "KV": 100.0,
+            "ESC_BEC_Class": 2.0,
+            "CORPUS": "Both",
+            "Min_Cells": 12.0,
+            "KM": 0.8717275246988208,
+            "MAX_CURRENT": 150.0,
+            "Max_Cells": 24.0,
+            "PROP_SIZE_REC": "26,42",
+            "LENGTH": 55.0,
+            "SHAFT_DIAMETER": 12.0,
+            "PROP_PITCH_REC": "8,30",
+            "MODEL": "t_motor_U15IIKV100",
+            "INTERNAL_RESISTANCE": 12.0,
+            "KT": 0.0954929658551372,
+            "ADAPTER_LENGTH": 0.0,
+            "TOTAL_LENGTH": 83.0,
+            "COST": 689.9
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U15IIKV80": {
+        "id": "t_motor_U15IIKV80",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "ADAPTER_DIAMETER": 12.0,
+            "KM": 0.9154970186510952,
+            "LENGTH": 55.0,
+            "TOTAL_LENGTH": 83.0,
+            "IO_IDLE_CURRENT_10V": 3.8,
+            "WEIGHT": 1.74,
+            "Max_Cells": 24.0,
+            "MAX_CURRENT": 143.0,
+            "PROP_PITCH_REC": "8,30",
+            "MODEL": "t_motor_U15IIKV80",
+            "COST": 689.9,
+            "CAN_DIAMETER": 147.5,
+            "ESC_BEC_Class": 2.0,
+            "CORPUS": "Both",
+            "SHAFT_DIAMETER": 12.0,
+            "ADAPTER_LENGTH": 0.0,
+            "CAN_LENGTH": 18.0,
+            "PROP_SIZE_REC": "26,42",
+            "Min_Cells": 12.0,
+            "MAX_POWER": 8580.0,
+            "KV": 80.0,
+            "INTERNAL_RESISTANCE": 17.0,
+            "KT": 0.1193662073189215
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U3KV700": {
+        "id": "t_motor_U3KV700",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "PROP_SIZE_REC": "10,14",
+            "KV": 700.0,
+            "KT": 0.013641852265019601,
+            "WEIGHT": 0.128,
+            "PROP_PITCH_REC": "3,6",
+            "MODEL": "t_motor_U3KV700",
+            "ADAPTER_DIAMETER": 6.0,
+            "ADAPTER_LENGTH": 26.0,
+            "COST": 109.9,
+            "ESC_BEC_Class": 2.0,
+            "Max_Cells": 4.0,
+            "CAN_LENGTH": 15.0,
+            "MAX_CURRENT": 25.0,
+            "CAN_DIAMETER": 41.8,
+            "Min_Cells": 3.0,
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "SHAFT_DIAMETER": 4.0,
+            "LENGTH": 33.3,
+            "MAX_POWER": 500.0,
+            "CORPUS": "Both",
+            "KM": 0.06100821800718661,
+            "INTERNAL_RESISTANCE": 50.0,
+            "TOTAL_LENGTH": 38.8
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U5KV400": {
+        "id": "t_motor_U5KV400",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MAX_POWER": 850.0,
+            "PROP_SIZE_REC": "12,18",
+            "TOTAL_LENGTH": 47.05,
+            "LENGTH": 37.5,
+            "CORPUS": "Both",
+            "ADAPTER_DIAMETER": 6.0,
+            "PROP_PITCH_REC": "3,8",
+            "KV": 400.0,
+            "KT": 0.0238732414637843,
+            "ESC_BEC_Class": 2.0,
+            "CAN_LENGTH": 18.0,
+            "IO_IDLE_CURRENT_10V": 0.3,
+            "KM": 0.07009425046445468,
+            "ADAPTER_LENGTH": 27.5,
+            "SHAFT_DIAMETER": 4.0,
+            "WEIGHT": 0.195,
+            "CAN_DIAMETER": 425.0,
+            "Min_Cells": 3.0,
+            "Max_Cells": 8.0,
+            "INTERNAL_RESISTANCE": 116.0,
+            "MAX_CURRENT": 30.0,
+            "MODEL": "t_motor_U5KV400",
+            "COST": 125.9
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U7_V2.0KV280": {
+        "id": "t_motor_U7_V2.0KV280",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "KM": 0.12799239813632848,
+            "TOTAL_LENGTH": 45.0,
+            "PROP_SIZE_REC": "16,24",
+            "KV": 280.0,
+            "WEIGHT": 0.317,
+            "CAN_DIAMETER": 60.7,
+            "PROP_PITCH_REC": "4,12",
+            "ADAPTER_DIAMETER": 6.0,
+            "CAN_LENGTH": 15.0,
+            "KT": 0.034104630662549006,
+            "Min_Cells": 3.0,
+            "ESC_BEC_Class": 2.0,
+            "SHAFT_DIAMETER": 4.0,
+            "CORPUS": "Both",
+            "ADAPTER_LENGTH": 27.5,
+            "MAX_POWER": 800.0,
+            "LENGTH": 39.5,
+            "MAX_CURRENT": 35.0,
+            "INTERNAL_RESISTANCE": 71.0,
+            "COST": 149.9,
+            "Max_Cells": 8.0,
+            "MODEL": "t_motor_U7_V2.0KV280"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U7_V2.0KV420": {
+        "id": "t_motor_U7_V2.0KV420",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "MODEL": "t_motor_U7_V2.0KV420",
+            "ESC_BEC_Class": 2.0,
+            "WEIGHT": 0.296,
+            "KT": 0.022736420441699334,
+            "TOTAL_LENGTH": 45.0,
+            "Max_Cells": 8.0,
+            "COST": 149.9,
+            "ADAPTER_DIAMETER": 6.0,
+            "LENGTH": 39.5,
+            "Min_Cells": 3.0,
+            "ADAPTER_LENGTH": 27.5,
+            "IO_IDLE_CURRENT_10V": 0.9,
+            "PROP_SIZE_REC": "12,20",
+            "CORPUS": "Both",
+            "CAN_DIAMETER": 60.7,
+            "KV": 420.0,
+            "INTERNAL_RESISTANCE": 33.0,
+            "MAX_POWER": 1180.0,
+            "CAN_LENGTH": 15.0,
+            "PROP_PITCH_REC": "3,10",
+            "KM": 0.12515987527494624,
+            "MAX_CURRENT": 40.0,
+            "SHAFT_DIAMETER": 4.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U7_V2.0KV490": {
+        "id": "t_motor_U7_V2.0KV490",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Min_Cells": 3.0,
+            "ESC_BEC_Class": 2.0,
+            "TOTAL_LENGTH": 45.0,
+            "ADAPTER_LENGTH": 27.5,
+            "CAN_DIAMETER": 60.7,
+            "COST": 149.9,
+            "KT": 0.01948836037859943,
+            "WEIGHT": 0.299,
+            "Max_Cells": 8.0,
+            "CORPUS": "Both",
+            "SHAFT_DIAMETER": 4.0,
+            "LENGTH": 39.5,
+            "ADAPTER_DIAMETER": 6.0,
+            "IO_IDLE_CURRENT_10V": 1.1,
+            "KV": 490.0,
+            "MODEL": "t_motor_U7_V2.0KV490",
+            "INTERNAL_RESISTANCE": 21.0,
+            "PROP_SIZE_REC": "12,20",
+            "MAX_CURRENT": 44.0,
+            "MAX_POWER": 1300.0,
+            "CAN_LENGTH": 15.0,
+            "PROP_PITCH_REC": "3,10",
+            "KM": 0.13448246305323588
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U8IIKV100": {
+        "id": "t_motor_U8IIKV100",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Min_Cells": 6.0,
+            "TOTAL_LENGTH": 29.1,
+            "KV": 100.0,
+            "WEIGHT": 0.272,
+            "MODEL": "t_motor_U8IIKV100",
+            "CAN_LENGTH": 10.0,
+            "Max_Cells": 12.0,
+            "PROP_PITCH_REC": "6,20",
+            "INTERNAL_RESISTANCE": 170.0,
+            "CORPUS": "Both",
+            "COST": 309.99,
+            "IO_IDLE_CURRENT_10V": 0.7,
+            "PROP_SIZE_REC": "24,32",
+            "MAX_CURRENT": 29.3,
+            "SHAFT_DIAMETER": 10.0,
+            "LENGTH": 26.1,
+            "MAX_POWER": 1406.0,
+            "ADAPTER_LENGTH": 14.5,
+            "ADAPTER_DIAMETER": 7.0,
+            "ESC_BEC_Class": 2.0,
+            "KT": 0.0954929658551372,
+            "CAN_DIAMETER": 87.1,
+            "KM": 0.23160446160248901
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U8IIKV150": {
+        "id": "t_motor_U8IIKV150",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "PROP_SIZE_REC": "24,32",
+            "KV": 150.0,
+            "KM": 0.21835878046957247,
+            "ADAPTER_DIAMETER": 7.0,
+            "Min_Cells": 6.0,
+            "CORPUS": "Both",
+            "PROP_PITCH_REC": "6,20",
+            "IO_IDLE_CURRENT_10V": 1.0,
+            "CAN_DIAMETER": 87.1,
+            "CAN_LENGTH": 10.0,
+            "LENGTH": 26.1,
+            "TOTAL_LENGTH": 29.1,
+            "MAX_CURRENT": 29.7,
+            "MODEL": "t_motor_U8IIKV150",
+            "ADAPTER_LENGTH": 14.5,
+            "MAX_POWER": 1272.0,
+            "WEIGHT": 0.273,
+            "INTERNAL_RESISTANCE": 85.0,
+            "Max_Cells": 12.0,
+            "ESC_BEC_Class": 2.0,
+            "KT": 0.06366197723675814,
+            "COST": 309.99,
+            "SHAFT_DIAMETER": 10.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U8IIKV190": {
+        "id": "t_motor_U8IIKV190",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "IO_IDLE_CURRENT_10V": 1.3,
+            "MAX_CURRENT": 43.7,
+            "ADAPTER_DIAMETER": 7.0,
+            "ADAPTER_LENGTH": 14.5,
+            "KM": 0.22940198018390023,
+            "PROP_SIZE_REC": "24,32",
+            "LENGTH": 26.1,
+            "WEIGHT": 0.277,
+            "CAN_LENGTH": 10.0,
+            "MAX_POWER": 1048.8,
+            "SHAFT_DIAMETER": 10.0,
+            "KT": 0.05025945571323011,
+            "PROP_PITCH_REC": "6,20",
+            "KV": 190.0,
+            "TOTAL_LENGTH": 29.1,
+            "CORPUS": "Both",
+            "Max_Cells": 12.0,
+            "INTERNAL_RESISTANCE": 48.0,
+            "Min_Cells": 6.0,
+            "MODEL": "t_motor_U8IIKV190",
+            "COST": 309.99,
+            "CAN_DIAMETER": 87.1,
+            "ESC_BEC_Class": 2.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U8IIKV85": {
+        "id": "t_motor_U8IIKV85",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "LENGTH": 26.1,
+            "KM": 0.236843351079939,
+            "ESC_BEC_Class": 2.0,
+            "KT": 0.11234466571192613,
+            "Min_Cells": 6.0,
+            "TOTAL_LENGTH": 29.1,
+            "WEIGHT": 0.277,
+            "SHAFT_DIAMETER": 10.0,
+            "PROP_PITCH_REC": "6,20",
+            "ADAPTER_DIAMETER": 7.0,
+            "KV": 85.0,
+            "ADAPTER_LENGTH": 14.5,
+            "COST": 309.99,
+            "MAX_CURRENT": 19.1,
+            "CAN_LENGTH": 10.0,
+            "MODEL": "t_motor_U8IIKV85",
+            "CORPUS": "Both",
+            "MAX_POWER": 916.8,
+            "CAN_DIAMETER": 87.1,
+            "PROP_SIZE_REC": "24,32",
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "INTERNAL_RESISTANCE": 225.0,
+            "Max_Cells": 12.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U8LiteKV100": {
+        "id": "t_motor_U8LiteKV100",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KT": 0.0954929658551372,
+            "MAX_POWER": 1406.0,
+            "ESC_BEC_Class": 2.0,
+            "WEIGHT": 0.238,
+            "CORPUS": "Both",
+            "COST": 299.99,
+            "CAN_LENGTH": 10.0,
+            "ADAPTER_DIAMETER": 7.0,
+            "PROP_SIZE_REC": "22,30",
+            "Min_Cells": 6.0,
+            "KV": 100.0,
+            "MODEL": "t_motor_U8LiteKV100",
+            "CAN_DIAMETER": 87.1,
+            "Max_Cells": 12.0,
+            "IO_IDLE_CURRENT_10V": 0.7,
+            "LENGTH": 23.95,
+            "SHAFT_DIAMETER": 10.0,
+            "ADAPTER_LENGTH": 14.5,
+            "PROP_PITCH_REC": "4,20",
+            "MAX_CURRENT": 29.3,
+            "TOTAL_LENGTH": 26.95,
+            "INTERNAL_RESISTANCE": 170.0,
+            "KM": 0.23160446160248901
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U8LiteKV150": {
+        "id": "t_motor_U8LiteKV150",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "TOTAL_LENGTH": 26.95,
+            "Max_Cells": 12.0,
+            "COST": 299.99,
+            "ESC_BEC_Class": 2.0,
+            "KM": 0.21835878046957247,
+            "Min_Cells": 6.0,
+            "PROP_SIZE_REC": "22,30",
+            "WEIGHT": 0.239,
+            "MAX_CURRENT": 29.7,
+            "INTERNAL_RESISTANCE": 85.0,
+            "PROP_PITCH_REC": "4,20",
+            "KV": 150.0,
+            "ADAPTER_LENGTH": 14.5,
+            "SHAFT_DIAMETER": 10.0,
+            "CORPUS": "Both",
+            "CAN_DIAMETER": 87.1,
+            "KT": 0.06366197723675814,
+            "MODEL": "t_motor_U8LiteKV150",
+            "ADAPTER_DIAMETER": 7.0,
+            "CAN_LENGTH": 10.0,
+            "IO_IDLE_CURRENT_10V": 1.0,
+            "MAX_POWER": 1272.0,
+            "LENGTH": 23.95
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U8LiteKV190": {
+        "id": "t_motor_U8LiteKV190",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "CAN_LENGTH": 10.0,
+            "INTERNAL_RESISTANCE": 48.0,
+            "Max_Cells": 12.0,
+            "PROP_SIZE_REC": "22,30",
+            "COST": 299.99,
+            "MODEL": "t_motor_U8LiteKV190",
+            "MAX_POWER": 1048.8,
+            "IO_IDLE_CURRENT_10V": 1.3,
+            "Min_Cells": 6.0,
+            "ADAPTER_LENGTH": 14.5,
+            "WEIGHT": 0.243,
+            "KM": 0.22940198018390023,
+            "ADAPTER_DIAMETER": 7.0,
+            "TOTAL_LENGTH": 26.95,
+            "PROP_PITCH_REC": "4,20",
+            "MAX_CURRENT": 43.7,
+            "CAN_DIAMETER": 87.1,
+            "SHAFT_DIAMETER": 10.0,
+            "KV": 190.0,
+            "LENGTH": 23.95,
+            "KT": 0.05025945571323011,
+            "CORPUS": "Both",
+            "ESC_BEC_Class": 2.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U8LiteKV85": {
+        "id": "t_motor_U8LiteKV85",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "Min_Cells": 6.0,
+            "CAN_DIAMETER": 87.1,
+            "CAN_LENGTH": 10.0,
+            "ESC_BEC_Class": 2.0,
+            "LENGTH": 23.95,
+            "PROP_PITCH_REC": "4,20",
+            "KM": 0.236843351079939,
+            "WEIGHT": 0.243,
+            "KT": 0.11234466571192613,
+            "IO_IDLE_CURRENT_10V": 0.5,
+            "PROP_SIZE_REC": "24,30",
+            "Max_Cells": 12.0,
+            "CORPUS": "Both",
+            "MAX_CURRENT": 19.1,
+            "ADAPTER_LENGTH": 14.5,
+            "SHAFT_DIAMETER": 10.0,
+            "INTERNAL_RESISTANCE": 225.0,
+            "ADAPTER_DIAMETER": 7.0,
+            "KV": 85.0,
+            "TOTAL_LENGTH": 26.95,
+            "MAX_POWER": 916.8,
+            "COST": 299.99,
+            "MODEL": "t_motor_U8LiteKV85"
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U8LiteLKV110": {
+        "id": "t_motor_U8LiteLKV110",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "KM": 0.26790699144115143,
+            "CORPUS": "Both",
+            "INTERNAL_RESISTANCE": 105.0,
+            "CAN_DIAMETER": 87.1,
+            "CAN_LENGTH": 10.0,
+            "IO_IDLE_CURRENT_10V": 0.9,
+            "WEIGHT": 0.282,
+            "MAX_CURRENT": 45.8,
+            "ADAPTER_DIAMETER": 7.0,
+            "LENGTH": 25.05,
+            "COST": 329.9,
+            "MODEL": "t_motor_U8LiteLKV110",
+            "SHAFT_DIAMETER": 10.0,
+            "TOTAL_LENGTH": 28.05,
+            "KT": 0.08681178714103381,
+            "MAX_POWER": 2140.0,
+            "KV": 110.0,
+            "Max_Cells": 12.0,
+            "ADAPTER_LENGTH": 14.5,
+            "PROP_PITCH_REC": "6,20",
+            "Min_Cells": 6.0,
+            "PROP_SIZE_REC": "24,32",
+            "ESC_BEC_Class": 2.0
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    },
+    "t_motor_U8LiteLKV95": {
+        "id": "t_motor_U8LiteLKV95",
+        "type": "Motor",
+        "parameters": [
+            {
+                "name": "CONTROL_CHANNEL",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "-1.0",
+                "learned": "-1.0"
+            }
+        ],
+        "properties": {
+            "PROP_SIZE_REC": "24,32",
+            "PROP_PITCH_REC": "6,20",
+            "Max_Cells": 12.0,
+            "CORPUS": "Both",
+            "Min_Cells": 6.0,
+            "ESC_BEC_Class": 2.0,
+            "KT": 0.10051891142646022,
+            "IO_IDLE_CURRENT_10V": 0.7,
+            "TOTAL_LENGTH": 28.05,
+            "LENGTH": 25.05,
+            "ADAPTER_LENGTH": 14.5,
+            "KV": 95.0,
+            "CAN_LENGTH": 10.0,
+            "MAX_POWER": 1790.0,
+            "INTERNAL_RESISTANCE": 146.0,
+            "KM": 0.26307001456668033,
+            "MODEL": "t_motor_U8LiteLKV95",
+            "WEIGHT": 0.28,
+            "SHAFT_DIAMETER": 10.0,
+            "ADAPTER_DIAMETER": 7.0,
+            "COST": 329.9,
+            "MAX_CURRENT": 38.0,
+            "CAN_DIAMETER": 87.1
+        },
+        "connectors": [
+            "MotorPower",
+            "Base_Connector",
+            "Prop_Connector"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "COMPONENTS": {
+        "Battery": "TurnigyGraphene1000mAh2S75C",
+        "BatteryController": "BatteryController",
+        "Flange": "0394_para_flange",
+        "Fuselage": "capsule_fuselage",
+        "Hub4": "0394od_para_hub_4",
+        "Motor": "t_motor_AT2312KV1400",
+        "Orient": "Orient",
+        "Propeller": "apc_propellers_6x4E",
+        "Tube": "0394OD_para_tube"
+    }
+}

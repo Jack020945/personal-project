@@ -1,0 +1,328 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Propeller_instance_1
+    label=Propeller
+  ];
+  1 [
+    instance=Tube_instance_1
+    label=Tube
+  ];
+  2 [
+    instance=Tube_instance_2
+    label=Tube
+  ];
+  3 [
+    instance=Tube_instance_3
+    label=Tube
+  ];
+  4 [
+    instance=Tube_instance_4
+    label=Tube
+  ];
+  5 [
+    instance=Flange_instance_1
+    label=Flange
+  ];
+  6 [
+    instance=Flange_instance_2
+    label=Flange
+  ];
+  7 [
+    instance=Tube_instance_5
+    label=Tube
+  ];
+  8 [
+    instance=Propeller_instance_2
+    label=Propeller
+  ];
+  9 [
+    instance=Tube_instance_6
+    label=Tube
+  ];
+  10 [
+    instance=Hub3_instance_1
+    label=Hub3
+  ];
+  11 [
+    instance=Hub3_instance_2
+    label=Hub3
+  ];
+  12 [
+    instance=Flange_instance_3
+    label=Flange
+  ];
+  13 [
+    instance=Tube_instance_7
+    label=Tube
+  ];
+  14 [
+    instance=Motor_instance_1
+    label=Motor
+  ];
+  15 [
+    instance=Propeller_instance_3
+    label=Propeller
+  ];
+  16 [
+    instance=Tube_instance_8
+    label=Tube
+  ];
+  17 [
+    instance=Propeller_instance_4
+    label=Propeller
+  ];
+  18 [
+    instance=Tube_instance_9
+    label=Tube
+  ];
+  19 [
+    instance=Tube_instance_10
+    label=Tube
+  ];
+  20 [
+    instance=Hub3_instance_3
+    label=Hub3
+  ];
+  21 [
+    instance=Tube_instance_11
+    label=Tube
+  ];
+  22 [
+    instance=Tube_instance_12
+    label=Tube
+  ];
+  23 [
+    instance=Tube_instance_13
+    label=Tube
+  ];
+  24 [
+    instance=Motor_instance_2
+    label=Motor
+  ];
+  25 [
+    instance=Motor_instance_3
+    label=Motor
+  ];
+  26 [
+    instance=Tube_instance_14
+    label=Tube
+  ];
+  27 [
+    instance=Hub3_instance_4
+    label=Hub3
+  ];
+  28 [
+    instance=Hub3_instance_5
+    label=Hub3
+  ];
+  29 [
+    instance=Flange_instance_4
+    label=Flange
+  ];
+  30 [
+    instance=Tube_instance_15
+    label=Tube
+  ];
+  31 [
+    instance=Tube_instance_16
+    label=Tube
+  ];
+  32 [
+    instance=Motor_instance_4
+    label=Motor
+  ];
+
+  0 -> 14 [
+    label=ANY
+  ];
+  1 -> 11 [
+    label="SIDE3-BOTTOM"
+  ];
+  1 -> 5 [
+    label="TOP-BOTTOM"
+  ];
+  2 -> 6 [
+    label="BOTTOM-SIDE"
+  ];
+  3 -> 10 [
+    label="SIDE3-TOP"
+  ];
+  3 -> 27 [
+    label="SIDE1-BOTTOM"
+  ];
+  4 -> 11 [
+    label="SIDE1-BOTTOM"
+  ];
+  4 -> 28 [
+    label="SIDE1-TOP"
+  ];
+  5 -> 19 [
+    label="SIDE-BOTTOM"
+  ];
+  5 -> 1 [
+    label="BOTTOM-TOP"
+  ];
+  5 -> 14 [
+    label=ANY
+  ];
+  6 -> 2 [
+    label="SIDE-BOTTOM"
+  ];
+  6 -> 24 [
+    label=ANY
+  ];
+  6 -> 30 [
+    label="BOTTOM-TOP"
+  ];
+  7 -> 28 [
+    label="SIDE2-BOTTOM"
+  ];
+  7 -> 12 [
+    label="TOP-SIDE"
+  ];
+  8 -> 24 [
+    label=ANY
+  ];
+  9 -> 29 [
+    label="BOTTOM-BOTTOM"
+  ];
+  10 -> 18 [
+    label="TOP-CENTER"
+  ];
+  10 -> 26 [
+    label="BOTTOM-SIDE1"
+  ];
+  10 -> 3 [
+    label="TOP-SIDE3"
+  ];
+  10 -> 16 [
+    label="BOTTOM-SIDE2"
+  ];
+  11 -> 4 [
+    label="BOTTOM-SIDE1"
+  ];
+  11 -> 21 [
+    label="TOP-SIDE2"
+  ];
+  11 -> 1 [
+    label="BOTTOM-SIDE3"
+  ];
+  12 -> 7 [
+    label="SIDE-TOP"
+  ];
+  12 -> 23 [
+    label="BOTTOM-BOTTOM"
+  ];
+  12 -> 32 [
+    label=ANY
+  ];
+  13 -> 20 [
+    label="SIDE1-BOTTOM"
+  ];
+  13 -> 27 [
+    label="SIDE2-TOP"
+  ];
+  14 -> 5 [
+    label=ANY
+  ];
+  14 -> 0 [
+    label=ANY
+  ];
+  15 -> 32 [
+    label=ANY
+  ];
+  16 -> 10 [
+    label="SIDE2-BOTTOM"
+  ];
+  16 -> 29 [
+    label="TOP-SIDE"
+  ];
+  17 -> 25 [
+    label=ANY
+  ];
+  18 -> 10 [
+    label="CENTER-TOP"
+  ];
+  19 -> 5 [
+    label="BOTTOM-SIDE"
+  ];
+  20 -> 13 [
+    label="BOTTOM-SIDE1"
+  ];
+  20 -> 21 [
+    label="BOTTOM-SIDE3"
+  ];
+  21 -> 11 [
+    label="SIDE2-TOP"
+  ];
+  21 -> 20 [
+    label="SIDE3-BOTTOM"
+  ];
+  22 -> 28 [
+    label="SIDE3-BOTTOM"
+  ];
+  23 -> 12 [
+    label="BOTTOM-BOTTOM"
+  ];
+  24 -> 6 [
+    label=ANY
+  ];
+  24 -> 8 [
+    label=ANY
+  ];
+  25 -> 17 [
+    label=ANY
+  ];
+  25 -> 29 [
+    label=ANY
+  ];
+  26 -> 10 [
+    label="SIDE1-BOTTOM"
+  ];
+  27 -> 30 [
+    label="BOTTOM-SIDE3"
+  ];
+  27 -> 13 [
+    label="TOP-SIDE2"
+  ];
+  27 -> 3 [
+    label="BOTTOM-SIDE1"
+  ];
+  28 -> 4 [
+    label="TOP-SIDE1"
+  ];
+  28 -> 31 [
+    label="TOP-CENTER"
+  ];
+  28 -> 22 [
+    label="BOTTOM-SIDE3"
+  ];
+  28 -> 7 [
+    label="BOTTOM-SIDE2"
+  ];
+  29 -> 25 [
+    label=ANY
+  ];
+  29 -> 16 [
+    label="SIDE-TOP"
+  ];
+  29 -> 9 [
+    label="BOTTOM-BOTTOM"
+  ];
+  30 -> 6 [
+    label="TOP-BOTTOM"
+  ];
+  30 -> 27 [
+    label="SIDE3-BOTTOM"
+  ];
+  31 -> 28 [
+    label="CENTER-TOP"
+  ];
+  32 -> 15 [
+    label=ANY
+  ];
+  32 -> 12 [
+    label=ANY
+  ];
+}

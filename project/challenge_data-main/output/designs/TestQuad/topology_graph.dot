@@ -1,0 +1,322 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    label=Tube
+  ];
+  1 [
+    label=Motor
+  ];
+  2 [
+    label=Tube
+  ];
+  3 [
+    label=Tube
+  ];
+  4 [
+    label=Propeller
+  ];
+  5 [
+    label=Tube
+  ];
+  6 [
+    label=Battery
+  ];
+  7 [
+    label=Motor
+  ];
+  8 [
+    label=Flange
+  ];
+  9 [
+    label=Hub4
+  ];
+  10 [
+    label=Fuselage
+  ];
+  11 [
+    label=Tube
+  ];
+  12 [
+    label=Tube
+  ];
+  13 [
+    label=Orient
+  ];
+  14 [
+    label=BatteryController
+  ];
+  15 [
+    label=Motor
+  ];
+  16 [
+    label=Flange
+  ];
+  17 [
+    label=Propeller
+  ];
+  18 [
+    label=Flange
+  ];
+  19 [
+    label=Propeller
+  ];
+  20 [
+    label=Battery
+  ];
+  21 [
+    label=Propeller
+  ];
+  22 [
+    label=Motor
+  ];
+  23 [
+    label=Flange
+  ];
+  24 [
+    label=Tube
+  ];
+  25 [
+    label=Tube
+  ];
+
+  0 -> 16 [
+    connection="Tube_instance_1-Tube__BaseConnection-Flange_instance_2-Flange__BottomConnector"
+    label="BOTTOM-BOTTOM"
+  ];
+  1 -> 23 [
+    connection="Motor_instance_1-Motor__Base_Connector-Flange_instance_4-Flange__TopConnector"
+    label=ANY
+  ];
+  1 -> 17 [
+    connection="Propeller_instance_2-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_1-Motor__Prop_Connector"
+    label=ANY
+  ];
+  1 -> 14 [
+    connection="Motor_instance_1-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  2 -> 23 [
+    connection="Tube_instance_2-Tube__EndConnection-Flange_instance_4-Flange__SideConnector"
+    label="TOP-SIDE"
+  ];
+  2 -> 9 [
+    connection="Tube_instance_2-Tube__BaseConnection-Hub4_instance_1-Hub4__Side_Connector_1"
+    label="SIDE1-BOTTOM"
+  ];
+  3 -> 18 [
+    connection="Tube_instance_3-Tube__BaseConnection-Flange_instance_3-Flange__BottomConnector"
+    label="BOTTOM-BOTTOM"
+  ];
+  4 -> 7 [
+    connection="Propeller_instance_1-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_2-Motor__Prop_Connector"
+    label=ANY
+  ];
+  5 -> 23 [
+    connection="Tube_instance_4-Tube__BaseConnection-Flange_instance_4-Flange__BottomConnector"
+    label="BOTTOM-BOTTOM"
+  ];
+  6 -> 10 [
+    connection="Fuselage_instance_1-Fuselage__FloorConnector1-Battery_instance_1-Battery__Bottom_Connector"
+    label="BOTTOM-1"
+  ];
+  6 -> 14 [
+    connection="Battery_instance_1-Battery__PowerBus-BatteryController_instance_1-BatteryController__BatteryPower"
+    label=ANY
+  ];
+  7 -> 4 [
+    connection="Propeller_instance_1-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_2-Motor__Prop_Connector"
+    label=ANY
+  ];
+  7 -> 16 [
+    connection="Motor_instance_2-Motor__Base_Connector-Flange_instance_2-Flange__TopConnector"
+    label=ANY
+  ];
+  7 -> 14 [
+    connection="Motor_instance_2-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  8 -> 12 [
+    connection="Tube_instance_6-Tube__EndConnection-Flange_instance_1-Flange__SideConnector"
+    label="SIDE-TOP"
+  ];
+  8 -> 11 [
+    connection="Tube_instance_5-Tube__BaseConnection-Flange_instance_1-Flange__BottomConnector"
+    label="BOTTOM-BOTTOM"
+  ];
+  8 -> 15 [
+    connection="Motor_instance_3-Motor__Base_Connector-Flange_instance_1-Flange__TopConnector"
+    label=ANY
+  ];
+  9 -> 12 [
+    connection="Tube_instance_6-Tube__BaseConnection-Hub4_instance_1-Hub4__Side_Connector_2"
+    label="BOTTOM-SIDE2"
+  ];
+  9 -> 13 [
+    connection="Orient-Orient__ORIENTCONN-Hub4_instance_1-Hub4__Orient_Connector"
+    label=ANY
+  ];
+  9 -> 25 [
+    connection="Tube_instance_8-Tube__BaseConnection-Hub4_instance_1-Hub4__Side_Connector_3"
+    label="BOTTOM-SIDE3"
+  ];
+  9 -> 10 [
+    connection="Hub4_instance_1-Hub4__Top_Connector-Fuselage_instance_1-Fuselage__BottomConnector"
+    label=TOP
+  ];
+  9 -> 2 [
+    connection="Tube_instance_2-Tube__BaseConnection-Hub4_instance_1-Hub4__Side_Connector_1"
+    label="BOTTOM-SIDE1"
+  ];
+  9 -> 24 [
+    connection="Tube_instance_7-Tube__BaseConnection-Hub4_instance_1-Hub4__Side_Connector_4"
+    label="BOTTOM-SIDE4"
+  ];
+  10 -> 6 [
+    connection="Fuselage_instance_1-Fuselage__FloorConnector1-Battery_instance_1-Battery__Bottom_Connector"
+    label="INSIDE-1"
+  ];
+  10 -> 9 [
+    connection="Hub4_instance_1-Hub4__Top_Connector-Fuselage_instance_1-Fuselage__BottomConnector"
+    label=BOTTOM
+  ];
+  10 -> 20 [
+    connection="Fuselage_instance_1-Fuselage__FloorConnector2-Battery_instance_2-Battery__Bottom_Connector"
+    label="INSIDE-2"
+  ];
+  11 -> 8 [
+    connection="Tube_instance_5-Tube__BaseConnection-Flange_instance_1-Flange__BottomConnector"
+    label="BOTTOM-BOTTOM"
+  ];
+  12 -> 8 [
+    connection="Tube_instance_6-Tube__EndConnection-Flange_instance_1-Flange__SideConnector"
+    label="TOP-SIDE"
+  ];
+  12 -> 9 [
+    connection="Tube_instance_6-Tube__BaseConnection-Hub4_instance_1-Hub4__Side_Connector_2"
+    label="SIDE2-BOTTOM"
+  ];
+  13 -> 9 [
+    connection="Orient-Orient__ORIENTCONN-Hub4_instance_1-Hub4__Orient_Connector"
+    label=ANY
+  ];
+  14 -> 1 [
+    connection="Motor_instance_1-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  14 -> 20 [
+    connection="Battery_instance_2-Battery__PowerBus-BatteryController_instance_1-BatteryController__BatteryPower"
+    label=ANY
+  ];
+  14 -> 22 [
+    connection="Motor_instance_4-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  14 -> 7 [
+    connection="Motor_instance_2-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  14 -> 6 [
+    connection="Battery_instance_1-Battery__PowerBus-BatteryController_instance_1-BatteryController__BatteryPower"
+    label=ANY
+  ];
+  14 -> 15 [
+    connection="Motor_instance_3-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  15 -> 14 [
+    connection="Motor_instance_3-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  15 -> 8 [
+    connection="Motor_instance_3-Motor__Base_Connector-Flange_instance_1-Flange__TopConnector"
+    label=ANY
+  ];
+  15 -> 21 [
+    connection="Propeller_instance_4-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_3-Motor__Prop_Connector"
+    label=ANY
+  ];
+  16 -> 0 [
+    connection="Tube_instance_1-Tube__BaseConnection-Flange_instance_2-Flange__BottomConnector"
+    label="BOTTOM-BOTTOM"
+  ];
+  16 -> 7 [
+    connection="Motor_instance_2-Motor__Base_Connector-Flange_instance_2-Flange__TopConnector"
+    label=ANY
+  ];
+  16 -> 24 [
+    connection="Tube_instance_7-Tube__EndConnection-Flange_instance_2-Flange__SideConnector"
+    label="SIDE-TOP"
+  ];
+  17 -> 1 [
+    connection="Propeller_instance_2-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_1-Motor__Prop_Connector"
+    label=ANY
+  ];
+  18 -> 22 [
+    connection="Motor_instance_4-Motor__Base_Connector-Flange_instance_3-Flange__TopConnector"
+    label=ANY
+  ];
+  18 -> 25 [
+    connection="Tube_instance_8-Tube__EndConnection-Flange_instance_3-Flange__SideConnector"
+    label="SIDE-TOP"
+  ];
+  18 -> 3 [
+    connection="Tube_instance_3-Tube__BaseConnection-Flange_instance_3-Flange__BottomConnector"
+    label="BOTTOM-BOTTOM"
+  ];
+  19 -> 22 [
+    connection="Propeller_instance_3-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_4-Motor__Prop_Connector"
+    label=ANY
+  ];
+  20 -> 10 [
+    connection="Fuselage_instance_1-Fuselage__FloorConnector2-Battery_instance_2-Battery__Bottom_Connector"
+    label="BOTTOM-2"
+  ];
+  20 -> 14 [
+    connection="Battery_instance_2-Battery__PowerBus-BatteryController_instance_1-BatteryController__BatteryPower"
+    label=ANY
+  ];
+  21 -> 15 [
+    connection="Propeller_instance_4-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_3-Motor__Prop_Connector"
+    label=ANY
+  ];
+  22 -> 14 [
+    connection="Motor_instance_4-Motor__MotorPower-BatteryController_instance_1-BatteryController__MotorPower"
+    label=ANY
+  ];
+  22 -> 19 [
+    connection="Propeller_instance_3-Propeller__MOTOR_CONNECTOR_CS_IN-Motor_instance_4-Motor__Prop_Connector"
+    label=ANY
+  ];
+  22 -> 18 [
+    connection="Motor_instance_4-Motor__Base_Connector-Flange_instance_3-Flange__TopConnector"
+    label=ANY
+  ];
+  23 -> 1 [
+    connection="Motor_instance_1-Motor__Base_Connector-Flange_instance_4-Flange__TopConnector"
+    label=ANY
+  ];
+  23 -> 5 [
+    connection="Tube_instance_4-Tube__BaseConnection-Flange_instance_4-Flange__BottomConnector"
+    label="BOTTOM-BOTTOM"
+  ];
+  23 -> 2 [
+    connection="Tube_instance_2-Tube__EndConnection-Flange_instance_4-Flange__SideConnector"
+    label="SIDE-TOP"
+  ];
+  24 -> 16 [
+    connection="Tube_instance_7-Tube__EndConnection-Flange_instance_2-Flange__SideConnector"
+    label="TOP-SIDE"
+  ];
+  24 -> 9 [
+    connection="Tube_instance_7-Tube__BaseConnection-Hub4_instance_1-Hub4__Side_Connector_4"
+    label="SIDE4-BOTTOM"
+  ];
+  25 -> 9 [
+    connection="Tube_instance_8-Tube__BaseConnection-Hub4_instance_1-Hub4__Side_Connector_3"
+    label="SIDE3-BOTTOM"
+  ];
+  25 -> 18 [
+    connection="Tube_instance_8-Tube__EndConnection-Flange_instance_3-Flange__SideConnector"
+    label="TOP-SIDE"
+  ];
+}

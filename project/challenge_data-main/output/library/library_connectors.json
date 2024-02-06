@@ -1,0 +1,454 @@
+{
+    "BatteryController__BatteryPower": {
+        "name": "BatteryPower",
+        "compatible_with": [
+            "Battery__PowerBus"
+        ]
+    },
+    "BatteryController__MotorPower": {
+        "name": "MotorPower",
+        "compatible_with": [
+            "Motor__MotorPower"
+        ]
+    },
+    "Battery__Bottom_Connector": {
+        "name": "Bottom_Connector",
+        "compatible_with": [
+            "Fuselage__FloorConnector1",
+            "Fuselage__FloorConnector2"
+        ]
+    },
+    "Battery__PowerBus": {
+        "name": "PowerBus",
+        "compatible_with": [
+            "BatteryController__BatteryPower"
+        ]
+    },
+    "Battery__Top_Connector": {
+        "name": "Top_Connector",
+        "compatible_with": []
+    },
+    "CargoCase__CargoConnector": {
+        "name": "CargoConnector",
+        "compatible_with": [
+            "Cargo__CargoConnector"
+        ]
+    },
+    "CargoCase__Case2HubConnector": {
+        "name": "Case2HubConnector",
+        "compatible_with": [
+            "Hub3__Bottom_Connector",
+            "Hub4__Bottom_Connector"
+        ]
+    },
+    "Cargo__CargoConnector": {
+        "name": "CargoConnector",
+        "compatible_with": [
+            "CargoCase__CargoConnector"
+        ]
+    },
+    "Flange__BottomConnector": {
+        "name": "BottomConnector",
+        "compatible_with": [
+            "Tube__EndConnection",
+            "Tube__BaseConnection"
+        ]
+    },
+    "Flange__SideConnector": {
+        "name": "SideConnector",
+        "compatible_with": [
+            "Tube__EndConnection",
+            "Tube__BaseConnection"
+        ]
+    },
+    "Flange__TopConnector": {
+        "name": "TopConnector",
+        "compatible_with": [
+            "Motor__Base_Connector"
+        ]
+    },
+    "Fuselage__BottomConnector": {
+        "name": "BottomConnector",
+        "compatible_with": [
+            "Hub3__Top_Connector",
+            "Hub4__Top_Connector"
+        ]
+    },
+    "Fuselage__FloorConnector1": {
+        "name": "FloorConnector1",
+        "compatible_with": [
+            "Battery__Bottom_Connector"
+        ]
+    },
+    "Fuselage__FloorConnector2": {
+        "name": "FloorConnector2",
+        "compatible_with": [
+            "Battery__Bottom_Connector"
+        ]
+    },
+    "Fuselage__FloorConnector3": {
+        "name": "FloorConnector3",
+        "compatible_with": [
+            "SensorRpmTemp__SensorConnector"
+        ]
+    },
+    "Fuselage__FloorConnector4": {
+        "name": "FloorConnector4",
+        "compatible_with": [
+            "SensorCurrent__SensorConnector"
+        ]
+    },
+    "Fuselage__FloorConnector5": {
+        "name": "FloorConnector5",
+        "compatible_with": [
+            "SensorAutopilot__SensorConnector"
+        ]
+    },
+    "Fuselage__FloorConnector6": {
+        "name": "FloorConnector6",
+        "compatible_with": [
+            "SensorVoltage__SensorConnector"
+        ]
+    },
+    "Fuselage__FloorConnector7": {
+        "name": "FloorConnector7",
+        "compatible_with": [
+            "SensorGPS__SensorConnector"
+        ]
+    },
+    "Fuselage__FloorConnector8": {
+        "name": "FloorConnector8",
+        "compatible_with": [
+            "SensorVariometer__SensorConnector"
+        ]
+    },
+    "Hub2__Bottom_Connector": {
+        "name": "Bottom_Connector",
+        "compatible_with": []
+    },
+    "Hub2__Center_Connector": {
+        "name": "Center_Connector",
+        "compatible_with": []
+    },
+    "Hub2__Orient_Connector": {
+        "name": "Orient_Connector",
+        "compatible_with": []
+    },
+    "Hub2__Side_Connector_1": {
+        "name": "Side_Connector_1",
+        "compatible_with": [
+            "Tube__EndConnection"
+        ]
+    },
+    "Hub2__Side_Connector_2": {
+        "name": "Side_Connector_2",
+        "compatible_with": [
+            "Tube__BaseConnection"
+        ]
+    },
+    "Hub2__Top_Connector": {
+        "name": "Top_Connector",
+        "compatible_with": []
+    },
+    "Hub3__Bottom_Connector": {
+        "name": "Bottom_Connector",
+        "compatible_with": [
+            "CargoCase__Case2HubConnector"
+        ]
+    },
+    "Hub3__Center_Connector": {
+        "name": "Center_Connector",
+        "compatible_with": [
+            "Tube__BaseConnection"
+        ]
+    },
+    "Hub3__Orient_Connector": {
+        "name": "Orient_Connector",
+        "compatible_with": [
+            "Orient__ORIENTCONN"
+        ]
+    },
+    "Hub3__Side_Connector_1": {
+        "name": "Side_Connector_1",
+        "compatible_with": [
+            "Tube__EndConnection",
+            "Tube__BaseConnection"
+        ]
+    },
+    "Hub3__Side_Connector_2": {
+        "name": "Side_Connector_2",
+        "compatible_with": [
+            "Tube__EndConnection",
+            "Tube__BaseConnection"
+        ]
+    },
+    "Hub3__Side_Connector_3": {
+        "name": "Side_Connector_3",
+        "compatible_with": [
+            "Tube__EndConnection",
+            "Tube__BaseConnection"
+        ]
+    },
+    "Hub3__Top_Connector": {
+        "name": "Top_Connector",
+        "compatible_with": [
+            "Fuselage__BottomConnector"
+        ]
+    },
+    "Hub4__Bottom_Connector": {
+        "name": "Bottom_Connector",
+        "compatible_with": [
+            "CargoCase__Case2HubConnector"
+        ]
+    },
+    "Hub4__Center_Connector": {
+        "name": "Center_Connector",
+        "compatible_with": []
+    },
+    "Hub4__Orient_Connector": {
+        "name": "Orient_Connector",
+        "compatible_with": [
+            "Orient__ORIENTCONN"
+        ]
+    },
+    "Hub4__Side_Connector_1": {
+        "name": "Side_Connector_1",
+        "compatible_with": [
+            "Tube__EndConnection",
+            "Tube__BaseConnection"
+        ]
+    },
+    "Hub4__Side_Connector_2": {
+        "name": "Side_Connector_2",
+        "compatible_with": [
+            "Tube__BaseConnection"
+        ]
+    },
+    "Hub4__Side_Connector_3": {
+        "name": "Side_Connector_3",
+        "compatible_with": [
+            "Tube__BaseConnection"
+        ]
+    },
+    "Hub4__Side_Connector_4": {
+        "name": "Side_Connector_4",
+        "compatible_with": [
+            "Tube__BaseConnection"
+        ]
+    },
+    "Hub4__Top_Connector": {
+        "name": "Top_Connector",
+        "compatible_with": [
+            "Fuselage__BottomConnector"
+        ]
+    },
+    "Hub5__Bottom_Connector": {
+        "name": "Bottom_Connector",
+        "compatible_with": []
+    },
+    "Hub5__Center_Connector": {
+        "name": "Center_Connector",
+        "compatible_with": []
+    },
+    "Hub5__Orient_Connector": {
+        "name": "Orient_Connector",
+        "compatible_with": []
+    },
+    "Hub5__Side_Connector_1": {
+        "name": "Side_Connector_1",
+        "compatible_with": []
+    },
+    "Hub5__Side_Connector_2": {
+        "name": "Side_Connector_2",
+        "compatible_with": []
+    },
+    "Hub5__Side_Connector_3": {
+        "name": "Side_Connector_3",
+        "compatible_with": []
+    },
+    "Hub5__Side_Connector_4": {
+        "name": "Side_Connector_4",
+        "compatible_with": []
+    },
+    "Hub5__Side_Connector_5": {
+        "name": "Side_Connector_5",
+        "compatible_with": []
+    },
+    "Hub5__Top_Connector": {
+        "name": "Top_Connector",
+        "compatible_with": []
+    },
+    "Hub6__Bottom_Connector": {
+        "name": "Bottom_Connector",
+        "compatible_with": []
+    },
+    "Hub6__Center_Connector": {
+        "name": "Center_Connector",
+        "compatible_with": []
+    },
+    "Hub6__Orient_Connector": {
+        "name": "Orient_Connector",
+        "compatible_with": []
+    },
+    "Hub6__Side_Connector_1": {
+        "name": "Side_Connector_1",
+        "compatible_with": []
+    },
+    "Hub6__Side_Connector_2": {
+        "name": "Side_Connector_2",
+        "compatible_with": []
+    },
+    "Hub6__Side_Connector_3": {
+        "name": "Side_Connector_3",
+        "compatible_with": []
+    },
+    "Hub6__Side_Connector_4": {
+        "name": "Side_Connector_4",
+        "compatible_with": []
+    },
+    "Hub6__Side_Connector_5": {
+        "name": "Side_Connector_5",
+        "compatible_with": []
+    },
+    "Hub6__Side_Connector_6": {
+        "name": "Side_Connector_6",
+        "compatible_with": []
+    },
+    "Hub6__Top_Connector": {
+        "name": "Top_Connector",
+        "compatible_with": []
+    },
+    "Motor__Base_Connector": {
+        "name": "Base_Connector",
+        "compatible_with": [
+            "Flange__TopConnector"
+        ]
+    },
+    "Motor__MotorPower": {
+        "name": "MotorPower",
+        "compatible_with": [
+            "BatteryController__MotorPower"
+        ]
+    },
+    "Motor__Prop_Connector": {
+        "name": "Prop_Connector",
+        "compatible_with": [
+            "Propeller__MOTOR_CONNECTOR_CS_IN"
+        ]
+    },
+    "Orient__Mount": {
+        "name": "Mount",
+        "compatible_with": []
+    },
+    "Orient__ORIENTCONN": {
+        "name": "ORIENTCONN",
+        "compatible_with": [
+            "Hub4__Orient_Connector",
+            "Hub3__Orient_Connector"
+        ]
+    },
+    "Propeller__MOTOR_CONNECTOR_CS_IN": {
+        "name": "MOTOR_CONNECTOR_CS_IN",
+        "compatible_with": [
+            "Motor__Prop_Connector"
+        ]
+    },
+    "SensorAutopilot__SensorConnector": {
+        "name": "SensorConnector",
+        "compatible_with": [
+            "Fuselage__FloorConnector5"
+        ]
+    },
+    "SensorCurrent__SensorConnector": {
+        "name": "SensorConnector",
+        "compatible_with": [
+            "Fuselage__FloorConnector4"
+        ]
+    },
+    "SensorGPS__SensorConnector": {
+        "name": "SensorConnector",
+        "compatible_with": [
+            "Fuselage__FloorConnector7"
+        ]
+    },
+    "SensorRpmTemp__SensorConnector": {
+        "name": "SensorConnector",
+        "compatible_with": [
+            "Fuselage__FloorConnector3"
+        ]
+    },
+    "SensorVariometer__SensorConnector": {
+        "name": "SensorConnector",
+        "compatible_with": [
+            "Fuselage__FloorConnector8"
+        ]
+    },
+    "SensorVoltage__SensorConnector": {
+        "name": "SensorConnector",
+        "compatible_with": [
+            "Fuselage__FloorConnector6"
+        ]
+    },
+    "Servo__Connector": {
+        "name": "Connector",
+        "compatible_with": []
+    },
+    "Tube__BaseConnection": {
+        "name": "BaseConnection",
+        "compatible_with": [
+            "Hub4__Side_Connector_1",
+            "Flange__BottomConnector",
+            "Hub3__Center_Connector",
+            "Hub3__Side_Connector_3",
+            "Flange__SideConnector",
+            "Hub3__Side_Connector_1",
+            "Hub2__Side_Connector_2",
+            "Hub4__Side_Connector_4",
+            "Hub3__Side_Connector_2",
+            "Hub4__Side_Connector_3",
+            "Hub4__Side_Connector_2"
+        ]
+    },
+    "Tube__End Connection 1": {
+        "name": "End Connection 1",
+        "compatible_with": []
+    },
+    "Tube__End Connection 2": {
+        "name": "End Connection 2",
+        "compatible_with": []
+    },
+    "Tube__EndConnection": {
+        "name": "EndConnection",
+        "compatible_with": [
+            "Hub4__Side_Connector_1",
+            "Flange__BottomConnector",
+            "Hub3__Side_Connector_3",
+            "Flange__SideConnector",
+            "Hub3__Side_Connector_1",
+            "Wing__Wing_Tube_Connector",
+            "Hub3__Side_Connector_2",
+            "Hub2__Side_Connector_1"
+        ]
+    },
+    "Tube__OffsetConnection1": {
+        "name": "OffsetConnection1",
+        "compatible_with": [
+            "Wing__Wing_Tube_Connector"
+        ]
+    },
+    "Tube__OffsetConnection2": {
+        "name": "OffsetConnection2",
+        "compatible_with": []
+    },
+    "Wing__Wing_Servo_Connector": {
+        "name": "Wing_Servo_Connector",
+        "compatible_with": []
+    },
+    "Wing__Wing_Tube_Connector": {
+        "name": "Wing_Tube_Connector",
+        "compatible_with": [
+            "Tube__EndConnection",
+            "Tube__OffsetConnection1"
+        ]
+    }
+}

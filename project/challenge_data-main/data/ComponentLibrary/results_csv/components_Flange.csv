@@ -1,0 +1,4 @@
+name,class,connector,CORPUS,SIDE_ANGLE,BOTTOM_ANGLE,BOX,OD
+0394_para_flange,Flange,"['BottomConnector', 'SideConnector', 'TopConnector']",UAV,"('0', '0', '360', '0')","('0', '0', '360', '0')",40.64,10.16
+05OD_para_flange,Flange,"['BottomConnector', 'SideConnector', 'TopConnector']",UAV,"('0', '0', '360', '0')","('0', '0', '360', '0')",50.8,12.7
+0281_para_flange,Flange,"['BottomConnector', 'SideConnector', 'TopConnector']",UAV,"('0', '0', '360', '0')","('0', '0', '360', '0')",30.48,7.3152

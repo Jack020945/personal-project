@@ -1,0 +1,856 @@
+{
+    "DESIGN_PARAMETERS": {
+        "BodyRotAngle": {
+            "PARAMETERS": {
+                "Flange__BOTTOM_ANGLE": [
+                    "Flange_instance_2_Flange__BOTTOM_ANGLE"
+                ],
+                "Fuselage__BOTTOM_CONNECTOR_ROTATION": [
+                    "Fuselage_instance_1_Fuselage__BOTTOM_CONNECTOR_ROTATION"
+                ],
+                "Tube__END_ROT": [
+                    "Tube_instance_4_Tube__END_ROT",
+                    "Tube_instance_3_Tube__END_ROT",
+                    "Tube_instance_15_Tube__END_ROT",
+                    "Tube_instance_5_Tube__END_ROT"
+                ]
+            },
+            "VALUE": 90.0
+        },
+        "Channel_1": {
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": [
+                    "Motor_instance_1_Motor__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 1.0
+        },
+        "Channel_10": {
+            "PARAMETERS": {
+                "Wing__CONTROL_CHANNEL": [
+                    "Wing_instance_1_Wing__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 10.0
+        },
+        "Channel_2": {
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": [
+                    "Motor_instance_2_Motor__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 2.0
+        },
+        "Channel_3": {
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": [
+                    "Motor_instance_4_Motor__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 3.0
+        },
+        "Channel_4": {
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": [
+                    "Motor_instance_3_Motor__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 4.0
+        },
+        "Channel_5": {
+            "PARAMETERS": {
+                "Wing__CONTROL_CHANNEL": [
+                    "Wing_instance_6_Wing__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 5.0
+        },
+        "Channel_6": {
+            "PARAMETERS": {
+                "Wing__CONTROL_CHANNEL": [
+                    "Wing_instance_4_Wing__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 6.0
+        },
+        "Channel_7": {
+            "PARAMETERS": {
+                "Wing__CONTROL_CHANNEL": [
+                    "Wing_instance_5_Wing__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 7.0
+        },
+        "Channel_8": {
+            "PARAMETERS": {
+                "Wing__CONTROL_CHANNEL": [
+                    "Wing_instance_2_Wing__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 8.0
+        },
+        "Channel_9": {
+            "PARAMETERS": {
+                "Wing__CONTROL_CHANNEL": [
+                    "Wing_instance_3_Wing__CONTROL_CHANNEL"
+                ]
+            },
+            "VALUE": 9.0
+        },
+        "Front_Rail_Length": {
+            "PARAMETERS": {
+                "Tube__Length": [
+                    "Tube_instance_1_Tube__Length",
+                    "Tube_instance_15_Tube__Length"
+                ]
+            },
+            "VALUE": 80.0
+        },
+        "Front_Wing_Tube_Length": {
+            "PARAMETERS": {
+                "Tube__Length": [
+                    "Tube_instance_2_Tube__Length",
+                    "Tube_instance_10_Tube__Length"
+                ]
+            },
+            "VALUE": 55.0
+        },
+        "FwdFacingCCW_PropType": {
+            "PARAMETERS": {
+                "Propeller__Prop_type": [
+                    "Propeller_instance_1_Propeller__Prop_type",
+                    "Propeller_instance_3_Propeller__Prop_type"
+                ]
+            },
+            "VALUE": -1.0
+        },
+        "FwdFacingCCW_Spin": {
+            "PARAMETERS": {
+                "Propeller__Direction": [
+                    "Propeller_instance_1_Propeller__Direction",
+                    "Propeller_instance_3_Propeller__Direction"
+                ]
+            },
+            "VALUE": -1.0
+        },
+        "FwdFacingCW_PropType": {
+            "PARAMETERS": {
+                "Propeller__Prop_type": [
+                    "Propeller_instance_4_Propeller__Prop_type",
+                    "Propeller_instance_2_Propeller__Prop_type"
+                ]
+            },
+            "VALUE": 1.0
+        },
+        "FwdFacingCW_Spin": {
+            "PARAMETERS": {
+                "Propeller__Direction": [
+                    "Propeller_instance_4_Propeller__Direction",
+                    "Propeller_instance_2_Propeller__Direction"
+                ]
+            },
+            "VALUE": 1.0
+        },
+        "Mid_Tube_Length": {
+            "PARAMETERS": {
+                "Tube__Length": [
+                    "Tube_instance_7_Tube__Length",
+                    "Tube_instance_11_Tube__Length"
+                ]
+            },
+            "VALUE": 140.0
+        },
+        "NACA_profile": {
+            "PARAMETERS": {
+                "Wing__NACA_Profile": [
+                    "Wing_instance_6_Wing__NACA_Profile",
+                    "Wing_instance_1_Wing__NACA_Profile",
+                    "Wing_instance_4_Wing__NACA_Profile",
+                    "Wing_instance_5_Wing__NACA_Profile",
+                    "Wing_instance_2_Wing__NACA_Profile",
+                    "Wing_instance_3_Wing__NACA_Profile"
+                ]
+            },
+            "VALUE": 12.0
+        },
+        "Param_11": {
+            "PARAMETERS": {
+                "Tube__END_ROT": [
+                    "Tube_instance_11_Tube__END_ROT"
+                ],
+                "Wing__TUBE_ROTATION": [
+                    "Wing_instance_4_Wing__TUBE_ROTATION",
+                    "Wing_instance_6_Wing__TUBE_ROTATION",
+                    "Wing_instance_1_Wing__TUBE_ROTATION"
+                ]
+            },
+            "VALUE": 180.0
+        },
+        "Param_12": {
+            "PARAMETERS": {
+                "Hub3__ANGHORZCONN": [
+                    "Hub3_instance_3_Hub3__ANGHORZCONN",
+                    "Hub3_instance_1_Hub3__ANGHORZCONN",
+                    "Hub3_instance_4_Hub3__ANGHORZCONN",
+                    "Hub3_instance_5_Hub3__ANGHORZCONN",
+                    "Hub3_instance_2_Hub3__ANGHORZCONN"
+                ],
+                "Wing__TUBE_ROTATION": [
+                    "Wing_instance_5_Wing__TUBE_ROTATION"
+                ]
+            },
+            "VALUE": 90.0
+        },
+        "Param_14": {
+            "PARAMETERS": {
+                "Wing__TUBE_OFFSET": [
+                    "Wing_instance_2_Wing__TUBE_OFFSET"
+                ]
+            },
+            "VALUE": 448.68
+        },
+        "Rear_Rail_Length": {
+            "PARAMETERS": {
+                "Tube__Length": [
+                    "Tube_instance_3_Tube__Length",
+                    "Tube_instance_4_Tube__Length"
+                ]
+            },
+            "VALUE": 220.0
+        },
+        "Rudder_Tube_Length": {
+            "PARAMETERS": {
+                "Tube__Length": [
+                    "Tube_instance_9_Tube__Length",
+                    "Tube_instance_16_Tube__Length"
+                ]
+            },
+            "VALUE": 41.0
+        },
+        "Top_Leg_Tube_Length": {
+            "PARAMETERS": {
+                "Tube__Length": [
+                    "Tube_instance_13_Tube__Length",
+                    "Tube_instance_6_Tube__Length"
+                ]
+            },
+            "VALUE": 150.1524
+        },
+        "Vertical_Tube_Length": {
+            "PARAMETERS": {
+                "Fuselage__FUSE_CYL_LENGTH": [
+                    "Fuselage_instance_1_Fuselage__FUSE_CYL_LENGTH"
+                ],
+                "Tube__Length": [
+                    "Tube_instance_12_Tube__Length",
+                    "Tube_instance_5_Tube__Length",
+                    "Tube_instance_14_Tube__Length",
+                    "Tube_instance_8_Tube__Length"
+                ]
+            },
+            "VALUE": 150.0
+        },
+        "angle_270": {
+            "PARAMETERS": {
+                "Tube__END_ROT": [
+                    "Tube_instance_1_Tube__END_ROT",
+                    "Tube_instance_8_Tube__END_ROT"
+                ],
+                "Wing__TUBE_ROTATION": [
+                    "Wing_instance_2_Wing__TUBE_ROTATION"
+                ]
+            },
+            "VALUE": 270.0
+        },
+        "front_l_wing_offset": {
+            "PARAMETERS": {
+                "Wing__TUBE_OFFSET": [
+                    "Wing_instance_6_Wing__TUBE_OFFSET"
+                ]
+            },
+            "VALUE": 289.68
+        },
+        "front_r_wing_offset": {
+            "PARAMETERS": {
+                "Wing__TUBE_OFFSET": [
+                    "Wing_instance_5_Wing__TUBE_OFFSET",
+                    "Wing_instance_4_Wing__TUBE_OFFSET"
+                ]
+            },
+            "VALUE": 160.32
+        },
+        "front_wing_chord": {
+            "PARAMETERS": {
+                "Wing__CHORD_1": [
+                    "Wing_instance_6_Wing__CHORD_1",
+                    "Wing_instance_4_Wing__CHORD_1"
+                ],
+                "Wing__CHORD_2": [
+                    "Wing_instance_6_Wing__CHORD_2",
+                    "Wing_instance_4_Wing__CHORD_2"
+                ]
+            },
+            "VALUE": 150.0
+        },
+        "front_wing_span": {
+            "PARAMETERS": {
+                "Wing__SPAN": [
+                    "Wing_instance_4_Wing__SPAN",
+                    "Wing_instance_6_Wing__SPAN"
+                ]
+            },
+            "VALUE": 450.0
+        },
+        "fuse_floor": {
+            "PARAMETERS": {
+                "Fuselage__FLOOR_HEIGHT": [
+                    "Fuselage_instance_1_Fuselage__FLOOR_HEIGHT"
+                ]
+            },
+            "VALUE": 20.0
+        },
+        "fuse_height": {
+            "PARAMETERS": {
+                "Fuselage__VERT_DIAMETER": [
+                    "Fuselage_instance_1_Fuselage__VERT_DIAMETER"
+                ]
+            },
+            "VALUE": 105.0
+        },
+        "fuse_width": {
+            "PARAMETERS": {
+                "Fuselage__HORZ_DIAMETER": [
+                    "Fuselage_instance_1_Fuselage__HORZ_DIAMETER"
+                ]
+            },
+            "VALUE": 80.0
+        },
+        "l_rudder_offset": {
+            "PARAMETERS": {
+                "Orient__Z_ANGLE": [
+                    "Orient_Orient__Z_ANGLE"
+                ],
+                "Wing__TUBE_OFFSET": [
+                    "Wing_instance_1_Wing__TUBE_OFFSET"
+                ]
+            },
+            "VALUE": 90.0
+        },
+        "r_rudder_offset": {
+            "PARAMETERS": {
+                "Wing__TUBE_OFFSET": [
+                    "Wing_instance_3_Wing__TUBE_OFFSET"
+                ]
+            },
+            "VALUE": 50.0
+        },
+        "rear_wing_chord": {
+            "PARAMETERS": {
+                "Wing__CHORD_1": [
+                    "Wing_instance_5_Wing__CHORD_1",
+                    "Wing_instance_2_Wing__CHORD_1"
+                ],
+                "Wing__CHORD_2": [
+                    "Wing_instance_5_Wing__CHORD_2",
+                    "Wing_instance_2_Wing__CHORD_2"
+                ]
+            },
+            "VALUE": 180.0
+        },
+        "rear_wing_offset": {
+            "PARAMETERS": {
+                "Tube__Offset1": [
+                    "Tube_instance_8_Tube__Offset1",
+                    "Tube_instance_5_Tube__Offset1"
+                ]
+            },
+            "VALUE": 90.0
+        },
+        "rear_wing_span": {
+            "PARAMETERS": {
+                "Wing__SPAN": [
+                    "Wing_instance_5_Wing__SPAN",
+                    "Wing_instance_2_Wing__SPAN"
+                ]
+            },
+            "VALUE": 609.0
+        },
+        "rudder_chord": {
+            "PARAMETERS": {
+                "Wing__CHORD_1": [
+                    "Wing_instance_1_Wing__CHORD_1",
+                    "Wing_instance_3_Wing__CHORD_1"
+                ],
+                "Wing__CHORD_2": [
+                    "Wing_instance_3_Wing__CHORD_2",
+                    "Wing_instance_1_Wing__CHORD_2"
+                ]
+            },
+            "VALUE": 100.0
+        },
+        "rudder_span": {
+            "PARAMETERS": {
+                "Wing__SPAN": [
+                    "Wing_instance_3_Wing__SPAN",
+                    "Wing_instance_1_Wing__SPAN"
+                ]
+            },
+            "VALUE": 140.0
+        },
+        "wing_thickness": {
+            "PARAMETERS": {
+                "Wing__THICKNESS": [
+                    "Wing_instance_6_Wing__THICKNESS",
+                    "Wing_instance_4_Wing__THICKNESS",
+                    "Wing_instance_5_Wing__THICKNESS",
+                    "Wing_instance_2_Wing__THICKNESS",
+                    "Wing_instance_1_Wing__THICKNESS",
+                    "Wing_instance_3_Wing__THICKNESS"
+                ]
+            },
+            "VALUE": 12.0
+        }
+    },
+    "PARAMETERS": {
+        "COMPONENT": {
+            "BatteryController__Input_Voltage": 1.0,
+            "BatteryController__Output_Voltage": 1.0,
+            "Battery__ROTATION": 0.0,
+            "Flange__BOTTOM_ANGLE": 90.0,
+            "Flange__SIDE_ANGLE": 0.0,
+            "Fuselage__BOTTOM_CONNECTOR_OFFSET_LENGTH": 0.0,
+            "Fuselage__BOTTOM_CONNECTOR_OFFSET_WIDTH": 0.0,
+            "Fuselage__BOTTOM_CONNECTOR_ROTATION": 90.0,
+            "Fuselage__FLOOR_CONNECTOR_1_DISP_LENGTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_2_DISP_LENGTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_5_DISP_WIDTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_7_DISP_WIDTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH": 0.0,
+            "Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH": 0.0,
+            "Fuselage__FLOOR_HEIGHT": 20.0,
+            "Fuselage__FUSE_CYL_LENGTH": 150.0,
+            "Fuselage__HORZ_DIAMETER": 80.0,
+            "Fuselage__VERT_DIAMETER": 105.0,
+            "Hub3__ANGHORZCONN": 90.0,
+            "Hub3__ANGVERTCONN": 0.0,
+            "Hub3__DIAMETER": 10.0076,
+            "Orient__Z_ANGLE": 90.0,
+            "Propeller__Direction": -1.0,
+            "Propeller__Prop_type": -1.0,
+            "Tube__BASE_ROT": 0.0,
+            "Tube__Offset2": 0.0,
+            "Wing__AILERON_BIAS": 0.5,
+            "Wing__FLAP_BIAS": 0.5,
+            "Wing__LOAD": 15.0,
+            "Wing__NACA_Profile": 12.0,
+            "Wing__SERVO_LENGTH": 10.0,
+            "Wing__SERVO_THICKNESS": 10.0,
+            "Wing__SERVO_WIDTH": 10.0,
+            "Wing__TAPER_OFFSET": 0.0,
+            "Wing__THICKNESS": 12.0,
+            "Wing__TUBE_DIAMETER": 10.0
+        },
+        "DEFAULT": {
+            "Flange__BOTTOM_ANGLE": {
+                "Flange_instance_2_Flange__BOTTOM_ANGLE": 90.0
+            },
+            "Fuselage__BOTTOM_CONNECTOR_ROTATION": {
+                "Fuselage_instance_1_Fuselage__BOTTOM_CONNECTOR_ROTATION": 90.0
+            },
+            "Fuselage__FLOOR_HEIGHT": {
+                "Fuselage_instance_1_Fuselage__FLOOR_HEIGHT": 20.0
+            },
+            "Fuselage__FUSE_CYL_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FUSE_CYL_LENGTH": 150.0
+            },
+            "Fuselage__HORZ_DIAMETER": {
+                "Fuselage_instance_1_Fuselage__HORZ_DIAMETER": 80.0
+            },
+            "Fuselage__VERT_DIAMETER": {
+                "Fuselage_instance_1_Fuselage__VERT_DIAMETER": 105.0
+            },
+            "Hub3__ANGHORZCONN": {
+                "Hub3_instance_1_Hub3__ANGHORZCONN": 90.0,
+                "Hub3_instance_2_Hub3__ANGHORZCONN": 90.0,
+                "Hub3_instance_3_Hub3__ANGHORZCONN": 90.0,
+                "Hub3_instance_4_Hub3__ANGHORZCONN": 90.0,
+                "Hub3_instance_5_Hub3__ANGHORZCONN": 90.0
+            },
+            "Motor__CONTROL_CHANNEL": {
+                "Motor_instance_1_Motor__CONTROL_CHANNEL": 1.0,
+                "Motor_instance_2_Motor__CONTROL_CHANNEL": 2.0,
+                "Motor_instance_3_Motor__CONTROL_CHANNEL": 4.0,
+                "Motor_instance_4_Motor__CONTROL_CHANNEL": 3.0
+            },
+            "Orient__Z_ANGLE": {
+                "Orient_Orient__Z_ANGLE": 90.0
+            },
+            "Propeller__Direction": {
+                "Propeller_instance_1_Propeller__Direction": -1.0,
+                "Propeller_instance_3_Propeller__Direction": -1.0
+            },
+            "Propeller__Prop_type": {
+                "Propeller_instance_1_Propeller__Prop_type": -1.0,
+                "Propeller_instance_3_Propeller__Prop_type": -1.0
+            },
+            "Tube__END_ROT": {
+                "Tube_instance_11_Tube__END_ROT": 180.0,
+                "Tube_instance_15_Tube__END_ROT": 90.0,
+                "Tube_instance_1_Tube__END_ROT": 270.0,
+                "Tube_instance_3_Tube__END_ROT": 90.0,
+                "Tube_instance_4_Tube__END_ROT": 90.0,
+                "Tube_instance_5_Tube__END_ROT": 90.0,
+                "Tube_instance_8_Tube__END_ROT": 270.0
+            },
+            "Tube__Length": {
+                "Tube_instance_10_Tube__Length": 55.0,
+                "Tube_instance_11_Tube__Length": 140.0,
+                "Tube_instance_12_Tube__Length": 150.0,
+                "Tube_instance_13_Tube__Length": 150.1524,
+                "Tube_instance_14_Tube__Length": 150.0,
+                "Tube_instance_15_Tube__Length": 80.0,
+                "Tube_instance_16_Tube__Length": 41.0,
+                "Tube_instance_1_Tube__Length": 80.0,
+                "Tube_instance_2_Tube__Length": 55.0,
+                "Tube_instance_3_Tube__Length": 220.0,
+                "Tube_instance_4_Tube__Length": 220.0,
+                "Tube_instance_5_Tube__Length": 150.0,
+                "Tube_instance_6_Tube__Length": 150.1524,
+                "Tube_instance_7_Tube__Length": 140.0,
+                "Tube_instance_8_Tube__Length": 150.0,
+                "Tube_instance_9_Tube__Length": 41.0
+            },
+            "Tube__Offset1": {
+                "Tube_instance_10_Tube__Offset1": 0.0,
+                "Tube_instance_11_Tube__Offset1": 0.0,
+                "Tube_instance_12_Tube__Offset1": 0.0,
+                "Tube_instance_13_Tube__Offset1": 0.0,
+                "Tube_instance_14_Tube__Offset1": 0.0,
+                "Tube_instance_15_Tube__Offset1": 0.0,
+                "Tube_instance_16_Tube__Offset1": 0.0,
+                "Tube_instance_1_Tube__Offset1": 0.0,
+                "Tube_instance_2_Tube__Offset1": 0.0,
+                "Tube_instance_3_Tube__Offset1": 0.0,
+                "Tube_instance_4_Tube__Offset1": 0.0,
+                "Tube_instance_5_Tube__Offset1": 90.0,
+                "Tube_instance_6_Tube__Offset1": 0.0,
+                "Tube_instance_7_Tube__Offset1": 0.0,
+                "Tube_instance_8_Tube__Offset1": 90.0,
+                "Tube_instance_9_Tube__Offset1": 0.0
+            },
+            "Tube__Offset2": {
+                "Tube_instance_10_Tube__Offset2": 0.0,
+                "Tube_instance_11_Tube__Offset2": 0.0,
+                "Tube_instance_12_Tube__Offset2": 0.0,
+                "Tube_instance_13_Tube__Offset2": 0.0,
+                "Tube_instance_14_Tube__Offset2": 0.0,
+                "Tube_instance_15_Tube__Offset2": 0.0,
+                "Tube_instance_16_Tube__Offset2": 0.0,
+                "Tube_instance_1_Tube__Offset2": 0.0,
+                "Tube_instance_2_Tube__Offset2": 0.0,
+                "Tube_instance_3_Tube__Offset2": 0.0,
+                "Tube_instance_4_Tube__Offset2": 0.0,
+                "Tube_instance_5_Tube__Offset2": 0.0,
+                "Tube_instance_6_Tube__Offset2": 0.0,
+                "Tube_instance_7_Tube__Offset2": 0.0,
+                "Tube_instance_8_Tube__Offset2": 0.0,
+                "Tube_instance_9_Tube__Offset2": 0.0
+            },
+            "Wing__CHORD_1": {
+                "Wing_instance_2_Wing__CHORD_1": 180.0,
+                "Wing_instance_4_Wing__CHORD_1": 150.0,
+                "Wing_instance_5_Wing__CHORD_1": 180.0,
+                "Wing_instance_6_Wing__CHORD_1": 150.0
+            },
+            "Wing__CHORD_2": {
+                "Wing_instance_2_Wing__CHORD_2": 180.0,
+                "Wing_instance_4_Wing__CHORD_2": 150.0,
+                "Wing_instance_5_Wing__CHORD_2": 180.0,
+                "Wing_instance_6_Wing__CHORD_2": 150.0
+            },
+            "Wing__CONTROL_CHANNEL": {
+                "Wing_instance_1_Wing__CONTROL_CHANNEL": 10.0,
+                "Wing_instance_2_Wing__CONTROL_CHANNEL": 8.0,
+                "Wing_instance_3_Wing__CONTROL_CHANNEL": 9.0,
+                "Wing_instance_4_Wing__CONTROL_CHANNEL": 6.0,
+                "Wing_instance_5_Wing__CONTROL_CHANNEL": 7.0,
+                "Wing_instance_6_Wing__CONTROL_CHANNEL": 5.0
+            },
+            "Wing__SERVO_LENGTH": {
+                "Wing_instance_1_Wing__SERVO_LENGTH": 10.0,
+                "Wing_instance_2_Wing__SERVO_LENGTH": 10.0,
+                "Wing_instance_3_Wing__SERVO_LENGTH": 10.0,
+                "Wing_instance_4_Wing__SERVO_LENGTH": 10.0,
+                "Wing_instance_5_Wing__SERVO_LENGTH": 10.0,
+                "Wing_instance_6_Wing__SERVO_LENGTH": 10.0
+            },
+            "Wing__SERVO_THICKNESS": {
+                "Wing_instance_1_Wing__SERVO_THICKNESS": 10.0,
+                "Wing_instance_2_Wing__SERVO_THICKNESS": 10.0,
+                "Wing_instance_3_Wing__SERVO_THICKNESS": 10.0,
+                "Wing_instance_4_Wing__SERVO_THICKNESS": 10.0,
+                "Wing_instance_5_Wing__SERVO_THICKNESS": 10.0,
+                "Wing_instance_6_Wing__SERVO_THICKNESS": 10.0
+            },
+            "Wing__SERVO_WIDTH": {
+                "Wing_instance_1_Wing__SERVO_WIDTH": 10.0,
+                "Wing_instance_2_Wing__SERVO_WIDTH": 10.0,
+                "Wing_instance_3_Wing__SERVO_WIDTH": 10.0,
+                "Wing_instance_4_Wing__SERVO_WIDTH": 10.0,
+                "Wing_instance_5_Wing__SERVO_WIDTH": 10.0,
+                "Wing_instance_6_Wing__SERVO_WIDTH": 10.0
+            },
+            "Wing__SPAN": {
+                "Wing_instance_1_Wing__SPAN": 140.0,
+                "Wing_instance_2_Wing__SPAN": 609.0,
+                "Wing_instance_3_Wing__SPAN": 140.0,
+                "Wing_instance_4_Wing__SPAN": 450.0,
+                "Wing_instance_5_Wing__SPAN": 609.0,
+                "Wing_instance_6_Wing__SPAN": 450.0
+            },
+            "Wing__TUBE_DIAMETER": {
+                "Wing_instance_1_Wing__TUBE_DIAMETER": 10.0,
+                "Wing_instance_2_Wing__TUBE_DIAMETER": 10.0,
+                "Wing_instance_3_Wing__TUBE_DIAMETER": 10.0,
+                "Wing_instance_4_Wing__TUBE_DIAMETER": 10.0,
+                "Wing_instance_5_Wing__TUBE_DIAMETER": 10.0,
+                "Wing_instance_6_Wing__TUBE_DIAMETER": 10.0
+            },
+            "Wing__TUBE_OFFSET": {
+                "Wing_instance_1_Wing__TUBE_OFFSET": 90.0,
+                "Wing_instance_2_Wing__TUBE_OFFSET": 448.68,
+                "Wing_instance_3_Wing__TUBE_OFFSET": 50.0,
+                "Wing_instance_4_Wing__TUBE_OFFSET": 160.32,
+                "Wing_instance_5_Wing__TUBE_OFFSET": 160.32,
+                "Wing_instance_6_Wing__TUBE_OFFSET": 289.68
+            },
+            "Wing__TUBE_ROTATION": {
+                "Wing_instance_1_Wing__TUBE_ROTATION": 180.0,
+                "Wing_instance_2_Wing__TUBE_ROTATION": 270.0,
+                "Wing_instance_4_Wing__TUBE_ROTATION": 180.0,
+                "Wing_instance_5_Wing__TUBE_ROTATION": 90.0,
+                "Wing_instance_6_Wing__TUBE_ROTATION": 180.0
+            }
+        },
+        "MODIFIED": {
+            "BatteryController__Input_Voltage": {
+                "BatteryController_instance_1_BatteryController__Input_Voltage": 1.0
+            },
+            "BatteryController__Output_Voltage": {
+                "BatteryController_instance_1_BatteryController__Output_Voltage": 1.0
+            },
+            "Battery__ROTATION": {
+                "Battery_instance_1_Battery__ROTATION": 0.0
+            },
+            "Flange__BOTTOM_ANGLE": {
+                "Flange_instance_1_Flange__BOTTOM_ANGLE": 0.0,
+                "Flange_instance_3_Flange__BOTTOM_ANGLE": 0.0,
+                "Flange_instance_4_Flange__BOTTOM_ANGLE": 0.0
+            },
+            "Flange__SIDE_ANGLE": {
+                "Flange_instance_1_Flange__SIDE_ANGLE": 0.0,
+                "Flange_instance_2_Flange__SIDE_ANGLE": 0.0,
+                "Flange_instance_3_Flange__SIDE_ANGLE": 0.0,
+                "Flange_instance_4_Flange__SIDE_ANGLE": 0.0
+            },
+            "Fuselage__BOTTOM_CONNECTOR_OFFSET_LENGTH": {
+                "Fuselage_instance_1_Fuselage__BOTTOM_CONNECTOR_OFFSET_LENGTH": 0.0
+            },
+            "Fuselage__BOTTOM_CONNECTOR_OFFSET_WIDTH": {
+                "Fuselage_instance_1_Fuselage__BOTTOM_CONNECTOR_OFFSET_WIDTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_1_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_1_DISP_LENGTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_2_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_2_DISP_LENGTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_5_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_5_DISP_WIDTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_7_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_7_DISP_WIDTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH": 0.0
+            },
+            "Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH": {
+                "Fuselage_instance_1_Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH": 0.0
+            },
+            "Hub3__ANGVERTCONN": {
+                "Hub3_instance_1_Hub3__ANGVERTCONN": 0.0,
+                "Hub3_instance_2_Hub3__ANGVERTCONN": 0.0,
+                "Hub3_instance_3_Hub3__ANGVERTCONN": 0.0,
+                "Hub3_instance_4_Hub3__ANGVERTCONN": 0.0,
+                "Hub3_instance_5_Hub3__ANGVERTCONN": 0.0
+            },
+            "Hub3__DIAMETER": {
+                "Hub3_instance_1_Hub3__DIAMETER": 10.0076,
+                "Hub3_instance_2_Hub3__DIAMETER": 10.0076,
+                "Hub3_instance_3_Hub3__DIAMETER": 10.0076,
+                "Hub3_instance_4_Hub3__DIAMETER": 10.0076,
+                "Hub3_instance_5_Hub3__DIAMETER": 10.0076
+            },
+            "Propeller__Direction": {
+                "Propeller_instance_2_Propeller__Direction": 1.0,
+                "Propeller_instance_4_Propeller__Direction": 1.0
+            },
+            "Propeller__Prop_type": {
+                "Propeller_instance_2_Propeller__Prop_type": 1.0,
+                "Propeller_instance_4_Propeller__Prop_type": 1.0
+            },
+            "Tube__BASE_ROT": {
+                "Tube_instance_10_Tube__BASE_ROT": 0.0,
+                "Tube_instance_11_Tube__BASE_ROT": 0.0,
+                "Tube_instance_12_Tube__BASE_ROT": 0.0,
+                "Tube_instance_13_Tube__BASE_ROT": 0.0,
+                "Tube_instance_14_Tube__BASE_ROT": 0.0,
+                "Tube_instance_15_Tube__BASE_ROT": 0.0,
+                "Tube_instance_16_Tube__BASE_ROT": 0.0,
+                "Tube_instance_1_Tube__BASE_ROT": 0.0,
+                "Tube_instance_2_Tube__BASE_ROT": 0.0,
+                "Tube_instance_3_Tube__BASE_ROT": 0.0,
+                "Tube_instance_4_Tube__BASE_ROT": 0.0,
+                "Tube_instance_5_Tube__BASE_ROT": 0.0,
+                "Tube_instance_6_Tube__BASE_ROT": 0.0,
+                "Tube_instance_7_Tube__BASE_ROT": 0.0,
+                "Tube_instance_8_Tube__BASE_ROT": 0.0,
+                "Tube_instance_9_Tube__BASE_ROT": 0.0
+            },
+            "Tube__END_ROT": {
+                "Tube_instance_10_Tube__END_ROT": 0.0,
+                "Tube_instance_12_Tube__END_ROT": 0.0,
+                "Tube_instance_13_Tube__END_ROT": 0.0,
+                "Tube_instance_14_Tube__END_ROT": 0.0,
+                "Tube_instance_16_Tube__END_ROT": 0.0,
+                "Tube_instance_2_Tube__END_ROT": 0.0,
+                "Tube_instance_6_Tube__END_ROT": 0.0,
+                "Tube_instance_7_Tube__END_ROT": 0.0,
+                "Tube_instance_9_Tube__END_ROT": 0.0
+            },
+            "Wing__AILERON_BIAS": {
+                "Wing_instance_1_Wing__AILERON_BIAS": 0.5,
+                "Wing_instance_2_Wing__AILERON_BIAS": 0.5,
+                "Wing_instance_3_Wing__AILERON_BIAS": 0.5,
+                "Wing_instance_4_Wing__AILERON_BIAS": 0.5,
+                "Wing_instance_5_Wing__AILERON_BIAS": 0.5,
+                "Wing_instance_6_Wing__AILERON_BIAS": 0.5
+            },
+            "Wing__CHORD_1": {
+                "Wing_instance_1_Wing__CHORD_1": 100.0,
+                "Wing_instance_3_Wing__CHORD_1": 100.0
+            },
+            "Wing__CHORD_2": {
+                "Wing_instance_1_Wing__CHORD_2": 100.0,
+                "Wing_instance_3_Wing__CHORD_2": 100.0
+            },
+            "Wing__FLAP_BIAS": {
+                "Wing_instance_1_Wing__FLAP_BIAS": 0.5,
+                "Wing_instance_2_Wing__FLAP_BIAS": 0.5,
+                "Wing_instance_3_Wing__FLAP_BIAS": 0.5,
+                "Wing_instance_4_Wing__FLAP_BIAS": 0.5,
+                "Wing_instance_5_Wing__FLAP_BIAS": 0.5,
+                "Wing_instance_6_Wing__FLAP_BIAS": 0.5
+            },
+            "Wing__LOAD": {
+                "Wing_instance_1_Wing__LOAD": 15.0,
+                "Wing_instance_2_Wing__LOAD": 15.0,
+                "Wing_instance_3_Wing__LOAD": 15.0,
+                "Wing_instance_4_Wing__LOAD": 15.0,
+                "Wing_instance_5_Wing__LOAD": 15.0,
+                "Wing_instance_6_Wing__LOAD": 15.0
+            },
+            "Wing__NACA_Profile": {
+                "Wing_instance_1_Wing__NACA_Profile": 12.0,
+                "Wing_instance_2_Wing__NACA_Profile": 12.0,
+                "Wing_instance_3_Wing__NACA_Profile": 12.0,
+                "Wing_instance_4_Wing__NACA_Profile": 12.0,
+                "Wing_instance_5_Wing__NACA_Profile": 12.0,
+                "Wing_instance_6_Wing__NACA_Profile": 12.0
+            },
+            "Wing__TAPER_OFFSET": {
+                "Wing_instance_1_Wing__TAPER_OFFSET": 0.0,
+                "Wing_instance_2_Wing__TAPER_OFFSET": 0.0,
+                "Wing_instance_3_Wing__TAPER_OFFSET": 0.0,
+                "Wing_instance_4_Wing__TAPER_OFFSET": 0.0,
+                "Wing_instance_5_Wing__TAPER_OFFSET": 0.0,
+                "Wing_instance_6_Wing__TAPER_OFFSET": 0.0
+            },
+            "Wing__THICKNESS": {
+                "Wing_instance_1_Wing__THICKNESS": 12.0,
+                "Wing_instance_2_Wing__THICKNESS": 12.0,
+                "Wing_instance_3_Wing__THICKNESS": 12.0,
+                "Wing_instance_4_Wing__THICKNESS": 12.0,
+                "Wing_instance_5_Wing__THICKNESS": 12.0,
+                "Wing_instance_6_Wing__THICKNESS": 12.0
+            },
+            "Wing__TUBE_ROTATION": {
+                "Wing_instance_3_Wing__TUBE_ROTATION": 0.0
+            }
+        }
+    },
+    "PARAMETERS_ASSIGNED": [
+        "Propeller__Prop_type",
+        "Propeller__Direction",
+        "Wing__TUBE_ROTATION",
+        "Tube__END_ROT",
+        "Tube__Length",
+        "Wing__TUBE_OFFSET",
+        "Orient__Z_ANGLE",
+        "Wing__CONTROL_CHANNEL",
+        "Wing__CHORD_1",
+        "Wing__CHORD_2",
+        "Wing__THICKNESS",
+        "Wing__NACA_Profile",
+        "Wing__SPAN",
+        "Flange__BOTTOM_ANGLE",
+        "Fuselage__BOTTOM_CONNECTOR_ROTATION",
+        "Fuselage__FUSE_CYL_LENGTH",
+        "Tube__Offset1",
+        "Hub3__ANGHORZCONN",
+        "Motor__CONTROL_CHANNEL",
+        "Fuselage__FLOOR_HEIGHT",
+        "Fuselage__VERT_DIAMETER",
+        "Fuselage__HORZ_DIAMETER"
+    ]
+}

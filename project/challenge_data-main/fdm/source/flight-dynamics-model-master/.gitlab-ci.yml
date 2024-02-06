@@ -1,0 +1,44 @@
+stages:          # List of stages for jobs, and their order of execution
+  - build
+
+build-docker:       # This job runs in the build stage, which runs first.
+  stage: build
+  services:
+    - docker:dind
+  image: docker
+  tags:
+    - SWRI_special
+  variables:
+    IMAGE_TAG: "$CI_REGISTRY_IMAGE:$CI_COMMIT_REF_SLUG"
+  script:
+    - echo "Login to Docker registry $CI_REGISTRY"
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+    - echo "Build Docker image with tag $IMAGE_TAG"
+    - DOCKER_BUILDKIT=1 docker build
+        -t $IMAGE_TAG
+        --build-arg REGISTRY=$CI_REGISTRY
+        --build-arg REPO=/swri/
+        --build-arg TAG=master
+        .
+    - echo "Push newly built container into registry"
+    - docker push $IMAGE_TAG
+
+build-windows:       # This job runs in the build stage, which runs first.
+  stage: build
+  image: $CI_REGISTRY/swri/fdm-builder:master
+  tags:
+    - SWRI_special
+  script:
+    - echo "Setting up autotools"
+    - autoreconf -if
+    - echo "Configuring the build"
+    - ./configure --host=x86_64-w64-mingw32 --prefix=${PWD}/dist
+    - echo "Compiling the code..."
+    - make
+    - echo "Copying output to dist"
+    - make install
+    - echo "Grabbing dependencies"
+    - ./copy_dlls.sh
+  artifacts:
+    paths:
+      - dist/bin/*

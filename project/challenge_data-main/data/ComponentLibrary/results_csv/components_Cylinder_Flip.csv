@@ -1,0 +1,2 @@
+name,class,connector,LENGTH,CORPUS,WALL_THICKNESS,DIAMETER
+Cyl_Flip,Cylinder_Flip,"['FRONT_CONNECTOR', 'REAR_CONNECTOR']",5,UAM,3,"('200', '1', None, '0')"

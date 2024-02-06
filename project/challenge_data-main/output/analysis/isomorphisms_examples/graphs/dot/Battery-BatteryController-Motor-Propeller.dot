@@ -1,0 +1,108 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Motor_instance_1
+    label=Motor
+  ];
+  1 [
+    instance=Propeller_instance_1
+    label=Propeller
+  ];
+  2 [
+    instance=Propeller_instance_2
+    label=Propeller
+  ];
+  3 [
+    instance=Motor_instance_2
+    label=Motor
+  ];
+  4 [
+    instance=Motor_instance_3
+    label=Motor
+  ];
+  5 [
+    instance=Propeller_instance_3
+    label=Propeller
+  ];
+  6 [
+    instance=Battery_instance_1
+    label=Battery
+  ];
+  7 [
+    instance=Battery_instance_2
+    label=Battery
+  ];
+  8 [
+    instance=Motor_instance_4
+    label=Motor
+  ];
+  9 [
+    instance=Propeller_instance_4
+    label=Propeller
+  ];
+  10 [
+    instance=BatteryController_instance_1
+    label=BatteryController
+  ];
+
+  0 -> 1 [
+    label=ANY
+  ];
+  0 -> 10 [
+    label=ANY
+  ];
+  1 -> 0 [
+    label=ANY
+  ];
+  2 -> 3 [
+    label=ANY
+  ];
+  3 -> 2 [
+    label=ANY
+  ];
+  3 -> 10 [
+    label=ANY
+  ];
+  4 -> 5 [
+    label=ANY
+  ];
+  4 -> 10 [
+    label=ANY
+  ];
+  5 -> 4 [
+    label=ANY
+  ];
+  6 -> 10 [
+    label=ANY
+  ];
+  7 -> 10 [
+    label=ANY
+  ];
+  8 -> 9 [
+    label=ANY
+  ];
+  8 -> 10 [
+    label=ANY
+  ];
+  9 -> 8 [
+    label=ANY
+  ];
+  10 -> 0 [
+    label=ANY
+  ];
+  10 -> 3 [
+    label=ANY
+  ];
+  10 -> 4 [
+    label=ANY
+  ];
+  10 -> 6 [
+    label=ANY
+  ];
+  10 -> 7 [
+    label=ANY
+  ];
+  10 -> 8 [
+    label=ANY
+  ];
+}

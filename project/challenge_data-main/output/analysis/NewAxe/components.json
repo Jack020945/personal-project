@@ -1,0 +1,14 @@
+{
+    "COMPONENTS": {
+        "Battery": "TurnigyGraphene6000mAh6S75C",
+        "BatteryController": "BatteryController",
+        "Flange": "0394_para_flange",
+        "Fuselage": "capsule_fuselage",
+        "Hub3": "0394od_para_hub_3",
+        "Motor": "kde_direct_KDE2315XF_885",
+        "Orient": "Orient",
+        "Propeller": "apc_propellers_7x5E",
+        "Tube": "0394OD_para_tube",
+        "Wing": "Wing_vert_hole"
+    }
+}

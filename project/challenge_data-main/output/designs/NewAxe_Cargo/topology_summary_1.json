@@ -1,0 +1,678 @@
+{
+    "ABSTRACTION_LEVEL": 1,
+    "DESCRIPTION": "",
+    "NAME": "NewAxe_Cargo",
+    "TOPOLOGY": {
+        "BatteryController_instance_1": {
+            "CONNECTIONS": {
+                "Battery_instance_1": "ANY",
+                "Battery_instance_2": "ANY",
+                "Motor_instance_1": "ANY",
+                "Motor_instance_2": "ANY",
+                "Motor_instance_3": "ANY",
+                "Motor_instance_4": "ANY"
+            },
+            "PARAMETERS": {
+                "BatteryController__Input_Voltage": 1.0,
+                "BatteryController__Output_Voltage": 1.0
+            }
+        },
+        "Battery_instance_1": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Fuselage_instance_1": "BOTTOM-2"
+            },
+            "PARAMETERS": {
+                "Battery__ROTATION": 0.0
+            }
+        },
+        "Battery_instance_2": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Fuselage_instance_1": "BOTTOM-1"
+            },
+            "PARAMETERS": {
+                "Battery__ROTATION": 0.0
+            }
+        },
+        "CargoCase_instance_1": {
+            "CONNECTIONS": {
+                "Cargo_instance_1": "ANY",
+                "Hub3_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "CargoCase__Rotation": 0.0
+            }
+        },
+        "Cargo_instance_1": {
+            "CONNECTIONS": {
+                "CargoCase_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "Cargo__WEIGHT": 0.5
+            }
+        },
+        "Flange_instance_1": {
+            "CONNECTIONS": {
+                "Motor_instance_3": "ANY",
+                "Tube_instance_4": "BOTTOM-TOP",
+                "Tube_instance_5": "SIDE-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Flange__BOTTOM_ANGLE": 0.0,
+                "Flange__SIDE_ANGLE": 0.0
+            }
+        },
+        "Flange_instance_2": {
+            "CONNECTIONS": {
+                "Motor_instance_4": "ANY",
+                "Tube_instance_10": "BOTTOM-BOTTOM",
+                "Tube_instance_7": "SIDE-TOP"
+            },
+            "PARAMETERS": {
+                "Flange__BOTTOM_ANGLE": 0.0,
+                "Flange__SIDE_ANGLE": 0.0
+            }
+        },
+        "Flange_instance_3": {
+            "CONNECTIONS": {
+                "Motor_instance_1": "ANY",
+                "Tube_instance_2": "BOTTOM-BOTTOM",
+                "Tube_instance_6": "SIDE-TOP"
+            },
+            "PARAMETERS": {
+                "Flange__BOTTOM_ANGLE": 0.0,
+                "Flange__SIDE_ANGLE": 0.0
+            }
+        },
+        "Flange_instance_4": {
+            "CONNECTIONS": {
+                "Motor_instance_2": "ANY",
+                "Tube_instance_12": "SIDE-BOTTOM",
+                "Tube_instance_14": "BOTTOM-TOP"
+            },
+            "PARAMETERS": {
+                "Flange__BOTTOM_ANGLE": 90.0,
+                "Flange__SIDE_ANGLE": 0.0
+            }
+        },
+        "Fuselage_instance_1": {
+            "CONNECTIONS": {
+                "Battery_instance_1": "INSIDE-2",
+                "Battery_instance_2": "INSIDE-1",
+                "Hub3_instance_1": "BOTTOM",
+                "SensorAutopilot_instance_1": "ANY",
+                "SensorCurrent_instance_1": "ANY",
+                "SensorGPS_instance_1": "ANY",
+                "SensorRpmTemp_instance_1": "ANY",
+                "SensorVariometer_instance_1": "ANY",
+                "SensorVoltage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "Fuselage__BOTTOM_CONNECTOR_OFFSET_LENGTH": 0.0,
+                "Fuselage__BOTTOM_CONNECTOR_OFFSET_WIDTH": 0.0,
+                "Fuselage__BOTTOM_CONNECTOR_ROTATION": 90.0,
+                "Fuselage__FLOOR_CONNECTOR_1_DISP_LENGTH": 0.0,
+                "Fuselage__FLOOR_CONNECTOR_1_DISP_WIDTH": 70.0,
+                "Fuselage__FLOOR_CONNECTOR_2_DISP_LENGTH": 0.0,
+                "Fuselage__FLOOR_CONNECTOR_2_DISP_WIDTH": -70.0,
+                "Fuselage__FLOOR_CONNECTOR_3_DISP_LENGTH": -20.0,
+                "Fuselage__FLOOR_CONNECTOR_3_DISP_WIDTH": 33.0,
+                "Fuselage__FLOOR_CONNECTOR_4_DISP_LENGTH": -20.0,
+                "Fuselage__FLOOR_CONNECTOR_4_DISP_WIDTH": -30.0,
+                "Fuselage__FLOOR_CONNECTOR_5_DISP_LENGTH": 50.0,
+                "Fuselage__FLOOR_CONNECTOR_5_DISP_WIDTH": 0.0,
+                "Fuselage__FLOOR_CONNECTOR_6_DISP_LENGTH": -20.0,
+                "Fuselage__FLOOR_CONNECTOR_6_DISP_WIDTH": 11.0,
+                "Fuselage__FLOOR_CONNECTOR_7_DISP_LENGTH": -80.0,
+                "Fuselage__FLOOR_CONNECTOR_7_DISP_WIDTH": 0.0,
+                "Fuselage__FLOOR_CONNECTOR_8_DISP_LENGTH": -20.0,
+                "Fuselage__FLOOR_CONNECTOR_8_DISP_WIDTH": -11.0,
+                "Fuselage__FLOOR_HEIGHT": 20.0,
+                "Fuselage__FUSE_CYL_LENGTH": 150.0,
+                "Fuselage__HORZ_DIAMETER": 300.0,
+                "Fuselage__VERT_DIAMETER": 105.0
+            }
+        },
+        "Hub3_instance_1": {
+            "CONNECTIONS": {
+                "CargoCase_instance_1": "ANY",
+                "Fuselage_instance_1": "TOP",
+                "Orient": "ANY",
+                "Tube_instance_1": "BOTTOM-SIDE1",
+                "Tube_instance_16": "BOTTOM-SIDE3"
+            },
+            "PARAMETERS": {
+                "Hub3__ANGHORZCONN": 90.0,
+                "Hub3__ANGVERTCONN": 0.0,
+                "Hub3__DIAMETER": 10.0076
+            }
+        },
+        "Hub3_instance_2": {
+            "CONNECTIONS": {
+                "Tube_instance_13": "BOTTOM-SIDE1",
+                "Tube_instance_3": "TOP-SIDE3",
+                "Tube_instance_6": "BOTTOM-SIDE2",
+                "Tube_instance_8": "TOP-CENTER"
+            },
+            "PARAMETERS": {
+                "Hub3__ANGHORZCONN": 90.0,
+                "Hub3__ANGVERTCONN": 0.0,
+                "Hub3__DIAMETER": 10.0076
+            }
+        },
+        "Hub3_instance_3": {
+            "CONNECTIONS": {
+                "Tube_instance_1": "TOP-SIDE2",
+                "Tube_instance_14": "BOTTOM-SIDE3",
+                "Tube_instance_3": "BOTTOM-SIDE1"
+            },
+            "PARAMETERS": {
+                "Hub3__ANGHORZCONN": 90.0,
+                "Hub3__ANGVERTCONN": 0.0,
+                "Hub3__DIAMETER": 10.0076
+            }
+        },
+        "Hub3_instance_4": {
+            "CONNECTIONS": {
+                "Tube_instance_16": "TOP-SIDE2",
+                "Tube_instance_4": "BOTTOM-SIDE3",
+                "Tube_instance_9": "BOTTOM-SIDE1"
+            },
+            "PARAMETERS": {
+                "Hub3__ANGHORZCONN": 90.0,
+                "Hub3__ANGVERTCONN": 0.0,
+                "Hub3__DIAMETER": 10.0076
+            }
+        },
+        "Hub3_instance_5": {
+            "CONNECTIONS": {
+                "Tube_instance_11": "BOTTOM-SIDE3",
+                "Tube_instance_15": "TOP-CENTER",
+                "Tube_instance_7": "BOTTOM-SIDE2",
+                "Tube_instance_9": "TOP-SIDE1"
+            },
+            "PARAMETERS": {
+                "Hub3__ANGHORZCONN": 90.0,
+                "Hub3__ANGVERTCONN": 0.0,
+                "Hub3__DIAMETER": 10.0076
+            }
+        },
+        "Motor_instance_1": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_3": "ANY",
+                "Propeller_instance_3": "ANY"
+            },
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": 4.0
+            }
+        },
+        "Motor_instance_2": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_4": "ANY",
+                "Propeller_instance_4": "ANY"
+            },
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": 2.0
+            }
+        },
+        "Motor_instance_3": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_1": "ANY",
+                "Propeller_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": 1.0
+            }
+        },
+        "Motor_instance_4": {
+            "CONNECTIONS": {
+                "BatteryController_instance_1": "ANY",
+                "Flange_instance_2": "ANY",
+                "Propeller_instance_2": "ANY"
+            },
+            "PARAMETERS": {
+                "Motor__CONTROL_CHANNEL": 3.0
+            }
+        },
+        "Orient": {
+            "CONNECTIONS": {
+                "Hub3_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "Orient__Z_ANGLE": 90.0
+            }
+        },
+        "Propeller_instance_1": {
+            "CONNECTIONS": {
+                "Motor_instance_3": "ANY"
+            },
+            "PARAMETERS": {
+                "Propeller__Direction": -1.0,
+                "Propeller__Prop_type": -1.0
+            }
+        },
+        "Propeller_instance_2": {
+            "CONNECTIONS": {
+                "Motor_instance_4": "ANY"
+            },
+            "PARAMETERS": {
+                "Propeller__Direction": -1.0,
+                "Propeller__Prop_type": -1.0
+            }
+        },
+        "Propeller_instance_3": {
+            "CONNECTIONS": {
+                "Motor_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "Propeller__Direction": 1.0,
+                "Propeller__Prop_type": 1.0
+            }
+        },
+        "Propeller_instance_4": {
+            "CONNECTIONS": {
+                "Motor_instance_2": "ANY"
+            },
+            "PARAMETERS": {
+                "Propeller__Direction": 1.0,
+                "Propeller__Prop_type": 1.0
+            }
+        },
+        "SensorAutopilot_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "SensorAutopilot__ROTATION": 0.0
+            }
+        },
+        "SensorCurrent_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "SensorCurrent__ROTATION": 0.0
+            }
+        },
+        "SensorGPS_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "SensorGPS__ROTATION": 0.0
+            }
+        },
+        "SensorRpmTemp_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "SensorRpmTemp__ROTATION": 0.0
+            }
+        },
+        "SensorVariometer_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "SensorVariometer__ROTATION": 0.0
+            }
+        },
+        "SensorVoltage_instance_1": {
+            "CONNECTIONS": {
+                "Fuselage_instance_1": "ANY"
+            },
+            "PARAMETERS": {
+                "SensorVoltage__ROTATION": 0.0
+            }
+        },
+        "Tube_instance_1": {
+            "CONNECTIONS": {
+                "Hub3_instance_1": "SIDE1-BOTTOM",
+                "Hub3_instance_3": "SIDE2-TOP"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 140.0,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_10": {
+            "CONNECTIONS": {
+                "Flange_instance_2": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 150.1524,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_11": {
+            "CONNECTIONS": {
+                "Hub3_instance_5": "SIDE3-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 150.0,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_12": {
+            "CONNECTIONS": {
+                "Flange_instance_4": "BOTTOM-SIDE",
+                "Wing_instance_5": "BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 52.0,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_13": {
+            "CONNECTIONS": {
+                "Hub3_instance_2": "SIDE1-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 150.0,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_14": {
+            "CONNECTIONS": {
+                "Flange_instance_4": "TOP-BOTTOM",
+                "Hub3_instance_3": "SIDE3-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 90.0,
+                "Tube__Length": 335.0,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_15": {
+            "CONNECTIONS": {
+                "Hub3_instance_5": "CENTER-TOP",
+                "Wing_instance_4": "BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 41.0,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_16": {
+            "CONNECTIONS": {
+                "Hub3_instance_1": "SIDE3-BOTTOM",
+                "Hub3_instance_4": "SIDE2-TOP"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 180.0,
+                "Tube__Length": 140.0,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_2": {
+            "CONNECTIONS": {
+                "Flange_instance_3": "BOTTOM-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 150.1524,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_3": {
+            "CONNECTIONS": {
+                "Hub3_instance_2": "SIDE3-TOP",
+                "Hub3_instance_3": "SIDE1-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 90.0,
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_4": {
+            "CONNECTIONS": {
+                "Flange_instance_1": "TOP-BOTTOM",
+                "Hub3_instance_4": "SIDE3-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 270.0,
+                "Tube__Length": 335.0,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_5": {
+            "CONNECTIONS": {
+                "Flange_instance_1": "BOTTOM-SIDE",
+                "Wing_instance_2": "BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 52.0,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_6": {
+            "CONNECTIONS": {
+                "Flange_instance_3": "TOP-SIDE",
+                "Hub3_instance_2": "SIDE2-BOTTOM",
+                "Wing_instance_6": "MID-TOP"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 270.0,
+                "Tube__Length": 150.0,
+                "Tube__Offset1": 90.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_7": {
+            "CONNECTIONS": {
+                "Flange_instance_2": "TOP-SIDE",
+                "Hub3_instance_5": "SIDE2-BOTTOM",
+                "Wing_instance_3": "MID-TOP"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 90.0,
+                "Tube__Length": 150.0,
+                "Tube__Offset1": 90.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_8": {
+            "CONNECTIONS": {
+                "Hub3_instance_2": "CENTER-TOP",
+                "Wing_instance_1": "BOTTOM"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 0.0,
+                "Tube__Length": 41.0,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Tube_instance_9": {
+            "CONNECTIONS": {
+                "Hub3_instance_4": "SIDE1-BOTTOM",
+                "Hub3_instance_5": "SIDE1-TOP"
+            },
+            "PARAMETERS": {
+                "Tube__BASE_ROT": 0.0,
+                "Tube__END_ROT": 90.0,
+                "Tube__Length": 220.0,
+                "Tube__Offset1": 0.0,
+                "Tube__Offset2": 0.0
+            }
+        },
+        "Wing_instance_1": {
+            "CONNECTIONS": {
+                "Tube_instance_8": "TOP"
+            },
+            "PARAMETERS": {
+                "Wing__AILERON_BIAS": 0.5,
+                "Wing__CHORD_1": 100.0,
+                "Wing__CHORD_2": 100.0,
+                "Wing__CONTROL_CHANNEL": 9.0,
+                "Wing__FLAP_BIAS": 0.5,
+                "Wing__LOAD": 15.0,
+                "Wing__NACA_Profile": 12.0,
+                "Wing__SERVO_LENGTH": 10.0,
+                "Wing__SERVO_THICKNESS": 10.0,
+                "Wing__SERVO_WIDTH": 10.0,
+                "Wing__SPAN": 140.0,
+                "Wing__TAPER_OFFSET": 0.0,
+                "Wing__THICKNESS": 12.0,
+                "Wing__TUBE_DIAMETER": 10.0,
+                "Wing__TUBE_OFFSET": 50.0,
+                "Wing__TUBE_ROTATION": 0.0
+            }
+        },
+        "Wing_instance_2": {
+            "CONNECTIONS": {
+                "Tube_instance_5": "TOP"
+            },
+            "PARAMETERS": {
+                "Wing__AILERON_BIAS": 0.5,
+                "Wing__CHORD_1": 150.0,
+                "Wing__CHORD_2": 150.0,
+                "Wing__CONTROL_CHANNEL": 5.0,
+                "Wing__FLAP_BIAS": 0.5,
+                "Wing__LOAD": 15.0,
+                "Wing__NACA_Profile": 12.0,
+                "Wing__SERVO_LENGTH": 10.0,
+                "Wing__SERVO_THICKNESS": 10.0,
+                "Wing__SERVO_WIDTH": 10.0,
+                "Wing__SPAN": 450.0,
+                "Wing__TAPER_OFFSET": 0.0,
+                "Wing__THICKNESS": 12.0,
+                "Wing__TUBE_DIAMETER": 10.0,
+                "Wing__TUBE_OFFSET": 289.68,
+                "Wing__TUBE_ROTATION": 180.0
+            }
+        },
+        "Wing_instance_3": {
+            "CONNECTIONS": {
+                "Tube_instance_7": "MID-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Wing__AILERON_BIAS": 0.5,
+                "Wing__CHORD_1": 180.0,
+                "Wing__CHORD_2": 180.0,
+                "Wing__CONTROL_CHANNEL": 8.0,
+                "Wing__FLAP_BIAS": 0.5,
+                "Wing__LOAD": 15.0,
+                "Wing__NACA_Profile": 12.0,
+                "Wing__SERVO_LENGTH": 10.0,
+                "Wing__SERVO_THICKNESS": 10.0,
+                "Wing__SERVO_WIDTH": 10.0,
+                "Wing__SPAN": 609.0,
+                "Wing__TAPER_OFFSET": 0.0,
+                "Wing__THICKNESS": 12.0,
+                "Wing__TUBE_DIAMETER": 10.0,
+                "Wing__TUBE_OFFSET": 448.68,
+                "Wing__TUBE_ROTATION": 270.0
+            }
+        },
+        "Wing_instance_4": {
+            "CONNECTIONS": {
+                "Tube_instance_15": "TOP"
+            },
+            "PARAMETERS": {
+                "Wing__AILERON_BIAS": 0.5,
+                "Wing__CHORD_1": 100.0,
+                "Wing__CHORD_2": 100.0,
+                "Wing__CONTROL_CHANNEL": 10.0,
+                "Wing__FLAP_BIAS": 0.5,
+                "Wing__LOAD": 15.0,
+                "Wing__NACA_Profile": 12.0,
+                "Wing__SERVO_LENGTH": 10.0,
+                "Wing__SERVO_THICKNESS": 10.0,
+                "Wing__SERVO_WIDTH": 10.0,
+                "Wing__SPAN": 140.0,
+                "Wing__TAPER_OFFSET": 0.0,
+                "Wing__THICKNESS": 12.0,
+                "Wing__TUBE_DIAMETER": 10.0,
+                "Wing__TUBE_OFFSET": 90.0,
+                "Wing__TUBE_ROTATION": 180.0
+            }
+        },
+        "Wing_instance_5": {
+            "CONNECTIONS": {
+                "Tube_instance_12": "TOP"
+            },
+            "PARAMETERS": {
+                "Wing__AILERON_BIAS": 0.5,
+                "Wing__CHORD_1": 150.0,
+                "Wing__CHORD_2": 150.0,
+                "Wing__CONTROL_CHANNEL": 6.0,
+                "Wing__FLAP_BIAS": 0.5,
+                "Wing__LOAD": 15.0,
+                "Wing__NACA_Profile": 12.0,
+                "Wing__SERVO_LENGTH": 10.0,
+                "Wing__SERVO_THICKNESS": 10.0,
+                "Wing__SERVO_WIDTH": 10.0,
+                "Wing__SPAN": 450.0,
+                "Wing__TAPER_OFFSET": 0.0,
+                "Wing__THICKNESS": 12.0,
+                "Wing__TUBE_DIAMETER": 10.0,
+                "Wing__TUBE_OFFSET": 160.32,
+                "Wing__TUBE_ROTATION": 180.0
+            }
+        },
+        "Wing_instance_6": {
+            "CONNECTIONS": {
+                "Tube_instance_6": "MID-BOTTOM"
+            },
+            "PARAMETERS": {
+                "Wing__AILERON_BIAS": 0.5,
+                "Wing__CHORD_1": 180.0,
+                "Wing__CHORD_2": 180.0,
+                "Wing__CONTROL_CHANNEL": 7.0,
+                "Wing__FLAP_BIAS": 0.5,
+                "Wing__LOAD": 15.0,
+                "Wing__NACA_Profile": 12.0,
+                "Wing__SERVO_LENGTH": 10.0,
+                "Wing__SERVO_THICKNESS": 10.0,
+                "Wing__SERVO_WIDTH": 10.0,
+                "Wing__SPAN": 609.0,
+                "Wing__TAPER_OFFSET": 0.0,
+                "Wing__THICKNESS": 12.0,
+                "Wing__TUBE_DIAMETER": 10.0,
+                "Wing__TUBE_OFFSET": 160.32,
+                "Wing__TUBE_ROTATION": 90.0
+            }
+        }
+    }
+}

@@ -1,0 +1,88 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Tube_instance_2
+    label=Tube
+  ];
+  1 [
+    instance=Battery_instance_1
+    label=Battery
+  ];
+  2 [
+    instance=Hub4_instance_1
+    label=Hub4
+  ];
+  3 [
+    instance=Fuselage_instance_1
+    label=Fuselage
+  ];
+  4 [
+    instance=Tube_instance_6
+    label=Tube
+  ];
+  5 [
+    instance=Orient
+    label=Orient
+  ];
+  6 [
+    instance=Battery_instance_2
+    label=Battery
+  ];
+  7 [
+    instance=Tube_instance_7
+    label=Tube
+  ];
+  8 [
+    instance=Tube_instance_8
+    label=Tube
+  ];
+
+  0 -> 2 [
+    label="SIDE1-BOTTOM"
+  ];
+  1 -> 3 [
+    label="BOTTOM-1"
+  ];
+  2 -> 0 [
+    label="BOTTOM-SIDE1"
+  ];
+  2 -> 3 [
+    label=TOP
+  ];
+  2 -> 4 [
+    label="BOTTOM-SIDE2"
+  ];
+  2 -> 5 [
+    label=ANY
+  ];
+  2 -> 7 [
+    label="BOTTOM-SIDE4"
+  ];
+  2 -> 8 [
+    label="BOTTOM-SIDE3"
+  ];
+  3 -> 1 [
+    label="INSIDE-1"
+  ];
+  3 -> 2 [
+    label=BOTTOM
+  ];
+  3 -> 6 [
+    label="INSIDE-2"
+  ];
+  4 -> 2 [
+    label="SIDE2-BOTTOM"
+  ];
+  5 -> 2 [
+    label=ANY
+  ];
+  6 -> 3 [
+    label="BOTTOM-2"
+  ];
+  7 -> 2 [
+    label="SIDE4-BOTTOM"
+  ];
+  8 -> 2 [
+    label="SIDE3-BOTTOM"
+  ];
+}

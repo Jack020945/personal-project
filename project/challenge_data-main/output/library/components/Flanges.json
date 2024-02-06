@@ -1,0 +1,92 @@
+{
+    "0281_para_flange": {
+        "id": "0281_para_flange",
+        "type": "Flange",
+        "parameters": [
+            {
+                "name": "BOTTOM_ANGLE",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "SIDE_ANGLE",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "OD": 7.3152,
+            "CORPUS": "UAV",
+            "BOX": 30.48
+        },
+        "connectors": [
+            "TopConnector",
+            "BottomConnector",
+            "SideConnector"
+        ]
+    },
+    "0394_para_flange": {
+        "id": "0394_para_flange",
+        "type": "Flange",
+        "parameters": [
+            {
+                "name": "BOTTOM_ANGLE",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "SIDE_ANGLE",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "BOX": 40.64,
+            "OD": 10.16,
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "TopConnector",
+            "BottomConnector",
+            "SideConnector"
+        ]
+    },
+    "05OD_para_flange": {
+        "id": "05OD_para_flange",
+        "type": "Flange",
+        "parameters": [
+            {
+                "name": "BOTTOM_ANGLE",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "SIDE_ANGLE",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "BOX": 50.8,
+            "OD": 12.7,
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "TopConnector",
+            "BottomConnector",
+            "SideConnector"
+        ]
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "capsule_fuselage": {
+        "id": "capsule_fuselage",
+        "type": "Fuselage",
+        "parameters": [
+            {
+                "name": "FLOOR_CONNECTOR_8_DISP_WIDTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_1_DISP_LENGTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_6_DISP_WIDTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_2_DISP_WIDTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "BOTTOM_CONNECTOR_ROTATION",
+                "min": "0.0",
+                "max": "0.0",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "HORZ_DIAMETER",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_5_DISP_LENGTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_7_DISP_WIDTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "BOTTOM_CONNECTOR_OFFSET_WIDTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "VERT_DIAMETER",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_5_DISP_WIDTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_1_DISP_WIDTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_4_DISP_WIDTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_3_DISP_WIDTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_4_DISP_LENGTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_8_DISP_LENGTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_3_DISP_LENGTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_7_DISP_LENGTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_HEIGHT",
+                "min": "3.0",
+                "max": "3.0",
+                "default": "5.0",
+                "learned": "5.0"
+            },
+            {
+                "name": "FUSE_CYL_LENGTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_6_DISP_LENGTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "FLOOR_CONNECTOR_2_DISP_LENGTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            },
+            {
+                "name": "BOTTOM_CONNECTOR_OFFSET_LENGTH",
+                "min": "None",
+                "max": "None",
+                "default": "0.0",
+                "learned": "0.0"
+            }
+        ],
+        "properties": {
+            "WALL_THICKNESS": 3.0,
+            "CORPUS": "UAV"
+        },
+        "connectors": [
+            "FloorConnector4",
+            "FloorConnector3",
+            "FloorConnector6",
+            "FloorConnector7",
+            "FloorConnector1",
+            "FloorConnector5",
+            "FloorConnector8",
+            "FloorConnector2",
+            "BottomConnector"
+        ]
+    }
+}

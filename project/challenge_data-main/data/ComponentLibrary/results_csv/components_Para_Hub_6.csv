@@ -1,0 +1,2 @@
+name,class,connector,CORPUS,DIAMETER,ANGVERTCONN,NUMHORZCONN,ANGHORZCONN
+0394od_para_hub_6,Para_Hub_6,"['Bottom_Connector', 'Center_Connector', 'Orient_Connector', 'Side_Connector_1', 'Side_Connector_2', 'Side_Connector_3', 'Side_Connector_4', 'Side_Connector_5', 'Side_Connector_6', 'Top_Connector']",UAV,"('10.0076', '7.1374', '12.7', '10.0076')","('0', '0', '45', '0')",6,"('60', '55', '60', '60')"

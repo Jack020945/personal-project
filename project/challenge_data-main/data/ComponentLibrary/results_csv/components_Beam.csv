@@ -1,0 +1,2 @@
+name,class,connector,SPAN,CORPUS,CHORD,THICKNESS,BOTTOM_CONN_DISP,TOP_CONN_DISP
+Beam,Beam,"['BATTERY_CONNECTOR_1', 'BATTERY_CONNECTOR_2', 'BOTTOM_CONNECTOR_OUT', 'END_CONNECTOR_1_OUT', 'END_CONNECTOR_2_OUT', 'TOP_CONNECTOR_IN']","('1000', '1', None, '1000')",UAM,"('500', '1', None, '1000')","('40', '6', None, '40')","('0', None, None, '0')","('0', None, None, '0')"

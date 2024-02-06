@@ -1,0 +1,48 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=BatteryController_instance_1
+    label=BatteryController
+  ];
+  1 [
+    instance=Motor_instance_1
+    label=Motor
+  ];
+  2 [
+    instance=Motor_instance_2
+    label=Motor
+  ];
+  3 [
+    instance=Motor_instance_3
+    label=Motor
+  ];
+  4 [
+    instance=Motor_instance_4
+    label=Motor
+  ];
+
+  0 -> 1 [
+    label=ANY
+  ];
+  0 -> 2 [
+    label=ANY
+  ];
+  0 -> 3 [
+    label=ANY
+  ];
+  0 -> 4 [
+    label=ANY
+  ];
+  1 -> 0 [
+    label=ANY
+  ];
+  2 -> 0 [
+    label=ANY
+  ];
+  3 -> 0 [
+    label=ANY
+  ];
+  4 -> 0 [
+    label=ANY
+  ];
+}

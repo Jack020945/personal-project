@@ -1,0 +1,18 @@
+/* Created by igraph 0.10.2 */
+digraph {
+  0 [
+    instance=Tube_instance_10
+    label=Tube
+  ];
+  1 [
+    instance=Wing_instance_6
+    label=Wing
+  ];
+
+  0 -> 1 [
+    label=BOTTOM
+  ];
+  1 -> 0 [
+    label=TOP
+  ];
+}
