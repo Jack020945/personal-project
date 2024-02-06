@@ -1,0 +1,30 @@
+{
+    "name": "Lab 7",
+    "endpoint": "cal/cs88/sp20/lab07",
+    "src": [
+        "lab07.py"
+    ],
+    "tests": {
+        "tests/car.py": "ok_test",
+        "lab07.py:Keyboard": "doctest",
+        "lab07.py:T88ble.num_rows": "doctest",
+        "lab07.py:T88ble.num_cols": "doctest",
+        "lab07.py:T88ble.labels": "doctest",
+        "lab07.py:T88ble.column": "doctest",
+        "lab07.py:T88ble.with_column": "doctest",
+        "lab07.py:T88ble.select": "doctest",
+        "lab07.py:T88ble.sort": "doctest",
+        "lab07.py:T88ble.where": "doctest",
+		"tests/extra_credit.py": "ok_test",
+		"tests/extra_credit_lab2.py": "ok_test"
+    },
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup",
+        "scoring"
+    ]
+}

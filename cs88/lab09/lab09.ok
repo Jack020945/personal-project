@@ -1,0 +1,31 @@
+{
+    "name": "Lab 9",
+    "endpoint": "cal/cs88/sp20/lab09",
+    "src": [
+        "lab09.py"
+    ],
+    "tests": {
+        "tests/trees.py": "ok_test",
+        "lab09.py:square_tree": "doctest",
+        "lab09.py:leaves": "doctest",
+        "lab09.py:same_shape": "doctest",
+        "lab09.py:cumulative_sum": "doctest",
+        "tests/extra_credit.py": "ok_test"
+    },
+    "default_tests": [
+        "trees",
+        "square_tree",
+        "leaves",
+        "same_shape",
+        "cumulative_sum",
+		"extra_credit"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Lab 8",
+    "endpoint": "cal/cs88/sp20/lab08",
+    "src": [
+        "lab08.py",
+        "lab08_extra.py"
+    ],
+    "tests": {
+        "tests/link.py": "ok_test",
+        "lab08.py:link_to_list": "doctest",
+        "lab08.py:deep_map": "doctest",
+        "lab08.py:add_links": "doctest",
+        "lab08.py:every_other": "doctest",
+		"tests/extra_credit.py": "ok_test",
+        "lab08_extra.py:intersection": "doctest",
+        "lab08_extra.py:has_cycle": "doctest"
+    },
+    "default_tests": [
+        "link",
+        "link_to_list",
+        "deep_map",
+        "add_links",
+        "every_other",
+		"extra_credit"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Homework 7",
+    "endpoint": "cal/cs88/sp20/hw07",
+    "src": [
+        "hw07.py"
+    ],
+    "tests": {
+        "hw07.py:Account": "doctest",
+        "hw07.py:Arr88.__len__": "doctest",
+        "hw07.py:Arr88.item": "doctest",
+        "hw07.py:Arr88.__add__": "doctest",
+        "hw07.py:Arr88.__mul__": "doctest",
+        "hw07.py:Arr88.negate": "doctest",
+        "hw07.py:Arr88.apply": "doctest",
+        "hw07.py:VendingMachine": "doctest"
+    },
+    "protocols": [
+        "restore",
+        "file_contents",
+        "analytics",
+        "grading",
+        "backup"
+    ]
+
+}
+

@@ -1,0 +1,31 @@
+{
+    "name": "Homework 8",
+    "endpoint": "cal/cs88/sp20/hw08",
+    "src": [
+        "hw08.py"
+    ],
+    "tests": {
+        "hw08.py:list_to_link": "doctest",
+        "hw08.py:deep_map_mut": "doctest",
+        "hw08.py:reverse": "doctest",
+        "hw08.py:insert": "doctest",
+        "hw08.py:mutate_reverse": "doctest",
+        "hw08.py:slice_link": "doctest",
+        "hw08.py:rotate": "doctest"        
+    },
+    "default_tests": [
+        "list_to_link",
+        "deep_map_mut",
+        "reverse",
+        "insert",
+        "mutate_reverse",
+        "slice_link"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "analytics",
+        "grading",
+        "backup"
+    ]
+}

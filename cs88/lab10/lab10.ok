@@ -1,0 +1,26 @@
+{
+    "name": "Lab 10",
+    "endpoint": "cal/cs88/sp20/lab10",
+    "src": [
+        "lab10.py"
+    ],
+    "tests": {
+        "lab10.py:Account": "doctest",
+        "lab10.py:Error": "doctest",
+        "lab10.py:SyntaxError": "doctest",
+        "lab10.py:ZeroDivisionError": "doctest",
+        "lab10.py:Beater.energy": "doctest",
+        "lab10.py:Chaser.energy": "doctest",
+        "lab10.py:Seeker.energy": "doctest",
+        "lab10.py:Keeper.energy": "doctest",
+		"tests/extra_credit.py": "ok_test"
+    },
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

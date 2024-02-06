@@ -1,0 +1,41 @@
+{
+    "name": "Lab 6",
+    "endpoint": "cal/cs88/sp20/lab06",
+    "src": [
+        "lab06.py"
+    ],
+    "tests": {
+        "lab06.py:distance": "doctest",
+        "lab06.py:closer_city": "doctest",
+        "lab06.py:check_abstraction": "doctest",
+        "lab06.py:counter": "doctest",
+        "lab06.py:replace_all": "doctest",
+        "lab06.py:make_politician": "doctest",
+        "lab06.py:get_pol_name": "doctest",
+        "lab06.py:get_party": "doctest",
+        "lab06.py:get_age": "doctest",
+        "lab06.py:get_team": "doctest",
+        "lab06.py:get_stats": "doctest",
+        "lab06.py:calculate_team_BA": "doctest",
+        "lab06.py:calculate_all_team_SP": "doctest"
+    },
+    "default_tests": [
+        "distance",
+        "closer_city",
+        "check_abstraction",
+        "counter",
+        "replace_all",
+        "make_politician",
+        "get_pol_name",
+        "get_party",
+        "get_age"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "analytics",
+        "unlock",
+        "grading",
+        "backup"
+    ]
+}

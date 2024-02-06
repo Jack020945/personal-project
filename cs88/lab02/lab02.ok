@@ -1,0 +1,38 @@
+{
+    "name": "Lab 2",
+    "endpoint": "cal/cs88/sp20/lab02",
+    "src": [
+        "lab02.py"
+    ],
+    "tests": {
+        "lab02.py:second_max": "doctest",
+        "lab02.py:squares": "doctest",
+        "lab02.py:pairs": "doctest",
+        "lab02.py:converter": "doctest",
+        "lab02.py:reduce": "doctest",
+        "lab02.py:piecewise": "doctest",
+        "lab02.py:intersects": "doctest",
+        "lab02_extra.py:twice": "doctest",
+        "lab02_extra.py:apply_n": "doctest",
+        "lab02_extra.py:church_to_int": "doctest",
+        "lab02_extra.py:add_church": "doctest",
+        "lab02_extra.py:mul_church": "doctest",
+        "lab02_extra.py:pow_church": "doctest"
+    },
+    "default_tests": [
+        "second_max",
+        "squares",
+        "pairs",
+        "converter",
+        "reduce",
+        "piecewise",
+        "intersects"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "backup"
+    ]
+}

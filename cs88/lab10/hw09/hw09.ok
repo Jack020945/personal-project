@@ -1,0 +1,27 @@
+{
+    "name": "Homework 9",
+    "endpoint": "cal/cs88/sp20/hw09",
+    "src": [
+        "hw09.py"
+    ],
+    "tests": {
+        "hw09.py:search": "doctest",
+        "hw09.py:tree_map": "doctest",
+        "hw09.py:add_d_leaves": "doctest",
+        "hw09.py:long_paths": "doctest",
+        "hw09.py:partial_tree": "doctest"
+    },
+    "default_tests": [
+        "search",
+        "tree_map",
+        "add_d_leaves",
+        "long_paths"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "analytics",
+        "grading",
+        "backup"
+    ]
+}

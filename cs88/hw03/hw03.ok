@@ -1,0 +1,23 @@
+{
+    "name": "Homework 3",
+    "endpoint": "cal/cs88/sp20/hw03",
+    "src": [
+        "hw03.py"
+    ],
+    "tests": {
+        "hw03.py:harmonic_mean": "doctest",
+        "hw03.py:two_of_three": "doctest",
+        "hw03.py:nonzero": "doctest",
+        "hw03.py:has_n": "doctest",
+        "hw03.py:fib": "doctest",
+        "hw03.py:add_matrices": "doctest",
+        "hw03.py:coords": "doctest"
+    },
+    "protocols": [
+        "restore",
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

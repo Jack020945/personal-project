@@ -1,0 +1,30 @@
+{
+	"name": "Lab 4",
+	"endpoint": "cal/cs88/sp20/lab04",
+	"src": [
+        "lab04.py",
+		"tests/lambda.py"
+    ],
+    "tests": {
+	    "tests/lambda.py": "ok_test",
+        "lab04.py:compose": "doctest",
+        "lab04.py:mul_by_num": "doctest",
+        "lab04.py:ab_plus_c": "doctest",
+		"lab04.py:is_palindrome": "doctest",
+		"lab04.py:funception": "doctest",
+		"lab04.py:move_stack": "doctest"
+    },
+    "default_tests": [
+        "compose",
+        "mul_by_num",
+        "ab_plus_c",
+		"is_palindrome"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "grading",
+        "unlock",
+        "backup"
+    ]
+}

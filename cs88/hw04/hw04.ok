@@ -1,0 +1,32 @@
+{
+    "name": "Homework 4",
+    "endpoint": "cal/cs88/sp20/hw04",
+    "src": [
+        "hw04.py"
+    ],
+    "tests": {
+        "hw04.py:map": "doctest",
+        "hw04.py:filter": "doctest",
+        "hw04.py:reduce": "doctest",
+        "hw04.py:lambda_curry2": "doctest",
+        "hw04.py:polynomial": "doctest",
+        "hw04.py:comparelambda": "doctest",
+        "hw04.py:higher_order_lambdas": "doctest",
+        "hw04.py:decimal": "doctest",
+        "hw04.py:binary": "doctest"
+    },
+    "default_tests": [
+        "map",
+        "filter",
+        "reduce",
+        "lambda_curry2",
+        "polynomial"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
